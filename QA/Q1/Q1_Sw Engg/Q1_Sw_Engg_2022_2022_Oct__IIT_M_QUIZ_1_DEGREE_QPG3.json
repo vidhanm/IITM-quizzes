@@ -1,0 +1,111 @@
+{
+  "component": "Quizpractise/PractiseQuestionPaper",
+  "props": {
+    "errors": {},
+    "auth": {
+      "user": null
+    },
+    "flash": {
+      "error": []
+    },
+    "question_paper": {
+      "id": 15,
+      "exam_id": 1,
+      "total_score": "1.00",
+      "duration": 4,
+      "created_at": "2024-10-16T08:11:29.000000Z",
+      "updated_at": "2024-10-18T09:22:06.000000Z",
+      "question_paper_name": "2022 Oct: IIT M QUIZ 1 DEGREE QPG3",
+      "question_paper_description": "2022 Oct: IIT M QUIZ 1 DEGREE QPG3",
+      "uuid": "ba03450d-8101-45ca-a1de-ee321f854422",
+      "year": 2022,
+      "exam": {
+        "id": 1,
+        "exam_name": "Quiz 1",
+        "created_at": "2024-10-16T08:08:51.000000Z",
+        "updated_at": "2024-10-16T08:08:51.000000Z",
+        "uuid": "9251bc3a-e33e-45e0-bcf0-b16a0ea5b5fa",
+        "en_id": "eyJpdiI6ImZObHBaR1p0VkhkWGVqUStEaThiRHc9PSIsInZhbHVlIjoibmEzZCtVaXZUY3ZLcTNJSXBMTFdwZz09IiwibWFjIjoiOWY0MTdhYmViNTY2YjUzNzBjYzk0NjdkYmM2ODlmM2RhOWI2MmRmYjA3OGY2NmU0NTMwZmM0NjdjMmY3MDFhZSIsInRhZyI6IiJ9"
+      },
+      "questions": [
+        {
+          "id": 3019,
+          "exam_id": 1,
+          "question_paper_id": 15,
+          "question_number": 78,
+          "question_text_1": "Note : No Quiz1 for Software Engineering",
+          "question_image_1": null,
+          "question_type": "MCQ",
+          "total_mark": "0.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-16T08:11:29.000000Z",
+          "updated_at": "2024-10-16T08:11:29.000000Z",
+          "question_num_long": 640653389040,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "db5bad140e49375d809c24c80acdefec",
+          "course_id": 26,
+          "question_text_2": null,
+          "question_image_2": null,
+          "question_image_3": null,
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": null,
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "c5406bee-f9fd-464c-90da-50c46310576a",
+          "question_image_url": null,
+          "question_texts": [
+            "Note : No Quiz1 for Software Engineering"
+          ],
+          "course": {
+            "id": 26,
+            "course_name": "Sw Engg",
+            "course_code": "Sw Engg",
+            "created_at": "2024-10-16T08:11:21.000000Z",
+            "updated_at": "2024-10-16T08:11:21.000000Z",
+            "program_id": 1,
+            "uuid": "c07edc83-5790-43d4-ba44-257e6e7eaab0"
+          },
+          "options": [
+            {
+              "id": 8246,
+              "question_id": "3019",
+              "option_text": "YES",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 1,
+              "created_at": "2024-10-16T08:11:29.000000Z",
+              "updated_at": "2024-10-16T08:11:29.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 8247,
+              "question_id": "3019",
+              "option_text": "NO",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-16T08:11:29.000000Z",
+              "updated_at": "2024-10-16T08:11:29.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        }
+      ]
+    },
+    "total_score": "0.00"
+  },
+  "url": "/question-paper/practise/26/ba03450d-8101-45ca-a1de-ee321f854422",
+  "version": "4c701bf80a81eb2f8b458185f6f466cc"
+}

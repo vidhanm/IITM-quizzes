@@ -1,0 +1,351 @@
+{
+  "component": "Quizpractise/PractiseQuestionPaper",
+  "props": {
+    "errors": {},
+    "auth": {
+      "user": null
+    },
+    "flash": {
+      "error": []
+    },
+    "question_paper": {
+      "id": 101,
+      "exam_id": 2,
+      "total_score": "1.00",
+      "duration": 4,
+      "created_at": "2024-10-18T09:00:25.000000Z",
+      "updated_at": "2024-10-18T09:22:06.000000Z",
+      "question_paper_name": "2024 Aug04: IIT M AN EXAM QDB4",
+      "question_paper_description": "2024 Aug04: IIT M AN EXAM QDB4",
+      "uuid": "876de6ce-af62-4814-b611-c7deb4241599",
+      "year": 2024,
+      "exam": {
+        "id": 2,
+        "exam_name": "Quiz 2",
+        "created_at": "2024-10-16T08:08:51.000000Z",
+        "updated_at": "2024-10-16T08:08:51.000000Z",
+        "uuid": "1948ee72-5c62-4816-97c8-7d662330a220",
+        "en_id": "eyJpdiI6IlRKQzRWRmpocXJhaWlMVGlNaTJFemc9PSIsInZhbHVlIjoiZGF4a1NUUDVQSXBtbGtYQ251R2E2UT09IiwibWFjIjoiNjVhMTUwMWJlNTBjNzQ3NmI0OGU1N2IwNGRhYTE1MmQxMDJjYTcxNmRjYzY1MWFlMzk4MzNkZDViMzg3MDYwMiIsInRhZyI6IiJ9"
+      },
+      "questions": [
+        {
+          "id": 28847,
+          "exam_id": 2,
+          "question_paper_id": 101,
+          "question_number": 112,
+          "question_text_1": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : DATA VISUALIZATION DESIGN (PEN AND PAPER EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+          "question_image_1": null,
+          "question_type": "MCQ",
+          "total_mark": "0.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-18T09:00:28.000000Z",
+          "updated_at": "2024-10-18T09:00:28.000000Z",
+          "question_num_long": 640653857487,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "9c0382357fbc83fe73f2ecae76f8fd08",
+          "course_id": 64,
+          "question_text_2": null,
+          "question_image_2": null,
+          "question_image_3": null,
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": null,
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "93970298-b96e-4423-b984-f5ea587d7577",
+          "question_image_url": null,
+          "question_texts": [
+            "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : DATA VISUALIZATION DESIGN (PEN AND PAPER EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)"
+          ],
+          "course": {
+            "id": 64,
+            "course_name": "Data Viz",
+            "course_code": "Data Viz",
+            "created_at": "2024-10-18T08:59:58.000000Z",
+            "updated_at": "2024-10-18T08:59:58.000000Z",
+            "program_id": 1,
+            "uuid": "8701ecff-b617-4bcb-9f2a-94a6c3cbff35"
+          },
+          "options": [
+            {
+              "id": 80354,
+              "question_id": "28847",
+              "option_text": "YES",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 1,
+              "created_at": "2024-10-18T09:00:28.000000Z",
+              "updated_at": "2024-10-18T09:00:28.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 80355,
+              "question_id": "28847",
+              "option_text": "NO",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-18T09:00:28.000000Z",
+              "updated_at": "2024-10-18T09:00:28.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        },
+        {
+          "id": 28848,
+          "exam_id": 2,
+          "question_paper_id": 101,
+          "question_number": 113,
+          "question_text_1": " ",
+          "question_image_1": "7Z8vD9NC14wYDWn4Ku6dNUtfENA3kAlMZ24p8id9zOikukqsRU.png",
+          "question_type": "MCQ",
+          "total_mark": "16.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-18T09:00:28.000000Z",
+          "updated_at": "2024-10-18T09:00:28.000000Z",
+          "question_num_long": 640653857488,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "24535cef86a56a3fb90b75ae8fe14a2b",
+          "course_id": 64,
+          "question_text_2": "  ",
+          "question_image_2": "hUbnzk5HKVMtc7hAwmqNhlX3M1aK4J3MiZrsWIP5RiqfcdhaAl.png",
+          "question_image_3": "s3auaMMGdCHOjXVMrvRQnokkl6ayrVxxE3n6VQPQmjz4EMD7SX.png",
+          "question_image_4": "mCKSgwdL7V8Z7orR9DeqKDsLmpxJENWfIUO9AuyCSbrdgVBdMS.png",
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": "   ",
+          "question_text_4": "   ",
+          "question_text_5": null,
+          "uuid": "a8f6fb2e-bd95-46e2-9015-5e6661c6117f",
+          "question_image_url": [
+            "app/question_images/7Z8vD9NC14wYDWn4Ku6dNUtfENA3kAlMZ24p8id9zOikukqsRU.png",
+            "app/question_images/hUbnzk5HKVMtc7hAwmqNhlX3M1aK4J3MiZrsWIP5RiqfcdhaAl.png",
+            "app/question_images/s3auaMMGdCHOjXVMrvRQnokkl6ayrVxxE3n6VQPQmjz4EMD7SX.png",
+            "app/question_images/mCKSgwdL7V8Z7orR9DeqKDsLmpxJENWfIUO9AuyCSbrdgVBdMS.png"
+          ],
+          "question_texts": [
+            " ",
+            "  ",
+            "   ",
+            "   "
+          ],
+          "course": {
+            "id": 64,
+            "course_name": "Data Viz",
+            "course_code": "Data Viz",
+            "created_at": "2024-10-18T08:59:58.000000Z",
+            "updated_at": "2024-10-18T08:59:58.000000Z",
+            "program_id": 1,
+            "uuid": "8701ecff-b617-4bcb-9f2a-94a6c3cbff35"
+          },
+          "options": [
+            {
+              "id": 80356,
+              "question_id": "28848",
+              "option_text": "I have written answers on the answer sheets",
+              "option_image": "",
+              "score": "16.000",
+              "is_correct": 1,
+              "created_at": "2024-10-18T09:00:28.000000Z",
+              "updated_at": "2024-10-18T09:00:28.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 80357,
+              "question_id": "28848",
+              "option_text": "Not applicable",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-18T09:00:28.000000Z",
+              "updated_at": "2024-10-18T09:00:28.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        },
+        {
+          "id": 28849,
+          "exam_id": 2,
+          "question_paper_id": 101,
+          "question_number": 114,
+          "question_text_1": " ",
+          "question_image_1": "WAPfIT1U8j0KlYcx7mXsGOKaq3fRoIjxKDQRsMvUI9DIvWP81E.png",
+          "question_type": "MCQ",
+          "total_mark": "18.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-18T09:00:28.000000Z",
+          "updated_at": "2024-10-18T09:00:28.000000Z",
+          "question_num_long": 640653857489,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "f0277fdc4d622347ecf19ee914f1cd7f",
+          "course_id": 64,
+          "question_text_2": " ",
+          "question_image_2": "PebSmIXfQXmgYkYRiMGu1RSqDdENTGYNVPsRStDiE0cIvBKYOk.png",
+          "question_image_3": null,
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": null,
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "51822600-1c5f-451b-a0c0-65b65454beb8",
+          "question_image_url": [
+            "app/question_images/WAPfIT1U8j0KlYcx7mXsGOKaq3fRoIjxKDQRsMvUI9DIvWP81E.png",
+            "app/question_images/PebSmIXfQXmgYkYRiMGu1RSqDdENTGYNVPsRStDiE0cIvBKYOk.png"
+          ],
+          "question_texts": [
+            " ",
+            " "
+          ],
+          "course": {
+            "id": 64,
+            "course_name": "Data Viz",
+            "course_code": "Data Viz",
+            "created_at": "2024-10-18T08:59:58.000000Z",
+            "updated_at": "2024-10-18T08:59:58.000000Z",
+            "program_id": 1,
+            "uuid": "8701ecff-b617-4bcb-9f2a-94a6c3cbff35"
+          },
+          "options": [
+            {
+              "id": 80358,
+              "question_id": "28849",
+              "option_text": "I have written answers on the answer sheets",
+              "option_image": "",
+              "score": "18.000",
+              "is_correct": 1,
+              "created_at": "2024-10-18T09:00:28.000000Z",
+              "updated_at": "2024-10-18T09:00:28.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 80359,
+              "question_id": "28849",
+              "option_text": "Not applicable",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-18T09:00:28.000000Z",
+              "updated_at": "2024-10-18T09:00:28.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        },
+        {
+          "id": 28850,
+          "exam_id": 2,
+          "question_paper_id": 101,
+          "question_number": 115,
+          "question_text_1": " ",
+          "question_image_1": "Fg7mA1k95bNeWetA3k51C1JwR3bMDQ7lLOgnaGDyiMtJeqZpgH.png",
+          "question_type": "MCQ",
+          "total_mark": "16.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-18T09:00:28.000000Z",
+          "updated_at": "2024-10-18T09:00:28.000000Z",
+          "question_num_long": 640653857490,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "c2851f8c3d20a2dc8584dff44adaf4ae",
+          "course_id": 64,
+          "question_text_2": "  ",
+          "question_image_2": "E68h8fcoVoPLoL4cdQLEycIk5UzIez4pRukKYpyN0X3B4vNXkn.png",
+          "question_image_3": "MbGWBT0twUiqJhteEhQtJJK8JCcxuUcvrB3oNY30F0OUAuapg2.png",
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": "  ",
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "82cd0b19-02f6-472d-a09e-08e3bba68e9c",
+          "question_image_url": [
+            "app/question_images/Fg7mA1k95bNeWetA3k51C1JwR3bMDQ7lLOgnaGDyiMtJeqZpgH.png",
+            "app/question_images/E68h8fcoVoPLoL4cdQLEycIk5UzIez4pRukKYpyN0X3B4vNXkn.png",
+            "app/question_images/MbGWBT0twUiqJhteEhQtJJK8JCcxuUcvrB3oNY30F0OUAuapg2.png"
+          ],
+          "question_texts": [
+            " ",
+            "  ",
+            "  "
+          ],
+          "course": {
+            "id": 64,
+            "course_name": "Data Viz",
+            "course_code": "Data Viz",
+            "created_at": "2024-10-18T08:59:58.000000Z",
+            "updated_at": "2024-10-18T08:59:58.000000Z",
+            "program_id": 1,
+            "uuid": "8701ecff-b617-4bcb-9f2a-94a6c3cbff35"
+          },
+          "options": [
+            {
+              "id": 80360,
+              "question_id": "28850",
+              "option_text": "I have written answers on the answer sheets",
+              "option_image": "",
+              "score": "16.000",
+              "is_correct": 1,
+              "created_at": "2024-10-18T09:00:28.000000Z",
+              "updated_at": "2024-10-18T09:00:28.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 80361,
+              "question_id": "28850",
+              "option_text": "Not applicable",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-18T09:00:28.000000Z",
+              "updated_at": "2024-10-18T09:00:28.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        }
+      ]
+    },
+    "total_score": "50.00"
+  },
+  "url": "/question-paper/practise/64/876de6ce-af62-4814-b611-c7deb4241599",
+  "version": "4c701bf80a81eb2f8b458185f6f466cc"
+}

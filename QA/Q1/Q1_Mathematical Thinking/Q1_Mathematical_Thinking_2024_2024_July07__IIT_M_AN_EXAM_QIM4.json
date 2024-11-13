@@ -1,0 +1,259 @@
+{
+  "component": "Quizpractise/PractiseQuestionPaper",
+  "props": {
+    "errors": {},
+    "auth": {
+      "user": null
+    },
+    "flash": {
+      "error": []
+    },
+    "question_paper": {
+      "id": 117,
+      "exam_id": 1,
+      "total_score": "1.00",
+      "duration": 4,
+      "created_at": "2024-10-18T09:06:46.000000Z",
+      "updated_at": "2024-10-18T09:22:06.000000Z",
+      "question_paper_name": "2024 July07: IIT M AN EXAM QIM4",
+      "question_paper_description": "2024 July07: IIT M AN EXAM QIM4",
+      "uuid": "4c7e4893-b6e8-4975-bde7-52701b8eaf50",
+      "year": 2024,
+      "exam": {
+        "id": 1,
+        "exam_name": "Quiz 1",
+        "created_at": "2024-10-16T08:08:51.000000Z",
+        "updated_at": "2024-10-16T08:08:51.000000Z",
+        "uuid": "9251bc3a-e33e-45e0-bcf0-b16a0ea5b5fa",
+        "en_id": "eyJpdiI6ImdHRVhjYlkvOWRHdVFUR1ozeHRVNWc9PSIsInZhbHVlIjoiK2tlNWpBYWNOd01nZXppOVFXSUFRUT09IiwibWFjIjoiNWY1MDc3YzkxZjI2NDM3YWU3ZWJlMzc3OTA5MTI3ZjhkMzYyMGEyY2ZiZjE4YTI5NzljYWFmMWFiMGQ1N2RhOSIsInRhZyI6IiJ9"
+      },
+      "questions": [
+        {
+          "id": 33910,
+          "exam_id": 1,
+          "question_paper_id": 117,
+          "question_number": 97,
+          "question_text_1": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : MATHEMATICAL THINKING (PEN AND PAPER EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+          "question_image_1": null,
+          "question_type": "MCQ",
+          "total_mark": "0.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-18T09:06:50.000000Z",
+          "updated_at": "2024-10-18T09:06:50.000000Z",
+          "question_num_long": 640653829358,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "69584d41351e7206347c033f10f91141",
+          "course_id": 51,
+          "question_text_2": null,
+          "question_image_2": null,
+          "question_image_3": null,
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": null,
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "cb43349d-e119-418c-9dac-1bd4abeeb611",
+          "question_image_url": null,
+          "question_texts": [
+            "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : MATHEMATICAL THINKING (PEN AND PAPER EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)"
+          ],
+          "course": {
+            "id": 51,
+            "course_name": "Mathematical Thinking",
+            "course_code": "Mathematical Thinking",
+            "created_at": "2024-10-16T08:15:41.000000Z",
+            "updated_at": "2024-10-16T08:15:41.000000Z",
+            "program_id": 1,
+            "uuid": "4459db7b-c07a-41a2-adc8-9c8331893853"
+          },
+          "options": [
+            {
+              "id": 92849,
+              "question_id": "33910",
+              "option_text": "YES",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 1,
+              "created_at": "2024-10-18T09:06:50.000000Z",
+              "updated_at": "2024-10-18T09:06:50.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 92850,
+              "question_id": "33910",
+              "option_text": "NO",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-18T09:06:50.000000Z",
+              "updated_at": "2024-10-18T09:06:50.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        },
+        {
+          "id": 33911,
+          "exam_id": 1,
+          "question_paper_id": 117,
+          "question_number": 98,
+          "question_text_1": null,
+          "question_image_1": "jsFVIfeFSIzykm1sIcQwdZa4SxoqPgpSbg7EoblCCeqqGWPaWz.png",
+          "question_type": "MCQ",
+          "total_mark": "15.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-18T09:06:50.000000Z",
+          "updated_at": "2024-10-18T09:06:50.000000Z",
+          "question_num_long": 640653829359,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "87d3c128635980bb8118f79f7d46962c",
+          "course_id": 51,
+          "question_text_2": null,
+          "question_image_2": null,
+          "question_image_3": null,
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": null,
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "9d2fb1c1-b330-4c3b-8bc8-f2df0dda9fe5",
+          "question_image_url": [
+            "app/question_images/jsFVIfeFSIzykm1sIcQwdZa4SxoqPgpSbg7EoblCCeqqGWPaWz.png"
+          ],
+          "question_texts": null,
+          "course": {
+            "id": 51,
+            "course_name": "Mathematical Thinking",
+            "course_code": "Mathematical Thinking",
+            "created_at": "2024-10-16T08:15:41.000000Z",
+            "updated_at": "2024-10-16T08:15:41.000000Z",
+            "program_id": 1,
+            "uuid": "4459db7b-c07a-41a2-adc8-9c8331893853"
+          },
+          "options": [
+            {
+              "id": 92851,
+              "question_id": "33911",
+              "option_text": "I have written answers on the answer sheets",
+              "option_image": "",
+              "score": "15.000",
+              "is_correct": 1,
+              "created_at": "2024-10-18T09:06:50.000000Z",
+              "updated_at": "2024-10-18T09:06:50.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 92852,
+              "question_id": "33911",
+              "option_text": "Not applicable",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-18T09:06:50.000000Z",
+              "updated_at": "2024-10-18T09:06:50.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        },
+        {
+          "id": 33912,
+          "exam_id": 1,
+          "question_paper_id": 117,
+          "question_number": 99,
+          "question_text_1": null,
+          "question_image_1": "7xgS7zie1PV6vZuFpXlA41FTKMOQJDPQsL0z9I9v61WohYc69u.png",
+          "question_type": "MCQ",
+          "total_mark": "25.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-18T09:06:50.000000Z",
+          "updated_at": "2024-10-18T09:06:50.000000Z",
+          "question_num_long": 640653829360,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "a51fe84c33fab61a197a664881b1dfeb",
+          "course_id": 51,
+          "question_text_2": null,
+          "question_image_2": null,
+          "question_image_3": null,
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": null,
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "85577893-d38f-4b6c-92f8-b3da1b26d9f7",
+          "question_image_url": [
+            "app/question_images/7xgS7zie1PV6vZuFpXlA41FTKMOQJDPQsL0z9I9v61WohYc69u.png"
+          ],
+          "question_texts": null,
+          "course": {
+            "id": 51,
+            "course_name": "Mathematical Thinking",
+            "course_code": "Mathematical Thinking",
+            "created_at": "2024-10-16T08:15:41.000000Z",
+            "updated_at": "2024-10-16T08:15:41.000000Z",
+            "program_id": 1,
+            "uuid": "4459db7b-c07a-41a2-adc8-9c8331893853"
+          },
+          "options": [
+            {
+              "id": 92853,
+              "question_id": "33912",
+              "option_text": "I have written answers on the answer sheets",
+              "option_image": "",
+              "score": "25.000",
+              "is_correct": 1,
+              "created_at": "2024-10-18T09:06:50.000000Z",
+              "updated_at": "2024-10-18T09:06:50.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 92854,
+              "question_id": "33912",
+              "option_text": "Not applicable",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-18T09:06:50.000000Z",
+              "updated_at": "2024-10-18T09:06:50.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        }
+      ]
+    },
+    "total_score": "40.00"
+  },
+  "url": "/question-paper/practise/51/4c7e4893-b6e8-4975-bde7-52701b8eaf50",
+  "version": "4c701bf80a81eb2f8b458185f6f466cc"
+}

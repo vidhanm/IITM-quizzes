@@ -1,0 +1,259 @@
+{
+  "component": "Quizpractise/PractiseQuestionPaper",
+  "props": {
+    "errors": {},
+    "auth": {
+      "user": null
+    },
+    "flash": {
+      "error": []
+    },
+    "question_paper": {
+      "id": 98,
+      "exam_id": 3,
+      "total_score": "1.00",
+      "duration": 4,
+      "created_at": "2024-10-16T08:22:29.000000Z",
+      "updated_at": "2024-10-16T08:22:29.000000Z",
+      "question_paper_name": "IIT M IMPROVEMENT FN EXAM FDI2 24 Dec 2023",
+      "question_paper_description": "2023 Dec24: IIT M FN EXAM FDI2",
+      "uuid": "9e66288b-4a7d-469a-b4ad-24c093f1e695",
+      "year": 2023,
+      "exam": {
+        "id": 3,
+        "exam_name": "End Term Quiz",
+        "created_at": "2024-10-16T08:08:51.000000Z",
+        "updated_at": "2024-10-16T08:08:51.000000Z",
+        "uuid": "7a6ff569-f50c-40e7-a08b-f5c334392600",
+        "en_id": "eyJpdiI6IktvdEh5bWtZMW92TnR5SnZQM1VHWnc9PSIsInZhbHVlIjoibzMzN1djR0p6NWgxTTR1OG83c1c3QT09IiwibWFjIjoiMDZlNWFiZWYzZDE4N2UzZDNkNTk1MGMwNDdkZWVhNTcyMDY2YWJmNTg1Mjk3ZTYyMjQ2NzcwMDNmNjcyZWI0MiIsInRhZyI6IiJ9"
+      },
+      "questions": [
+        {
+          "id": 27756,
+          "exam_id": 3,
+          "question_paper_id": 98,
+          "question_number": 46,
+          "question_text_1": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : SPEECH TECHNOLOGY( PEN AND PAPER EXAM )\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+          "question_image_1": null,
+          "question_type": "MCQ",
+          "total_mark": "0.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-16T08:22:29.000000Z",
+          "updated_at": "2024-10-16T08:22:29.000000Z",
+          "question_num_long": 640653701049,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "8c52c8511a402625763ff551d17e95a3",
+          "course_id": 22,
+          "question_text_2": null,
+          "question_image_2": null,
+          "question_image_3": null,
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": null,
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "524451b9-d3cc-4836-8a05-c763c4f427e6",
+          "question_image_url": null,
+          "question_texts": [
+            "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : SPEECH TECHNOLOGY( PEN AND PAPER EXAM )\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)"
+          ],
+          "course": {
+            "id": 22,
+            "course_name": "Speech Tech",
+            "course_code": "Speech Tech",
+            "created_at": "2024-10-16T08:11:21.000000Z",
+            "updated_at": "2024-10-16T08:11:21.000000Z",
+            "program_id": 1,
+            "uuid": "da429646-afda-4b42-a776-3f49d43322a7"
+          },
+          "options": [
+            {
+              "id": 77737,
+              "question_id": "27756",
+              "option_text": "YES",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 1,
+              "created_at": "2024-10-16T08:22:29.000000Z",
+              "updated_at": "2024-10-16T08:22:29.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 77738,
+              "question_id": "27756",
+              "option_text": "NO",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-16T08:22:29.000000Z",
+              "updated_at": "2024-10-16T08:22:29.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        },
+        {
+          "id": 27757,
+          "exam_id": 3,
+          "question_paper_id": 98,
+          "question_number": 47,
+          "question_text_1": null,
+          "question_image_1": "3vb6KEsjTAS07K7vrFmtTyvrMpsLZpcWCXtFTO4Ad1NvKRm2qw.png",
+          "question_type": "MCQ",
+          "total_mark": "8.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-16T08:22:29.000000Z",
+          "updated_at": "2024-10-16T08:22:29.000000Z",
+          "question_num_long": 640653701050,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "02e7b9c3297343d4a5d6dab233d4866a",
+          "course_id": 22,
+          "question_text_2": null,
+          "question_image_2": null,
+          "question_image_3": null,
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": null,
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "63864145-35f7-4012-9eab-907d5408e9bc",
+          "question_image_url": [
+            "app/question_images/3vb6KEsjTAS07K7vrFmtTyvrMpsLZpcWCXtFTO4Ad1NvKRm2qw.png"
+          ],
+          "question_texts": null,
+          "course": {
+            "id": 22,
+            "course_name": "Speech Tech",
+            "course_code": "Speech Tech",
+            "created_at": "2024-10-16T08:11:21.000000Z",
+            "updated_at": "2024-10-16T08:11:21.000000Z",
+            "program_id": 1,
+            "uuid": "da429646-afda-4b42-a776-3f49d43322a7"
+          },
+          "options": [
+            {
+              "id": 77739,
+              "question_id": "27757",
+              "option_text": "I have written answers on the answer sheets",
+              "option_image": "",
+              "score": "8.000",
+              "is_correct": 1,
+              "created_at": "2024-10-16T08:22:29.000000Z",
+              "updated_at": "2024-10-16T08:22:29.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 77740,
+              "question_id": "27757",
+              "option_text": "Not applicable",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-16T08:22:29.000000Z",
+              "updated_at": "2024-10-16T08:22:29.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        },
+        {
+          "id": 27758,
+          "exam_id": 3,
+          "question_paper_id": 98,
+          "question_number": 48,
+          "question_text_1": null,
+          "question_image_1": "KGNWCOHvVOnjQFHiwMYqrzcI5NKz639AWlmjt9XxkmbVvNY6H9.png",
+          "question_type": "MCQ",
+          "total_mark": "32.00",
+          "value_start": null,
+          "value_end": null,
+          "created_at": "2024-10-16T08:22:29.000000Z",
+          "updated_at": "2024-10-16T08:22:29.000000Z",
+          "question_num_long": 640653701051,
+          "answer_type": null,
+          "response_type": null,
+          "have_answers": 1,
+          "hash": "aa8de20b98c48752e204d7435ed9d10d",
+          "course_id": 22,
+          "question_text_2": null,
+          "question_image_2": null,
+          "question_image_3": null,
+          "question_image_4": null,
+          "question_image_5": null,
+          "question_image_7": null,
+          "question_image_8": null,
+          "question_image_9": null,
+          "question_image_10": null,
+          "parent_question_id": null,
+          "question_text_3": null,
+          "question_text_4": null,
+          "question_text_5": null,
+          "uuid": "9c24d5c7-7b03-477d-ba69-015dfbb5ec31",
+          "question_image_url": [
+            "app/question_images/KGNWCOHvVOnjQFHiwMYqrzcI5NKz639AWlmjt9XxkmbVvNY6H9.png"
+          ],
+          "question_texts": null,
+          "course": {
+            "id": 22,
+            "course_name": "Speech Tech",
+            "course_code": "Speech Tech",
+            "created_at": "2024-10-16T08:11:21.000000Z",
+            "updated_at": "2024-10-16T08:11:21.000000Z",
+            "program_id": 1,
+            "uuid": "da429646-afda-4b42-a776-3f49d43322a7"
+          },
+          "options": [
+            {
+              "id": 77741,
+              "question_id": "27758",
+              "option_text": "I have written answers on the answer sheets",
+              "option_image": "",
+              "score": "32.000",
+              "is_correct": 1,
+              "created_at": "2024-10-16T08:22:29.000000Z",
+              "updated_at": "2024-10-16T08:22:29.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            },
+            {
+              "id": 77742,
+              "question_id": "27758",
+              "option_text": "Not applicable",
+              "option_image": "",
+              "score": "0.000",
+              "is_correct": 0,
+              "created_at": "2024-10-16T08:22:29.000000Z",
+              "updated_at": "2024-10-16T08:22:29.000000Z",
+              "option_number": null,
+              "option_image_url": null
+            }
+          ],
+          "parent_question": null
+        }
+      ]
+    },
+    "total_score": "40.00"
+  },
+  "url": "/question-paper/practise/22/9e66288b-4a7d-469a-b4ad-24c093f1e695",
+  "version": "4c701bf80a81eb2f8b458185f6f466cc"
+}
