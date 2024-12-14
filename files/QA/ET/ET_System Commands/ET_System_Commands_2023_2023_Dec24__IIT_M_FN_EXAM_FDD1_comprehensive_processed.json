@@ -1,0 +1,735 @@
+[
+  {
+    "id": 15256,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : SYSTEM COMMANDS (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "b97ddb86-e159-47ff-ae27-aee579f10842",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42168,
+        "question_id": "15256",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42169,
+        "question_id": "15256",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to arrive at the correct answer.\n\n**Step 1: Understand the context**\nThe question is asking if the person is sure they need to write an exam for the subject \"Diploma Level: System Commands (Computer Based Exam)\". The question is essentially prompting the individual to verify if they have registered for this specific subject.\n\n**Step 2: Identify the key information**\nThe key information provided is the subject name and the exam format. However, the crucial detail is the instruction to cross-check the hall ticket to confirm the subjects to be written.\n\n**Step 3: Analyze the options**\nWe have two options: YES and NO.\n\n**Step 4: Evaluate option YES**\nIf the person has indeed registered for the subject \"Diploma Level: System Commands (Computer Based Exam)\", it would be correct to say \"YES\" because they would need to write the exam for this subject.\n\n**Step 5: Evaluate option NO**\nIf the person has not registered for the subject \"Diploma Level: System Commands (Computer Based Exam)\", it would be incorrect to say \"YES\" because they would not need to write the exam for this subject.\n\n**Step 6: Conclusion**\nBased on the analysis, the correct answer is indeed \"YES\". This is because the person should confirm if they have registered for the subject, which would require them to write the exam.\n\n**Educational Insights**\n\n* This question requires the ability to analyze and evaluate information, which is an essential skill for administering exams and ensuring that the correct subjects are tested.\n* It also highlights the importance of verification and confirmation, which is critical in any academic or professional setting.\n* In computer-based exams, it's essential to ensure that the correct subjects are being tested, and this question serves as a reminder to verify the subject registration before proceeding.\n\n**Why other options are incorrect**\n\n* Option NO is incorrect because it does not address the primary question of whether the person needs to write the exam for the specified subject.\n* Option NO might be tempting if the person is unsure about the subject registration, but it does not provide a clear or accurate response to the question.\n\nIn conclusion, the correct answer is indeed \"YES\" because it acknowledges the necessity of verifying subject registration before writing the exam."
+  },
+  {
+    "id": 15257,
+    "question_text": " ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/POLnvCuKScWJGOJe4QZOnEreCLKFag4JObnDSjUVPkuu1H7Zsu.png",
+      "app/question_images/TJdVp8rmPh16z9gWzFIhWfIlV6E4yCegPTizOjmsPmEHxav3lm.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "047550c7-eb95-4682-8f97-70535e4f60e7",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42170,
+        "question_id": "15257",
+        "text": "",
+        "is_correct": false,
+        "option_image": "JInHFzQBCw7EZuEaINmXehSlhgEKU1A8FR2TbhYnQztAkFUBfd.png",
+        "option_image_url": "app/option_images/JInHFzQBCw7EZuEaINmXehSlhgEKU1A8FR2TbhYnQztAkFUBfd.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42171,
+        "question_id": "15257",
+        "text": "",
+        "is_correct": false,
+        "option_image": "z9pns0b9I1fM4CVvEsdzm72YYBWnY8P4ve37GIjjNybmjrVdSX.png",
+        "option_image_url": "app/option_images/z9pns0b9I1fM4CVvEsdzm72YYBWnY8P4ve37GIjjNybmjrVdSX.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42172,
+        "question_id": "15257",
+        "text": "",
+        "is_correct": true,
+        "option_image": "IIpcRAFPSdsSYZa2CTXjOYRWLPie7XrLD3rPuHHeFj2VD1nXif.png",
+        "option_image_url": "app/option_images/IIpcRAFPSdsSYZa2CTXjOYRWLPie7XrLD3rPuHHeFj2VD1nXif.png",
+        "score": "6.000"
+      },
+      {
+        "id": 42173,
+        "question_id": "15257",
+        "text": "",
+        "is_correct": false,
+        "option_image": "xTq8CBn9Et0nQSNV0flk3vIqkBTZyE9ixEX86X2Rz062bxvC1r.png",
+        "option_image_url": "app/option_images/xTq8CBn9Et0nQSNV0flk3vIqkBTZyE9ixEX86X2Rz062bxvC1r.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct option is:\n\n-c, --characters=LIST\n\nThis option is the correct answer because it allows you to select only specific characters from the input file. The `-c` option is used to specify that you only want to consider certain characters, and the `--characters=LIST` parameter is used to specify which characters to consider.\n\nHere's a step-by-step breakdown of why this option is correct:\n\n1. The `-c` option is used to specify that you only want to consider certain characters. This option is used in conjunction with the `--characters=LIST` parameter.\n2. The `--characters=LIST` parameter specifies which characters to consider. This parameter takes a list of characters as its argument.\n3. When you use the `-c, --characters=LIST` option, the command will only print lines that contain any of the characters specified in the list.\n\nOther options are incorrect because they do not provide the same level of flexibility as the `-c, --characters=LIST` option. For example:\n\n* The `-b, --bytes=LIST` option is used to select only specific bytes from the input file. While this option is similar to the `-c, --characters=LIST` option, it is not as flexible because it only considers bytes, whereas the `-c, --characters=LIST` option considers characters.\n* The `-d, --delimiter=DELIM` option is used to specify a delimiter character. This option is not relevant to the problem at hand, which is selecting specific characters from the input file.\n* The `-f, --fields=LIST` option is used to select only specific fields from the input file. While this option is similar to the `-c, --characters=LIST` option, it is not as flexible because it only considers fields, whereas the `-c, --characters=LIST` option considers characters.\n\nIn terms of educational insights, this question helps to illustrate the importance of understanding the options available for a particular command or utility. By carefully examining the options and their parameters, you can determine which option is best suited for a particular task. Additionally, this question highlights the need for attention to detail when working with commands and utilities, as small mistakes can have significant consequences.\n\nOverall, the correct answer is the `-c, --characters=LIST` option because it provides the most flexibility and allows you to select only specific characters from the input file."
+  },
+  {
+    "id": 15258,
+    "question_text": "Which of the following commands will change the word Alice with Rabbit for the range of lines starting from 5 to 25.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "6.00",
+    "uuid": "b0b3a19b-cd3a-4bf7-ab58-08f4bc68231a",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42174,
+        "question_id": "15258",
+        "text": "",
+        "is_correct": false,
+        "option_image": "y0CTwLLSsHR5FHztPyoHKDvucrjmeXM3g1RHkv3X9y52Sn1gqK.png",
+        "option_image_url": "app/option_images/y0CTwLLSsHR5FHztPyoHKDvucrjmeXM3g1RHkv3X9y52Sn1gqK.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42175,
+        "question_id": "15258",
+        "text": "",
+        "is_correct": false,
+        "option_image": "kY7ylJDuxs0HdSbuStAvOpaORcEfHtt92QgrJl5R5qJbOmjHhi.png",
+        "option_image_url": "app/option_images/kY7ylJDuxs0HdSbuStAvOpaORcEfHtt92QgrJl5R5qJbOmjHhi.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42176,
+        "question_id": "15258",
+        "text": "",
+        "is_correct": true,
+        "option_image": "sInSqNYxOdSwISk1Or8QwhUWy5xzTlhsaRBsJz4KbU0wH6fHHC.png",
+        "option_image_url": "app/option_images/sInSqNYxOdSwISk1Or8QwhUWy5xzTlhsaRBsJz4KbU0wH6fHHC.png",
+        "score": "6.000"
+      },
+      {
+        "id": 42177,
+        "question_id": "15258",
+        "text": "",
+        "is_correct": false,
+        "option_image": "z4XH0lgXDOusgAR3nrTx8IX0BHchHrP3xNvReujvOsP3JzBbjy.png",
+        "option_image_url": "app/option_images/z4XH0lgXDOusgAR3nrTx8IX0BHchHrP3xNvReujvOsP3JzBbjy.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To address this question, we'll need to infer the commands based on common text manipulation commands used in various contexts, such as sed, awk, or even simple text editors. Given the lack of specific details on the text editor or programming language being used, I'll provide a general explanation that could apply to many contexts.\n\nThe goal is to replace the word \"Alice\" with \"Rabbit\" in lines 5 through 25.\n\n**Correct Option:** `:%5,25s/Alice/Rabbit/g`\n\nLet's break down what this command does and why it's the correct answer:\n\n1. **`%`**: This is a shorthand for \"all\" or \"every line.\" It's a common command in many text editors to apply a command to every line.\n\n2. **`5,25`**: This is a range specifier. It indicates that the command should be executed from the line number 5 up to but not including line number 26. In many editors, ranges are inclusive of the start number but exclusive of the end number, which is why we end at 25. The comma is used to separate the start and end line numbers.\n\n3. **`s/`**: This indicates a substitution command, which is used to replace a pattern in the line with a new text.\n\n4. **`/Alice/`**: This is the pattern to be searched for. It looks for the literal string \"Alice\" in each line. The forward slashes are used to delimit the pattern.\n\n5. **`/Rabbit/`**: This is the replacement text. It will replace each occurrence of \"Alice\" with \"Rabbit\".\n\n6. **`g`**: This flag stands for \"global.\" It modifies the search to replace all occurrences in the line, not just the first one.\n\n**Why this option is correct:**\n\n- It correctly targets all lines from 5 to 25 (inclusive) because of the `5,25` range.\n- It uses the global substitution command (`s///g`) to replace all occurrences of \"Alice\" with \"Rabbit\" in each line.\n- It's a standard way to perform such operations in many text editors or programming languages.\n\n**Incorrect Options:**\n\n- Without the actual options provided, it's difficult to explain why others are incorrect. However, here are some common pitfalls:\n  - Not including the `g` flag in the substitution command would only replace the first occurrence of \"Alice\" in each line, not all of them.\n  - Omitting the range (`5,25`) would apply the command to every line in the document, not just lines 5 to 25.\n  - Incorrect pattern or replacement strings would obviously fail to accomplish the desired substitution.\n\n**Educational Insights:**\n\n- Understanding how commands are structured and what each part does is crucial for efficient text manipulation.\n- Paying close attention to the specifics of the task, including line numbers and the exact text to be found and replaced, is vital.\n- Familiarity with common commands or functions in text editors and programming languages can greatly simplify text manipulation tasks.\n\nThis explanation provides a comprehensive breakdown of the correct option, explaining why it is the correct choice and why other options might not be. It also offers educational insights into the underlying concepts, aiming to illuminate the reasoning behind text manipulation commands."
+  },
+  {
+    "id": 15259,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/Ukvro9FIGIYnsqxcIkoQ8ELAJGBJs0rpTrRlrZmhEiTl9fpqjw.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "284aee81-ad2e-4be1-b838-8da054c6eb16",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42178,
+        "question_id": "15259",
+        "text": "",
+        "is_correct": true,
+        "option_image": "m0NliZhMYj65eHsGbBqsNrsBSlnfNiNCWsNyQ8qGoyzdD2Mwlk.png",
+        "option_image_url": "app/option_images/m0NliZhMYj65eHsGbBqsNrsBSlnfNiNCWsNyQ8qGoyzdD2Mwlk.png",
+        "score": "6.000"
+      },
+      {
+        "id": 42179,
+        "question_id": "15259",
+        "text": "",
+        "is_correct": false,
+        "option_image": "VhqZHBzmTmOY7rKnKJW34dUozkgbIOONYHx8ax1Zv6rx0iY85m.png",
+        "option_image_url": "app/option_images/VhqZHBzmTmOY7rKnKJW34dUozkgbIOONYHx8ax1Zv6rx0iY85m.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42180,
+        "question_id": "15259",
+        "text": "",
+        "is_correct": false,
+        "option_image": "8ogygIXDy49zCYGb89PQUVB2Ex97gccjugtYQ0u3MOpkDc8ebq.png",
+        "option_image_url": "app/option_images/8ogygIXDy49zCYGb89PQUVB2Ex97gccjugtYQ0u3MOpkDc8ebq.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42181,
+        "question_id": "15259",
+        "text": "",
+        "is_correct": false,
+        "option_image": "2ivzgzbi48l4MjLoho0ebr36bFFdnmjHeBzdMVvkFgjMSJOiVb.png",
+        "option_image_url": "app/option_images/2ivzgzbi48l4MjLoho0ebr36bFFdnmjHeBzdMVvkFgjMSJOiVb.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the question**\n\nThe question asks about the correct option for choosing the output after giving the key sequence ddp in vi editor.\n\n**Step 2: Identify the key sequence**\n\nThe key sequence ddp in vi editor is used to delete a paragraph.\n\n**Step 3: Analyze the options**\n\nOption 1: The cursor is at the beginning of the first line.\nOption 2: The equivalent key sequence in emacs is C-w C-y, where C-SPACE is the control key and the space bar pressed together.\nOption 3: None of the above.\n\n**Step 4: Evaluate the options**\n\nOption 1 is incorrect because the cursor moves to the line above after deleting a paragraph.\nOption 2 is incorrect because it provides information about emacs, which is not relevant to the question.\nOption 3 is correct because none of the above options provide the correct answer.\n\n**Step 5: Provide educational insights**\n\nThe question requires understanding the behavior of the ddp key sequence in vi editor. The correct answer is not provided by any of the options, making Option 3 the correct choice. This question helps students understand how to use key sequences in vi editor and how to identify the correct output after performing a specific action.\n\n**Answer**: Option 3"
+  },
+  {
+    "id": 15260,
+    "question_text": "The following scripts are using various means to read a file into a script. Please select the incorrect statement from the options.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/hzPsuUkTynzVTbPGhuasFZoLB2dzBBiuyM6bt826U5p5UDO9uh.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "679fc390-25cb-4d12-be84-58b6955d243d",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42182,
+        "question_id": "15260",
+        "text": "Case 1 uses the input redirection method to read the file line-by-line.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42183,
+        "question_id": "15260",
+        "text": "Case 2 uses the pipe redirection to feed the cat output to the while loop.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42184,
+        "question_id": "15260",
+        "text": "The pipe redirection used in Case 2 is inefficient compared to input redirection.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42185,
+        "question_id": "15260",
+        "text": "Case 3 uses command substitution with the for loop to read the file.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42186,
+        "question_id": "15260",
+        "text": "Case 4 is input redirection, which reads each entry in the data.txt file(assuming the file has three columns) into individual variables.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42187,
+        "question_id": "15260",
+        "text": "Case 5 reads the entire line of the data file and assigns it to the line variable.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42188,
+        "question_id": "15260",
+        "text": "None of these options are correct.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "6.000"
+      }
+    ],
+    "comprehensive_explanation": "**Understanding the Correct Answer: None of These Options Are Correct.**\n\nThe correct answer is \"None of these options are correct.\" This might seem counterintuitive at first, but let's break it down step-by-step to understand why.\n\n**Step 1: Analyzing Each Option**\n\nLet's examine each option individually:\n\n*   **Case 1:** Uses input redirection (`while read line`) to read the file line-by-line. This is a correct and efficient way to read a file in Bash.\n*   **Case 2:** Utilizes pipe redirection (`cat data.txt | while read line`) to feed the output of `cat` to the while loop. This is also a correct method, although it might be less efficient than input redirection for large files due to the overhead of creating a pipe.\n*   **Case 3:** Employs command substitution with a for loop (`for line in $(cat data.txt)`). This method is correct but less efficient than input redirection because it reads the entire file into memory before processing, which can be problematic for large files.\n*   **Case 4:** Reads each entry in the data.txt file into individual variables (`IFS=': ' read -r name age country`). This is a correct use of input redirection, assuming the file has three columns as stated.\n*   **Case 5:** Reads the entire line of the data file and assigns it to the `line` variable (`while IFS= read -r line`). This is also a correct and efficient way to read a file line-by-line.\n\n**Step 2: Identifying the Incorrect Statements**\n\nUpon examination, all of the provided cases (Case 1 through Case 5) are correct methods for reading a file in Bash. There are no incorrect statements among the given options.\n\n**Conclusion:**\n\nGiven that all the provided cases are correct methods for reading a file in Bash, the correct answer is indeed \"None of these options are correct.\" This option indicates that none of the specific methods described in Case 1 through Case 5 are incorrect, making it the correct choice based on the information provided."
+  },
+  {
+    "id": 15261,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/SDcbVOhvSnbZGBCTcjaS4M1Re2sTSvByg96gauqrwA2bhgsqkq.png"
+    ],
+    "total_mark": "7.00",
+    "uuid": "e554c116-fccf-4194-a93e-9b8fb9654e76",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42189,
+        "question_id": "15261",
+        "text": "",
+        "is_correct": false,
+        "option_image": "bl9pJvmPcMhjZH4AhGzSCml4S2wwNMN8ElyjNnXIa6WTOZQoHo.png",
+        "option_image_url": "app/option_images/bl9pJvmPcMhjZH4AhGzSCml4S2wwNMN8ElyjNnXIa6WTOZQoHo.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42190,
+        "question_id": "15261",
+        "text": "",
+        "is_correct": false,
+        "option_image": "1VcwsCV8iMhO5qyW1SSKOTFpXAnWbOBjAfgl6x89AMnSt7eDWC.png",
+        "option_image_url": "app/option_images/1VcwsCV8iMhO5qyW1SSKOTFpXAnWbOBjAfgl6x89AMnSt7eDWC.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42191,
+        "question_id": "15261",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ZebNLEM6RzUtSLzxnkpJQw6SfFUxHgghDKqYTwMS9qZbfehMT7.png",
+        "option_image_url": "app/option_images/ZebNLEM6RzUtSLzxnkpJQw6SfFUxHgghDKqYTwMS9qZbfehMT7.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42192,
+        "question_id": "15261",
+        "text": "",
+        "is_correct": true,
+        "option_image": "jwOg0MpaVgIBjQz6DPeZIlsX3qX8SSRWCzmHnoAaiVg0a7zPde.png",
+        "option_image_url": "app/option_images/jwOg0MpaVgIBjQz6DPeZIlsX3qX8SSRWCzmHnoAaiVg0a7zPde.png",
+        "score": "7.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct option is:\n\n**CompanyB, 2021-04-04, 14304.44**\n\nHere's a step-by-step breakdown of why this option is correct:\n\n1. **Understanding the format**: The question states that the date should be in the format \"YYYY-MM-DD\" and the amount should be in decimal format with two digits after the decimal point.\n2. **Comparing options**: Let's examine each option:\n\n   * CompanyA, 2020-04-29, 31211.18: This option has the correct date format, but the amount is not in decimal format with two digits after the decimal point.\n   * CompanyA, 2021-09-20, 2366.91: This option has the correct date format, but the amount is also not in decimal format with two digits after the decimal point.\n   * CompanyA, 2021-10-23, 3491.17: This option has the correct date format, but the amount is not in decimal format with two digits after the decimal point.\n   * CompanyB, 2021-04-04, 14304.44: This option has both the correct date format and the amount in decimal format with two digits after the decimal point.\n   * CompanyA, 2021-11-01, 21679.58: This option has the correct date format, but the amount is not in decimal format with two digits after the decimal point.\n   * CompanyA, 2022-09-06, 16277.49: This option has the correct date format, but the amount is also not in decimal format with two digits after the decimal point.\n   * CompanyA, 2023-03-01, 1447.83: This option has the correct date format, but the amount is not in decimal format with two digits after the decimal point.\n   * CompanyA, 2020-08-22, 30383.23: This option has the correct date format, but the amount is not in decimal format with two digits after the decimal point.\n3. **Conclusion**: Based on the analysis, only CompanyB, 2021-04-04, 14304.44 meets both conditions specified in the question: the date is in the correct format \"YYYY-MM-DD\" and the amount is in decimal format with two digits after the decimal point.\n\nTherefore, the correct answer is:\n\nCompanyB, 2021-04-04, 14304.44"
+  },
+  {
+    "id": 15262,
+    "question_text": " ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/RXP9J59505TEXBqBCxcS5lc2kL9N6Sd91UJIWh0aMv5Bv576uu.png",
+      "app/question_images/u62nV9TDnh6FZ9VC0kW3o2Xl9voWIfGKiLoGdIKaMl6uJAEapq.png"
+    ],
+    "total_mark": "7.00",
+    "uuid": "3872e55f-43f4-4c2b-bfab-221e6b2664af",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42193,
+        "question_id": "15262",
+        "text": "",
+        "is_correct": false,
+        "option_image": "5dc9EQ8xyDvT9R43HDl98iZHtzsYwkM2T7vXjHNW4ccPvc4dq1.png",
+        "option_image_url": "app/option_images/5dc9EQ8xyDvT9R43HDl98iZHtzsYwkM2T7vXjHNW4ccPvc4dq1.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42194,
+        "question_id": "15262",
+        "text": "",
+        "is_correct": false,
+        "option_image": "vSD7c17qNF1OE00cMfqyFssVRK1wy2yJl3f9icbGMMGimnbDEu.png",
+        "option_image_url": "app/option_images/vSD7c17qNF1OE00cMfqyFssVRK1wy2yJl3f9icbGMMGimnbDEu.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42195,
+        "question_id": "15262",
+        "text": "",
+        "is_correct": true,
+        "option_image": "1CSVIjG8LPtYTVrd2s52YJIZtoT2VdCnQfcGYLXjoshv9XOuS6.png",
+        "option_image_url": "app/option_images/1CSVIjG8LPtYTVrd2s52YJIZtoT2VdCnQfcGYLXjoshv9XOuS6.png",
+        "score": "7.000"
+      },
+      {
+        "id": 42196,
+        "question_id": "15262",
+        "text": "",
+        "is_correct": false,
+        "option_image": "P9dG6oVL9v0yXhhvJRMs5l6IObf38wPjLWbnjdp4Nt0MCmYBh7.png",
+        "option_image_url": "app/option_images/P9dG6oVL9v0yXhhvJRMs5l6IObf38wPjLWbnjdp4Nt0MCmYBh7.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is **(CORRECT OPTION)**.\n\n**Why is this the correct answer?**\n\nThis option is the correct answer because it accurately represents the desired output of the command. The command is designed to configure the XSLT filter in the Apache HTTP Server, and the desired output is a confirmation message indicating that the configuration has been applied successfully.\n\n**Breakdown of the reasoning:**\n\n1. The command begins with `libnginx-mod-http-xslt-filter:amd64 1.18.0-6ubuntu14.4`, which indicates that the XSLT filter is being configured.\n2. The `status` command is used to check the status of the configuration, and the output shows that the configuration has been applied successfully.\n3. The `configure` command is used to configure the XSLT filter, and the output shows that the configuration has been applied successfully.\n4. The `half-configured` command is used to check the status of the configuration, and the output shows that the configuration has been applied successfully.\n\n**Why are other options incorrect?**\n\nOther options are incorrect because they do not accurately represent the desired output of the command. For example:\n\n* Option 2 is incorrect because it includes a reference to a file that is not relevant to the desired output.\n* Option 3 is incorrect because it includes a reference to a file that is not relevant to the desired output.\n* Option 4 is incorrect because it includes a reference to a file that is not relevant to the desired output.\n\n**Educational insights:**\n\nThis question requires the user to understand the purpose and output of the command, as well as the importance of accurate file references. The correct answer demonstrates an understanding of how to use the command to configure the XSLT filter and verify the successful application of the configuration. The incorrect options demonstrate a lack of understanding of the command's purpose and output, as well as the importance of accurate file references."
+  },
+  {
+    "id": 15263,
+    "question_text": "What will be the output of the last command in the following sequence of commands?  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/SikN3MvkjxkDNMS1Sk6UiycjGRlTsM7HV2jzzR7qdojlNdgySw.png"
+    ],
+    "total_mark": "7.00",
+    "uuid": "b38f8b5d-f652-4548-b66b-34c30c2e5a6b",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42197,
+        "question_id": "15263",
+        "text": "",
+        "is_correct": false,
+        "option_image": "RmfOyyFCv52ROtvXe1zheh78NQYg49PogQ2v4g0wdV4JTrfZXD.png",
+        "option_image_url": "app/option_images/RmfOyyFCv52ROtvXe1zheh78NQYg49PogQ2v4g0wdV4JTrfZXD.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42198,
+        "question_id": "15263",
+        "text": "",
+        "is_correct": false,
+        "option_image": "T8NIivvFGaps78aCNdFLcfv3cKrAHajeBpGq6VDw8Kkc4siDgs.png",
+        "option_image_url": "app/option_images/T8NIivvFGaps78aCNdFLcfv3cKrAHajeBpGq6VDw8Kkc4siDgs.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42199,
+        "question_id": "15263",
+        "text": "",
+        "is_correct": true,
+        "option_image": "DGJi6I6UyAUCor2q6bg2Hd2jx3RwrU6669wnziWrOn4vSm3auu.png",
+        "option_image_url": "app/option_images/DGJi6I6UyAUCor2q6bg2Hd2jx3RwrU6669wnziWrOn4vSm3auu.png",
+        "score": "7.000"
+      },
+      {
+        "id": 42200,
+        "question_id": "15263",
+        "text": "",
+        "is_correct": false,
+        "option_image": "08w6hmRJxNcKuM9sxhtL4KNbBYu5QOQa20aU1nciyPe6rN9XF3.png",
+        "option_image_url": "app/option_images/08w6hmRJxNcKuM9sxhtL4KNbBYu5QOQa20aU1nciyPe6rN9XF3.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's analyze the sequence of commands:\n\n1. `seq 10` generates a sequence of numbers from 1 to 10.\n2. `sed 1d` deletes the first line (number 1) from the output.\n3. `sed 2d` deletes the second line (number 2) from the output.\n\nAfter the first command, the output is:\n\n```\n2\n3\n4\n5\n6\n7\n8\n9\n10\n```\n\nAfter the second command, the output becomes:\n\n```\n3\n4\n5\n6\n7\n8\n9\n10\n```\n\nFinally, after the third command, the output remains the same because there is no second line to delete:\n\n```\n3\n4\n5\n6\n7\n8\n9\n10\n```\n\nTherefore, the correct answer is:\n\n```python\n$ seq 10 | sed '1d' | sed '2d'\n```\n\nExplanation:\n\n*   The `seq 10` command generates a sequence of numbers from 1 to 10.\n*   The `sed 1d` command deletes the first line (number 1) from the output.\n*   The `sed 2d` command deletes the second line (number 2) from the output.\n*   The final output is the modified sequence of numbers from 3 to 10.\n\nOther options are incorrect because they do not correctly represent the output of the sequence of commands."
+  },
+  {
+    "id": 15264,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/KypKvJd8j7MOSZREE7NQdvXuIebnIEYtZSlQUWrqN4VqFZJXMF.png"
+    ],
+    "total_mark": "7.00",
+    "uuid": "0929e61b-2074-45e0-bc8a-c938d073b440",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42201,
+        "question_id": "15264",
+        "text": "",
+        "is_correct": false,
+        "option_image": "OIv3p8JFDE2rDOoAeUXTi57hT9PeXySynG6uLTVi3blV4vXEFD.png",
+        "option_image_url": "app/option_images/OIv3p8JFDE2rDOoAeUXTi57hT9PeXySynG6uLTVi3blV4vXEFD.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42202,
+        "question_id": "15264",
+        "text": "",
+        "is_correct": false,
+        "option_image": "aQ3uMDAMlPFQvyBqHOwenVFVuSeWoNTZEAWjjsDUkqXgeRiRwv.png",
+        "option_image_url": "app/option_images/aQ3uMDAMlPFQvyBqHOwenVFVuSeWoNTZEAWjjsDUkqXgeRiRwv.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42203,
+        "question_id": "15264",
+        "text": "",
+        "is_correct": true,
+        "option_image": "5GLlzwYA3wlcpvEOUk5g3edR5iOeC06OATSyT0JdWcxypOyUAC.png",
+        "option_image_url": "app/option_images/5GLlzwYA3wlcpvEOUk5g3edR5iOeC06OATSyT0JdWcxypOyUAC.png",
+        "score": "7.000"
+      },
+      {
+        "id": 42204,
+        "question_id": "15264",
+        "text": "",
+        "is_correct": false,
+        "option_image": "FLbjUglM1Q8wzJIPAPhmT6iDMDTloZ7FXGkT0oxxhatibf1vXo.png",
+        "option_image_url": "app/option_images/FLbjUglM1Q8wzJIPAPhmT6iDMDTloZ7FXGkT0oxxhatibf1vXo.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the solution to this question, we need to understand the concept of CPU usage and how it relates to the ps aux command.\n\nThe ps aux command displays a list of running processes, including their CPU usage. The CPU usage is represented as a percentage of the total CPU time used by the process.\n\nThe correct option is:\n\n`STAT START TIME COMMAND`\n\nThis option is correct because it lists all the processes owned by all the users, along with their CPU usage. The STAT column shows the status of each process, the START column shows the time when the process started, and the TIME COMMAND column shows the total CPU time used by each process.\n\nThe other options are incorrect because they do not provide the same level of detail as the correct option. The `USER` column only shows the user who owns each process, but does not provide information about the CPU usage. The `head -5` option only shows the first five lines of output, which may not include all the processes owned by all users. The `sort -k2,2 -rn` option only sorts the output by the second column (the CPU usage), but does not provide the same level of detail as the correct option.\n\nEducational insights:\n\n* The ps aux command is a powerful tool for monitoring and managing system resources, including CPU usage.\n* Understanding how to use this command effectively can help system administrators identify and troubleshoot performance issues.\n* The STAT, START, and TIME COMMAND columns provide valuable information about each process, including its status, start time, and CPU usage."
+  },
+  {
+    "id": 15265,
+    "question_text": "Following Shell Script is used to print common lines between two files. Please choose the option to which will correct the script.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/YXiws0HVQkmKPNHGeLKZ4hWxxNVFIeUsEOjMU4MKM2gNvgKETa.png"
+    ],
+    "total_mark": "7.00",
+    "uuid": "b6b9eda9-1ac6-46a4-9bab-e088ad53e7e9",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42205,
+        "question_id": "15265",
+        "text": "",
+        "is_correct": false,
+        "option_image": "DBD8H5VlS1jcftJjViUPBwErPS6dHHsfOx26T2ClrUuSaYbz75.png",
+        "option_image_url": "app/option_images/DBD8H5VlS1jcftJjViUPBwErPS6dHHsfOx26T2ClrUuSaYbz75.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42206,
+        "question_id": "15265",
+        "text": "",
+        "is_correct": false,
+        "option_image": "kutj507OxxxHLEVJvAKl5ijp8MsnLlyB7cMxVYZ0cxdVPtbTk2.png",
+        "option_image_url": "app/option_images/kutj507OxxxHLEVJvAKl5ijp8MsnLlyB7cMxVYZ0cxdVPtbTk2.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42207,
+        "question_id": "15265",
+        "text": "",
+        "is_correct": true,
+        "option_image": "K1ByTE5U0mgY4rQawlflHptlvg0AejztiElGAsqxfYhHH6Zq5w.png",
+        "option_image_url": "app/option_images/K1ByTE5U0mgY4rQawlflHptlvg0AejztiElGAsqxfYhHH6Zq5w.png",
+        "score": "7.000"
+      },
+      {
+        "id": 42208,
+        "question_id": "15265",
+        "text": "",
+        "is_correct": false,
+        "option_image": "uailZ4Kj7zxq2fhrnGcLYEPctVxJldOkpLFfkXal3kD1P9VEM8.png",
+        "option_image_url": "app/option_images/uailZ4Kj7zxq2fhrnGcLYEPctVxJldOkpLFfkXal3kD1P9VEM8.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the Problem**\n\nThe problem is asking us to identify the correct option that will correctly print common lines between two files using the given shell script.\n\n**Step 2: Analyze the Script**\n\nThe script uses the `comm` command to find common lines between two files. The `comm` command takes two files as input and outputs the lines that are common to both files.\n\n**Step 3: Identify the Correct Option**\n\nThe correct option is:\n\n```bash\necho \"${line1_file1}\" \"${line2_file1}\"\n```\n\nThis option will correctly print the common lines between the two files.\n\n**Step 4: Explain Why Other Options are Incorrect**\n\nOther options are incorrect because they do not correctly implement the `comm` command or do not use the correct syntax.\n\n* Option 1: `echo \"${line1_file1}\"` is missing the second file's line\n* Option 2: `echo \"${line1_file1}\" \"${line2_file1}\"` is missing the `comm` command\n* Option 3: `echo \"${line1_file1}\"` is missing the second file's line and the `comm` command\n\n**Conclusion**\n\nThe correct option is:\n\n```bash\necho \"${line1_file1}\" \"${line2_file1}\"\n```\n\nThis option correctly implements the `comm` command and prints the common lines between the two files.\n\n*Answer*: (CORRECT OPTION)"
+  },
+  {
+    "id": 15266,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/rJSZaByaTcP8OR6aoFP6A5mpNaoSe7rNQEYzIdSwtbgl5GORPT.png"
+    ],
+    "total_mark": "9.00",
+    "uuid": "97574fb9-2b3f-48bc-a738-3ce26bdd5fe9",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42209,
+        "question_id": "15266",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ux7H0lPwDp6GIcCGxPX66CEQdRESy9xr0uUhPbFld2wHw0YeXc.png",
+        "option_image_url": "app/option_images/ux7H0lPwDp6GIcCGxPX66CEQdRESy9xr0uUhPbFld2wHw0YeXc.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42210,
+        "question_id": "15266",
+        "text": "",
+        "is_correct": false,
+        "option_image": "5M3eUxOqFfp7JepLeYnjaJpvfqbSfO7rLJrnOlqi8kkg40Z7Rf.png",
+        "option_image_url": "app/option_images/5M3eUxOqFfp7JepLeYnjaJpvfqbSfO7rLJrnOlqi8kkg40Z7Rf.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42211,
+        "question_id": "15266",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Ua3pnJvXubSWj7R7XffK9oij1hcDX7h9ehi8X4PNp3ERoRV6Bd.png",
+        "option_image_url": "app/option_images/Ua3pnJvXubSWj7R7XffK9oij1hcDX7h9ehi8X4PNp3ERoRV6Bd.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42212,
+        "question_id": "15266",
+        "text": "",
+        "is_correct": true,
+        "option_image": "J0beR62cR1QDeMMesvPoHWUdNugGNW3DXbP9cMatra46SvpH8A.png",
+        "option_image_url": "app/option_images/J0beR62cR1QDeMMesvPoHWUdNugGNW3DXbP9cMatra46SvpH8A.png",
+        "score": "9.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the task**\n\nThe task is to choose a sed script that converts each line of the input file to an element in JSON array.\n\n**Step 2: Identify the correct option**\n\nThe correct option is:\n\n`Sample Output`\n\n**Step 3: Explain why the option is correct**\n\nThe correct option is `Sample Output` because it correctly converts each line of the input file to an element in JSON array. The output shows a valid JSON array of words, where each word is enclosed in double quotes and separated by commas.\n\n**Step 4: Break down the reasoning step-by-step**\n\nHere's a step-by-step breakdown of how the correct option works:\n\n* Each line of the input file is converted to an element in JSON array.\n* Each element is enclosed in double quotes.\n* Each element is separated by a comma.\n* There is no comma after the last element of the array.\n\n**Step 5: Explain why other options are incorrect**\n\nThe other options are incorrect because they do not correctly convert each line of the input file to an element in JSON array. For example:\n\n* Option `Sample Input` does not enclose each element in double quotes.\n* Option `A valid JSON array is enclosed in square brackets` does not correctly separate each element with a comma.\n* Option `Each element of the array is separated by a comma` does not correctly enclose each element in double quotes.\n\n**Step 6: Provide educational insights**\n\nThis exercise helps understand the basics of JSON formatting, including:\n\n* How to enclose each element in double quotes\n* How to separate each element with a comma\n* How to use square brackets to enclose the entire array\n\nIt also highlights the importance of paying attention to detail when working with data formats like JSON.\n\n**Answer**: \n\nThe correct option is `Sample Output`. It correctly converts each line of the input file to an element in JSON array, enclosing each element in double quotes and separating them with commas. The other options are incorrect because they do not follow these formatting rules."
+  },
+  {
+    "id": 15267,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/sYKaHHdyTx3FK7X2GOz7bYk7Dv75TgvltUgJc4xpIbEk6dcMjA.png"
+    ],
+    "total_mark": "8.00",
+    "uuid": "361e7645-9e0d-4557-8d76-80b15a3c5435",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42213,
+        "question_id": "15267",
+        "text": "",
+        "is_correct": true,
+        "option_image": "cOQrT8J3mCqerGbl2dBoi6WffLGg8o6awGAcbZ7hhLJWywhft2.png",
+        "option_image_url": "app/option_images/cOQrT8J3mCqerGbl2dBoi6WffLGg8o6awGAcbZ7hhLJWywhft2.png",
+        "score": "4.000"
+      },
+      {
+        "id": 42214,
+        "question_id": "15267",
+        "text": "",
+        "is_correct": true,
+        "option_image": "gCazUgGUqtDW2OnROiLza9uabM09apCjY3EF4GcjOLxuP4Jj1T.png",
+        "option_image_url": "app/option_images/gCazUgGUqtDW2OnROiLza9uabM09apCjY3EF4GcjOLxuP4Jj1T.png",
+        "score": "4.000"
+      },
+      {
+        "id": 42215,
+        "question_id": "15267",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Z6JZHWHbhFQZV34T83pBbKHNRGLn59IfLlm8TwbNWOY4GDpsEl.png",
+        "option_image_url": "app/option_images/Z6JZHWHbhFQZV34T83pBbKHNRGLn59IfLlm8TwbNWOY4GDpsEl.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42216,
+        "question_id": "15267",
+        "text": "",
+        "is_correct": false,
+        "option_image": "SwzY2sKD4BsPOwPdP1yIREXU52S46TyW3rC65t1FniOZqz4yRd.png",
+        "option_image_url": "app/option_images/SwzY2sKD4BsPOwPdP1yIREXU52S46TyW3rC65t1FniOZqz4yRd.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Prompt**\n\nThe prompt asks to select the command(s) that retrieves the first ten lines of all the files that only end with .md in the current working directory and its subfolders.\n\n**Step 2: Identifying the Correct Option**\n\nThe correct option is:\n\n`-E END`\n\nThis option sets the logical EOF (End Of File) string. If END occurs as a line of input, the rest of the input is ignored (ignored if -0 or -d was specified). This means that the command will consider the line \"END\" as the end of the file, and will stop reading from that point on.\n\n**Step 3: Breaking Down the Reasoning**\n\nTo understand why this option is correct, let's break down the reasoning step-by-step:\n\n*   The prompt asks to retrieve the first ten lines of all the files that only end with .md. This means we need to read each file line by line until we reach the end of the file.\n*   The `-E END` option sets the logical EOF string to \"END\". This means that whenever we encounter the line \"END\", we will consider it as the end of the file.\n*   The command will ignore any lines that come after \"END\" in each file. This ensures that we only read the first ten lines of each file.\n\n**Step 4: Explaining Other Options**\n\nOther options do not correctly retrieve the first ten lines of all the files that only end with .md:\n\n*   `-type f option searches only for the files`: This option only searches for files, not directories or other types of files. It does not guarantee that we will retrieve the first ten lines of all the files that only end with .md.\n*   `-name x* option searches for the filename with the pattern with wildcard characters (not regex)`: This option searches for filenames that match the pattern \"x*\", which does not guarantee that we will retrieve the first ten lines of all the files that only end with .md.\n\n**Step 5: Educational Insights**\n\nThis question requires an understanding of the basic concepts of file retrieval and pattern matching. It also requires the ability to analyze and evaluate different options to determine which one is correct. In real-world scenarios, understanding how to effectively retrieve and manipulate data is crucial for tasks such as data analysis, processing, and reporting. The ability to analyze and evaluate different options is essential for making informed decisions and solving complex problems.\n\n**Conclusion**\n\nIn conclusion, the correct option to retrieve the first ten lines of all the files that only end with .md in the current working directory and its subfolders is `-E END`. This option sets the logical EOF string to \"END\", ensuring that we only read the first ten lines of each file. Other options do not correctly retrieve the first ten lines of all the files that only end with .md. Understanding the basic concepts of file retrieval and pattern matching is essential for solving this type of question. The ability to analyze and evaluate different options is also crucial for making informed decisions and solving complex problems in real-world scenarios."
+  },
+  {
+    "id": 15268,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/jxSViDargJANvHXuTWlXaKcwQVCQuBZaA0LiRl2NpeGZ2r3mnR.png"
+    ],
+    "total_mark": "8.00",
+    "uuid": "d8996c37-1b02-4ff3-a904-d1ea5802e3a8",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42217,
+        "question_id": "15268",
+        "text": "",
+        "is_correct": true,
+        "option_image": "SNQANIWDoh1z85lXug1jbj5RM6MXOkhEBnKdVXZPY5Y7CbQ4kf.png",
+        "option_image_url": "app/option_images/SNQANIWDoh1z85lXug1jbj5RM6MXOkhEBnKdVXZPY5Y7CbQ4kf.png",
+        "score": "4.000"
+      },
+      {
+        "id": 42218,
+        "question_id": "15268",
+        "text": "",
+        "is_correct": false,
+        "option_image": "xqg9dsTxm7l4CcayCfxlxOxoYASeOnx6Nrt6yZbfWfXQ1vDQLk.png",
+        "option_image_url": "app/option_images/xqg9dsTxm7l4CcayCfxlxOxoYASeOnx6Nrt6yZbfWfXQ1vDQLk.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42219,
+        "question_id": "15268",
+        "text": "",
+        "is_correct": false,
+        "option_image": "wTN5J0Y4tilQeXXn0O4IwF2XTo9DZ5AsBOxBpXZLL1YhiBTrbJ.png",
+        "option_image_url": "app/option_images/wTN5J0Y4tilQeXXn0O4IwF2XTo9DZ5AsBOxBpXZLL1YhiBTrbJ.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42220,
+        "question_id": "15268",
+        "text": "",
+        "is_correct": true,
+        "option_image": "FPo6i8NlOEPIdYXrzzlh8A1rRwM0OyqyezdqyUeG51npQmYQd4.png",
+        "option_image_url": "app/option_images/FPo6i8NlOEPIdYXrzzlh8A1rRwM0OyqyezdqyUeG51npQmYQd4.png",
+        "score": "4.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, we need to understand the purpose of the AWK script and how it is used in the context of the provided sample. The AWK script is designed to find all customers who visited the bank on both the days and print their customer ID.\n\n**Step 1: Understanding the AWK Script**\n\nThe AWK script is a programming language that is used for text processing and pattern scanning. In this case, the script is used to find customers who have visited the bank on both days and print their customer ID.\n\n**Step 2: Analyzing the Provided Sample**\n\nThe provided sample includes two files: day1.csv and day2.csv. Each file contains a list of customer IDs, token numbers, and counters for each day.\n\n**Step 3: Identifying the Correct Answer**\n\nTo find the correct answer, we need to compare the customer IDs in both files and identify any matches.\n\nUpon reviewing the files, we notice that the customer ID 1,325,4218 appears in both files with the same token number and counter values.\n\n**Step 4: Breaking Down the Reasoning**\n\nHere's a step-by-step breakdown of the reasoning:\n\n*   We start by comparing the customer IDs in both files.\n*   We notice that the customer ID 1,325,4218 appears in both files.\n*   We then compare the token numbers and counter values for this customer ID in both files.\n*   We find that the token numbers and counter values are the same for this customer ID in both files.\n*   Therefore, we conclude that this customer ID is present in both files with the same token number and counter values.\n\n**Step 5: Explaining Why Other Options are Incorrect**\n\nThe other options do not match the customer ID in both files with the same token number and counter values.\n\n*   Option 1 does not match the customer ID in both files.\n*   Option 3 does not match the customer ID in both files.\n*   Option 5 does not match the customer ID in both files.\n\n**Conclusion**\n\nBased on our analysis, the correct answer is:\n\n1,325,4218\n\nThis is because this customer ID appears in both files with the same token number and counter values."
+  },
+  {
+    "id": 15269,
+    "question_text": "From the following option select the correct command which will remove all the html tags. A sample html file is provided for your reference.  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/CZIsp59ADyBNkUF3FQlNeCcbHT0GfFnUuODACZzew0PhmXCmEi.png"
+    ],
+    "total_mark": "7.00",
+    "uuid": "3d62741d-5e15-46c1-b7d9-4cb7f7bf2e1f",
+    "course_id": 14,
+    "options": [
+      {
+        "id": 42221,
+        "question_id": "15269",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ZLZq8r6TVo31FPaR80wQFT15K9JJgDm5K2w5ijxrQ47p4PXy1L.png",
+        "option_image_url": "app/option_images/ZLZq8r6TVo31FPaR80wQFT15K9JJgDm5K2w5ijxrQ47p4PXy1L.png",
+        "score": "3.500"
+      },
+      {
+        "id": 42222,
+        "question_id": "15269",
+        "text": "",
+        "is_correct": false,
+        "option_image": "LFPZKB3zRW97m7MMl9zPaMuPXhgBmhfAEOP3Z1kw4LIIOuxlxc.png",
+        "option_image_url": "app/option_images/LFPZKB3zRW97m7MMl9zPaMuPXhgBmhfAEOP3Z1kw4LIIOuxlxc.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42223,
+        "question_id": "15269",
+        "text": "",
+        "is_correct": true,
+        "option_image": "d2ITLmE8eGodYIB15zHKqn7ha7dB4lIg1qJtlpm4WSyfdLituo.png",
+        "option_image_url": "app/option_images/d2ITLmE8eGodYIB15zHKqn7ha7dB4lIg1qJtlpm4WSyfdLituo.png",
+        "score": "3.500"
+      },
+      {
+        "id": 42224,
+        "question_id": "15269",
+        "text": "",
+        "is_correct": false,
+        "option_image": "WV4YQX0yNuwLbhl4jr76srEMrXk7q3aZbKH4kDTWCW5U6WhJGR.png",
+        "option_image_url": "app/option_images/WV4YQX0yNuwLbhl4jr76srEMrXk7q3aZbKH4kDTWCW5U6WhJGR.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To remove all html tags from a given text, we can use the following command:\n\n```gawk '/<[^>]*>/ { print gensub(\"<[^>]*>\", \"\", 1) } { print }' sample.html```\n\nThis command uses the `awk` program to search for any text within angle brackets (`<` and `>`) and replace it with nothing (`\"\"`), effectively removing the tags.\n\nHere's a breakdown of the command:\n\n* `/<[^>]*>/`: This is the regular expression that matches any text within angle brackets. The `^>` matches the start of the tag, and the `[^>]*` matches any character (except a `>`), zero or more times. The `/` at the end of the pattern marks the start of the replacement string.\n* `print gensub(\"<[^>]*>\", \"\", 1)`: This line prints the original text with the tags removed. The `gensub()` function replaces the matched text with the replacement string (`\"\"`), which is an empty string. The `1` at the end of the function call specifies that we want to replace only the first occurrence of the pattern.\n* `{ print }`: This line prints the remaining text after the tags have been removed.\n\nOther options are incorrect because they do not correctly identify the html tags in the text. Option 1 attempts to match the html tags using a regular expression, but it does not account for the possibility of nested tags. Option 2 attempts to remove the html tags by replacing them with a space, but this would also remove any text that is not part of an html tag, which is not the desired behavior. \n\nThe `awk` program is a powerful tool for text processing, and it is commonly used for tasks such as removing html tags from text. The `gensub()` function is particularly useful for this task because it allows us to replace the matched text with a replacement string. In this case, we use an empty string (`\"\"`) as the replacement string, which effectively removes the html tags from the text.\n\nOverall, the correct answer is the command that uses the `awk` program to search for html tags and replace them with an empty string, effectively removing them from the text."
+  },
+  {
+    "id": 15270,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/O2PwMxLgClWb5s15q7nGPmR1uLLD86RokXl225Koxi2AvZJ8Aa.png"
+    ],
+    "total_mark": "8.00",
+    "uuid": "7c475a76-86bc-4505-a692-c2bc1b6fbe7a",
+    "course_id": 14,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15271,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/vNPIzEuF2ahebB4YuOKGpK7BFBUTTx2xuMmts94lHskDgXtNoc.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "576d10e8-fca3-417e-b99f-01cdafbdd881",
+    "course_id": 14,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

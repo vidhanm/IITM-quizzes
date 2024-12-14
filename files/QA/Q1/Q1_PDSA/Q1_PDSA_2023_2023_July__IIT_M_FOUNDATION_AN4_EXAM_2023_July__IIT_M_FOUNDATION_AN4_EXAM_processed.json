@@ -1,0 +1,804 @@
+[
+  {
+    "id": 1635,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : PROGRAMMING, DATA STRUCTURES AND ALGORITHMS USING PYTHON (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "e3061523-4edd-4be9-8b71-b65f819adc73",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4510,
+        "question_id": "1635",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4511,
+        "question_id": "1635",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 1636,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/FrVW9dUxmh9DaHoDFPejyU22V6YxJo9nlEx1es67v1aIUTwtYr.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "0da3f026-d41a-4692-aa32-8c474c43d953",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4512,
+        "question_id": "1636",
+        "text": "",
+        "is_correct": false,
+        "option_image": "iFTkQUht8LBUStehyVIJWNHhXJBlGPmkeCBlyRE7X7ISTLwBh2.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/iFTkQUht8LBUStehyVIJWNHhXJBlGPmkeCBlyRE7X7ISTLwBh2.png"
+      },
+      {
+        "id": 4513,
+        "question_id": "1636",
+        "text": "",
+        "is_correct": true,
+        "option_image": "oXUTZ8qPusei1I0zD86MsnbTQPO6xb6XAwSFgl8J9tEpuOGbju.png",
+        "score": "1.500",
+        "option_image_url": "app/option_images/oXUTZ8qPusei1I0zD86MsnbTQPO6xb6XAwSFgl8J9tEpuOGbju.png"
+      },
+      {
+        "id": 4514,
+        "question_id": "1636",
+        "text": "",
+        "is_correct": false,
+        "option_image": "QBa1XuK1S8zka8xbxc3WTTmTD14pzjD7s36ZbOqnuj1x25iyjH.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/QBa1XuK1S8zka8xbxc3WTTmTD14pzjD7s36ZbOqnuj1x25iyjH.png"
+      },
+      {
+        "id": 4515,
+        "question_id": "1636",
+        "text": "",
+        "is_correct": false,
+        "option_image": "iB0gdugGF2OO1EFMJBmCG5FNZ6fc5g7zPA52u32RNw5MJM2Gwf.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/iB0gdugGF2OO1EFMJBmCG5FNZ6fc5g7zPA52u32RNw5MJM2Gwf.png"
+      },
+      {
+        "id": 4516,
+        "question_id": "1636",
+        "text": "",
+        "is_correct": true,
+        "option_image": "RHeNs8w9PjZxzUUXps4OOUSau8ZmSU1X6wj5nvkNO1UwbRjr15.png",
+        "score": "1.500",
+        "option_image_url": "app/option_images/RHeNs8w9PjZxzUUXps4OOUSau8ZmSU1X6wj5nvkNO1UwbRjr15.png"
+      }
+    ],
+    "answer_explanation": "The image presents a mathematical problem involving three functions, f(n), g(n), and h(n), and asks which of these functions is/are true. The functions are defined as follows:\n\n*   f(n) = 102n^4 + 26n^3\n*   g(n) = 103n^3 + 20n^2\n*   h(n) = 110n^3 log n + 36n^2\n\nTo determine which function is true, we need to analyze each function individually and consider its properties. \n\n**Analysis of f(n)**\n\nf(n) = 102n^4 + 26n^3 is a polynomial function of degree 4, which means that as n increases, the value of f(n) will increase without bound. This suggests that f(n) is not a constant function and will change its value as n changes.\n\n**Analysis of g(n)**\n\ng(n) = 103n^3 + 20n^2 is also a polynomial function, but this time of degree 3. Similar to f(n), as n increases, the value of g(n) will increase without bound, indicating that g(n) is not a constant function.\n\n**Analysis of h(n)**\n\nh(n) = 110n^3 log n + 36n^2 involves a logarithmic term, log n, which grows much slower than any polynomial function as n increases. This means that the logarithmic term will dominate the behavior of h(n) for large values of n. In particular, h(n) will approach infinity as n approaches infinity, since the logarithmic term will continue to increase indefinitely.\n\n**Conclusion**\n\nBased on the analysis above, it is clear that all three functions, f(n), g(n), and h(n), are not constant functions and will change their values as n changes. Therefore, the correct answer is that all three functions are true.\n\n*Answer*: All three functions, f(n), g(n), and h(n), are true."
+  },
+  {
+    "id": 1637,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/jXRoEoN77J46ZwRb7xNIrPYTFR0LbaJEtvCUNTrsJJInlW23Ab.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "68311bfb-7c0e-411f-92cb-a81e93bd1ce7",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4517,
+        "question_id": "1637",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ESUIkaRmb4ayHbK2xAtLqQqjeI5IdOkVMSLlKSvQsYlXeYSkUv.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/ESUIkaRmb4ayHbK2xAtLqQqjeI5IdOkVMSLlKSvQsYlXeYSkUv.png"
+      },
+      {
+        "id": 4518,
+        "question_id": "1637",
+        "text": "",
+        "is_correct": false,
+        "option_image": "XGGi9C227iKTGf1lU2v3CYNYZKHYX76qUxvpSW22EvDBYPRDnt.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/XGGi9C227iKTGf1lU2v3CYNYZKHYX76qUxvpSW22EvDBYPRDnt.png"
+      },
+      {
+        "id": 4519,
+        "question_id": "1637",
+        "text": "",
+        "is_correct": true,
+        "option_image": "z00Nv3w9yxWOvDe0AYnzjanqjgm93irIjfhzsI15lJ0DLwIERf.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/z00Nv3w9yxWOvDe0AYnzjanqjgm93irIjfhzsI15lJ0DLwIERf.png"
+      },
+      {
+        "id": 4520,
+        "question_id": "1637",
+        "text": "",
+        "is_correct": true,
+        "option_image": "yVCxzIrMnyCrYUs3M8K69dHVb2WqFvD2Z1WHiwCyAMrr68fRPd.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/yVCxzIrMnyCrYUs3M8K69dHVb2WqFvD2Z1WHiwCyAMrr68fRPd.png"
+      },
+      {
+        "id": 4521,
+        "question_id": "1637",
+        "text": "",
+        "is_correct": false,
+        "option_image": "iienS2zccqKQz9ztlBTroMuJEplr3iQFdVbOxXPs7nicit3Xo6.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/iienS2zccqKQz9ztlBTroMuJEplr3iQFdVbOxXPs7nicit3Xo6.png"
+      }
+    ],
+    "answer_explanation": "The image presents a problem about unimodal lists, which are sequences that consist of an increasing subsequence followed by a decreasing subsequence. The problem asks us to find the maximum element in an unimodal list of a certain size and determine which statements must be used to solve this problem.\n\n**Step 1: Understand the problem**\n\nThe problem involves finding the maximum element in a unimodal list of a specific size. A unimodal list is a sequence that starts with an increasing subsequence and ends with a decreasing subsequence. The problem provides a list L[0...n-1] of distinct elements that is unimodal, meaning it consists of an increasing sequence followed by a decreasing sequence.\n\n**Step 2: Identify the relevant information**\n\nThe problem provides several key pieces of information:\n\n* L[i] < L[i + 1] for all 0 <= i < m, and\n* L[i] > L[i + 1] for all m <= i < n-1.\n\nThis indicates that the list has an increasing subsequence from L[0] to L[m-1] and a decreasing subsequence from L[m] to L[n-2].\n\n**Step 3: Determine the maximum element**\n\nTo find the maximum element in the list, we need to identify the largest element in the increasing subsequence and the smallest element in the decreasing subsequence. Since the list is unimodal, the largest element in the increasing subsequence will be equal to the smallest element in the decreasing subsequence.\n\n**Step 4: Identify the statements that must be used**\n\nBased on the problem statement, the following statements must be used to find the maximum element in O(log n) time:\n\n* The fact that L[i] < L[i + 1] for all 0 <= i < m implies that the increasing subsequence is sorted in ascending order.\n* The fact that L[i] > L[i + 1] for all m <= i < n-1 implies that the decreasing subsequence is sorted in descending order.\n* The fact that the list is unimodal implies that the maximum element is located at the midpoint of the list.\n\n**Conclusion**\n\nTo find the maximum element in the unimodal list, we need to use the fact that the list is unimodal, the fact that the increasing subsequence is sorted in ascending order, and the fact that the decreasing subsequence is sorted in descending order. By combining"
+  },
+  {
+    "id": 1638,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/InA9UmwOzh5Q6Nwu45kvUyYSe92QAj4oZcND6Sg1vZsyYxrDBR.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "c7b1edcc-fa7d-4d51-b0de-6167477dcaf6",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4522,
+        "question_id": "1638",
+        "text": "",
+        "is_correct": true,
+        "option_image": "kpFT6XVOYUbnT7tDZ8hoF0py9jwcBCtNhuCtJmcnV389WCyzcO.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/kpFT6XVOYUbnT7tDZ8hoF0py9jwcBCtNhuCtJmcnV389WCyzcO.png"
+      },
+      {
+        "id": 4523,
+        "question_id": "1638",
+        "text": "",
+        "is_correct": false,
+        "option_image": "x2F3JHneWjxWhstEGyIOwypEU7LJD1oIvwlGF9pnJ3U61j2Kqe.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/x2F3JHneWjxWhstEGyIOwypEU7LJD1oIvwlGF9pnJ3U61j2Kqe.png"
+      },
+      {
+        "id": 4524,
+        "question_id": "1638",
+        "text": "",
+        "is_correct": true,
+        "option_image": "93b3B6w0013Ufy77iOuGYCB05rNbqKpeUiodd8Fzyp2tT7oPZ5.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/93b3B6w0013Ufy77iOuGYCB05rNbqKpeUiodd8Fzyp2tT7oPZ5.png"
+      },
+      {
+        "id": 4525,
+        "question_id": "1638",
+        "text": "",
+        "is_correct": false,
+        "option_image": "iiU3Rv5PFKEYvZShtnIujsqMzfcOrnfK8Kqcpv8A2pFRgDxPyu.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/iiU3Rv5PFKEYvZShtnIujsqMzfcOrnfK8Kqcpv8A2pFRgDxPyu.png"
+      },
+      {
+        "id": 4526,
+        "question_id": "1638",
+        "text": "",
+        "is_correct": true,
+        "option_image": "9n56jKzrdKEParoq6XCE3oJlYQLWtsMTyqiYi2YZ4DRL769SNK.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/9n56jKzrdKEParoq6XCE3oJlYQLWtsMTyqiYi2YZ4DRL769SNK.png"
+      }
+    ],
+    "answer_explanation": "The image presents a code snippet in Python, accompanied by a question about the implementation of a singly linked list. The code defines a class `Node` with two attributes: `data` and `next`, which is a reference to the next node in the list. The class also includes a method `__init__` that initializes the node with the given data and sets the `next` attribute to `None`.\n\nThe question asks which of the following statements is/are true:\n\n*   The code snippet implements a singly linked list.\n*   The code snippet uses the most efficient algorithms.\n\nTo answer this question, we need to analyze the code and consider the characteristics of a singly linked list.\n\nA singly linked list is a data structure where each node contains a reference (i.e., a \"link\") to the next node in the list. This allows for efficient insertion and deletion of nodes at any position in the list, as well as traversal from one end of the list to the other.\n\nIn the provided code, the `Node` class has a `data` attribute to store the value of the node and a `next` attribute to point to the next node in the list. The `__init__` method initializes the node with the given data and sets the `next` attribute to `None`, indicating that the node is the end of the list.\n\nTherefore, based on the code provided, the correct answer is:\n\nThe code snippet implements a singly linked list.\n\nThe code snippet uses the most efficient algorithms.\n\n*Answer*: Both statements are true."
+  },
+  {
+    "id": 1639,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/sPbOA32J7FG3r9Anl2EzriFsDCkQf4R1Eah3jBuO5XoIZhOjCs.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "c0e4a360-dcac-4061-ade6-16c32e9bf802",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4527,
+        "question_id": "1639",
+        "text": "51, 18, 45, 60, 34",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4528,
+        "question_id": "1639",
+        "text": "34, 45, 18, 60, 51",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4529,
+        "question_id": "1639",
+        "text": "18, 45, 34, 60, 51",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4530,
+        "question_id": "1639",
+        "text": "34, 45, 18, 51, 60",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4531,
+        "question_id": "1639",
+        "text": "18, 34, 51, 45, 60",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "**Problem Statement**\n\nThe problem statement describes a linear probing technique for resolving hash collisions in hash tables. It involves taking the original hash index and incrementing the value by 1 until a free slot is found. The given hash table has a function h(key) = key mod 5, which uses linear probing for solving collisions.\n\n**Given Hash Table**\n\nThe given hash table with a hash function h(key) = key mod 5 is:\n\n| Index | Key |\n| --- | --- |\n| 0 | 45 |\n| 1 | 51 |\n| 2 | 60 |\n| 3 | 18 |\n| 4 | 34 |\n\n**Question**\n\nThe question asks us to determine which among the following options corresponds to possible orders of insertion of values in the hash table.\n\n**Options**\n\nThe options are not explicitly provided in the problem statement, but based on the given hash table, we can infer that the options might be related to the insertion order of values.\n\n**Analysis**\n\nTo analyze the problem, we need to understand how linear probing works. Linear probing involves taking the original hash index and incrementing the value by 1 until a free slot is found. In this case, the hash function h(key) = key mod 5 will generate a hash index for each key.\n\n**Possible Orders of Insertion**\n\nBased on the given hash table, we can see that the keys are inserted in a specific order. The possible orders of insertion could be:\n\n*   Insertion order: 45, 51, 60, 18, 34\n*   Insertion order: 34, 18, 60, 51, 45\n\n**Conclusion**\n\nBased on the analysis, the correct answer is:\n\n**Answer**: Both options 1 and 2 are possible orders of insertion of values in the hash table."
+  },
+  {
+    "id": 1640,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/rOF4FAvruagXyjoX62KW1s5vt5H6p5dRQIQT5KHo1sefAfg4w0.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "eb038080-8d18-4a80-b5c5-eeb1244c4f51",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4532,
+        "question_id": "1640",
+        "text": "A B E C D F",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4533,
+        "question_id": "1640",
+        "text": "B A C D E F",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4534,
+        "question_id": "1640",
+        "text": "C B D A E F",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4535,
+        "question_id": "1640",
+        "text": "D B C E A F",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4536,
+        "question_id": "1640",
+        "text": "E A B D F C",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a graph with six nodes labeled A to F, accompanied by a question and a note. The graph is depicted in black on a white background.\n\n**Graph Structure:**\n\n*   The graph consists of six nodes (A to F), each represented by an oval shape.\n*   The nodes are connected by lines, forming a network.\n*   Each node has a unique label (A to F).\n\n**Question:**\n\n*   The question asks if we run breadth-first search (BFS) on the given graph starting at any vertex, which of the following is/are possible order of visiting the nodes?\n*   The question does not specify a particular starting vertex, leaving it open to interpretation.\n\n**Note:**\n\n*   The note provides additional information about the BFS algorithm.\n*   It states that when a node has multiple neighbors, BFS would visit alphabetically.\n*   This note offers insight into how the algorithm prioritizes the order of visiting nodes with multiple connections.\n\n**Overall:**\n\n*   The image presents a graph and a question related to the BFS algorithm.\n*   The note provides clarification on how the algorithm handles nodes with multiple neighbors.\n*   The image does not provide a clear answer to the question, leaving it open for interpretation."
+  },
+  {
+    "id": 1641,
+    "question_text": "Consider the following DAG  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/5tIi2k12ooZzJv9M5FCUfO0wtjp5aSQMdc7AUEDFU6a1Bae5ss.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "e3970e11-d723-474a-99ab-c03008066bfe",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4537,
+        "question_id": "1641",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ClswxJ8s2hAoEApWE2F0C6kkqzHxejzeumJJWtRWryUC0fsSrw.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/ClswxJ8s2hAoEApWE2F0C6kkqzHxejzeumJJWtRWryUC0fsSrw.png"
+      },
+      {
+        "id": 4538,
+        "question_id": "1641",
+        "text": "",
+        "is_correct": true,
+        "option_image": "tmDvN06sjIr7o08q8a6omtMKmvnCMqYkwU36vTXTnREpFcm1m7.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/tmDvN06sjIr7o08q8a6omtMKmvnCMqYkwU36vTXTnREpFcm1m7.png"
+      },
+      {
+        "id": 4539,
+        "question_id": "1641",
+        "text": "",
+        "is_correct": false,
+        "option_image": "YpQ1Yf2z1RXrd9gCjKzJyHVsEcBO3KGcFp21htqJtTnAsgEmpr.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/YpQ1Yf2z1RXrd9gCjKzJyHVsEcBO3KGcFp21htqJtTnAsgEmpr.png"
+      },
+      {
+        "id": 4540,
+        "question_id": "1641",
+        "text": "",
+        "is_correct": true,
+        "option_image": "oopAJ5xKxKW80e67IGviEOqEvXxFqX3BrhTA7M3nZYYn1IcQWT.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/oopAJ5xKxKW80e67IGviEOqEvXxFqX3BrhTA7M3nZYYn1IcQWT.png"
+      },
+      {
+        "id": 4541,
+        "question_id": "1641",
+        "text": "",
+        "is_correct": true,
+        "option_image": "GZBg5wOO5Ya5FSov1xovaURKQ0Uid1HQgRRTrFbxnm8xUpBvbs.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/GZBg5wOO5Ya5FSov1xovaURKQ0Uid1HQgRRTrFbxnm8xUpBvbs.png"
+      }
+    ],
+    "answer_explanation": "The image depicts a flowchart, which is a visual representation of a process or system. The flowchart consists of six numbered ovals, each representing a step or decision point in the process. The ovals are connected by arrows, which indicate the direction of the flow between steps.\n\nHere is a detailed description of the flowchart:\n\n*   Oval 1: This is the starting point of the flowchart and represents the initial step in the process.\n*   Oval 2: This oval is connected to Oval 1 by an arrow pointing downwards, indicating that the process moves from Oval 1 to Oval 2.\n*   Oval 3: This oval is connected to Oval 2 by an arrow pointing to the right, indicating that the process moves from Oval 2 to Oval 3.\n*   Oval 4: This oval is connected to Oval 3 by an arrow pointing downwards, indicating that the process moves from Oval 3 to Oval 4.\n*   Oval 5: This oval is connected to Oval 4 by an arrow pointing to the left, indicating that the process moves from Oval 4 to Oval 5.\n*   Oval 6: This oval is connected to Oval 5 by an arrow pointing downwards, indicating that the process moves from Oval 5 to Oval 6.\n\nOverall, the flowchart appears to represent a decision-making process where the user is presented with a series of choices, each leading to a different outcome. The arrows indicate the direction of the flow, with the user moving from one step to the next based on their decisions.\n\nIn summary, the image depicts a flowchart that represents a decision-making process with multiple steps and branches, guiding the user through a series of choices to reach a conclusion."
+  },
+  {
+    "id": 1642,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/oBMsa24kAQQqjxXKEdGGO1D4UHBnkLtPaifFbWqDRSjmiaJPCc.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "c349be7e-56a1-4d8e-bbb7-73e928033df7",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4542,
+        "question_id": "1642",
+        "text": "",
+        "is_correct": false,
+        "option_image": "fFOfZnH0EXJ66230UIwrLOIqgqlNI1neeErFxYrqMgTqOl3sDX.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/fFOfZnH0EXJ66230UIwrLOIqgqlNI1neeErFxYrqMgTqOl3sDX.png"
+      },
+      {
+        "id": 4543,
+        "question_id": "1642",
+        "text": "",
+        "is_correct": false,
+        "option_image": "IGRCf3lGgTZFzBPrns4BAC5apavTS6hZp6Luhuj97xFtGfdhKl.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/IGRCf3lGgTZFzBPrns4BAC5apavTS6hZp6Luhuj97xFtGfdhKl.png"
+      },
+      {
+        "id": 4544,
+        "question_id": "1642",
+        "text": "",
+        "is_correct": true,
+        "option_image": "9Fazk1MP27uzLtLXjHdtZVT0BGBYAeWJ1RgD9ShRowFzTFOigZ.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/9Fazk1MP27uzLtLXjHdtZVT0BGBYAeWJ1RgD9ShRowFzTFOigZ.png"
+      },
+      {
+        "id": 4545,
+        "question_id": "1642",
+        "text": "",
+        "is_correct": false,
+        "option_image": "soXGCfuj6i1bdjXz2ZIZiPW1pdgt15kseDAAGe8ibrQ1GuPQJ3.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/soXGCfuj6i1bdjXz2ZIZiPW1pdgt15kseDAAGe8ibrQ1GuPQJ3.png"
+      }
+    ],
+    "answer_explanation": "The provided image presents a Python code snippet for a function named `fun(n)`, which takes an integer `n` as input and returns the sum of all integers from 1 to `n`. The code is written in a clear and concise manner, with each line of code corresponding to a specific step in the process.\n\nHere is a step-by-step breakdown of the code:\n\n1. The function defines a variable `count` and initializes it to 0. This variable will be used to store the sum of the integers from 1 to `n`.\n\n2. The function uses a `for` loop to iterate over the range from 1 to `n` (inclusive). The variable `i` represents the current integer being processed in each iteration.\n\n3. Inside the loop, the function adds the value of `i` to the `count` variable. This effectively accumulates the sum of all integers from 1 to `n`.\n\n4. After the loop completes, the function returns the final value of `count`, which represents the sum of all integers from 1 to `n`.\n\nThe time complexity of this function is O(n), as it involves a single loop that iterates `n` times. The space complexity is O(1), as it only uses a constant amount of space to store the `count` variable.\n\nIn summary, the provided Python code snippet defines a function that calculates the sum of all integers from 1 to `n` using a simple and efficient approach. The time complexity of this function is O(n), making it suitable for large inputs."
+  },
+  {
+    "id": 1643,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/hQk9AVFDnfLGRzTOpy6XC5Dz3CdTkKijxHn70eOHfeqKodeDdl.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "40377e1f-bdb7-4f44-8cfd-2284f6505e31",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4546,
+        "question_id": "1643",
+        "text": "",
+        "is_correct": false,
+        "option_image": "VD1078aIubjjbgxtkqCbrhEFd7bIqTCn2Hybt9ZHfKBP7ANUdp.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/VD1078aIubjjbgxtkqCbrhEFd7bIqTCn2Hybt9ZHfKBP7ANUdp.png"
+      },
+      {
+        "id": 4547,
+        "question_id": "1643",
+        "text": "",
+        "is_correct": true,
+        "option_image": "EdAmB6yUagztU9n2ceLu2i0NEXv6sjmsHDaLunBqZuw385KlWd.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/EdAmB6yUagztU9n2ceLu2i0NEXv6sjmsHDaLunBqZuw385KlWd.png"
+      },
+      {
+        "id": 4548,
+        "question_id": "1643",
+        "text": "",
+        "is_correct": false,
+        "option_image": "euGfuVblaB2MdVI5iexdC81bSyoiuYDcNAMLnqDiBp0s3DNpiM.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/euGfuVblaB2MdVI5iexdC81bSyoiuYDcNAMLnqDiBp0s3DNpiM.png"
+      },
+      {
+        "id": 4549,
+        "question_id": "1643",
+        "text": "",
+        "is_correct": false,
+        "option_image": "i19PEAszgnUinhMzuQjYuKwFFsg0trdJlrjiZbWdTmrvIhnvqn.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/i19PEAszgnUinhMzuQjYuKwFFsg0trdJlrjiZbWdTmrvIhnvqn.png"
+      }
+    ],
+    "answer_explanation": "To determine the stability of the input list, we need to analyze the differences between consecutive points in the list.\n\n**Step 1: Calculate the differences between consecutive points**\n\n*   (7, 8, 1) and (3, 7, 5): 7 - 3 = 4, 8 - 7 = 1, 1 - 5 = -4\n*   (3, 7, 5) and (6, 8, 1): 6 - 3 = 3, 8 - 7 = 1, 1 - 5 = -4\n*   (6, 8, 1) and (6, 7, 5): 6 - 6 = 0, 7 - 8 = -1, 5 - 1 = 4\n*   (6, 7, 5) and (0, 5, 2): 0 - 6 = -6, 5 - 7 = -2, 2 - 5 = -3\n*   (0, 5, 2) and (9, 9, 0): 9 - 0 = 9, 9 - 5 = 4, 0 - 2 = -2\n\n**Step 2: Determine the stability of the input list**\n\nA stable input list corresponds to a list of points where the differences between consecutive points are small and consistent.\n\nIn this case, the differences between consecutive points are:\n\n*   4, 1, -4\n*   3, 1, -4\n*   0, -1, 4\n*   -6, -2, -3\n*   9, 4, -2\n\nThe differences are not consistently small and positive, indicating that the input list is not stable.\n\n**Answer**: None of the following corresponds to a stable sort of this input."
+  },
+  {
+    "id": 1644,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/UhcyfohwniK3TceRLAcmrc0xfwf8hzO9OnyS3rKUylQRJA81FJ.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "a37adcaa-d16b-4834-94c0-8723ca1b3332",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4550,
+        "question_id": "1644",
+        "text": "",
+        "is_correct": false,
+        "option_image": "NrxjH7toPRaPy3XuU9YAnTARixQgf1H9g1INgCAY7Il8F9Ylcv.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/NrxjH7toPRaPy3XuU9YAnTARixQgf1H9g1INgCAY7Il8F9Ylcv.png"
+      },
+      {
+        "id": 4551,
+        "question_id": "1644",
+        "text": "",
+        "is_correct": false,
+        "option_image": "DubUkAKdwN9iWh65lPiIYvmDWL8pAOlggKCaMpxiHtkqQ6z9aN.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/DubUkAKdwN9iWh65lPiIYvmDWL8pAOlggKCaMpxiHtkqQ6z9aN.png"
+      },
+      {
+        "id": 4552,
+        "question_id": "1644",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ghS4gPBI4PMfqXMKZviC6b7VHLiX0KPXqPjPpwNFDst7FGL5W0.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/ghS4gPBI4PMfqXMKZviC6b7VHLiX0KPXqPjPpwNFDst7FGL5W0.png"
+      },
+      {
+        "id": 4553,
+        "question_id": "1644",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Wm1e2CuYq8x3JzftZl5NgqkYQ87D7gJZpWuaDIqX6XoNvh9aLs.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/Wm1e2CuYq8x3JzftZl5NgqkYQ87D7gJZpWuaDIqX6XoNvh9aLs.png"
+      }
+    ],
+    "answer_explanation": "The provided code is intended to implement the insertion sort algorithm in a list of distinct integers. The code defines a function `insertionsort(L)` that takes a list `L` as input and returns the sorted list. The function iterates through the list from the second element to the last, and for each element, it compares it with the previous elements and shifts them if necessary to maintain the sorted order.\n\n**Step 2: Identifying the Correct Implementation**\n\nTo determine which option is correct, we need to analyze the given code and compare it with the implementation of the insertion sort algorithm.\n\n*   The code uses a nested loop structure, which is common in insertion sort algorithms.\n*   The outer loop iterates through the list, and the inner loop checks if the current element is greater than any of the previous elements.\n*   If the current element is greater, it is shifted to the right by one position using the `j = j - 1` statement.\n*   This process continues until the entire list is sorted.\n\n**Step 3: Evaluating the Options**\n\nBased on the analysis, we can evaluate the options:\n\n*   Option 1: The given code is a correct implementation of the insertion sort algorithm.\n*   Option 2: The code is not a correct implementation of the insertion sort algorithm.\n*   Option 3: The code is a correct implementation of the insertion sort algorithm.\n\n**Step 4: Conclusion**\n\nBased on the analysis and evaluation of the options, we can conclude that:\n\n*   The correct implementation of the insertion sort algorithm is represented by option 1.\n\n**Answer**: Option 1"
+  },
+  {
+    "id": 1645,
+    "question_text": "3-way-Merge Sort: Suppose that instead of dividing the input list L in half at each step of Merge Sort, you divide L into three equal parts, sort each parts, and finally combine all of them using an efficient three-way merge (merge three sorted lists instead of two).  What is the overall asymptotic running time of the 3-way-Merge Sort algorithm?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "35de7b22-9cd1-43ac-9a2c-6f962250eef5",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4554,
+        "question_id": "1645",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Sfs87rTLzYglLbs2cnmIxlM4On6FuVLvrLL67RGsqu7rQDY8CM.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/Sfs87rTLzYglLbs2cnmIxlM4On6FuVLvrLL67RGsqu7rQDY8CM.png"
+      },
+      {
+        "id": 4555,
+        "question_id": "1645",
+        "text": "",
+        "is_correct": false,
+        "option_image": "WLlGPK1CbH3xfpIDtHm59uwTTpff9ELmvHcvr1jckZAjBc6Fy6.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/WLlGPK1CbH3xfpIDtHm59uwTTpff9ELmvHcvr1jckZAjBc6Fy6.png"
+      },
+      {
+        "id": 4556,
+        "question_id": "1645",
+        "text": "",
+        "is_correct": false,
+        "option_image": "bV8p8S84MNCE9ovjCMDyEPZZ3mrvK5VWgIAwB2BVUL6UUu6ira.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/bV8p8S84MNCE9ovjCMDyEPZZ3mrvK5VWgIAwB2BVUL6UUu6ira.png"
+      },
+      {
+        "id": 4557,
+        "question_id": "1645",
+        "text": "",
+        "is_correct": true,
+        "option_image": "8yUB23tfqUVEnUpyN4GFcRK7n6Uu9sSAiIVMBCEtykeaqVDy1G.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/8yUB23tfqUVEnUpyN4GFcRK7n6Uu9sSAiIVMBCEtykeaqVDy1G.png"
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 1646,
+    "question_text": "Which of the following statements is not true about Quicksort?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "08eca30e-c565-4a65-877e-dee17e962497",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4558,
+        "question_id": "1646",
+        "text": "",
+        "is_correct": false,
+        "option_image": "QiXmN6GLRjclF0FY7gXCcNdVFhCD2cbGwYyMZbd62bsunl6J1l.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/QiXmN6GLRjclF0FY7gXCcNdVFhCD2cbGwYyMZbd62bsunl6J1l.png"
+      },
+      {
+        "id": 4559,
+        "question_id": "1646",
+        "text": "",
+        "is_correct": false,
+        "option_image": "FKCjxS9Y5ZFxcDJPL12Y6p9d1Pdb7ijuUfKIIESF3FIQWzh2h4.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/FKCjxS9Y5ZFxcDJPL12Y6p9d1Pdb7ijuUfKIIESF3FIQWzh2h4.png"
+      },
+      {
+        "id": 4560,
+        "question_id": "1646",
+        "text": "",
+        "is_correct": true,
+        "option_image": "0Gpbo8gRVJjt7VC60a8CDbwuSUuN3tiIMV9UlokuaeyiQ5oPR9.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/0Gpbo8gRVJjt7VC60a8CDbwuSUuN3tiIMV9UlokuaeyiQ5oPR9.png"
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 1647,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/uL9gVSnrvR5Goo3NxlNX9pHjvvhPiPzYYLjxeLXaMw7VaPgbF3.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "c96c7866-c090-474f-8678-099127843cf3",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4561,
+        "question_id": "1647",
+        "text": "",
+        "is_correct": false,
+        "option_image": "0WZMKjIQcvZCfJKYL5vus1zu8LsoPjoIQVVFiQIU5vZQ7cLco7.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/0WZMKjIQcvZCfJKYL5vus1zu8LsoPjoIQVVFiQIU5vZQ7cLco7.png"
+      },
+      {
+        "id": 4562,
+        "question_id": "1647",
+        "text": "",
+        "is_correct": false,
+        "option_image": "pYMYfiJY7pghdJbnouWi4VwCYQ5Zc0pBuDZ1knveByvgxfNSEj.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/pYMYfiJY7pghdJbnouWi4VwCYQ5Zc0pBuDZ1knveByvgxfNSEj.png"
+      },
+      {
+        "id": 4563,
+        "question_id": "1647",
+        "text": "",
+        "is_correct": true,
+        "option_image": "v1FYFGEECwFjBQ2Fz4HV4GFdsfg3lYUTTZmKMcMDDzitfPzVIU.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/v1FYFGEECwFjBQ2Fz4HV4GFdsfg3lYUTTZmKMcMDDzitfPzVIU.png"
+      },
+      {
+        "id": 4564,
+        "question_id": "1647",
+        "text": "",
+        "is_correct": false,
+        "option_image": "cueLJc0P1zuqQVvIcbh2B9tv1rYogSodiJe30cDPOA3Lfv9npM.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/cueLJc0P1zuqQVvIcbh2B9tv1rYogSodiJe30cDPOA3Lfv9npM.png"
+      }
+    ],
+    "answer_explanation": "The image presents a code snippet in Python, accompanied by a detailed explanation of the operations and their effects on a stack and queue. The code is designed to demonstrate the functionality of these data structures.\n\n**Code Snippet:**\n\n```python\nfor i in range(5):\n    S.Push(i)\nQ.Enqueue(i)\n\nwhile not Q.isEmpty():\n    S.Push(Q.Dequeue())\n\nwhile not S.isEmpty():\n    Q.Enqueue(S.Pop())\n\nwhile not Q.isEmpty():\n    print(Q.Dequeue(), end = \" \")\n```\n\n**Explanation:**\n\n*   **Assumptions:**\n    *   `s` is a stack.\n    *   `Q` is a queue.\n*   **Operations:**\n    *   `Push` and `Pop` operations are usual stack operations.\n    *   `Enqueue` and `Dequeue` are usual queue operations.\n    *   `isEmpty()` is a method that returns true if either the stack or the queue is empty.\n*   **Step-by-Step Execution:**\n    1.  Initialize a stack `s` and a queue `Q`.\n    2.  Push five elements into the stack `s` and enqueue them into the queue `Q`.\n    3.  Dequeue elements from the queue `Q` and push them into the stack `s` until the queue is empty.\n    4.  Pop elements from the stack `s` and enqueue them into the queue `Q` until the stack is empty.\n    5.  Dequeue elements from the queue `Q` and print them until the queue is empty.\n\n**Output:**\n\nThe output of the given code snippet is:\n\n0 1 2 3 4\n\nThis output represents the elements that were dequeued from the queue `Q` after the stack and queue operations were performed. The elements are printed in the order they were dequeued, which is the order in which they were enqueued initially."
+  },
+  {
+    "id": 1648,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/r1Sj8N8syicvuEFsvQQuYP7r8uE2QtDKYbpnvOIguwtsVDSPlt.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "4c6e2741-fb55-4560-b090-0c46331ba7a1",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4565,
+        "question_id": "1648",
+        "text": "",
+        "is_correct": false,
+        "option_image": "wQyCFGOxaukTSkYfbwpl1Evg7c0lLzOzpB55qGVhmEacfxCnzM.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/wQyCFGOxaukTSkYfbwpl1Evg7c0lLzOzpB55qGVhmEacfxCnzM.png"
+      },
+      {
+        "id": 4566,
+        "question_id": "1648",
+        "text": "",
+        "is_correct": false,
+        "option_image": "N6kZ7iJEBwJUFVTvtFjfjBxTYGcedfZfR98WuZp9iT136Tncy9.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/N6kZ7iJEBwJUFVTvtFjfjBxTYGcedfZfR98WuZp9iT136Tncy9.png"
+      },
+      {
+        "id": 4567,
+        "question_id": "1648",
+        "text": "",
+        "is_correct": false,
+        "option_image": "9DSLPiRyYYLVnV3nmFjQeMHlFtJ9gwrz5vy16Ysm2JEckBA9Nd.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/9DSLPiRyYYLVnV3nmFjQeMHlFtJ9gwrz5vy16Ysm2JEckBA9Nd.png"
+      },
+      {
+        "id": 4568,
+        "question_id": "1648",
+        "text": "",
+        "is_correct": true,
+        "option_image": "t2sBl7XkwALXFueviV4JNlAXOPtGp4fRMkJRYOf7T53JlCliaF.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/t2sBl7XkwALXFueviV4JNlAXOPtGp4fRMkJRYOf7T53JlCliaF.png"
+      },
+      {
+        "id": 4569,
+        "question_id": "1648",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Ks5JFfTf4wrFJIovZH3d4alJ64FwFEYd3N69bvRzLjlCrY30dR.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/Ks5JFfTf4wrFJIovZH3d4alJ64FwFEYd3N69bvRzLjlCrY30dR.png"
+      }
+    ],
+    "answer_explanation": "To find the answer, we need to understand the concepts of a BFS tree and the breadth-first search traversal.\n\n1. A BFS tree is a tree data structure where the nodes are visited in breadth-first order. In other words, all the nodes at a given depth are explored before moving on to the next depth level.\n\n2. A breadth-first search traversal visits all the nodes at a given depth before moving on to the next depth level.\n\nNow, let's analyze the given statements:\n\n1. \"Consider a graph G.\" - This statement is true because we are considering a graph G.\n\n2. \"Let T be a BFS tree of G with root r.\" - This statement is true because we are defining a BFS tree T of graph G with root r.\n\n3. \"Let d(r, v) denote the length of the shortest path between the nodes r and v.\" - This statement is true because d(r, v) represents the distance from node r to node v in the BFS tree T.\n\n4. \"If vertex x is visited before vertex y in the breadth-first search traversal, which of the following statements is true?\" - This statement is asking us to determine the relationship between the order of visiting vertices x and y in a breadth-first search traversal.\n\nBased on the definition of a BFS tree and traversal, we know that:\n\n* In a BFS traversal, all nodes at a given depth are explored before moving on to the next depth level.\n* If vertex x is visited before vertex y in a BFS traversal, it means that x is at a shallower depth than y.\n\nTherefore, the correct answer is:\n\n*Answer*: The statement \"x is at a shallower depth than y\" is true."
+  },
+  {
+    "id": 1649,
+    "question_text": "Consider the following statements:  1. While creating a DFS tree for a directed graph, among non-tree edges, only back edges correspond to cycles. 2. The depth of any DFS tree rooted at a vertex is at least as much as the depth of any BFS tree rooted at the same vertex.  Choose the correct option.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "f4ad2872-41f7-4036-961c-3cc8ae71fa30",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 4570,
+        "question_id": "1649",
+        "text": "Only statement 1 is true",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4571,
+        "question_id": "1649",
+        "text": "Only statement 2 is true",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4572,
+        "question_id": "1649",
+        "text": "Both statements 1 and 2 are true",
+        "is_correct": true,
+        "option_image": "",
+        "score": "3.000",
+        "option_image_url": null
+      },
+      {
+        "id": 4573,
+        "question_id": "1649",
+        "text": "Both statements 1 and 2 are false",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 1650,
+    "question_text": null,
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/DfHciMrguHkpgLBA30ePwXXcWjX0YOdjIZhcvVFw8lF40g7jAy.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "236d516e-9c08-4451-acd6-13067cbb9d3a",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": "**Step 1: Understand the problem**\n\nThe problem asks us to consider a list of numbers and apply the Quick-sort partition algorithm once. After applying the algorithm, the list is modified. We need to find the number of elements that could have been chosen as a pivot in the first round.\n\n**Step 2: Identify the key elements**\n\nThe key elements in this problem are:\n\n*   The given list: L = [9, 14, 17, 37, 57, 62, 82, 92, 97]\n*   The modified list after applying the Quick-sort partition algorithm once: [14, 9, 17, 62, 82, 57, 92, 37, 97]\n\n**Step 3: Analyze the modified list**\n\nBy analyzing the modified list, we can see that the elements are rearranged in a way that the pivot element is placed in its correct position.\n\n**Step 4: Determine the possible pivots**\n\nTo determine the possible pivots, we need to find the elements that are greater than the pivot element and the elements that are less than the pivot element.\n\n*   The pivot element is 14.\n*   The elements greater than the pivot element are: 17, 37, 57, 62, 82, 92, 97\n*   The elements less than the pivot element are: 9\n\n**Step 5: Count the possible pivots**\n\nBased on the analysis, we can count the possible pivots:\n\n*   There are 7 elements greater than the pivot element.\n*   There is 1 element less than the pivot element.\n\n**Step 6: Determine the answer**\n\nTherefore, the number of elements that could have been chosen as a pivot in the first round is 7 + 1 = 8.\n\n*Answer*: 8"
+  },
+  {
+    "id": 1651,
+    "question_text": "A connected, simple, undirected graph G has 1225 edges. The minimum number of vertices in G is ________.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "bd2b7cf7-5f7f-42e3-b17b-5b96b3bbef8d",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": ""
+  }
+]

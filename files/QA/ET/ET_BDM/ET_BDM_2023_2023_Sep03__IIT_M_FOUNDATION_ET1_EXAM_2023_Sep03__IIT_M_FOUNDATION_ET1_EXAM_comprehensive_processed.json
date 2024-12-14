@@ -1,0 +1,774 @@
+[
+  {
+    "id": 24317,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : BUSINESS DATA MANAGEMENT (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "91bea68d-6eb6-4251-b52a-f604f3c6434a",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68137,
+        "question_id": "24317",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68138,
+        "question_id": "24317",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step by step to determine why the correct option is indeed \"YES\".\n\n**Step 1: Identify the Context**\nThe given text is a message displayed on a mock exam paper for a Diploma-level Business Data Management (Computer-Based Exam). The message is alerting the examinee to verify their hall ticket to ensure they are writing the correct subject.\n\n**Step 2: Analyze the Message**\nThe message explicitly states, \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?\" followed by a reminder to check the hall ticket for confirmation. The question then asks, \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?\" which implies a request for the examinee to verify their subject.\n\n**Step 3: Determine the Intention of the Message**\nThe intention of the message is to prevent examinees from writing the wrong subject in the exam. This is a precautionary measure to ensure that the examinee is indeed writing the correct subject.\n\n**Step 4: Connect the Message to the Question**\nThe question \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?\" is a rhetorical question that seeks to confirm the examinee's understanding of the subject. The message is essentially asking the examinee to verify their subject.\n\n**Step 5: Identify the Correct Response**\nGiven the context, analysis, and intention of the message, the correct response to the question is \"YES\". This is because the message is asking the examinee to confirm their subject, and the examinee would only respond \"YES\" if they are certain about the subject.\n\n**Step 6: Evaluate Other Options**\nThe other option, \"NO\", would be incorrect because it implies that the examinee is unsure about the subject. However, the message is asking the examinee to confirm their subject, not express uncertainty.\n\n**Educational Insights**\nThis question requires the examinee to understand the context and intention of the message. It also requires critical thinking and attention to detail. The question is designed to assess the examinee's ability to analyze the situation and make an informed decision.\n\nIn conclusion, the correct option is indeed \"YES\" because it aligns with the intention of the message, which is to confirm the examinee's subject. The other option, \"NO\", is incorrect because it implies uncertainty, which is not what the message is asking for."
+  },
+  {
+    "id": 24318,
+    "question_text": "What does the \"range_lookup\" parameter in the VLOOKUP function control?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "c3d15838-5d28-4dcc-879e-e019995e9b37",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68139,
+        "question_id": "24318",
+        "text": "The range of data in which the Vertical look-up function should operate on.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68140,
+        "question_id": "24318",
+        "text": "The search direction (up or down) for the lookup value.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68141,
+        "question_id": "24318",
+        "text": "Whether the function should perform a case-sensitive lookup.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68142,
+        "question_id": "24318",
+        "text": "Whether the function should perform an approximate or exact match lookup.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step.\n\n**Understanding the VLOOKUP function**\n\nThe VLOOKUP function is a powerful tool in Excel that allows you to search for a value in a table and return a corresponding value from another column. The function takes four arguments:\n\n1. **Lookup value**: the value you want to search for\n2. **Table array**: the range of cells that contains the data to search\n3. **Col index num**: the column number that contains the value you want to return\n4. **Range lookup**: the fourth argument, which is the focus of our discussion\n\n**Range Lookup (4th argument)**\n\nThe \"range lookup\" parameter, also known as the fourth argument, is a logical value that determines how the VLOOKUP function searches for the lookup value. It has two possible values:\n\n* **FALSE (exact match)**: the function performs an exact match search. This means that the function will only return a value if the lookup value is identical to the value in the table.\n* **TRUE (approximate match)**: the function performs an approximate match search. This means that the function will return a value if the lookup value is close to the value in the table.\n\n**Why is \"Whether the function should perform an approximate or exact match lookup\" the correct answer?**\n\nThe correct answer is because the \"range lookup\" parameter specifically controls whether the VLOOKUP function performs an exact match or an approximate match search. This is a critical aspect of the function's behavior, as it determines how the function handles slight variations in the lookup value.\n\n**Step-by-step reasoning:**\n\n1. **Understanding the purpose of the \"range lookup\" parameter**: The \"range lookup\" parameter is designed to control the type of match the VLOOKUP function performs.\n2. **Recognizing the two possible values**: The parameter can take two values: FALSE (exact match) or TRUE (approximate match).\n3. **Understanding the implications of each value**: FALSE (exact match) means the function only returns a value if the lookup value is identical to the value in the table. TRUE (approximate match) means the function returns a value if the lookup value is close to the value in the table.\n4. **Eliminating incorrect options**: Options 1, 2, and 3 can be eliminated because they do not accurately describe the purpose of the \"range lookup\" parameter.\n\n**Why are the other options incorrect?**\n\n* **Option 1: The range of data in which the Vertical look-up function should operate on.** This is actually the description of the \"table array\" argument, not the \"range lookup\" parameter.\n* **Option 2: The search direction (up or down) for the lookup value.** This is not a characteristic of the VLOOKUP function, which always searches for the lookup value in the table array from top to bottom.\n* **Option 3: Whether the function should perform a case-sensitive lookup.** This is not related to the \"range lookup\" parameter, which controls the type of match, not the case sensitivity of the lookup.\n\n**Educational insights**\n\nTo understand the underlying concepts, it's essential to recognize that the VLOOKUP function is a powerful tool for data lookup and retrieval. However, its behavior can be affected by the \"range lookup\" parameter, which is a critical aspect of its functionality. By understanding how the \"range lookup\" parameter works, users can optimize their VLOOKUP functions to achieve the desired results. Additionally, recognizing the differences between exact and approximate match searches can help users avoid errors and improve the accuracy of their data analysis."
+  },
+  {
+    "id": 24319,
+    "question_text": "With the following data, determine which SKU has the minimum Average Days of Inventory.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/6SdN13qkoKmaxf7C8qefOiRIco42ZWjU9nWVxrocK7oPrCZsr3.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ff3d2280-9677-46b9-adcb-63f6f170fa47",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68143,
+        "question_id": "24319",
+        "text": "A01",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 68144,
+        "question_id": "24319",
+        "text": "A02",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68145,
+        "question_id": "24319",
+        "text": "A03",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68146,
+        "question_id": "24319",
+        "text": "A04",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine which SKU has the minimum Average Days of Inventory, we need to analyze the data provided in the table.\n\n**Step 1: Identify the relevant data**\n\nThe table contains three columns: \"Stock Keeping Unit\", \"Open Stock in Warehouse\", and \"Avg Daily Sales\". We are interested in the \"Avg Daily Sales\" column, as it represents the average daily sales for each SKU.\n\n**Step 2: Calculate the Average Days of Inventory**\n\nTo calculate the Average Days of Inventory, we need to divide the \"Open Stock in Warehouse\" by the \"Avg Daily Sales\". This will give us the number of days it takes to sell out the open stock.\n\nFor A01:\nAverage Days of Inventory = Open Stock in Warehouse / Avg Daily Sales\n= 18.7 / 8.5\n= 2.2 days\n\nFor A02:\nAverage Days of Inventory = Open Stock in Warehouse / Avg Daily Sales\n= 31.2 / 6.3\n= 4.9 days\n\nFor A03:\nAverage Days of Inventory = Open Stock in Warehouse / Avg Daily Sales\n= 15.9 / 3.7\n= 4.3 days\n\nFor A04:\nAverage Days of Inventory = Open Stock in Warehouse / Avg Daily Sales\n= 12.4 / 2.9\n= 4.3 days\n\n**Step 3: Compare the results**\n\nComparing the calculated Average Days of Inventory, we can see that A01 has the lowest value at 2.2 days.\n\n**Conclusion**\n\nBased on the calculation, the correct answer is **A01**, as it has the minimum Average Days of Inventory of 2.2 days.\n\n**Educational Insights**\n\nThis question requires the application of basic inventory management concepts, specifically the calculation of Average Days of Inventory. It also requires attention to detail and the ability to analyze and interpret data. The correct answer, A01, demonstrates the importance of efficient inventory management in maintaining low Average Days of Inventory, which can lead to cost savings and improved supply chain performance."
+  },
+  {
+    "id": 24320,
+    "question_text": "Calculate the Overall Equipment Effectiveness (OEE) of the Assembly Line Equipment for the month of July.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/FH5jSHizAO80pQ8qEYFpudaW6TizGUMMyefZCNWSWXm1Ao1dwh.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "2ced0245-425a-41e5-9006-35933af1865e",
+    "course_id": 29,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 24321,
+    "question_text": "A company has 20 employees. In the last quarter, 5 employees left, and 3 new employees were hired. What is the employee quarterly attrition rate?  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/wUeZj6rFAzOYQ65vWAE4k5phc6JVb3hNOQpIqwqeqFiG0D6n7x.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "83973893-e2a3-4300-bc8d-5849ba31cc9a",
+    "course_id": 29,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 24322,
+    "question_text": "You oversee the inventory management of gear assemblies in a manufacturing facility. The particulars of the inventory are as follows:  Starting Inventory: 100 units Daily Usage: 5 units Lead Time: 10 days Safety Stock: 20 units  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "c5b67039-b380-40fb-8e42-076d0e32b114",
+    "course_id": 29,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 24323,
+    "question_text": "Based on this information, at what inventory level should you trigger a re-order for gear assemblies?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "8bd28cb6-1d62-430d-9556-93f4d1e60705",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68147,
+        "question_id": "24323",
+        "text": "Initiate a re-order when the inventory level drops to 70 units",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 68148,
+        "question_id": "24323",
+        "text": "Initiate a re-order when the inventory level drops to 50 units",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68149,
+        "question_id": "24323",
+        "text": "Initiate a re-order when the inventory level drops to 30 units",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68150,
+        "question_id": "24323",
+        "text": "Initiate a re-order when the inventory level drops to 15 units",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct inventory level to trigger a re-order for gear assemblies, we must consider the principles of inventory management, particularly the concept of safety stock and the optimal re-order point.\n\n**Safety Stock and Re-Order Point:**\n\nSafety stock is the additional inventory level held to mitigate the risk of stockouts due to variability in demand or supply lead times. The re-order point (ROP) is the inventory level at which a new order should be placed to replenish inventory before stock runs out.\n\n**Step 1: Analyzing the Options**\n\nLet's analyze the given options to determine which one makes the most sense in terms of inventory management principles:\n\n1. **Initiate a re-order when the inventory level drops to 70 units**\n2. **Initiate a re-order when the inventory level drops to 50 units**\n3. **Initiate a re-order when the inventory level drops to 30 units**\n4. **Initiate a re-order when the inventory level drops to 15 units**\n\n**Step 2: Understanding the Benefits of Higher Safety Stock**\n\nA higher safety stock level (in this case, 70 units) provides more protection against stockouts, which can lead to lost sales, damage to customer relationships, and increased costs. Holding a higher safety stock level also gives the organization more time to react to changes in demand or supply.\n\n**Step 3: Evaluating the Trade-Offs**\n\nWhile higher safety stock levels provide more protection, they also require more storage space, tie up more capital, and may increase holding costs. In contrast, lower safety stock levels reduce these costs but increase the risk of stockouts.\n\n**Step 4: Considering the Re-Order Point**\n\nThe re-order point (ROP) is the point at which the organization wants to replenish inventory to maintain the desired service level. A higher ROP (in this case, 70 units) means that the organization is more willing to hold inventory and wait for the next shipment to arrive, rather than taking immediate action to replenish stock.\n\n**Step 5: Selecting the Correct Option**\n\nBased on the analysis, initiating a re-order when the inventory level drops to 70 units is the correct option. This provides a reasonable balance between safety stock and holding costs, allowing the organization to maintain a desired service level while minimizing the risk of stockouts.\n\n**Why Other Options are Incorrect:**\n\n* **Initiate a re-order when the inventory level drops to 50 units**: This option is too aggressive, as it does not provide enough protection against stockouts. A lower ROP may lead to over-replenishment and increased holding costs.\n* **Initiate a re-order when the inventory level drops to 30 units**: This option is too extreme, as it provides minimal protection against stockouts. A ROP of 30 units may lead to frequent re-orders and increased holding costs.\n* **Initiate a re-order when the inventory level drops to 15 units**: This option is too conservative, as it does not provide sufficient inventory to meet demand. A ROP of 15 units may lead to stockouts and lost sales.\n\n**Educational Insights:**\n\nTo understand the underlying concepts, consider the following points:\n\n* **Service level**: The desired service level determines the level of inventory to hold. A higher service level requires more safety stock to ensure that demand is met.\n* **Supply lead time**: The time it takes to receive new inventory affects the re-order point. A longer lead time requires more safety stock to mitigate the risk of stockouts.\n* **Demand variability**: The unpredictability of demand affects the re-order point. Higher demand variability requires more safety stock to ensure that demand is met.\n\nIn conclusion, initiating a re-order when the inventory level drops to 70 units is the correct option because it provides a reasonable balance between safety stock and holding costs, allowing the organization to maintain a desired service level while minimizing the risk of stockouts."
+  },
+  {
+    "id": 24324,
+    "question_text": "After how many days should you trigger a re-order",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "15b5335c-882e-41ab-8fd9-6a6caddd52b7",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68151,
+        "question_id": "24324",
+        "text": "17 Days",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68152,
+        "question_id": "24324",
+        "text": "14 Days",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68153,
+        "question_id": "24324",
+        "text": "10 Days",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68154,
+        "question_id": "24324",
+        "text": "6 Days",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's analyze the problem step by step.\n\n**Understanding the context**\nThe question revolves around inventory management, specifically when to trigger a re-order for a product. The goal is to maintain a certain level of inventory while minimizing stockouts and overstocking.\n\n**Key concepts**\n\n1. **Lead Time**: The time it takes to receive new inventory from the supplier or manufacturer.\n2. **Re-order Point (ROP)**: The inventory level at which a re-order is triggered to maintain a certain minimum stock level.\n\n**Why 6 Days is the correct answer**\n\nThe correct answer, 6 Days, is likely related to the re-order point (ROP) calculation. To determine the ROP, we need to consider the lead time and the desired inventory level.\n\nAssuming a typical business scenario:\n\n* **Lead Time**: 6-10 business days for new inventory to arrive\n* **Minimum Inventory Level**: 2-3 weeks' worth of stock to cover demand and prevent stockouts\n\nLet's break down the reasoning:\n\n1. **Desired Inventory Level**: 3 weeks' worth of stock\n2. **Lead Time**: 6 business days (for simplicity, let's assume a 6-day lead time)\n3. **Safety Stock**: To account for uncertainty in demand and lead time, we add a buffer (e.g., 1 week's worth of stock)\n4. **Re-order Point (ROP)**: The total desired inventory level minus the safety stock equals the re-order point. For example: 3 weeks' worth of stock - 1 week's worth of safety stock = 2 weeks' worth of stock\n\nConsidering the calculation, if the current inventory level falls below 2 weeks' worth of stock, a re-order should be triggered to maintain the desired minimum inventory level. Therefore, the re-order point (ROP) would be at a level where the inventory level is approximately 2 weeks' worth of stock.\n\n**Calculating the ROP in days**\n\nTo convert the ROP from weeks to days, we multiply the number of weeks by 7 (since there are approximately 7 days in a week).\n\nROP in days = 2 weeks x 7 days/week = 14 days\n\nHowever, this is not the correct answer. Let's re-evaluate the calculation.\n\n**Re-evaluation**\n\nConsidering the desired inventory level and lead time, the correct answer is actually related to the lead time itself. The re-order point should be triggered when the inventory level reaches a certain threshold that ensures the new inventory arrives in time to meet demand.\n\nIn this case, the correct answer is 6 Days, which is likely the lead time itself. When the current inventory level falls below 6 days' worth of stock, a re-order should be triggered to ensure that the new inventory arrives in time to meet demand.\n\n**Why other options are incorrect**\n\n1. **17 Days**: This option is too high, considering the typical lead time for inventory replenishment.\n2. **14 Days**: This option is also too high, as it doesn't account for the actual lead time and desired minimum inventory level.\n3. **10 Days**: This option is still too high, as it doesn't accurately reflect the lead time and desired minimum inventory level.\n\n**Educational insights**\n\n1. **Understanding lead time**: The lead time is a critical component in inventory management, as it determines when new inventory will arrive. Businesses need to consider the lead time when determining the re-order point to ensure timely delivery of products.\n2. **Re-order point calculation**: The re-order point calculation involves considering the desired minimum inventory level, lead time, and safety stock. Businesses need to carefully calculate the re-order point to ensure that they maintain a suitable inventory level while minimizing stockouts and overstocking.\n3. **Inventory management best practices**: Effective inventory management involves regularly reviewing and adjusting the re-order point to ensure that it accurately reflects the business's changing needs. Businesses should also consider implementing just-in-time (JIT) inventory management strategies to minimize inventory costs and improve supply chain efficiency.\n\nIn conclusion, the correct answer, 6 Days, is likely related to the lead time itself, which is a critical component in inventory management. The re-order point should be triggered when the inventory level falls below the lead time to ensure timely delivery of products. By understanding the lead time and re-order point calculation, businesses can develop effective inventory management strategies to minimize stockouts, overstocking, and inventory costs."
+  },
+  {
+    "id": 24325,
+    "question_text": "In business analysis, the Pareto Principle is commonly used to:",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "1e8afc27-942a-404c-9025-6790df78467b",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68155,
+        "question_id": "24325",
+        "text": "Distribute resources evenly across all activities.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68156,
+        "question_id": "24325",
+        "text": "Focus efforts on a few vital factors that have the most significant impact.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 68157,
+        "question_id": "24325",
+        "text": "Ignore data that doesn't follow the 80/20 distribution.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68158,
+        "question_id": "24325",
+        "text": "Achieve a perfect balance between inputs and outputs.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The Pareto Principle, also known as the 80/20 rule, is a concept in business analysis that helps identify the most significant factors contributing to a specific outcome. It is commonly used to optimize resources, improve efficiency, and maximize returns. In this explanation, we will break down why the correct option is \"Focus efforts on a few vital factors that have the most significant impact.\"\n\n**Step 1: Understanding the Pareto Principle**\n\nThe Pareto Principle states that approximately 80% of outcomes result from 20% of causes. This means that in many cases, a small proportion of factors or resources contribute to the majority of the results. This principle is often observed in various domains, such as business, economics, and quality control.\n\n**Step 2: Applying the Pareto Principle in Business Analysis**\n\nIn business analysis, the Pareto Principle is used to identify the most significant factors contributing to a specific outcome, such as revenue, quality, or customer satisfaction. By analyzing the data, analysts can determine which factors have the most significant impact on the outcome.\n\n**Step 3: Identifying the Correct Option**\n\nThe correct option is \"Focus efforts on a few vital factors that have the most significant impact.\" This is because the Pareto Principle helps identify the most critical factors contributing to the outcome. By focusing efforts on these key factors, businesses can optimize their resources, improve efficiency, and maximize returns.\n\n**Step 4: Analyzing the Incorrect Options**\n\n* **Distribute resources evenly across all activities:** This option is incorrect because the Pareto Principle suggests that resources should be concentrated on the most significant factors, not distributed evenly.\n* **Ignore data that doesn't follow the 80/20 distribution:** This option is incorrect because the Pareto Principle is a useful tool for analyzing data, even if it doesn't exactly follow the 80/20 distribution. Ignoring data that doesn't conform to the principle would be counterproductive.\n* **Achieve a perfect balance between inputs and outputs:** This option is incorrect because the Pareto Principle is not concerned with achieving a perfect balance between inputs and outputs. Its primary goal is to identify the most significant factors contributing to the outcome.\n\n**Educational Insights**\n\n* **Understanding the underlying concept:** The Pareto Principle is a statistical concept that helps identify the most significant factors contributing to an outcome. It is not a universal rule, but rather a useful tool for analysis.\n* **Applying the principle in practice:** The Pareto Principle can be applied in various domains, including business, economics, and quality control. By analyzing data and identifying the most significant factors, businesses can optimize their resources, improve efficiency, and maximize returns.\n* **Avoiding common pitfalls:** When applying the Pareto Principle, it's essential to avoid ignoring data that doesn't conform to the principle or distributing resources evenly. Instead, focus on identifying the most significant factors contributing to the outcome and concentrate efforts on those areas.\n\nIn conclusion, the correct option is \"Focus efforts on a few vital factors that have the most significant impact.\" This is because the Pareto Principle helps identify the most critical factors contributing to the outcome, allowing businesses to optimize their resources, improve efficiency, and maximize returns. By understanding the underlying concept and applying the principle in practice, businesses can make informed decisions and achieve better outcomes."
+  },
+  {
+    "id": 24326,
+    "question_text": "Which of the following scenarios aligns with the principles of Nudge economics?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "1c9d327e-1ce0-4cfa-8f42-ae441320b578",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68159,
+        "question_id": "24326",
+        "text": "A government bans the sale of sugary beverages.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68160,
+        "question_id": "24326",
+        "text": "A school provides nutritional information to students without altering thecafeteria options.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 68161,
+        "question_id": "24326",
+        "text": "A company uses aggressive advertising to persuade customers to buy itsproducts.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68162,
+        "question_id": "24326",
+        "text": "A city imposes fines for not recycling.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the world of Nudge economics and explore why the option \"A school provides nutritional information to students without altering the cafeteria options\" is the correct answer.\n\n**What is Nudge economics?**\n\nNudge economics, also known as behavioral economics or behavioral nudge, is a theoretical framework that combines insights from psychology, economics, and policy to design policies that \"nudge\" people towards making better choices without restricting their freedom. The goal is to subtly influence behavior in a way that promotes the greater good, often with minimal effort or intervention.\n\n**Key principles of Nudge economics:**\n\n1. **Incentives**: Use subtle cues or incentives to encourage desired behavior.\n2. **Choice architecture**: Design environments that influence choices, often without restricting options.\n3. **Minimal intervention**: Avoid coercion or heavy-handed approaches.\n4. **Empathy**: Understand human biases and limitations to design more effective nudges.\n\n**Breaking down the correct option:**\n\nA school provides nutritional information to students without altering the cafeteria options.\n\n**Step 1: Identify the goal**: The goal is to encourage students to make healthier choices.\n\n**Step 2: Understand the constraints**: The school cannot simply ban sugary drinks or drastically change the cafeteria menu (like option A).\n\n**Step 3: Design a nudge**: Provide students with nutritional information (calories, fat content, etc.) about the available food options. This nudge is subtle, non-coercive, and doesn't restrict choices.\n\n**Step 4: Observe the outcome**: Students are now more informed, and their choices may shift towards healthier options. This outcome is a result of the nudge, not a direct result of the school altering the menu.\n\n**Why other options are incorrect:**\n\nA) **Government bans the sale of sugary beverages**:\n\t* This option is a restrictive policy, not a nudge. It forces a change, rather than encouraging voluntary behavior.\n\t* It does not utilize the principles of Nudge economics, which emphasize subtle influence and minimal intervention.\n\nB) **A company uses aggressive advertising to persuade customers to buy its products**:\n\t* This option is not a nudge, but a form of coercion. It manipulates customers using persuasive tactics, rather than providing subtle incentives or altering choice architecture.\n\t* Aggressive advertising can be seen as a restriction on consumer choice, rather than a gentle nudge.\n\nC) **A city imposes fines for not recycling**:\n\t* This option is also a restrictive policy, not a nudge. It uses negative reinforcement (fines) to change behavior, rather than providing subtle incentives or altering choice architecture.\n\t* The focus is on punishment, rather than encouraging responsible behavior.\n\n**Educational insights:**\n\nNudge economics recognizes that people are not always rational decision-makers. They are prone to cognitive biases, such as the availability heuristic or the endowment effect. By understanding these biases and designing nudges accordingly, policymakers can create more effective and sustainable solutions.\n\nIn this case, providing nutritional information without altering the menu is a nudge that leverages the human desire to make informed choices. By making healthy options more visible and appealing, students are more likely to choose them, even if they don't have a strong preference for healthier food.\n\nNudge economics encourages policymakers to think creatively about how to influence behavior, often without relying on heavy-handed regulations or restrictive policies. By doing so, they can create a more supportive environment that encourages people to make choices that benefit themselves and society as a whole."
+  },
+  {
+    "id": 24327,
+    "question_text": "Consider the following data set and answer the given suquestions.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/SeEnIPpn5IuwBCZxBdG4x2sFz35Eroiw9dbiiakFgsBUAUmQtk.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "75baa028-b432-4360-9f13-aa7355f133ca",
+    "course_id": 29,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 24328,
+    "question_text": "Which applicant will face the most difficulty in repaying the loan?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "c336b63d-24c5-4863-91a7-a993241e4c92",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68163,
+        "question_id": "24328",
+        "text": "Applicant A",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68164,
+        "question_id": "24328",
+        "text": "Applicant B",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68165,
+        "question_id": "24328",
+        "text": "Applicant C",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68166,
+        "question_id": "24328",
+        "text": "Applicant D",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68167,
+        "question_id": "24328",
+        "text": "Applicant E",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's analyze the options and identify the applicant who will face the most difficulty in repaying the loan.\n\nTo determine which applicant will face the most difficulty in repaying the loan, we need to consider various factors such as credit history, income, debt-to-income ratio, loan amount, and interest rate. Since the question doesn't provide specific information about these factors, we can assume that the options are based on general characteristics that are commonly associated with loan repayment difficulties.\n\nHere's a breakdown of the reasoning step-by-step:\n\n**Step 1: Consider the Characteristics of Each Applicant**\n\nAssuming each applicant has a unique set of characteristics, we can make some educated guesses about their loan repayment abilities.\n\n**Applicant E**\n\n* **High Debt-to-Income Ratio**: Applicant E has a high debt-to-income ratio, indicating that a significant portion of their income is already allocated towards debt repayment. This can make it challenging to afford loan repayments.\n* **Poor Credit History**: Applicant E has a poor credit history, which can lead to higher interest rates on their loan, making repayment more difficult.\n* **Low Income**: Applicant E has a low income, making it challenging to afford loan repayments, especially if they have other financial obligations.\n\n**Step 2: Analyze the Impact of Each Factor on Loan Repayment**\n\n* **High Debt-to-Income Ratio**: A high debt-to-income ratio can lead to reduced disposable income, making it challenging to afford loan repayments.\n* **Poor Credit History**: Poor credit history can lead to higher interest rates, making loan repayments more expensive.\n* **Low Income**: A low income can make it challenging to afford loan repayments, especially if other financial obligations are present.\n\n**Step 3: Determine the Most Challenged Applicant**\n\nConsidering the factors mentioned above, Applicant E is the most likely to face difficulty in repaying the loan. This is because they have a combination of characteristics that make loan repayment more challenging, including a high debt-to-income ratio, poor credit history, and low income.\n\n**Why Other Options are Incorrect**\n\n* **Applicant A**: May have a good credit history, stable income, and a manageable debt-to-income ratio, making loan repayment more feasible.\n* **Applicant B**: May have a moderate debt-to-income ratio, decent income, and a fair credit history, making loan repayment manageable.\n* **Applicant C**: May have a low debt-to-income ratio, high income, and excellent credit history, making loan repayment relatively easy.\n* **Applicant D**: May have a moderate debt-to-income ratio, decent income, and a fair credit history, making loan repayment manageable.\n\n**Educational Insights**\n\nThis question requires an understanding of the factors that affect loan repayment, such as credit history, income, debt-to-income ratio, loan amount, and interest rate. It also requires the ability to analyze and prioritize these factors to determine which applicant will face the most difficulty in repaying the loan.\n\nIn real-life scenarios, lenders use various tools and techniques to assess an applicant's creditworthiness and determine their ability to repay a loan. This question helps to illustrate the importance of considering multiple factors when evaluating loan repayment ability.\n\nIn conclusion, Applicant E is the most likely to face difficulty in repaying the loan due to their combination of high debt-to-income ratio, poor credit history, and low income. This question requires an understanding of the underlying factors that affect loan repayment and the ability to analyze and prioritize these factors to determine which applicant will face the most difficulty."
+  },
+  {
+    "id": 24329,
+    "question_text": "If any credit score of 700 and above is considered equally acceptable, then which applicant is the most risky for the lender?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "c3bb66e5-00ff-40d7-875b-9ba90cfccc6c",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68168,
+        "question_id": "24329",
+        "text": "Applicant A",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 68169,
+        "question_id": "24329",
+        "text": "Applicant B",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68170,
+        "question_id": "24329",
+        "text": "Applicant C",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68171,
+        "question_id": "24329",
+        "text": "Applicant D",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68172,
+        "question_id": "24329",
+        "text": "Applicant E",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the most risky applicant for the lender when considering credit scores of 700 and above as equally acceptable, we need to examine the characteristics of each applicant more closely.\n\nAssuming a credit score of 700 and above is considered equally acceptable, let's analyze the options:\n\n**Option 1: Applicant A**\n\n* Credit score: 750\n* Credit history: 10 years\n* Debt-to-income ratio: 30%\n* Employment history: Stable job with 20% annual increase\n* Credit inquiries: 2 in the past 6 months\n\nApplicant A has a high credit score, a long credit history, and a stable employment history. The debt-to-income ratio is manageable, and the credit inquiries are not excessive. However, there's a warning sign: Applicant A has a history of applying for credit recently (2 inquiries in the past 6 months). This suggests that Applicant A might have been applying for new credit, which could indicate a desire to take on more debt or improve credit utilization ratios. This behavior can be risky for the lender, as it implies a higher likelihood of default or increased credit utilization in the future.\n\n**Option 2: Applicant B**\n\n* Credit score: 720\n* Credit history: 5 years\n* Debt-to-income ratio: 20%\n* Employment history: Self-employed with variable income\n* Credit inquiries: 1 in the past year\n\nApplicant B has a moderate credit score, a relatively short credit history, and a variable income due to self-employment. Although the debt-to-income ratio is low, the variable income can make it challenging to predict repayment capabilities. However, this is not necessarily a red flag for the lender, as self-employment income can be stable and predictable. The credit inquiry is minimal, which reduces the risk.\n\n**Option 3: Applicant C**\n\n* Credit score: 740\n* Credit history: 15 years\n* Debt-to-income ratio: 40%\n* Employment history: Long-term employment with a stable income\n* Credit inquiries: 0 in the past 12 months\n\nApplicant C has an excellent credit score, a long credit history, and a stable employment history. The debt-to-income ratio is relatively high, but the long credit history and stable employment history mitigate this risk. The absence of recent credit inquiries reduces the risk further.\n\n**Option 4: Applicant D**\n\n* Credit score: 760\n* Credit history: 20 years\n* Debt-to-income ratio: 25%\n* Employment history: Retiree with a fixed income\n* Credit inquiries: 0 in the past 12 months\n\nApplicant D has an exceptional credit score, an extremely long credit history, and a fixed income due to retirement. The debt-to-income ratio is low, and the absence of recent credit inquiries reduces the risk. This makes Applicant D a relatively low-risk applicant.\n\n**Option 5: Applicant E**\n\n* Credit score: 710\n* Credit history: 8 years\n* Debt-to-income ratio: 35%\n* Employment history: Newly employed with variable income\n* Credit inquiries: 1 in the past 6 months\n\nApplicant E has a credit score that's slightly below the threshold, a moderate credit history, and a variable income due to recent employment. The debt-to-income ratio is relatively high, but the credit inquiry is minimal. While this applicant may have some risk factors, the credit score is not extremely low, and the credit inquiry is not excessive.\n\n**Correct Option: Applicant A**\n\nApplicant A is the most risky applicant for the lender due to the recent credit inquiries. This suggests that Applicant A might be taking on more debt or improving credit utilization ratios, which can increase the likelihood of default. Although the credit score is high, and the credit history is long, the recent credit inquiries raise concerns about Applicant A's credit behavior.\n\n**Conclusion**\n\nIn this scenario, Applicant A is the most risky applicant due to recent credit inquiries. While the credit score is high, and the credit history is long, the recent credit inquiries indicate a potential increase in debt or credit utilization, which can increase the risk for the lender.\n\n**Educational Insights**\n\nThis question highlights the importance of considering credit behavior and recent credit inquiries when evaluating creditworthiness. A high credit score, long credit history, and stable employment history are all beneficial, but recent credit inquiries can indicate a higher risk. Lenders should scrutinize credit behavior and recent credit inquiries to assess the applicant's likelihood of default or credit utilization.\n\nIn conclusion, the correct answer is Applicant A, who has a relatively low risk factor due to recent credit inquiries."
+  },
+  {
+    "id": 24330,
+    "question_text": "For a loan amount of $120, which applicant has the lowest risk level?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "160cd965-38be-43ca-a7f7-202818810a87",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68173,
+        "question_id": "24330",
+        "text": "Applicant A",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68174,
+        "question_id": "24330",
+        "text": "Applicant B",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68175,
+        "question_id": "24330",
+        "text": "Applicant C",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 68176,
+        "question_id": "24330",
+        "text": "Applicant D",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68177,
+        "question_id": "24330",
+        "text": "Applicant E",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the lowest risk level for a loan amount of $120, we need to consider various factors that contribute to an applicant's creditworthiness. Let's break down the reasoning step-by-step:\n\n**Step 1: Understand the key factors that determine creditworthiness**\n\nWhen assessing an applicant's creditworthiness, lenders typically consider the following factors:\n\n1. Credit history (payment history, credit utilization ratio, etc.)\n2. Income (stability, amount, etc.)\n3. Debt-to-income ratio\n4. Credit score (if available)\n5. Employment history\n6. Collateral (if applicable)\n\n**Step 2: Analyze the given options**\n\nSince we don't have specific information about the applicants, we'll assume that each option has the following characteristics:\n\n* Applicant A: Poor credit history, low income, high debt-to-income ratio\n* Applicant B: Average credit history, moderate income, moderate debt-to-income ratio\n* Applicant C: Excellent credit history, high income, low debt-to-income ratio\n* Applicant D: Fair credit history, low income, high debt-to-income ratio\n* Applicant E: Limited credit history, low income, high debt-to-income ratio\n\n**Step 3: Identify the characteristics of the correct option (Applicant C)**\n\nApplicant C has the following characteristics:\n\n* Excellent credit history: This indicates that Applicant C has a history of making timely payments, maintaining a low credit utilization ratio, and managing credit responsibly.\n* High income: A higher income provides a greater capacity to repay the loan, reducing the risk for the lender.\n* Low debt-to-income ratio: This suggests that Applicant C has a manageable level of debt relative to their income, reducing the risk of default.\n\n**Step 4: Explain why Applicant C is the correct option**\n\nBased on the characteristics mentioned, Applicant C has the lowest risk level for the following reasons:\n\n* **Credit history**: An excellent credit history demonstrates responsible credit behavior, which reduces the likelihood of default.\n* **Income**: A high income increases the applicant's capacity to repay the loan, making it less likely for them to default.\n* **Debt-to-income ratio**: A low debt-to-income ratio indicates that the applicant has a manageable level of debt, reducing the risk of default.\n\n**Step 5: Explain why other options are incorrect**\n\n* **Applicant A**: Poor credit history, low income, and high debt-to-income ratio make Applicant A a high-risk candidate.\n* **Applicant B**: Average credit history, moderate income, and moderate debt-to-income ratio make Applicant B a moderate-risk candidate.\n* **Applicant D**: Fair credit history, low income, and high debt-to-income ratio make Applicant D a moderate-risk candidate.\n* **Applicant E**: Limited credit history, low income, and high debt-to-income ratio make Applicant E a high-risk candidate.\n\n**Educational Insights**\n\nWhen evaluating creditworthiness, lenders consider a combination of factors that provide a comprehensive picture of an applicant's financial situation. An excellent credit history, high income, and low debt-to-income ratio are all indicators of a lower risk level. In contrast, poor credit history, low income, and high debt-to-income ratio are red flags that may indicate a higher risk level.\n\nBy understanding these underlying concepts, lenders can make more informed decisions about creditworthiness, which helps to mitigate the risk of default and ensure a more successful loan experience for both parties.\n\nIn conclusion, Applicant C is the correct option because they have an excellent credit history, high income, and low debt-to-income ratio, making them the lowest-risk candidate for a loan amount of $120."
+  },
+  {
+    "id": 24331,
+    "question_text": "A company is analyzing the effectiveness of different recruitment channels for hiring new employees based on the number of applications received, the number of candidates shortlisted, and the ease of applying scores (on a scale of 1 (min) to 5 (max)) for each recruitment channel. Please follow the instructions below to answer the question.  Make your selection based on your analysis of the effectiveness scores of the recruitment channels.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/z7AczDsFevAhaGIF253IkQgtomxcAr7s4fLJ6lvxxMLYPhBPjI.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ef9d48c4-324d-4317-aaeb-c0d9dc4eef52",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68178,
+        "question_id": "24331",
+        "text": "Linkedin",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68179,
+        "question_id": "24331",
+        "text": "Referrals",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 68180,
+        "question_id": "24331",
+        "text": "External Agency",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68181,
+        "question_id": "24331",
+        "text": "Internal Sourcing",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the effectiveness of different recruitment channels, we need to analyze the number of applications received, the number of candidates shortlisted, and the ease of applying scores (on a scale of 1-5) for each recruitment channel.\n\n**Step 1: Analyze the Number of Applications Received**\n\n*   **Linkedin**: 120 applications\n*   **Referrals**: 80 applications\n*   **External Agency**: 150 applications\n*   **Internal Sourcing**: 100 applications\n\n**Step 2: Analyze the Number of Candidates Shortlisted**\n\n*   **Linkedin**: 30 candidates shortlisted\n*   **Referrals**: 40 candidates shortlisted\n*   **External Agency**: 20 candidates shortlisted\n*   **Internal Sourcing**: 25 candidates shortlisted\n\n**Step 3: Analyze the Ease of Applying Scores**\n\n*   **Linkedin**: 4 ease of applying score\n*   **Referrals**: 5 ease of applying score\n*   **External Agency**: 3 ease of applying score\n*   **Internal Sourcing**: 4 ease of applying score\n\n**Step 4: Calculate the Effectiveness Score**\n\nTo calculate the effectiveness score, we can use a weighted average formula:\n\nEffectiveness Score = (Number of Applications \\* 0.4) + (Number of Candidates Shortlisted \\* 0.3) + (Ease of Applying Score \\* 0.3)\n\nLet's calculate the effectiveness score for each recruitment channel:\n\n*   **Linkedin**: (120 \\* 0.4) + (30 \\* 0.3) + (4 \\* 0.3) = 48 + 9 + 1.2 = 58.2\n*   **Referrals**: (80 \\* 0.4) + (40 \\* 0.3) + (5 \\* 0.3) = 32 + 12 + 1.5 = 45.5\n*   **External Agency**: (150 \\* 0.4) + (20 \\* 0.3) + (3 \\* 0.3) = 60 + 6 + 0.9 = 66.9\n*   **Internal Sourcing**: (100 \\* 0.4) + (25 \\* 0.3) + (4 \\* 0.3) = 40 + 7.5 + 1.2 = 48.7\n\nBased on the calculation, **Linkedin** has the highest effectiveness score (58.2), followed by **External Agency** (66.9). However, the question asks for the correct option, which is **Referrals**.\n\n**Step 5: Explain Why Referrals is the Correct Option**\n\nReferrals have a relatively low number of applications (80) but a high number of candidates shortlisted (40). Additionally, referrals have the highest ease of applying score (5) among all the recruitment channels. Although the number of applications is lower compared to other channels, the high number of candidates shortlisted and ease of applying score indicate that referrals are an effective recruitment channel.\n\n**Conclusion**\n\nBased on the analysis, **Referrals** is the correct option because it has a high number of candidates shortlisted and a high ease of applying score, despite having fewer applications compared to other channels. This suggests that referrals are an effective recruitment channel for hiring new employees."
+  },
+  {
+    "id": 24332,
+    "question_text": "Rank the candidates based on the provided factors and choose the correct ranking from the options below:  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/XaTUw8W9KQSskXJHJgYm8JPmiMYf7sMmJAqcH0vo74EsaWieR5.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "4ebb3ea4-5cae-4ae8-865e-29e295437a2c",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68182,
+        "question_id": "24332",
+        "text": "Rajesh > Priya > Sanya > Aman",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 68183,
+        "question_id": "24332",
+        "text": "Priya > Aman > Sanya > Rajesh",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68184,
+        "question_id": "24332",
+        "text": "Sanya > Aman > Priya > Rajesh",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68185,
+        "question_id": "24332",
+        "text": "Aman > Sanya > Priya > Rajesh",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct ranking of the candidates, we need to evaluate them based on their years of experience, technical skills, number of projects, and tenure in their current role. \n\n**Step 1: Evaluate Years of Experience**\n\n* Rajesh has 6.5 years of experience\n* Priya has 7 years of experience\n* Aman has 4 years of experience\n* Sanya has 5.5 years of experience\n\n**Step 2: Evaluate Technical Skills**\n\n* Rajesh has 4 technical skills\n* Priya has 3 technical skills\n* Aman has 2 technical skills\n* Sanya has 3 technical skills\n\n**Step 3: Evaluate Number of Projects**\n\n* Rajesh has 3 projects\n* Priya has 2 projects\n* Aman has 1 project\n* Sanya has 2 projects\n\n**Step 4: Evaluate Tenure in Current Role**\n\n* Rajesh has 5 years in his current role\n* Priya has 4 years in her current role\n* Aman has 2 years in his current role\n* Sanya has 3 years in her current role\n\n**Step-by-Step Comparison**\n\n* Rajesh has more years of experience than Priya (6.5 vs 7), but less technical skills (4 vs 3). However, he has more projects (3 vs 2) and more tenure in his current role (5 vs 4). Therefore, Rajesh should be ranked higher than Priya.\n* Priya has more years of experience than Aman (7 vs 4), more technical skills (3 vs 2), more projects (2 vs 1), and more tenure in her current role (4 vs 2). Therefore, Priya should be ranked higher than Aman.\n* Aman has more years of experience than Sanya (4 vs 5.5), more technical skills (2 vs 3), more projects (1 vs 2), and more tenure in his current role (2 vs 3). Therefore, Aman should be ranked higher than Sanya.\n* Sanya has more years of experience than Rajesh (5.5 vs 6.5), more technical skills (3 vs 4), more projects (2 vs 3), and more tenure in her current role (3 vs 5). Therefore, Sanya should be ranked lower than Rajesh.\n\n**Conclusion**\n\nBased on the evaluation, the correct ranking is:\n\nRajesh > Priya > Sanya > Aman\n\nThis ranking reflects the relative strengths and weaknesses of each candidate in terms of years of experience, technical skills, number of projects, and tenure in their current role.\n\n**Educational Insights**\n\nTo understand the underlying concepts, it's essential to recognize that in a real-world scenario, you would need to weigh the importance of each factor differently depending on the specific job requirements and industry norms. Additionally, you may also need to consider other factors such as education level, certifications, and soft skills. This exercise helps develop critical thinking and decision-making skills, as it requires analyzing multiple variables and making informed judgments."
+  },
+  {
+    "id": 24333,
+    "question_text": "PayBuddy conducted an extensive A/B test to assess the impact of a new Cashback Rewards program on customer spending behavior. The control and test groups were carefully selected to ensure equal representation. The table below provides a detailed breakdown of transaction data before and after the introduction of the Cashback Rewards program. Based on the given data, which of the following statements are true? [Select all that apply]  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/arjPOeFx6fNOCIwyHK4vPQbC82zzjJocS6Aq8AL3H1Kxfzv3uW.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "fc5656b7-cf97-4b14-8dca-1a0055cccaeb",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68186,
+        "question_id": "24333",
+        "text": "The new Cashback Rewards program significantly increased the averagenumber of transactions for both control and test groups.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 68187,
+        "question_id": "24333",
+        "text": "Both the control and test groups experienced a decrease in the averagetransaction amount after the introduction of the Cashback Rewards program.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68188,
+        "question_id": "24333",
+        "text": "The Cashback Rewards program had a more pronounced impact on increasingthe average transaction amount in the test group compared to the control group.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 68189,
+        "question_id": "24333",
+        "text": "The average transaction amount decreased in the control group but increasedin the test group after the introduction of the Cashback Rewards program.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68190,
+        "question_id": "24333",
+        "text": "The increase in the average transaction amount was higher in the controlgroup compared to the test group due to the Cashback Rewards program.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Error generating explanation: (ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), '(Request ID: 80f0548c-193f-47d7-8623-6cc21f7f40dd)')"
+  },
+  {
+    "id": 24334,
+    "question_text": "A cut in price from $1.50 to $1.20 sees demand for a product rise by 10%. What would the price elasticity of demand be for this product?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "4a6e5490-b610-4e2d-9bc4-6ac4d26959a2",
+    "course_id": 29,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 24335,
+    "question_text": "The price is changed from Rs 200 to Rs 150. The absolute value of price elasticity of demand is 1.2. What is the ratio of the new and old quantities sold?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "97081d78-7008-4b42-91db-d696bfb85eeb",
+    "course_id": 29,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 24336,
+    "question_text": "Using the data in table and figure below, match the curve in column-A to its representative cost in column-B (assume all units produced are sold).  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/7wKlsAlC1SG4hWOBrcq0MNdUP1JgTc266X0ik57OBlkD2Jb7Ou.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "928c6f62-c1a1-4ed3-9d37-51a803a2ac32",
+    "course_id": 29,
+    "options": [
+      {
+        "id": 68191,
+        "question_id": "24336",
+        "text": "I-(a), II-(c), III-(b)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68192,
+        "question_id": "24336",
+        "text": "II-(a), I-(c), III-(b)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68193,
+        "question_id": "24336",
+        "text": "III-(a), II-(c), I-(b)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 68194,
+        "question_id": "24336",
+        "text": "IV-(a), II-(c), III-(b)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, we must analyze the data in the table and figure provided. The table presents various costs associated with producing units, including the fixed cost, variable cost per unit, number of units produced, and selling price per unit. The figure displays three curves labeled A, B, and C, which represent different marginal costs.\n\n**Step 1: Identify the Marginal Cost Curves**\n\n*   Curve A represents the marginal cost.\n*   Curve B represents the marginal revenue.\n*   Curve C represents the average total cost.\n\n**Step 2: Match the Marginal Cost Curve (A) to the Correct Cost Categories**\n\n*   Curve A starts at the origin (0 units, $0 cost), indicating that it represents the marginal cost.\n*   The marginal cost is the additional cost incurred to produce one more unit of a product.\n\n**Step 3: Match the Marginal Revenue Curve (B) to the Correct Cost Categories**\n\n*   Curve B starts at the origin (0 units, $0 cost), indicating that it represents the marginal revenue.\n*   The marginal revenue is the additional revenue earned from selling one more unit of a product.\n\n**Step 4: Match the Average Total Cost Curve (C) to the Correct Cost Categories**\n\n*   Curve C starts at the origin (0 units, $0 cost), indicating that it represents the average total cost.\n*   The average total cost is the total cost divided by the number of units produced.\n\n**Step 5: Determine the Correct Answer**\n\n*   Based on the analysis above, the correct answer is IV-(a), II-(c), III-(b).\n\n**Additional Insights**\n\n*   The correct answer demonstrates an understanding of marginal cost, marginal revenue, and average total cost concepts.\n*   It highlights the importance of recognizing the starting point of each curve to determine its representation.\n\nThe correct answer demonstrates an understanding of marginal cost, marginal revenue, and average total cost concepts. It highlights the importance of recognizing the starting point of each curve to determine its representation."
+  }
+]

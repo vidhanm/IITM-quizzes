@@ -1,0 +1,673 @@
+[
+  {
+    "id": 11467,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : DEEP LEARNING (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "25f05ef9-b88d-42c9-b50a-f3e8f71f5b2f",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30931,
+        "question_id": "11467",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30932,
+        "question_id": "11467",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's break down the reasoning step-by-step:\n\n**Step 1: Understand the context**\nThe message is a warning to double-check the subject of the exam before proceeding. The exam is for the subject \"Deep Learning (Computer Based Exam)\".\n\n**Step 2: Identify the question**\nThe question is whether the recipient is sure they need to write the exam for this subject.\n\n**Step 3: Analyze the message**\nThe message emphasizes the importance of verifying the subject to avoid any confusion or mistake. It also mentions the hall ticket, which is an official document that confirms the registered subjects.\n\n**Step 4: Determine the correct answer**\nBased on the analysis, the correct answer is \"YES\" because:\n\n* The recipient should indeed confirm the subject before proceeding with the exam.\n* The message explicitly states that double-checking is necessary.\n* The mention of the hall ticket and the registered subjects further emphasizes the importance of verification.\n\n**Step 5: Evaluate the other options**\nOption \"NO\" is incorrect because it contradicts the message's purpose, which is to encourage verification.\n\n**Educational insights**\n\nThis question requires the recipient to apply critical thinking and attention to detail, which are essential skills in academic and professional settings. The message also highlights the importance of verifying information before proceeding with official actions, such as exams. This concept is relevant in various fields, including computer science, where verifying the accuracy of data and models is crucial.\n\nIn the context of deep learning, this question is particularly relevant, as it is a complex and nuanced field that requires careful attention to detail to avoid errors or misinterpretations.\n\n**Conclusion**\n\nIn conclusion, the correct answer is \"YES\" because it aligns with the message's purpose and emphasizes the importance of verification. This question requires critical thinking, attention to detail, and an understanding of the importance of verification in academic and professional settings."
+  },
+  {
+    "id": 11468,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/OspdvNJ6QYBfC452sGP8TyvcPpOb40gpbUFJhKUGPvWNZUarqL.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "9ee75b20-33ba-4990-8c1d-03c3d8c75b81",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30933,
+        "question_id": "11468",
+        "text": "reduces",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30934,
+        "question_id": "11468",
+        "text": "remains 90o",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 30935,
+        "question_id": "11468",
+        "text": "increases",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30936,
+        "question_id": "11468",
+        "text": "insufficient information",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The diagram illustrates a decision boundary of a perceptron, which is a fundamental concept in machine learning and artificial neural networks. A perceptron is a type of feedforward neural network that uses a linear threshold function to classify inputs into one of two categories.\n\n**Understanding the Decision Boundary**\n\n* The decision boundary represents the line or hyperplane that separates the input space into two regions, one where the perceptron predicts one class and the other where it predicts the other class.\n* The weight vector w is perpendicular to the decision boundary initially, meaning that the perceptron classifies inputs based on their distance from the origin (0, 0).\n\n**Misclassification and Weight Update**\n\n* The current decision boundary misclassifies some data points.\n* After running the perceptron learning algorithm for a few iterations, the weight gets updated, and the corresponding decision boundary separates all the data points correctly.\n* The angle between the updated weight vector and its corresponding decision boundary remains 90 degrees.\n\n**Why the Angle Remains 90 Degrees**\n\n* The angle between the updated weight vector and its corresponding decision boundary remains 90 degrees because the weight update process involves adjusting the weight vector in the direction perpendicular to the decision boundary.\n* This adjustment does not change the orientation of the weight vector relative to the decision boundary, which means the angle between them remains constant at 90 degrees.\n\n**Why Other Options Are Incorrect**\n\n* **Reduces**: The angle between the updated weight vector and its corresponding decision boundary cannot reduce because the weight update process does not change the orientation of the weight vector.\n* **Increases**: The angle between the updated weight vector and its corresponding decision boundary cannot increase because the weight update process does not change the orientation of the weight vector.\n* **Insufficient Information**: This option is incorrect because the diagram provides enough information to determine the correct answer.\n\n**Educational Insights**\n\n* The perceptron learning algorithm is a simple yet effective method for training neural networks.\n* The decision boundary of a perceptron represents the separation between different classes in the input space.\n* The angle between the weight vector and the decision boundary can provide insights into the orientation of the weight vector relative to the decision boundary.\n\nIn conclusion, the correct answer is \"remains 90o\" because the angle between the updated weight vector and its corresponding decision boundary remains constant at 90 degrees after the weight update process. This is because the weight update process involves adjusting the weight vector in the direction perpendicular to the decision boundary, which does not change the orientation of the weight vector relative to the decision boundary."
+  },
+  {
+    "id": 11469,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/OugpEDTwVeLXIhRD8SnDW5MGNOfab4G0RHnGMbug0N2HIyh5mO.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "7148f39d-7945-4a55-878f-54fd0f9e76ba",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30937,
+        "question_id": "11469",
+        "text": "200",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30938,
+        "question_id": "11469",
+        "text": "100",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30939,
+        "question_id": "11469",
+        "text": "301",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30940,
+        "question_id": "11469",
+        "text": "201",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30941,
+        "question_id": "11469",
+        "text": "300",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Error generating explanation: (ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), '(Request ID: bcae5c10-ebbd-485c-910e-a82c4438b559)')"
+  },
+  {
+    "id": 11470,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/7NtyYKM08xE1OTwrlowm7bEwQDHjvfCysryEksonHEk919c1AJ.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "9898d1e7-3aba-48e0-9227-cf18fa32a69f",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30942,
+        "question_id": "11470",
+        "text": "Increasing the value of b shifts the sigmoid function to the left (i.e., towardsnegative infinity)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30943,
+        "question_id": "11470",
+        "text": "Increasing the value of b shifts the sigmoid function to the right (i.e., towardspositive infinity)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 30944,
+        "question_id": "11470",
+        "text": "Increasing the value of w increases the steepness of the sigmoid function",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30945,
+        "question_id": "11470",
+        "text": "Increasing the value of w decreases the steepness of the sigmoid function",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "**Understanding the Sigmoid Function**\n\nThe sigmoid function, also known as the logistic function, is a mathematical function that maps any real-valued number to a value between 0 and 1. It is commonly used in machine learning and statistics to model categorical outcomes. The general form of the sigmoid function is:\n\nf(x) = 1 / (1 + e^(-wx + b))\n\nWhere:\n\n*   x is the input variable\n*   w is the weight or steepness of the curve\n*   b is the bias or intercept\n\n**Effect of Increasing b on the Sigmoid Function**\n\nTo determine the effect of increasing b on the sigmoid function, we need to analyze how the value of b affects the function's output.\n\n*   When b = 0, the function becomes a simple sigmoid curve.\n*   As b increases, the curve shifts to the right. This means that for a given input x, the output of the function will be greater than it would be if b were smaller.\n*   Conversely, if b decreases, the curve shifts to the left, resulting in a smaller output for the same input x.\n\n**Reasoning Behind the Correct Option**\n\nThe correct option states that \"Increasing the value of b shifts the sigmoid function to the right (i.e., towards positive infinity)\". This is because increasing b increases the value of the function at all points, causing the curve to shift to the right. As a result, the function now approaches positive infinity as x increases, whereas previously it would have approached negative infinity.\n\n**Incorrect Options**\n\nThe other options are incorrect because:\n\n*   Increasing the value of w increases the steepness of the curve, but it does not affect the position of the curve.\n*   Increasing the value of w decreases the steepness of the curve, but it does not affect the position of the curve.\n\n**Educational Insights**\n\nUnderstanding the effect of increasing b on the sigmoid function is crucial in machine learning and statistics. By adjusting the value of b, we can control the position of the curve and make it more or less sensitive to changes in the input variable x. This is particularly important in logistic regression, where the sigmoid function is used to model categorical outcomes.\n\nIn conclusion, increasing the value of b shifts the sigmoid function to the right, causing it to approach positive infinity as x increases. This is the correct option, and the other options are incorrect. By understanding the effect of b on the sigmoid function, we can better interpret the results of logistic regression models and make more informed decisions in machine learning and statistics."
+  },
+  {
+    "id": 11471,
+    "question_text": "Suppose that a neural network has millions of parameters (weights and biases). A team decides to use an optimization algorithm with a learning rate scheme that is local to each parameter in the network. Moreover, the learning rate changes in each iteration such that it should decrease on the steep surface and increase on the gentle surface. Which of the following optimization algorithms satisfy the team\u2019s requirements?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "eadff653-a91b-4c75-8e1e-48d6034d47da",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30946,
+        "question_id": "11471",
+        "text": "GD with an exponentially decaying learning rate scheduler",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30947,
+        "question_id": "11471",
+        "text": "AdaGrad",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30948,
+        "question_id": "11471",
+        "text": "AdaM",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30949,
+        "question_id": "11471",
+        "text": "NADAM",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30950,
+        "question_id": "11471",
+        "text": "RMSProp",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30951,
+        "question_id": "11471",
+        "text": "SGD with line search",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step by step to understand why AdaM is the correct answer.\n\n**Why AdaM is the correct answer:**\n\nAdaM (Adam Optimizer) is a popular optimization algorithm designed to adaptively adjust the learning rate for each parameter in the network. The learning rate in AdaM is calculated using a combination of the first and second moments of the gradient (mean and variance). This allows AdaM to adjust the learning rate based on the curvature of the loss function, which is essential in the team's requirements.\n\nHere's a step-by-step breakdown:\n\n1. **Local learning rate**: AdaM calculates a separate learning rate for each parameter, which is local to that parameter. This satisfies the team's requirement of having a learning rate scheme that is local to each parameter in the network.\n2. **Learning rate adjustment**: The learning rate in AdaM is adjusted based on the first and second moments of the gradient. This means that the learning rate decreases on steep surfaces (where the gradient is large) and increases on gentle surfaces (where the gradient is small). This satisfies the team's requirement of having the learning rate decrease on steep surfaces and increase on gentle surfaces.\n3. **Adaptive learning rate**: The learning rate in AdaM is adaptive, meaning it changes at each iteration based on the gradient information. This allows AdaM to respond to changes in the loss function and adjust the learning rate accordingly.\n\n**Why other options are incorrect:**\n\n* **GD with an exponentially decaying learning rate scheduler**: This option only decreases the learning rate over time, regardless of the curvature of the loss function. It doesn't satisfy the team's requirement of increasing the learning rate on gentle surfaces.\n* **AdaGrad**: AdaGrad is an optimization algorithm that adapts the learning rate based on the magnitude of the gradient, but it doesn't take into account the curvature of the loss function. It's not designed to increase the learning rate on gentle surfaces.\n* **SGD with line search**: This option uses line search to find the optimal learning rate, but it's not designed to adapt the learning rate for each parameter in the network. It's also not guaranteed to increase the learning rate on gentle surfaces.\n* **RMSProp**: RMSProp is an optimization algorithm that adapts the learning rate based on the magnitude of the gradient, but it doesn't take into account the curvature of the loss function. It's not designed to increase the learning rate on gentle surfaces.\n\n**Educational insights:**\n\n* The key concept here is adaptive learning rate, which allows the algorithm to adjust the learning rate based on the gradient information. This is essential in deep learning, where the loss function can be complex and non-convex.\n* Understanding the difference between local and global learning rates is crucial. Local learning rates are essential in deep learning, where each layer has its own set of parameters.\n* The team's requirement of having the learning rate decrease on steep surfaces and increase on gentle surfaces is a key aspect of adaptive learning rate algorithms. This is essential in avoiding oscillations and ensuring convergence to the optimal solution.\n\nIn conclusion, AdaM is the correct answer because it satisfies the team's requirements of having a local learning rate scheme that decreases on steep surfaces and increases on gentle surfaces. The adaptive learning rate in AdaM allows it to respond to changes in the loss function and adjust the learning rate accordingly, making it an essential optimization algorithm in deep learning."
+  },
+  {
+    "id": 11472,
+    "question_text": "Suppose we divide the available training samples into mini batches of size 32 to train a model with mini-batch gradient descent. Assume that we have 33 different machines to train the model. One out of 33 machines acts as a master machine. The actual weight update happens in the master machine. The master machine can send one sample for the rest of the machines along with a copy of the model in its current state to compute the gradients. We call this entire set-up parallelization. Which of the following deep learning architectures can be trained in parallel then?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "e01d7449-228d-41cf-8df8-5dd585edc845",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30952,
+        "question_id": "11472",
+        "text": "Fully connected Feed forword neural network",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      },
+      {
+        "id": 30953,
+        "question_id": "11472",
+        "text": "Convolutional Neural network",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      },
+      {
+        "id": 30954,
+        "question_id": "11472",
+        "text": "Reccurent Neural Network",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      },
+      {
+        "id": 30955,
+        "question_id": "11472",
+        "text": "Transformers",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct answer is the Fully Connected Feed Forward Neural Network (FCNN).\n\n**Why FCNN is the correct answer:**\n\n1. **Mini-batch gradient descent:** The training process involves dividing the available training samples into mini-batches of size 32. This is a common practice in deep learning, especially when dealing with large datasets. Mini-batch gradient descent updates the model's weights based on the gradient of the loss function with respect to the model's parameters, computed over a small batch of samples.\n2. **Parallelization:** The setup involves parallelization, where one machine (the master machine) distributes the computations across multiple machines. This is done to speed up the training process by leveraging parallel computing resources.\n3. **Computing gradients:** The master machine sends a copy of the model to the other machines, along with a single sample from the mini-batch. Each machine computes the gradients of the loss function with respect to the model's parameters, using the received sample and model.\n4. **Weight update:** The master machine collects the gradients computed by each machine and updates the model's weights accordingly.\n\nNow, let's focus on why FCNN can be trained in parallel:\n\n**FCNN properties:**\n\n1. **Sequential computation:** FCNNs compute the output by sequentially applying linear transformations and activations to the input data. This means that each layer's output is not directly dependent on the output of other layers, except for the input to the next layer.\n2. **Independent computation:** In the context of parallelization, each layer's computation can be performed independently, as long as the input to the layer is provided. This is because the gradients of the loss function with respect to the weights of one layer do not depend on the weights of other layers.\n3. **No inter-layer dependencies:** FCNNs do not have any inter-layer dependencies, which means that the computation of gradients for one layer does not affect the computation of gradients for other layers.\n\n**Why other options are incorrect:**\n\n* **Convolutional Neural Networks (CNNs):** CNNs have inter-layer dependencies due to the use of convolutional and pooling operations. These operations rely on the output of previous layers to compute the output of the current layer. This makes it challenging to parallelize the computation of gradients for CNNs.\n* **Recurrent Neural Networks (RNNs):** RNNs have feedback connections, which introduce inter-layer dependencies. The output of one layer is fed back to the input of another layer, making it difficult to parallelize the computation of gradients.\n* **Transformers:** Transformers have self-attention mechanisms, which introduce inter-layer dependencies. The output of one layer is used to compute the attention weights for the next layer, making it challenging to parallelize the computation of gradients.\n\nIn conclusion, the Fully Connected Feed Forward Neural Network (FCNN) is the correct answer because its sequential and independent computation properties make it suitable for parallelization. The other options, CNNs, RNNs, and Transformers, have inter-layer dependencies that make it challenging to parallelize the computation of gradients.\n\n**Educational insights:**\n\n* Understanding the properties of different deep learning architectures is crucial for designing efficient training pipelines.\n* Parallelization is a key concept in deep learning, and understanding how to parallelize computations is essential for large-scale training.\n* The choice of architecture should be guided by the computational resources available and the characteristics of the dataset.\n* The FCNN architecture is a fundamental building block for many deep learning models, and understanding its properties is essential for designing more complex models."
+  },
+  {
+    "id": 11473,
+    "question_text": "Select all correct statements about the bias and variance of deep learning models.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "d9acdef7-3f7c-43f4-8b4c-cc0f3d46b788",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30956,
+        "question_id": "11473",
+        "text": "A model with high bias produces high training error and high validation error",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 30957,
+        "question_id": "11473",
+        "text": "A model with high variance produces high training error and low validationerror",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30958,
+        "question_id": "11473",
+        "text": "A model with high variance produces low training error and high validationerror",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 30959,
+        "question_id": "11473",
+        "text": "Bias and variance can be both made zero if the underlying distribution of thesamples are known and also the samples are not corrupted by noise",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the concept of bias and variance in deep learning models and analyze each option step by step.\n\n**Bias and Variance: A Brief Introduction**\n\nBias and variance are two fundamental concepts in machine learning that help evaluate the performance of a model. Bias and variance are related to the difference between the expected value of a model's predictions and the actual output.\n\n* **Bias** refers to the difference between the expected value of a model's predictions and the actual output. A model with high bias is one that consistently underestimates or overestimates the true output, resulting in large errors.\n* **Variance** refers to the variability of a model's predictions over different training datasets. A model with high variance is one that produces different predictions for the same input, resulting in large errors.\n\n**Option Analysis**\n\nLet's analyze each option step by step:\n\n**Option A: A model with high bias produces high training error and high validation error**\n\n* **Why is this option correct?** A model with high bias is one that consistently underestimates or overestimates the true output, resulting in large errors. When a model with high bias is trained on a dataset, it will produce large errors on the training set. This is because the model is not accurate enough to capture the underlying patterns in the data. As a result, the model will produce a high training error.\n* **Validation error**: The validation error is a measure of how well the model generalizes to new, unseen data. A model with high bias is not able to capture the underlying patterns in the data, so it will not be able to generalize well to new data. As a result, the model will produce a high validation error.\n* **Step-by-step reasoning**: 1. A model with high bias consistently underestimates or overestimates the true output. 2. This results in large errors on the training set. 3. The high training error indicates that the model is not accurate enough to capture the underlying patterns in the data. 4. As a result, the model will not be able to generalize well to new data, resulting in a high validation error.\n\n**Option B: A model with high variance produces high training error and low validation error**\n\n* **Why is this option incorrect?** A model with high variance produces different predictions for the same input, resulting in large errors. However, this does not necessarily mean that the model will produce a high training error. In fact, a model with high variance may fit the training data very well, resulting in a low training error. However, the model's high variance means that it will not generalize well to new data, resulting in a high validation error.\n* **Step-by-step reasoning**: 1. A model with high variance produces different predictions for the same input. 2. This results in large errors, but these errors are not necessarily reflected in the training error. 3. The model may fit the training data very well, resulting in a low training error. 4. However, the model's high variance means that it will not generalize well to new data, resulting in a high validation error.\n\n**Option C: A model with high variance produces low training error and high validation error**\n\n* **Why is this option incorrect?** A model with high variance produces different predictions for the same input, resulting in large errors. This means that the model will not fit the training data well, resulting in a high training error. The model's high variance means that it will not generalize well to new data, resulting in a high validation error.\n* **Step-by-step reasoning**: 1. A model with high variance produces different predictions for the same input. 2. This results in large errors, which means that the model will not fit the training data well. 3. As a result, the model will produce a high training error. 4. The model's high variance means that it will not generalize well to new data, resulting in a high validation error.\n\n**Option D: Bias and variance can be both made zero if the underlying distribution of the samples are known and also the samples are not corrupted by noise**\n\n* **Why is this option incorrect?** Bias and variance are inherent properties of a model, and it is not possible to make both bias and variance zero simultaneously. A model that is perfectly accurate and generalizes well to new data (i.e., zero bias and zero variance) is a mythical concept in machine learning. In practice, models will always have some degree of bias and variance.\n* **Step-by-step reasoning**: 1. Bias and variance are inherent properties of a model. 2. It is not possible to make both bias and variance zero simultaneously. 3. A model that is perfectly accurate and generalizes well to new data is a mythical concept in machine learning. 4. In practice, models will always have some degree of bias and variance.\n\n**"
+  },
+  {
+    "id": 11474,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/qugeSnGMBEOjybN5TMhWffZE5BmzOJGL5ySYd9DzxbuFANaa4R.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "6f3083f6-4b73-4433-83c9-15aea30fd371",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30960,
+        "question_id": "11474",
+        "text": "Dropout reduces (removes) 25 percent of weights from the model duringtraining and inference",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30961,
+        "question_id": "11474",
+        "text": "For each iteration, 75% of neurons are dropped randomly from the model",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30962,
+        "question_id": "11474",
+        "text": "For each iteration, 25% of neurons are dropped randomly from the model",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30963,
+        "question_id": "11474",
+        "text": "Each weight gets multiplied by a factor p during inference.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30964,
+        "question_id": "11474",
+        "text": "Each weight gets multiplied by a factor 1 \u2212 p during inference.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding Dropout Scheme**\n\nDropout is a regularization technique used in deep learning models to prevent overfitting. It randomly drops out (removes) a fraction of neurons during training and inference phases. This helps the model generalize better and reduces the risk of overfitting.\n\n**Step 2: Analyzing the Options**\n\n*   Option 1: \"Dropout reduces (removes) 25 percent of weights from the model during training and inference.\"\n    *   Incorrect because dropout does not remove weights but neurons.\n*   Option 2: \"For each iteration, 75% of neurons are dropped randomly from the model.\"\n    *   Incorrect because the probability of dropping a neuron is p, not 75%.\n*   Option 3: \"For each iteration, 25% of neurons are dropped randomly from the model.\"\n    *   Correct because dropout randomly drops a fraction p of neurons during each iteration, and the correct fraction is 25%.\n*   Option 4: \"Each weight gets multiplied by a factor p during inference.\"\n    *   Incorrect because dropout does not multiply weights by a factor p but sets the output of dropped neurons to zero.\n\n**Step 3: Breakdown of the Correct Option**\n\n*   **What does it mean to drop neurons?**\n    *   When a neuron is dropped, its output is set to zero for that iteration. This means the neuron does not contribute to the forward pass of the network.\n*   **Why is it 25%?**\n    *   The probability p is often set to 0.25 or 25%. This means that for each iteration, 25% of the neurons are randomly dropped.\n*   **Why is it random?**\n    *   The neurons that are dropped are randomly chosen. This ensures that every neuron has an equal chance of being dropped, which helps prevent any particular neuron from dominating the model.\n\n**Step 4: Educational Insights**\n\n*   **Understanding the probability p**\n    *   The probability p is a hyperparameter that controls the dropout rate. A higher p means more neurons are dropped, which can lead to a more regularized model but may also increase the risk of underfitting.\n*   **Importance of randomness**\n    *   The randomness in dropout is crucial because it prevents the model from relying too heavily on any particular neuron. This promotes a more diverse and robust model.\n\n**Conclusion**\n\nThe correct option is \"For each iteration, 25% of neurons are dropped randomly from the model.\" This is because dropout randomly drops a fraction p of neurons during each iteration, and the correct fraction is 25%. The other options are incorrect because they either describe an incorrect behavior (weight removal) or provide an incorrect probability fraction.\n\n**Final Answer**\n\nThe final answer is: **For each iteration, 25% of neurons are dropped randomly from the model**"
+  },
+  {
+    "id": 11475,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/v1oFSvf1Y01FYOGm3GOnBXzUCfw17drwgxmAYdiYfcrIPK6Sba.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "26fc3c6f-01e4-4e8c-b4a8-e9aa019b83a5",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30965,
+        "question_id": "11475",
+        "text": "The loss surface is convex (with a global minimum)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 30966,
+        "question_id": "11475",
+        "text": "The loss value oscillates over iterations",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30967,
+        "question_id": "11475",
+        "text": "The loss value decreases consistently over iterations",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 30968,
+        "question_id": "11475",
+        "text": "The loss value increases consistently",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct option, let's analyze the given image. The image shows a contour plot of a loss surface, which represents the objective function that we want to minimize during training in machine learning or optimization problems. The contours are circular and concentric, indicating that the loss surface is convex.\n\nA convex loss surface means that the function has a single global minimum, and all local minima are also the global minimum. This implies that as we move away from the minimum point in any direction, the value of the function only increases, without any valleys or saddles. In other words, the loss surface has a smooth, bowl-like shape, with the minimum point at its center.\n\nNow, let's consider the options:\n\n**Option 1: The loss surface is convex (with a global minimum)**\n\nThis option is correct because the contour plot clearly shows a convex shape, indicating that the loss surface has a single global minimum. The contours are circular and concentric, with the minimum point at the center, which is a characteristic of a convex function.\n\n**Option 2: The loss value oscillates over iterations**\n\nThis option is incorrect because the contour plot does not show any oscillations in the loss value. The contours are smooth and continuous, without any sudden changes or fluctuations.\n\n**Option 3: The loss value decreases consistently over iterations**\n\nThis option is incorrect because the contour plot does not provide information about the loss value over iterations. While it's possible that the loss value decreases consistently in some cases, the contour plot only shows the shape of the loss surface at a single point in time.\n\n**Option 4: The loss value increases consistently**\n\nThis option is incorrect because the contour plot does not provide any evidence of an increasing loss value. In fact, the convex shape of the loss surface suggests that the loss value decreases as we move towards the minimum point.\n\nIn conclusion, the correct option is **Option 1: The loss surface is convex (with a global minimum)**. This option accurately describes the shape of the loss surface, which is characterized by a single global minimum and a smooth, bowl-like shape.\n\n**Educational Insights:**\n\n* Convex functions have a single global minimum, which is a key property in optimization problems.\n* Contour plots are a useful visualization tool for understanding the shape of a function.\n* The shape of a loss surface can affect the convergence of optimization algorithms, with convex surfaces leading to faster convergence.\n\nBy analyzing the contour plot and understanding the properties of convex functions, we can conclude that the correct option is indeed **Option 1: The loss surface is convex (with a global minimum)**."
+  },
+  {
+    "id": 11476,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/TbvKdaD0HMGA5lajggisdqj7TOpkvSt7qf3D3y1UWrqoqdlL5d.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "a2fe848d-0a69-49ce-9eff-447357b28d6c",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30969,
+        "question_id": "11476",
+        "text": "definitely, the loss value at the end of the training is zero",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30970,
+        "question_id": "11476",
+        "text": "The neuron in the hidden layer might be experiencing a vanishing gradientproblem",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.667"
+      },
+      {
+        "id": 30971,
+        "question_id": "11476",
+        "text": "The loss could have converged to the local minimum after a finite number ofiterations",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.667"
+      },
+      {
+        "id": 30972,
+        "question_id": "11476",
+        "text": "The loss value at the end of the training may not necessarily be zero",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.667"
+      }
+    ],
+    "comprehensive_explanation": "### Step 1: Identify the issue\n\nThe image shows a plot of the loss value over time during training. The loss is decreasing but not to zero, and there is a lot of noise in the plot.\n\n### Step 2: Determine the cause of the issue\n\nA vanishing gradient problem occurs when the gradients of the loss function with respect to the model parameters become very small during backpropagation, making it difficult for the model to learn.\n\n### Step 3: Explain the vanishing gradient problem\n\nIn this case, the vanishing gradient problem might be caused by the use of ReLU activation functions in the neurons of the hidden layers. ReLU activation functions are known to cause vanishing gradients because they only output non-zero values for inputs greater than zero. This means that the gradients of the loss function with respect to the model parameters are only non-zero when the input to the ReLU function is greater than zero.\n\n### Step 4: Explain why other options are incorrect\n\n*   **Option 1: The loss value at the end of the training is zero**\n\n    The loss value at the end of the training is not zero, as shown in the plot. Therefore, this option is incorrect.\n\n*   **Option 2: The loss could have converged to the local minimum after a finite number of iterations**\n\n    While it is possible that the loss has converged to a local minimum, the vanishing gradient problem is a more likely explanation for the observed behavior.\n\n*   **Option 3: The loss value at the end of the training may not necessarily be zero**\n\n    The loss value at the end of the training may not necessarily be zero, but the vanishing gradient problem is still a relevant concern.\n\n### Step 5: Provide educational insights\n\nThe vanishing gradient problem is a common issue in deep learning models, particularly when using ReLU activation functions in the hidden layers. It can be mitigated by using other activation functions, such as Leaky ReLU or Swish, or by using techniques such as batch normalization or residual connections.\n\n*Answer*: The neuron in the hidden layer might be experiencing a vanishing gradient problem."
+  },
+  {
+    "id": 11477,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/W4VW4VrpmvPv4mC6yeb914rbHHpgbVCKlgJq3Qi2KWOCfc8uro.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "b14b8620-4b68-4985-9069-54ee345d0be5",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11478,
+    "question_text": "How many neurons are there in the network? Every neuron in the network has bias associated with it?  Note: A neuron is a computation unit that takes in some inputs and produces an output.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "8c40b1eb-2c3c-41ce-a613-cd8e68f6f420",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11479,
+    "question_text": "How many parameters (including bias) does the network have to learn? Assume dropout regularization is applied.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "55cdced7-91b8-456b-99fd-d3adc26c1f57",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11480,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/VsjBxSXhTUVPKQ4mHZOpjSIhr8OkwnSwvG4cZMyN7UNr8j1i16.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "969acdf3-c308-4ace-8ca2-d57f233f764f",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11481,
+    "question_text": "What is the size of the vocabulary |V |?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "0f01034c-98b3-4a33-8290-beb70d66f818",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11482,
+    "question_text": "Suppose we consider the three words (wood,woodchuck, much). Assume we use one-hot encoded vector representation for all these words. The statement that,\u201cThe cosine similarity between the pair (wood,woodchuck) is greater than the pair (wood,much)\u201d is",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "2747818a-75f3-42f3-9f72-15593ca8660c",
+    "course_id": 28,
+    "options": [
+      {
+        "id": 30973,
+        "question_id": "11482",
+        "text": "True",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30974,
+        "question_id": "11482",
+        "text": "False",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine whether the statement is true or false, let's first understand the concept of one-hot encoded vector representation and cosine similarity.\n\n**One-Hot Encoded Vector Representation:**\nIn one-hot encoding, each word is represented as a binary vector (0s and 1s) where one element is 1 (indicating the presence of the word) and the rest are 0s (indicating the absence of the word). For example, if we have three unique words \"wood\", \"woodchuck\", and \"much\", their one-hot encoded representations would be:\n\n- wood: [1, 0, 0]\n- woodchuck: [1, 1, 0]\n- much: [0, 0, 1]\n\n**Cosine Similarity:**\nCosine similarity is a measure of similarity between two vectors. It is defined as the dot product of the two vectors divided by the product of their magnitudes. The cosine similarity ranges from -1 (completely dissimilar) to 1 (identical).\n\nNow, let's calculate the cosine similarity between the pairs of words:\n\n**Pair (wood, woodchuck):**\n\n- wood: [1, 0, 0]\n- woodchuck: [1, 1, 0]\n\nThe dot product of the two vectors is: 1*1 + 0*1 + 0*0 = 1\nThe magnitude of the wood vector is: \u221a(1^2 + 0^2 + 0^2) = 1\nThe magnitude of the woodchuck vector is: \u221a(1^2 + 1^2 + 0^2) = \u221a2\n\nThe cosine similarity between the pair (wood, woodchuck) is: 1 / (1 * \u221a2) = 1 / \u221a2 \u2248 0.707\n\n**Pair (wood, much):**\n\n- wood: [1, 0, 0]\n- much: [0, 0, 1]\n\nThe dot product of the two vectors is: 1*0 + 0*0 + 0*1 = 0\nThe magnitude of the wood vector is: \u221a(1^2 + 0^2 + 0^2) = 1\nThe magnitude of the much vector is: \u221a(0^2 + 0^2 + 1^2) = 1\n\nThe cosine similarity between the pair (wood, much) is: 0 / (1 * 1) = 0\n\n**Comparing the Cosine Similarities:**\nNow that we have calculated the cosine similarities, let's compare them:\n- The cosine similarity between the pair (wood, woodchuck) is approximately 0.707.\n- The cosine similarity between the pair (wood, much) is 0.\n\nBased on the calculations, the statement that \u201cThe cosine similarity between the pair (wood,woodchuck) is greater than the pair (wood,much)\u201d is actually **FALSE**.\n\n**Why is the statement false?**\nThe statement is false because the cosine similarity between the pair (wood, woodchuck) is approximately 0.707, which is greater than the cosine similarity between the pair (wood, much), which is 0.\n\n**Educational Insights:**\n\n1.  **One-hot encoded vector representation**: This technique is used to convert categorical data into numerical data. It's a way to represent words or categories as numerical vectors, which can then be processed by machine learning algorithms.\n2.  **Cosine similarity**: This measure is used to compare the similarity between two vectors. It's a way to determine how similar two words are based on their vector representations.\n3.  **Understanding vector operations**: To calculate cosine similarity, you need to understand vector operations like dot product and magnitude. These concepts are fundamental to machine learning and natural language processing.\n4.  **Analyzing the statement**: The statement requires you to compare two cosine similarities. To arrive at the correct answer, you need to calculate the cosine similarities and compare them. This requires a thorough understanding of the concepts involved."
+  },
+  {
+    "id": 11483,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/ut1nSCOdk3BRJr7HKH8DEBRzzl7nBWoEO1qTUXSfTCZRgVHlx0.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "85b41936-a035-4eb8-86f5-6eb38f527b59",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11484,
+    "question_text": "How many parameters (including bias) are there in the network?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "8870a8dc-8a94-4695-84db-6f0a47556b05",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11485,
+    "question_text": "For the given input sentence containing 10 words, how many sequential time steps does RNN take to make a final prediction?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "fc3e4b34-6394-4d66-a7d5-8d2e85b008cf",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11486,
+    "question_text": "Suppose we train the model using the BPTT algorithm for 200 iterations. In each iteration, we feed the input sentence and make a prediction, compute the loss, back-propagate through time and update the parameter. How many times does the parameter matrix W get updated over 200 iterations?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "e5a80c29-7cc9-4bc7-9734-57001d9f8486",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11487,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/vjM46umenb9O0Z6SSHQoGF2lHj3qbTtL4lD2L0kUnpdYDq9vtD.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ba071908-a499-4fce-a44c-2c85f39009b3",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11488,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/x1E9gh8qY4UEgT4lYHh5g2k9GabBUFJvyminDJtXrzXmzwuUu4.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "95389ac0-50ed-4c8a-848e-94673d46df33",
+    "course_id": 28,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

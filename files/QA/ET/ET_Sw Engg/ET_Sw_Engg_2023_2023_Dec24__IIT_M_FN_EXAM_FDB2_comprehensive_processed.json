@@ -1,0 +1,1536 @@
+[
+  {
+    "id": 13325,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : SOFTWARE ENGINEERING (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "3710c73b-0015-4305-a485-4e5d60413d5a",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36266,
+        "question_id": "13325",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36267,
+        "question_id": "13325",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to arrive at the correct answer.\n\n**Step 1: Understanding the context**\nThe given text is a warning message displayed on a computer screen, indicating that the user is about to write an exam for the subject \"Software Engineering\" but may have registered for a different subject. The message asks the user to confirm their hall ticket to ensure they are writing the correct subject.\n\n**Step 2: Analyzing the message**\nThe message explicitly states that the user should check their hall ticket to confirm the subjects they are registered to write. This implies that the user has the responsibility to verify their registration details before proceeding with the exam.\n\n**Step 3: Identifying the correct answer**\nGiven the context and the message, the correct answer is **YES**. This is because the user is indeed required to write the exam for the subject \"Software Engineering\" (Computer Based Exam) as indicated on the question paper. The warning message is simply a precautionary measure to ensure that the user has verified their registration details.\n\n**Step 4: Evaluating other options**\nOption **NO** is incorrect because the user is, in fact, required to write the exam for the subject \"Software Engineering\". The warning message is not asking the user if they should write the exam, but rather if they are certain about the subject they are writing.\n\n**Educational Insights**\n\n* This question assesses the user's ability to critically evaluate the information provided and make informed decisions. In the context of software engineering, this skill is crucial for developers to identify and troubleshoot errors, as well as to verify the accuracy of code and data.\n* The question also highlights the importance of attention to detail and verification of information, which are essential skills for software engineers to ensure the quality and reliability of their work.\n* In a broader sense, this question illustrates the concept of \"defensive programming,\" where developers anticipate potential errors or issues and take proactive measures to prevent them. In this case, the warning message serves as a defensive mechanism to prevent users from proceeding with the exam for the wrong subject.\n\nIn conclusion, the correct answer is **YES** because the user is indeed required to write the exam for the subject \"Software Engineering\" (Computer Based Exam) as indicated on the question paper. The warning message is a precautionary measure to ensure that the user has verified their registration details, and the user's responsibility is to confirm their hall ticket to ensure they are writing the correct subject."
+  },
+  {
+    "id": 13326,
+    "question_text": "A software company has to develop a portal that enables a user to search for a specific product by providing some product details. The portal queries and gathers details from different websites and puts them together on a single page.  Consider the following two requirements:  Requirement 1: The portal must gather information for the given product from all the relevant websites and display it to the user. Requirement 2: Given the product details, the portal must complete the gathering and display of information within 10 secs.  Which of the following statement is true?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "b6d913c1-4828-4e72-b3e8-43400ddec515",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36268,
+        "question_id": "13326",
+        "text": "Requirement 1 is a functional requirement, whereas Requirement 2 is a non-functional requirement",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 36269,
+        "question_id": "13326",
+        "text": "Requirement 2 is a functional requirement, whereas Requirement 1 is a non-functional requirement",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36270,
+        "question_id": "13326",
+        "text": "Both requirements are functional requirements",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36271,
+        "question_id": "13326",
+        "text": "Both the requirements are non-functional requirements",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the analysis step by step to understand why the correct option is 'Requirement 1 is a functional requirement, whereas Requirement 2 is a non-functional requirement'.\n\n**Understanding Functional and Non-Functional Requirements**\n\nIn software engineering, requirements are typically categorized into two types: functional and non-functional.\n\n*   **Functional Requirements** are \"what\" the system should do. They describe the system's behavior, features, and capabilities. They define what the system should accomplish, from the user's perspective.\n*   **Non-Functional Requirements** are \"how\" the system should behave. They describe the system's quality attributes, such as performance, security, usability, and reliability.\n\n**Analyzing Requirement 1**\n\nRequirement 1 states: \"The portal must gather information for the given product from all the relevant websites and display it to the user.\"\n\n*   This requirement specifies what the system should do (gather information and display it to the user).\n*   It describes a specific feature or capability of the system.\n*   Therefore, Requirement 1 is a **functional requirement**.\n\n**Analyzing Requirement 2**\n\nRequirement 2 states: \"Given the product details, the portal must complete the gathering and display of information within 10 secs.\"\n\n*   This requirement specifies how the system should behave (complete the gathering and display within 10 seconds).\n*   It describes a quality attribute (performance) of the system.\n*   Therefore, Requirement 2 is a **non-functional requirement**.\n\n**Why Other Options are Incorrect**\n\nOption 1: \"Requirement 2 is a functional requirement, whereas Requirement 1 is a non-functional requirement\"\n\n*   This option is incorrect because Requirement 1 is a functional requirement (as explained above), and Requirement 2 is a non-functional requirement.\n\nOption 2: \"Both requirements are functional requirements\"\n\n*   This option is incorrect because Requirement 2 is a non-functional requirement (as explained above).\n\nOption 3: \"Both the requirements are non-functional requirements\"\n\n*   This option is incorrect because Requirement 1 is a functional requirement (as explained above).\n\n**Educational Insights**\n\n*   When categorizing requirements, it's essential to distinguish between what the system should do (functional) and how it should behave (non-functional).\n*   Functional requirements describe the system's features, capabilities, and behavior from the user's perspective.\n*   Non-functional requirements describe the system's quality attributes, such as performance, security, usability, and reliability.\n\nBy following these guidelines and thoroughly analyzing the requirements, you can accurately categorize them as either functional or non-functional, ensuring a better understanding of the system's needs and expectations."
+  },
+  {
+    "id": 13327,
+    "question_text": "A set of modules is said to have high cohesion and low coupling, which implies ___________ .",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "e3e181f5-1afd-4ead-a43f-d66c84e869d7",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36272,
+        "question_id": "13327",
+        "text": "The functions in each module are performing varied operations, and a lot ofdata is interchanged between the modules",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36273,
+        "question_id": "13327",
+        "text": "The functions in each module are together performing a single operation, anda lot of data is interchanged between the modules",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36274,
+        "question_id": "13327",
+        "text": "The functions in each module are together performing a single operation, andthe degree of interaction between the modules is very low",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 36275,
+        "question_id": "13327",
+        "text": "The functions in each module are together performing a single operation, andthe degree of interaction between the modules is very high",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step to understand why the correct option is indeed the one that states: \"The functions in each module are together performing a single operation, and the degree of interaction between the modules is very low.\"\n\n**Cohesion and Coupling: A Brief Introduction**\n\nIn software engineering, cohesion and coupling are two fundamental concepts used to measure the quality of a module or a set of modules.\n\n*   **Cohesion** refers to the degree to which the elements within a module are related and function together to achieve a common goal. High cohesion means that the elements within a module are strongly related and work together to perform a specific task.\n*   **Coupling** refers to the degree of interdependence between different modules. Low coupling means that modules are loosely connected and can function independently, while high coupling means that modules are tightly connected and dependent on each other.\n\n**Understanding the Correct Option**\n\nThe correct option states that the functions in each module are together performing a single operation, and the degree of interaction between the modules is very low. This implies that:\n\n*   Each module has high cohesion, as the functions within each module are strongly related and work together to perform a specific task.\n*   The modules have low coupling, as they interact minimally with each other, allowing them to function independently.\n\n**Step-by-Step Reasoning**\n\n1.  **High Cohesion**: The option states that the functions in each module are together performing a single operation. This means that the elements within each module are strongly related and work together to achieve a common goal, which is a characteristic of high cohesion.\n2.  **Low Coupling**: The option also states that the degree of interaction between the modules is very low. This means that the modules are loosely connected and can function independently, which is a characteristic of low coupling.\n3.  **Independence of Modules**: With low coupling, each module can be modified or extended without affecting other modules. This is because the modules are not tightly connected and do not depend on each other.\n4.  **Improved Maintainability**: The combination of high cohesion and low coupling makes the system more maintainable. Changes to a single module will not affect other modules, and the system will be more stable and easier to modify.\n\n**Why Other Options are Incorrect**\n\n*   **Option 1: The functions in each module are performing varied operations, and a lot of data is interchanged between the modules**. This option does not describe a situation with high cohesion, as the functions within each module are not strongly related. Additionally, the high degree of interaction between the modules contradicts the concept of low coupling.\n*   **Option 3: The functions in each module are together performing a single operation, and the degree of interaction between the modules is very high**. This option contradicts the concept of low coupling, as the high degree of interaction between the modules indicates a strong interdependence between them.\n*   **Option 4: The functions in each module are together performing a single operation, and the degree of interaction between the modules is very high**. This option is identical to option 3 and also contradicts the concept of low coupling.\n\n**Educational Insights**\n\nUnderstanding cohesion and coupling is crucial for software engineering. When designing a system, it's essential to aim for high cohesion and low coupling to create a maintainable, scalable, and efficient system.\n\n*   **Modularization**: Breaking down a system into smaller, independent modules is essential for achieving high cohesion and low coupling. Each module should have a single, well-defined responsibility.\n*   **Interface Design**: When designing module interfaces, it's essential to keep them minimal and well-defined. This will help reduce coupling between modules and improve the overall maintainability of the system.\n\nIn conclusion, the correct option states that the functions in each module are together performing a single operation, and the degree of interaction between the modules is very low. This implies high cohesion and low coupling, which are essential characteristics of a well-designed software system."
+  },
+  {
+    "id": 13328,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/9LoKzoFgl9QmPN0XsVB7oygQyqQGGXjgtfMt48Udc3A0wPmTCv.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "d521599f-3a04-4572-87b2-4a47fe67b1c6",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36276,
+        "question_id": "13328",
+        "text": "Single responsibility principle",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36277,
+        "question_id": "13328",
+        "text": "Open-close principle",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 36278,
+        "question_id": "13328",
+        "text": "Liskov substitution principle",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36279,
+        "question_id": "13328",
+        "text": "Interface segregation principle",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36280,
+        "question_id": "13328",
+        "text": "Dependency inversion principle",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, we will analyze each option and explain why the Open-close principle is the correct choice.\n\n**Step 1: Understanding the Open-close principle**\n\nThe Open-close principle states that a class should be open for extension but closed for modification. This means that new functionality can be added to a class without changing its existing code.\n\n**Step 2: Identifying the correct answer**\n\nThe correct answer is the Open-close principle. The figure shows a Payment class that is designed to accept physical payments (payment by cash) only. However, there is a need to receive payments by UPI. Thus, the Payment class is modified as shown in the class diagram below.\n\n**Step 3: Breaking down the reasoning step-by-step**\n\n*   The Payment class is initially designed to accept physical payments (payment by cash) only.\n*   However, there is a need to receive payments by UPI.\n*   To accommodate this change, the Payment class is modified to include a new method, addPaymentPaymentID, CustomerName, CustomerContact, Amount).\n*   This modification allows the Payment class to accept payments by UPI without changing its existing code.\n\n**Step 4: Explaining why other options are incorrect**\n\n*   **Single responsibility principle**: This principle states that a class should have only one reason to change. In this case, the Payment class is modified to accept payments by UPI, which is a new functionality. However, the existing code is not changed, so the single responsibility principle is not violated.\n*   **Liskov substitution principle**: This principle states that subtypes should be substitutable for their base types. In this case, the Payment class is modified to include a new method, addPaymentPaymentID, CustomerName, CustomerContact, Amount), which is not substitutable for the existing methods.\n*   **Interface segregation principle**: This principle states that a client should not be forced to depend on interfaces it does not use. In this case, the Payment class is modified to include a new method, addPaymentPaymentID, CustomerName, CustomerContact, Amount), which is not used by the client.\n*   **Dependency inversion principle**: This principle states that high-level modules should not depend on low-level modules. In this case, the Payment class is modified to include a new method, addPaymentPaymentID, CustomerName, CustomerContact, Amount), which depends on the low-level module, UPIRefID.\n\n**Conclusion**\n\nThe correct answer is the Open-close principle. The Payment class is modified to accept payments by UPI without changing its existing code, which satisfies the Open-close principle.\n\n**Educational Insights**\n\n*   The Open-close principle is an important design principle that helps to ensure that software systems are modular and easy to maintain.\n*   The Payment class is a good example of how the Open-close principle can be applied in practice.\n*   By modifying the Payment class to accept payments by UPI without changing its existing code, we can see how the Open-close principle helps to keep the system modular and easy to maintain."
+  },
+  {
+    "id": 13329,
+    "question_text": "A programmer is developing a module for a big software project. The module has 50 functions. After writing the code, the programmer has observed that he is not getting the desired output, and he suspects some of the functions are not getting called. In order to identify those functions, he places some print statements in all the functions.  What kind of debugging technique does the programmer employ in this case?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "c7dcea99-9283-469e-a2ab-a9bbab783e46",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36281,
+        "question_id": "13329",
+        "text": "Breakpoint debugging",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36282,
+        "question_id": "13329",
+        "text": "Print debugging",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 36283,
+        "question_id": "13329",
+        "text": "Step-by-step debugging",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36284,
+        "question_id": "13329",
+        "text": "Exception-based debugging",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to determine why Print debugging is the correct answer.\n\n**Understanding the scenario:**\nThe programmer has 50 functions in a module, and he suspects that some of these functions are not being called. To identify the culprit functions, he decides to add print statements to all the functions.\n\n**Print debugging:**\nPrint debugging involves adding print statements to a program to track the execution flow, variable values, and function calls. In this scenario, the programmer is using print statements to determine which functions are being executed and which are not. By adding print statements to all the functions, the programmer can observe the output of each function and identify which ones are not being called.\n\n**Why is Print debugging the correct answer?**\n\n1. **Identifying function calls:** Print statements allow the programmer to see which functions are being executed, helping him or her identify the functions that are not being called.\n2. **Tracking execution flow:** Print statements provide a way to track the order in which functions are executed, making it easier to understand the program's flow.\n3. **Debugging simplicity:** Print debugging is a simple and straightforward technique that doesn't require any complex setup or tools. The programmer can quickly add print statements and observe the output.\n\n**Why are other options incorrect?**\n\n1. **Breakpoint debugging:** Breakpoint debugging involves setting breakpoints in the code to pause execution at specific points. In this scenario, the programmer is not setting breakpoints, but rather adding print statements to track function calls. Breakpoint debugging requires a debugger or IDE, which is not mentioned in the scenario.\n2. **Step-by-step debugging:** Step-by-step debugging involves executing the code line by line, often using a debugger or IDE. The programmer is not using a debugger or executing the code line by line; instead, he is adding print statements to track function calls.\n3. **Exception-based debugging:** Exception-based debugging involves identifying and handling exceptions that occur during program execution. In this scenario, the programmer is not dealing with exceptions; he is trying to determine which functions are not being called. Exception-based debugging is not relevant to this scenario.\n\n**Educational insights:**\n\n1. **Understanding debugging techniques:** This scenario highlights the importance of understanding different debugging techniques, such as print debugging, breakpoint debugging, step-by-step debugging, and exception-based debugging. Each technique has its strengths and weaknesses, and choosing the right technique depends on the specific debugging task.\n2. **Debugging strategies:** The scenario demonstrates a basic debugging strategy: adding print statements to track function calls. This strategy can be applied to various programming scenarios, and it's essential to understand when to use this strategy and when to use other debugging techniques.\n3. **Problem-solving skills:** The scenario requires the programmer to think critically and come up with a solution to the problem. By adding print statements, the programmer is able to identify the issue and take corrective action. This demonstrates the importance of problem-solving skills in software development.\n\nIn conclusion, Print debugging is the correct answer because it involves adding print statements to track function calls, which is exactly what the programmer is doing in the scenario. The other options are incorrect because they involve different debugging techniques that are not applicable to this scenario. By understanding the reasoning behind Print debugging, programmers can develop essential debugging skills and become more effective problem-solvers."
+  },
+  {
+    "id": 13330,
+    "question_text": "During debugging, a developer finds out the event that triggers an incorrect behavior. He follows the data control flow ahead until the incorrect state is reached.  Which of the following debugging strategies was chosen by the developer?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "5827f12d-7ba7-4299-ba13-2c8be273bf53",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36285,
+        "question_id": "13330",
+        "text": "Input manipulation",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36286,
+        "question_id": "13330",
+        "text": "Backwards strategy",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36287,
+        "question_id": "13330",
+        "text": "Forwards strategy",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 36288,
+        "question_id": "13330",
+        "text": "Blackbox debugging",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation of the correct answer, \"Forwards strategy\".\n\n**Correct Answer: Forwards strategy**\n\nThe developer chose the **Forwards strategy**, also known as the \"forward debugging\" approach, which involves following the execution flow of the program from the point where the incorrect behavior is triggered until the incorrect state is reached. This strategy is also known as \"step-by-step debugging\".\n\n**Step-by-Step Reasoning:**\n\n1. **Understanding the problem**: The developer identifies the event that triggers the incorrect behavior.\n2. **Identifying the goal**: The developer aims to understand how the program reaches the incorrect state.\n3. **Choosing the strategy**: The developer decides to follow the execution flow of the program from the point of interest (the event that triggers the incorrect behavior) to the point where the incorrect state is reached.\n4. **Execution**: The developer uses a debugger or a similar tool to step through the program's execution, examining the variables, function calls, and other relevant information at each step.\n\n**Why Forwards strategy is the correct answer:**\n\nThe Forwards strategy is the correct answer because it is the most direct and efficient way to understand how the program reaches the incorrect state. By following the execution flow, the developer can:\n\n* Identify the sequence of events that leads to the incorrect behavior\n* Understand how the program's variables and data structures change over time\n* Pinpoint the exact point where the incorrect state is reached\n\n**Why other options are incorrect:**\n\n* **Input manipulation**: This strategy involves changing the input data to the program to see how it affects the output. While input manipulation can be useful in certain situations, it is not relevant to the scenario described, where the developer is trying to understand how the program reaches the incorrect state.\n* **Backwards strategy**: This strategy involves working backwards from the incorrect state to identify the point where the error occurred. While this approach can be useful in some cases, it is not the best choice when the developer already knows the event that triggers the incorrect behavior and wants to understand the execution flow leading up to it.\n* **Blackbox debugging**: This strategy involves treating the program as a black box and trying to understand its behavior without looking at the code. While blackbox debugging can be useful for high-level understanding, it is not suitable for this scenario, where the developer needs to understand the execution flow of the program.\n\n**Educational Insights:**\n\n* **Debugging strategies**: Debugging is a crucial part of software development, and various strategies can be employed to diagnose and fix issues. Understanding the different debugging strategies is essential for developers to choose the most effective approach for a given problem.\n* **Execution flow**: Understanding how a program executes is essential for debugging. By following the execution flow, developers can identify the sequence of events that leads to a problem and pinpoint the exact point where the error occurs.\n* **Forward debugging**: Forward debugging is a powerful technique for understanding how a program reaches a particular state. By stepping through the program's execution, developers can gain a deeper understanding of the program's behavior and identify the root cause of errors.\n\nIn conclusion, the Forwards strategy is the correct answer because it allows the developer to follow the execution flow of the program from the point of interest to the point where the incorrect state is reached, providing a clear understanding of how the program reaches the incorrect state."
+  },
+  {
+    "id": 13331,
+    "question_text": "A software company is developing inventory management software for a medicine distributor. The software needs to be connected to a third-party module for invoice generation and printing. However, the data format used by the software is not compatible with the third-party module. Therefore, the development team has introduced a new class that converts the data format so that it is supported by the third-party module and has integrated the third-party module with the software. Which kind of design pattern is used in this case?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "c70f612f-1fdf-4aa9-bbbe-cc1c9fd2e270",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36289,
+        "question_id": "13331",
+        "text": "Builder design pattern",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36290,
+        "question_id": "13331",
+        "text": "Facade design pattern",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36291,
+        "question_id": "13331",
+        "text": "Adapter design pattern",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 36292,
+        "question_id": "13331",
+        "text": "Strategy design pattern",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation of the Adapter design pattern and why it's the correct answer in this scenario.\n\n**Why Adapter design pattern is the correct answer:**\n\nThe Adapter design pattern is used to allow two incompatible objects to work together by converting the interface of one object into an interface that the other object can understand. In this case, the software company's inventory management software needs to be connected to a third-party module for invoice generation and printing, but the data format used by the software is not compatible with the third-party module.\n\n**Step-by-step reasoning:**\n\n1. **Incompatibility between objects:** There's an incompatibility between the software's data format and the third-party module's data format, which is a classic scenario for using an Adapter design pattern.\n2. **Introducing an intermediate component:** The development team introduces a new class that converts the data format, which acts as an intermediate component between the software and the third-party module.\n3. **Converting interface:** The new class adapts the software's interface to match the third-party module's interface, allowing them to work together seamlessly.\n4. **Decoupling the objects:** By using the Adapter class, the software and the third-party module are decoupled, meaning they don't need to know about each other's implementation details.\n\n**Why other options are incorrect:**\n\n* **Builder design pattern:** This pattern is used to construct complex objects step-by-step, which isn't relevant to this scenario. The problem isn't about constructing objects, but about converting data formats.\n* **Facade design pattern:** This pattern provides a simplified interface to a complex system, which isn't the case here. The problem isn't about simplifying the interface, but about adapting it to match another interface.\n* **Strategy design pattern:** This pattern allows selecting an algorithm at runtime, which isn't relevant to this scenario. The problem isn't about selecting an algorithm, but about converting data formats.\n\n**Educational insights:**\n\n* **Encapsulation:** The Adapter design pattern showcases the importance of encapsulation, where the Adapter class encapsulates the complexity of converting data formats, allowing the software and third-party module to work together without knowing about the details.\n* **Abstraction:** The Adapter pattern also demonstrates abstraction, where the Adapter class abstracts the software's and third-party module's interfaces, allowing them to work together without worrying about the specifics of each other's implementation.\n* **Polymorphism:** While not explicitly demonstrated in this scenario, the Adapter pattern can also involve polymorphism, where the Adapter class can be used with multiple software and third-party module combinations.\n\nIn conclusion, the Adapter design pattern is the correct answer because it allows two incompatible objects to work together by converting the interface of one object into an interface that the other object can understand. The step-by-step reasoning and comparison with other options provide a clear explanation of why the Adapter design pattern is the best fit for this scenario."
+  },
+  {
+    "id": 13332,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/30XwiFRnOzRSn4xHCazNXOes7g8It0Uer7NpffFzYrLfoFVAAy.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "ad26d35d-20b9-4079-851e-ce051d2dfb5f",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36293,
+        "question_id": "13332",
+        "text": "{price = 0, price = 2000}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36294,
+        "question_id": "13332",
+        "text": "{price = -10, price = 0, price = 1200}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36295,
+        "question_id": "13332",
+        "text": "{price = 0, price = 1800, price = 3800}",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 36296,
+        "question_id": "13332",
+        "text": "{price = -10, price = 0, price = 1010, price = 1999}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is {price = 0, price = 1800, price = 3800}.\n\nHere's the step-by-step reasoning:\n\n1. The function `getDiscount(price)` checks if the price is less than or equal to 0, in which case it returns 0.\n2. If the price is greater than 0, the function calculates the discount as 0.1 times the price.\n3. However, there's an additional condition that if the price is less than 2000, the discount is capped at 0.1 times the price.\n4. If the price is 2000 or more, the discount is capped at 0.2 times the price.\n\nNow, let's analyze the given options:\n\n* Option {price = 0, price = 1800, price = 3800}: \n  - For price = 0, the discount is 0 (correct).\n  - For price = 1800, the discount is 0.1 * 1800 = 180 (correct).\n  - For price = 3800, the discount is 0.2 * 3800 = 760 (correct).\n\n* Option {price = -10, price = 0, price = 1200}: \n  - For price = -10, the discount is 0 (correct).\n  - For price = 0, the discount is 0 (correct).\n  - For price = 1200, the discount is 0.1 * 1200 = 120 (incorrect because it should be capped at 0.1 times the price, which is 1200).\n\n* Option {price = -10, price = 0, price = 1010, price = 1999}: \n  - For price = -10, the discount is 0 (correct).\n  - For price = 0, the discount is 0 (correct).\n  - For price = 1010, the discount is 0.1 * 1010 = 101 (incorrect because it should be capped at 0.1 times the price, which is 1010).\n  - For price = 1999, the discount is 0.2 * 1999 = 399.8 (incorrect because it should be capped at 0.2 times the price, which is 800.2).\n\n* Option {price = -10, price = 0, price = 1200}: \n  - For price = -10, the discount is 0 (correct).\n  - For price = 0, the discount is 0 (correct).\n  - For price = 1200, the discount is 0.1 * 1200 = 120 (incorrect because it should be capped at 0.1 times the price, which is 1200).\n\nIn summary, the correct option is {price = 0, price = 1800, price = 3800} because it correctly applies the discount rules for each price value. The other options either have incorrect discounts or do not consider the price caps correctly."
+  },
+  {
+    "id": 13333,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/JfoTaNbDOtf7VtxWMcd9Zt0pBdPzk1eXnDMuuefRgN0u4YmDdo.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "0a765e2f-4ecd-4c97-91cb-c061a19fc15c",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36297,
+        "question_id": "13333",
+        "text": "1-B, 2-C, 3-A, 4-D",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36298,
+        "question_id": "13333",
+        "text": "1-B, 2-C, 3-D, 4-A",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 36299,
+        "question_id": "13333",
+        "text": "1-A, 2-C, 3-D, 4-B",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36300,
+        "question_id": "13333",
+        "text": "1-A, 2-C, 3-B, 4-D",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "This question requires matching the deployment environments (listed in the left-hand column) with their corresponding key activities (listed in the right-hand column). \n\n**Step 1: Deployment Environment and Key Activities**\n\n*   **Deployment Environment 1:** Development\n*   **Key Activity 1:** A. Live environment where real users interact with the system\n\n    This matches because during development, a live environment is created where real users can interact with the software.\n\n*   **Deployment Environment 2:** Testing\n*   **Key Activity 2:** B. Provides the local environment of a developer\n\n    This does not match because the key activity for testing is not about providing a local environment for developers but rather about the process of testing itself.\n\n*   **Deployment Environment 3:** Staging\n*   **Key Activity 3:** C. Integration and system testing are performed\n\n    This matches because staging involves performing integration and system testing before moving the application to a production level.\n\n*   **Deployment Environment 4:** Production\n*   **Key Activity 4:** D. Exactly resembles the production environment to conduct various performance and stress testing\n\n    This matches because the production environment is designed to mimic real-world conditions, allowing for the testing of performance and stress under these conditions.\n\n**Conclusion:**\n\nBased on the explanations above, the correct answer is:\n\n**1-B, 2-C, 3-D, 4-A**\n\nThis option correctly matches the deployment environments with their corresponding key activities. \n\n**Incorrect Options:**\n\n*   **1-A, 2-C, 3-D, 4-B:** This option incorrectly assigns a key activity to the production environment, which is not accurate.\n*   **1-A, 2-C, 3-B, 4-D:** This option also incorrectly assigns a key activity to the deployment environment and production environment, which does not match the correct assignments.\n\n**Educational Insights:**\n\nThis question requires understanding the different deployment environments and their corresponding key activities. It highlights the importance of accurate matching in software development and deployment processes. By understanding these concepts, developers and testers can ensure that software is thoroughly tested in appropriate environments before it reaches production, enhancing overall quality and reliability."
+  },
+  {
+    "id": 13334,
+    "question_text": "Which of the performance enhancement strategies of the web applications suggests compressing the static pages using tools like Brotil and Gzip?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "a04da0a3-6a40-4d41-a095-f4729654828e",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36301,
+        "question_id": "13334",
+        "text": "Caching",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36302,
+        "question_id": "13334",
+        "text": "Quick loading and rendering",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 36303,
+        "question_id": "13334",
+        "text": "Task queues",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36304,
+        "question_id": "13334",
+        "text": "Monitoring",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine why \"Quick loading and rendering\" is the correct answer, let's break down the reasoning step-by-step:\n\n**Step 1: Understanding the context**\nThe question asks about performance enhancement strategies for web applications, specifically suggesting the use of tools like Brotil and Gzip to compress static pages. This implies we're discussing ways to improve the speed and efficiency of web applications.\n\n**Step 2: Identifying the goal**\nThe goal is to identify which performance enhancement strategy is most relevant to compressing static pages using tools like Brotil and Gzip.\n\n**Step 3: Analyzing the options**\n\n*   **Caching**: Caching involves storing frequently accessed data in a faster, more accessible location to reduce the load on the main storage system. While caching can improve performance, it's not directly related to compressing static pages.\n*   **Quick loading and rendering**: This strategy focuses on minimizing the time it takes for a web page to load and become interactive. Compressing static pages using tools like Brotil and Gzip is a key technique for achieving quick loading and rendering.\n*   **Task queues**: Task queues are used to manage tasks that need to be performed asynchronously, such as sending emails or processing payments. Task queues are not directly related to compressing static pages.\n*   **Monitoring**: Monitoring involves tracking key performance indicators (KPIs) to ensure the application is running smoothly. While monitoring is essential for performance optimization, it's not directly related to compressing static pages.\n\n**Step 4: Conclusion**\nBased on the analysis, the correct answer is \"Quick loading and rendering.\" This strategy is most closely related to compressing static pages using tools like Brotil and Gzip, which helps reduce the size of the pages and speed up the loading process.\n\n**Educational Insights**\n\n*   **Compressing static pages**: Compressing static pages using tools like Brotil and Gzip can significantly reduce the size of the pages, leading to faster loading times and improved user experience.\n*   **Tools like Brotil and Gzip**: These tools are specifically designed to compress data, making them ideal for reducing the size of static pages.\n*   **Performance optimization**: Performance optimization is crucial for web applications, as it directly impacts user experience and conversion rates. Strategies like quick loading and rendering are essential for achieving optimal performance.\n\nIn conclusion, quick loading and rendering is the correct answer because it directly addresses the goal of compressing static pages using tools like Brotil and Gzip. This strategy is essential for improving the performance of web applications and enhancing the user experience."
+  },
+  {
+    "id": 13335,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/Grb8dI0tSr3GjgWZ23Tk5MxBmDBps4q5JnxOyLXox3mVcW9HH1.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "fe8efa3c-d003-483b-a78a-e1820c3a3bde",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36305,
+        "question_id": "13335",
+        "text": "1-C, 2-D, 3-B, 4-A",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36306,
+        "question_id": "13335",
+        "text": "1-C, 2-D, 3-A, 4-B",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36307,
+        "question_id": "13335",
+        "text": "1-D, 2-C, 3-A, 4-B",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 36308,
+        "question_id": "13335",
+        "text": "1-D, 2-A, 3-B, 4-C",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, we must match each role with its corresponding responsibility. The roles and their responsibilities are as follows:\n\n* **Data Scientists**: A. Talk to users, create prototypes\n* **Marketing Team**: B. Help in resolving client issues\n* **Designers**: C. Conduct market research, identify audiences\n* **Support Team**: D. Analyze the data generated by different teams and users\n\n**Correct Answer: 1-D, 2-C, 3-A, 4-B**\n\nThis option correctly pairs each role with its corresponding responsibility.\n\n**Incorrect Options:**\n\n* **Option 1-C, 2-D, 3-A, 4-B**: Incorrectly assigns the data scientists' responsibility to the marketing team.\n* **Option 1-D, 2-A, 3-B, 4-C**: Incorrectly assigns the support team's responsibility to the designers.\n* **Option 1-D, 2-C, 3-A, 4-B**: Incorrectly assigns the designers' responsibility to the data scientists.\n\n**Conclusion**\n\nThe correct answer is 1-D, 2-C, 3-A, 4-B. This option correctly matches each role with its corresponding responsibility, demonstrating a thorough understanding of the roles and their responsibilities."
+  },
+  {
+    "id": 13336,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/yXVsnlnu97wd9m4qJVFtzTauvrNAzLroSqrXNjwxAGNwdS5o8C.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "6660090a-d500-4067-8994-9d55a0d13ad1",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36309,
+        "question_id": "13336",
+        "text": "I --> V --> IV --> II",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36310,
+        "question_id": "13336",
+        "text": "I --> III --> II --> IV --> V",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36311,
+        "question_id": "13336",
+        "text": "IV --> V --> II",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "5.000"
+      },
+      {
+        "id": 36312,
+        "question_id": "13336",
+        "text": "III --> II --> V",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The question involves a sequence of commands to be executed on a local branch of a repository, with the goal of pushing changes to the remote branch. The commands involve git clone, git push, git pull, git add, and git commit.\n\n**Understanding Git Commands**\n\n*   **git clone**: Creates a local copy of a repository from a URL.\n*   **git push**: Sends changes from a local branch to a remote branch.\n*   **git pull**: Fetches changes from a remote branch and merges them into the local branch.\n*   **git add**: Stages changes for the next commit.\n*   **git commit**: Commits staged changes with a commit message.\n\n**Analyzing the Options**\n\nOption I: I --> V --> II --> IV --> V. This sequence starts with git clone, then incorrectly tries to push changes before they are committed or even added, followed by a pull that would not merge new commits, and ends with a push that could overwrite changes on the remote branch. This sequence is incorrect because it does not follow the logical order of operations.\n\nOption II: I --> III --> II --> IV --> V. This sequence starts with git clone, then adds changes without committing them, pulls changes without merging them, and ends with a push that could overwrite changes on the remote branch. This sequence is incorrect because it does not stage changes before committing them and also includes a pull that does not merge changes.\n\nOption III: IV --> V --> II. This sequence starts with git add, which stages changes, followed by a commit that commits the changes, and then a pull that fetches changes from the remote branch and merges them into the local branch. This sequence is correct because it first stages and commits the changes, ensuring they are ready to be pushed.\n\nOption IV: III --> II --> V. This sequence is incorrect because it adds changes without committing them and then tries to push them, which would not be allowed by git.\n\n**Conclusion**\n\nThe correct option is IV --> V --> II, as it logically follows the sequence of operations: adding changes, committing them, and then pulling changes from the remote branch to merge with the local branch. This ensures that changes are staged, committed, and ready to be pushed, maintaining the integrity of the repository.\n\n**Educational Insights**\n\n*   Understanding the sequence of git commands is crucial for maintaining a healthy and up-to-date repository.\n*   Git commands should be executed in a logical order to ensure the repository remains consistent and up-to-date.\n*   Failing to stage and commit changes before pushing them can lead to inconsistencies in the repository.\n*   Merging changes from the remote branch into the local branch is essential for ensuring that all changes are integrated correctly.\n\nBy following the correct sequence of git commands, developers can ensure that their repository is maintained in a healthy state, with all changes properly staged, committed, and pushed."
+  },
+  {
+    "id": 13337,
+    "question_text": "Software can be divided into manageable components.  Find the one(s) that are TRUE about breaking software into components from the list below.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "fe1c61ba-83c9-412a-8ad0-75964babfb57",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36313,
+        "question_id": "13337",
+        "text": "It is a way of breaking the complexity of the system into manageable parts",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 36314,
+        "question_id": "13337",
+        "text": "It enables different teams to work on different components",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 36315,
+        "question_id": "13337",
+        "text": "Everyone on the development team must know how to work with all thecomponents",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36316,
+        "question_id": "13337",
+        "text": "It conceals implementation details while providing an interface for others todisplay its capabilities",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why \"It is a way of breaking the complexity of the system into manageable parts\" is the correct answer.\n\n**Step 1: Understanding the concept of breaking down complexity**\n\nWhen developing software, the complexity of the system can become overwhelming. As the system grows, it becomes increasingly difficult to manage, and the risk of errors, bugs, and maintenance issues increases. Breaking down the complexity into manageable parts is a fundamental principle of software engineering.\n\n**Step 2: Defining manageable components**\n\nManageable components are smaller, independent units that make up the larger system. These components are typically designed to perform a specific function or set of functions, making it easier to develop, test, and maintain them individually.\n\n**Step 3: Why breaking down complexity is essential**\n\nBreaking down complexity into manageable components is essential for several reasons:\n\n*   **Reduced risk**: By dividing the system into smaller parts, the risk of errors and bugs is reduced, as each component can be tested and validated independently.\n*   **Improved maintainability**: Manageable components make it easier to identify and fix issues, reducing the overall maintenance effort.\n*   **Increased scalability**: Components can be developed and deployed independently, allowing the system to scale more easily.\n\n**Step 4: Evaluating the other options**\n\n*   \"It enables different teams to work on different components\": While this is often a benefit of breaking down complexity, it is not the primary reason for doing so.\n*   \"Everyone on the development team must know how to work with all the components\": This is not necessarily true, as each team member may specialize in a specific component or set of components.\n*   \"It conceals implementation details while providing an interface for others to display its capabilities\": This is actually a characteristic of abstraction, which is a related but distinct concept from breaking down complexity.\n\n**Educational Insights**\n\nBreaking down complexity into manageable components is a fundamental principle of software engineering, and it has far-reaching implications for the development, testing, and maintenance of software systems. By understanding the importance of manageable components, developers can create more robust, scalable, and maintainable software systems.\n\nIn conclusion, \"It is a way of breaking the complexity of the system into manageable parts\" is the correct answer because it accurately describes the primary reason for breaking down complexity in software development. This concept is essential for reducing risk, improving maintainability, and increasing scalability, making it a crucial aspect of software engineering."
+  },
+  {
+    "id": 13338,
+    "question_text": "Which of the following belong to users experience goals?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "d63e02ab-8220-415f-95e8-26552923744f",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36317,
+        "question_id": "13338",
+        "text": "Motivating",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 36318,
+        "question_id": "13338",
+        "text": "Effective and efficient",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36319,
+        "question_id": "13338",
+        "text": "Satisfying",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 36320,
+        "question_id": "13338",
+        "text": "Safe and less error-prone",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36321,
+        "question_id": "13338",
+        "text": "entertaining",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 36322,
+        "question_id": "13338",
+        "text": "durable",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why \"Motivating\" is the correct answer.\n\n**Understanding User Experience Goals**\n\nUser experience (UX) goals refer to the objectives that designers and developers aim to achieve when creating a product, system, or service. These goals focus on the user's needs, behaviors, and emotions, ensuring that the product provides a positive and engaging experience. UX goals typically fall into several categories, including:\n\n1. Effective and efficient\n2. Satisfying\n3. Safe and less error-prone\n4. Motivating\n5. Entertaining\n\n**Why \"Motivating\" is the correct answer**\n\nNow, let's examine why \"Motivating\" is the correct answer for a user experience goal:\n\n1. **Definition of Motivation**: Motivation refers to the driving force that encourages users to engage with a product, service, or system. It involves creating an emotional connection, increasing user interest, and persuading them to take specific actions.\n2. **User Experience Implications**: A motivating user experience goal ensures that users are engaged, interested, and invested in the product. This can be achieved by creating a sense of excitement, satisfaction, or accomplishment.\n3. **Alignment with UX Principles**: The motivating goal aligns with UX principles, such as creating a sense of flow, providing clear calls-to-action, and using persuasive design elements.\n4. **User Behavior**: A motivating user experience can influence user behavior, increasing the likelihood of users performing desired actions, such as signing up, making a purchase, or completing a task.\n\n**Why other options are incorrect**\n\nNow, let's examine why the other options are not the primary user experience goal:\n\n1. **Effective and efficient**: While being effective and efficient is crucial for a product, it's more related to usability and performance goals rather than user experience.\n2. **Satisfying**: Satisfaction is a desired outcome, but it's not the primary goal. A satisfying experience can be a byproduct of a motivating experience, but they are not the same thing.\n3. **Safe and less error-prone**: Safety and error prevention are essential for a product, but they are more related to usability and accessibility goals rather than user experience.\n4. **Entertaining**: While entertainment can be a byproduct of a motivating experience, it's not the primary goal. A motivating experience can be entertaining, but not all entertaining experiences are motivating.\n\n**Educational Insights**\n\nTo further understand the underlying concepts, consider the following insights:\n\n* **Emotional Design**: Motivating experiences often involve creating an emotional connection with the user. This can be achieved by using storytelling, social proof, or other persuasive design elements.\n* **User Journey Mapping**: When creating a motivating experience, designers should map the user journey to identify opportunities for engagement, interest, and motivation.\n* **Behavioral Design**: Motivating experiences often involve influencing user behavior. Designers can use behavioral design principles, such as the principles of gamification, to create engaging and motivating experiences.\n\nIn conclusion, \"Motivating\" is the correct answer because it aligns with UX principles, influences user behavior, and creates an emotional connection with the user. The other options, while important, are not the primary user experience goal. By understanding the underlying concepts and insights, designers can create motivating experiences that engage, interest, and motivate users."
+  },
+  {
+    "id": 13339,
+    "question_text": "A project requires 240 person-months of development time. Which of the following statements is/are true?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "3fb221f1-e567-4014-999d-d0a1dfd0f3f4",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36323,
+        "question_id": "13339",
+        "text": "It requires 240 developers to complete the project",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36324,
+        "question_id": "13339",
+        "text": "It requires 10 developers to complete the project in 2 years",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 36325,
+        "question_id": "13339",
+        "text": "It requires 120 developers to complete the project in 2 months",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 36326,
+        "question_id": "13339",
+        "text": "It requires 24 developers to complete the project in 10 years",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the question and analyze each option step by step.\n\n**Understanding the concept of person-months**\n\nA person-month is a unit of measurement that combines the number of people working on a project with the amount of time they work. It represents the work equivalent of one person working for one month. The total number of person-months required for a project is determined by the project's complexity, scope, and resource requirements.\n\n**Breaking down the correct option: It requires 10 developers to complete the project in 2 years**\n\nTo determine if this option is correct, let's break it down:\n\n1. **Total person-months required**: The project requires 240 person-months of development time.\n2. **Timeframe**: The project needs to be completed in 2 years, which is equivalent to 24 months.\n3. **Number of developers**: To calculate the number of developers required, we need to divide the total person-months required by the number of months available to complete the project. This gives us: 240 person-months \u00f7 24 months = 10 person-months per month.\n\nSince each person-month per month is equivalent to one person working for one month, we can conclude that 10 people are needed to complete the project in 2 years.\n\n**Why other options are incorrect**\n\nLet's analyze the other options:\n\n* **Option 1: It requires 240 developers to complete the project**\n\nThis option is incorrect because the total number of developers is not calculated correctly. If 240 developers were working on the project for one month, the total person-months required would be 240, not 240 person-months. The correct calculation is 240 person-months \u00f7 1 month = 240 developers \u00d7 1 month, which is not the same as 240 person-months.\n\n* **Option 3: It requires 120 developers to complete the project in 2 months**\n\nThis option is incorrect because the timeframe is too short. If the project requires 240 person-months and needs to be completed in 2 months, the number of developers required would be much higher than 120. We can calculate it as follows: 240 person-months \u00f7 2 months = 120 person-months per month. Since each person-month per month is equivalent to one person working for one month, we would need 120 people working for one month, which is not the same as 120 developers working for 2 months.\n\n* **Option 4: It requires 24 developers to complete the project in 10 years**\n\nThis option is incorrect because the timeframe is too long. If the project requires 240 person-months and needs to be completed in 10 years (120 months), the number of developers required would be much lower than 24. We can calculate it as follows: 240 person-months \u00f7 120 months = 2 person-months per month. Since each person-month per month is equivalent to one person working for one month, we would need 2 people working for one month.\n\n**Educational insights**\n\nThis question requires an understanding of the concept of person-months and how to apply it to calculate the number of developers required to complete a project. It also requires basic arithmetic skills, such as division and multiplication.\n\nIn software development and project management, person-months are a useful metric to estimate the amount of work required for a project. It takes into account both the number of people working on the project and the amount of time they work. By understanding how to calculate person-months and apply it to different scenarios, project managers and developers can make informed decisions about resource allocation, scheduling, and budgeting.\n\nIn conclusion, the correct option is indeed \"It requires 10 developers to complete the project in 2 years\" because it accurately calculates the number of developers required based on the total person-months required and the available timeframe. The other options are incorrect because they either misinterpret the concept of person-months or apply it incorrectly."
+  },
+  {
+    "id": 13340,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/CWOXjgYpufq6d2IkxSe9RsBaD7WFoJEmSYjZcWlOpS3UxFOhqe.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "2829a2c4-fe24-406b-bee7-2931a1aed5ff",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36327,
+        "question_id": "13340",
+        "text": "Figure 1 shows the higher coupling between the modules compared to Figure2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36328,
+        "question_id": "13340",
+        "text": "Figure 1 shows the lower coupling between the modules compared to Figure 2",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 36329,
+        "question_id": "13340",
+        "text": "The modules in Figure 1 are highly cohesive compared to Figure 2",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 36330,
+        "question_id": "13340",
+        "text": "The modules in Figure 2 are highly cohesive compared to Figure 1",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Error generating explanation: (ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), '(Request ID: b119d8cf-b31c-457c-9c78-db0f52220770)')"
+  },
+  {
+    "id": 13341,
+    "question_text": "Identify the statements which are true and related to code smells.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "9dbef14e-18b0-477a-ad6b-a7583375809a",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36331,
+        "question_id": "13341",
+        "text": "All commented-out codes should be retained in the final code base",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36332,
+        "question_id": "13341",
+        "text": "It is better to have a function that does many things",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36333,
+        "question_id": "13341",
+        "text": "A function ideally should not have any argument, however, in practicalsituations, it should not use more than three arguments",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 36334,
+        "question_id": "13341",
+        "text": "A function should not use any flag (based on which function perform certainoperations) argument",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the option \"A function ideally should not have any argument, however, in practical situations, it should not use more than three arguments\" is the correct answer.\n\n**Why is a function ideally without arguments considered a good practice?**\n\n1. **Single Responsibility Principle (SRP)**: A function with no arguments is more likely to follow the SRP, which states that a function should have only one reason to change. Without arguments, the function's behavior is more predictable and easier to understand, making it simpler to maintain and modify.\n2. **Encapsulation**: Functions with no arguments tend to encapsulate their behavior more effectively, as they don't rely on external inputs. This makes it easier to change the function's implementation without affecting other parts of the code.\n3. **Testability**: Functions with no arguments are generally easier to test, as they don't require mocking or stubbing of external inputs.\n\n**Why is it acceptable to have more than three arguments in practical situations?**\n\n1. **Practical realities**: In many cases, functions need to accept multiple arguments to perform a specific task, such as data processing, validation, or calculations. It's not always possible to break down a complex operation into smaller, argumentless functions.\n2. **Trade-offs**: While having more than three arguments can make a function harder to understand and maintain, it's sometimes necessary to balance this with the need for flexibility and expressiveness in the code.\n\n**Why are the other options incorrect?**\n\n1. **All commented-out codes should be retained in the final code base**: This statement is incorrect, as commented-out code is often unnecessary and can introduce confusion or errors.\n2. **It is better to have a function that does many things**: This statement is incorrect, as it goes against the SRP and can lead to complex, hard-to-maintain code. Functions should ideally have a single, well-defined responsibility.\n3. **A function should not use any flag (based on which function performs certain operations) argument**: This statement is too absolute and doesn't account for situations where flags are necessary, such as in configuration or debugging scenarios.\n\n**Educational insights**\n\n1. **Code smells**: Code smells refer to design issues or bad smells in code that can make it harder to maintain, understand, or modify. The correct option addresses a code smell related to function arguments.\n2. **Single Responsibility Principle (SRP)**: The SRP is a fundamental principle in software design that emphasizes the importance of simplicity and modularity in code. Understanding the SRP can help you write more maintainable and scalable code.\n3. **Function arguments**: Function arguments can be a double-edged sword. While they provide flexibility and expressiveness, they can also make code harder to understand and maintain. A balanced approach, like the one described in the correct option, is essential.\n\nIn conclusion, the correct option \"A function ideally should not have any argument, however, in practical situations, it should not use more than three arguments\" is the right answer because it balances theoretical best practices with practical realities. By understanding the underlying principles and trade-offs, you can write more maintainable, scalable, and efficient code."
+  },
+  {
+    "id": 13342,
+    "question_text": "Which of the following statements about the flask framework is/are correct?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "fa61ae22-3fec-4283-8646-0874e37a386d",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36335,
+        "question_id": "13342",
+        "text": "It is a mobile application framework",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36336,
+        "question_id": "13342",
+        "text": "It is a web application framework",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 36337,
+        "question_id": "13342",
+        "text": "It is a micro-framework",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 36338,
+        "question_id": "13342",
+        "text": "It imposes several restrictions on developing applications, like the kind ofdatabases that can be used and the type of web servers that can be used",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the option \"It is a web application framework\" is the correct answer.\n\n**Step 1: Understanding Flask**\n\nFlask is a Python web framework that allows developers to build web applications. It is known for its lightweight and modular design, which makes it easy to use and extend.\n\n**Step 2: Definition of a Web Application Framework**\n\nA web application framework is a software framework that provides a set of tools, libraries, and APIs to build web applications. It typically provides a structure for building web applications, including routing, templating, and database integration.\n\n**Step 3: Identifying Flask's Characteristics**\n\nFlask is a Python web framework that provides a set of tools and libraries to build web applications. It includes features such as:\n\n* Routing: Flask provides a routing system that allows developers to map URLs to specific functions.\n* Templating: Flask includes a built-in templating engine that allows developers to render HTML templates with dynamic data.\n* Database integration: Flask provides support for various databases, including relational databases and NoSQL databases.\n\n**Step 4: Analyzing the Options**\n\nOption 1: \"It is a mobile application framework\" - This is incorrect because Flask is not designed for building mobile applications.\n\nOption 2: \"It is a web application framework\" - This is the correct answer because Flask is designed for building web applications, as described above.\n\nOption 3: \"It is a micro-framework\" - This is correct because Flask is considered a micro-framework, meaning it is lightweight and modular, and provides a smaller set of features compared to full-fledged web frameworks.\n\nOption 4: \"It imposes several restrictions on developing applications, like the kind of databases that can be used and the type of web servers that can be used\" - This is incorrect because Flask is known for its flexibility and modularity, allowing developers to use a wide range of databases and web servers.\n\n**Step 5: Educational Insights**\n\nTo understand why Flask is a web application framework, it's essential to understand the underlying concepts of web development and framework design. Here are some educational insights:\n\n* Web frameworks are designed to abstract away the underlying complexities of web development, providing a simpler way to build web applications.\n* Flask's design is inspired by the principles of microservices architecture, which emphasizes modularity, flexibility, and scalability.\n* Understanding the characteristics of Flask and other web frameworks is crucial for building robust and maintainable web applications.\n\n**Conclusion**\n\nIn conclusion, the option \"It is a web application framework\" is the correct answer because Flask is designed for building web applications, providing a set of tools and libraries for routing, templating, and database integration. It is not a mobile application framework, and it is not a micro-framework in the sense that it imposes restrictions on developing applications. Its design is inspired by the principles of microservices architecture, making it a lightweight and modular web framework."
+  },
+  {
+    "id": 13343,
+    "question_text": "Which of the following are considered the best practices for continuous integration?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "7ce3e0a7-f090-4ac9-a20a-03be53be7a86",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36339,
+        "question_id": "13343",
+        "text": "Maintain multiple source repositories for each version of the code base",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36340,
+        "question_id": "13343",
+        "text": "Automate the build using build tools like Ant and Builder",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 36341,
+        "question_id": "13343",
+        "text": "Automate the tests for the build, and make it self-testing",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 36342,
+        "question_id": "13343",
+        "text": "Avoid frequent commits, and commit all the source code repositories only when some majorupdates are done",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36343,
+        "question_id": "13343",
+        "text": "Fix the broken builds immediately",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the correct answer and explain why it's the best practice for continuous integration.\n\n**Correct Answer: Automate the build using build tools like Ant and Builder**\n\n**Why is this the correct answer?**\n\nAutomating the build process is a crucial aspect of continuous integration. It ensures that the code is compiled, linked, and tested consistently, without manual intervention. This approach has several benefits:\n\n1. **Speed and Efficiency**: Automating the build process saves time and increases efficiency. It eliminates the need for manual intervention, reducing the time spent on building and testing the code.\n2. **Consistency**: Automated builds ensure that the code is built consistently, every time. This consistency is critical for identifying and fixing bugs early in the development process.\n3. **Repeatability**: Automated builds are repeatable, which means that the same build process can be executed multiple times, without any changes. This repeatability is essential for continuous integration, as it allows developers to test their code regularly.\n\n**Step-by-Step Reasoning:**\n\n1. **Manual Builds**: Manual builds are time-consuming, prone to errors, and can lead to inconsistencies in the build process.\n2. **Automated Builds**: Automated builds use tools like Ant, Builder, Maven, or Gradle to automate the build process. These tools execute a predefined set of instructions, ensuring that the code is compiled, linked, and tested consistently.\n3. **Benefits of Automated Builds**: Automated builds provide several benefits, including speed, consistency, and repeatability. These benefits are essential for continuous integration, as they enable developers to test their code regularly and identify bugs early in the development process.\n\n**Why are other options incorrect?**\n\n1. **Maintain multiple source repositories for each version of the code base**:\n\t* This approach can lead to complexity and maintenance issues, as multiple repositories need to be updated and managed.\n\t* It can also lead to inconsistencies in the codebase, as different versions of the code may have different features or fixes.\n2. **Avoid frequent commits, and commit all the source code repositories only when some major updates are done**:\n\t* Frequent commits are essential for continuous integration, as they enable developers to test their code regularly and identify bugs early in the development process.\n\t* Delaying commits can lead to a buildup of changes, making it harder to identify and fix bugs.\n3. **Avoid fixing broken builds immediately**:\n\t* Broken builds can lead to delays in the development process and may cause downstream issues.\n\t* Fixing broken builds immediately ensures that the build process is reliable and consistent, which is essential for continuous integration.\n\n**Educational Insights:**\n\n1. **Understanding the importance of automation**: Automation is critical for continuous integration, as it enables developers to test their code regularly and identify bugs early in the development process.\n2. **Choosing the right build tools**: Selecting the right build tools, such as Ant, Builder, Maven, or Gradle, is essential for automating the build process. These tools can be customized to fit the specific needs of the project.\n3. **Implementing continuous integration**: Implementing continuous integration requires a combination of automated builds, automated tests, and continuous integration tools. This approach enables developers to test their code regularly and identify bugs early in the development process.\n\nIn conclusion, automating the build process using build tools like Ant and Builder is a critical aspect of continuous integration. It ensures that the code is compiled, linked, and tested consistently, without manual intervention. This approach has several benefits, including speed, consistency, and repeatability. By understanding the importance of automation and choosing the right build tools, developers can implement continuous integration successfully."
+  },
+  {
+    "id": 13344,
+    "question_text": "Choose the correct statements regarding software organizations.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "5926ccb9-b670-4ac5-80ea-3f213675cb66",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36344,
+        "question_id": "13344",
+        "text": "In a flat organizational structure, there are fewer levels of hierarchy,promoting a more collaborative environment",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 36345,
+        "question_id": "13344",
+        "text": "Agile methodologies are primarily suitable for large, bureaucraticorganizations",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36346,
+        "question_id": "13344",
+        "text": "DevOps is a cultural and professional movement that aims to improvecollaboration between software development and IT operations",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 36347,
+        "question_id": "13344",
+        "text": "Waterfall model is an agile software development methodology",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36348,
+        "question_id": "13344",
+        "text": "The Scrum framework defines roles, events, and artifacts for organizing andmanaging work",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step.\n\n**Option 1: \"In a flat organizational structure, there are fewer levels of hierarchy, promoting a more collaborative environment\"**\n\nA flat organizational structure is a type of organizational design where there are fewer levels of management or hierarchy. In a flat structure, decision-making power is distributed among team members, and there are fewer layers of management between the top-level executives and the front-line staff. This type of structure promotes a more collaborative environment because:\n\n1. **Fewer barriers to communication**: With fewer levels of hierarchy, communication flows more easily between team members, and there are fewer opportunities for misunderstandings or miscommunications.\n2. **Increased autonomy**: Team members have more freedom to make decisions and take ownership of their work, which encourages collaboration and teamwork.\n3. **Reduced bureaucratic overhead**: Flat structures tend to have fewer administrative tasks and less red tape, allowing teams to focus on their work and collaborate more effectively.\n\nIn software organizations, a flat structure can lead to:\n\n1. **Faster decision-making**: With fewer layers of management, decisions can be made more quickly, which is essential in the fast-paced world of software development.\n2. **Improved innovation**: Flat structures can foster a culture of experimentation and innovation, as team members feel more empowered to try new approaches and collaborate with others.\n3. **Increased job satisfaction**: Employees in flat structures tend to report higher levels of job satisfaction, as they have more autonomy and are able to work more collaboratively with their colleagues.\n\n**Why are the other options incorrect?**\n\n1. **Agile methodologies are not primarily suitable for large, bureaucratic organizations**:\n\nAgile methodologies, such as Scrum and Kanban, are actually designed to help teams in complex, dynamic environments work more effectively. They are well-suited for large organizations, but not because they are primarily suitable for bureaucratic organizations. Agile methodologies are designed to help teams adapt to changing requirements and work collaboratively to deliver value to customers. In large bureaucratic organizations, agile methodologies can help to break down silos and promote collaboration across teams.\n\n2. **DevOps is not a cultural and professional movement**:\n\nDevOps is a term that refers to the practice of combining software development (Dev) and IT operations (Ops) to improve the speed, quality, and reliability of software releases. While DevOps does involve cultural and professional aspects, such as collaboration and communication between development and operations teams, it is primarily a set of practices and tools designed to improve the efficiency and effectiveness of software delivery.\n\n3. **Waterfall model is not an agile software development methodology**:\n\nThe Waterfall model is a traditional, linear approach to software development, where each phase is completed before moving on to the next one. Agile methodologies, on the other hand, are iterative and incremental, with a focus on continuous delivery and improvement. The Waterfall model is often considered to be at odds with agile principles, as it does not allow for flexibility, adaptability, or rapid feedback.\n\n4. **The Scrum framework does define roles, events, and artifacts for organizing and managing work**:\n\nThe Scrum framework is a specific type of agile methodology that defines roles, events, and artifacts for organizing and managing work. The three roles in Scrum are the Product Owner, the Scrum Master, and the Development Team. The events in Scrum are the Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective. The artifacts in Scrum are the Product Backlog, the Sprint Backlog, and the Increment. Scrum is a widely-used framework for managing work in software development, and it is known for its simplicity and flexibility.\n\n**Educational insights**\n\n1. **Organizational design**: Understanding the design of an organization, including its structure and culture, is crucial for software development teams. A flat structure can promote collaboration and innovation, while a hierarchical structure can lead to bureaucracy and inefficiency.\n2. **Agile methodologies**: Agile methodologies are designed to help teams work more effectively in complex, dynamic environments. They promote collaboration, flexibility, and continuous improvement, and are widely used in software development.\n3. **DevOps**: DevOps is a set of practices and tools designed to improve the efficiency and effectiveness of software delivery. It involves collaboration between development and operations teams, and is essential for delivering high-quality software quickly and reliably.\n4. **Scrum framework**: The Scrum framework is a specific type of agile methodology that defines roles, events, and artifacts for organizing and managing work. It is widely used in software development, and is known for its simplicity and flexibility."
+  },
+  {
+    "id": 13345,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/soKKV1t43cCUFEwLl7TUn54emDQNz0TlfGyGQS7HHUXWOhjsx4.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "bf19bbde-b3f6-496b-a7ac-7ebaeb2c9c34",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36349,
+        "question_id": "13345",
+        "text": "There is an aggregation relation between class Course and class BookList",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36350,
+        "question_id": "13345",
+        "text": "There is an aggregation relation between class Book and class BookList",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 36351,
+        "question_id": "13345",
+        "text": "There is an inheritance relation between class Book and classes TextBook andReferenceBook",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 36352,
+        "question_id": "13345",
+        "text": "There is an aggregation relation between class Book and classes TextBook andReferenceBook",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Question**\n\nThe question asks us to identify which of the given options is true about the class diagram provided. The options are:\n\n* There is an aggregation relation between class Course and class BookList.\n* There is an aggregation relation between class Book and class BookList (CORRECT OPTION).\n* There is an inheritance relation between class Book and classes TextBook and ReferenceBook (CORRECT OPTION).\n* There is an aggregation relation between class Book and classes TextBook and ReferenceBook.\n\n**Step 2: Analyzing the Class Diagram**\n\nFrom the class diagram, we can see that there are three classes: Book, BookList, and Course. The BookList class has a composition relation with the Book class, as indicated by the \"+\" symbol, which means it contains one or more Book objects. This is an example of an aggregation relation, where the BookList class is responsible for managing the Book objects it contains.\n\n**Step 3: Evaluating the Options**\n\nOption A: There is an aggregation relation between class Course and class BookList.\n\n* This option is incorrect because there is no direct relation between the Course class and the BookList class in the class diagram.\n\nOption B: There is an aggregation relation between class Book and class BookList.\n\n* This option is correct because, as mentioned earlier, the BookList class has a composition relation with the Book class, indicating an aggregation relation.\n\nOption C: There is an inheritance relation between class Book and classes TextBook and ReferenceBook.\n\n* This option is incorrect because the class diagram does not show any inheritance relations between the Book class and other classes.\n\nOption D: There is an aggregation relation between class Book and classes TextBook and ReferenceBook.\n\n* This option is incorrect because the class diagram does not show any aggregation relations between the Book class and other classes.\n\n**Step 4: Conclusion**\n\nBased on the analysis of the class diagram, the correct answer is:\n\n* There is an aggregation relation between class Book and class BookList.\n\nThis conclusion is supported by the composition relation between the BookList class and the Book class, which indicates an aggregation relation.\n\n**Educational Insights**\n\nTo understand the underlying concepts:\n\n* Aggregation relations represent \"has-a\" or \"contains-a\" relationships between classes.\n* Composition relations represent \"is-a\" or \"owns-a\" relationships between classes.\n* Inheritance relations represent \"is-a\" or \"inherits-from\" relationships between classes.\n\nThese concepts are essential in object-oriented programming and are used to model real-world entities and relationships in software systems."
+  },
+  {
+    "id": 13346,
+    "question_text": "From the given options, identify the primary responsibilities of product managers in a large software organization",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "0e786373-b03d-4934-b959-6b7bebf8b796",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36353,
+        "question_id": "13346",
+        "text": "To work closely with the marketing and sales teams to understand thebusiness goals",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 36354,
+        "question_id": "13346",
+        "text": "To talk to the users and transform the requirements into solutions",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36355,
+        "question_id": "13346",
+        "text": "To understand the technical stack in order to appreciate the level of effort involved and to takeimportant decisions",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 36356,
+        "question_id": "13346",
+        "text": "To analyze the data generated by different teams and users to help theorganization make better decisions",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why \"To work closely with the marketing and sales teams to understand the business goals\" is the correct answer.\n\n**Step 1: Understanding the Role of a Product Manager**\n\nA product manager is responsible for the overall success of a product, from conception to launch and beyond. Their primary goal is to create a product that meets the needs of customers and stakeholders while aligning with the company's overall strategy. To achieve this, they need to have a deep understanding of the market, customers, and business goals.\n\n**Step 2: Importance of Business Goals**\n\nBusiness goals are the objectives that a company aims to achieve, such as revenue growth, market share expansion, or customer acquisition. Understanding these goals is crucial for product managers, as it helps them prioritize features, allocate resources, and make strategic decisions. By aligning product development with business goals, product managers can ensure that their products are relevant, competitive, and profitable.\n\n**Step 3: Collaboration with Marketing and Sales Teams**\n\nMarketing and sales teams are responsible for promoting and selling the product to customers. They have a deep understanding of the market, customer needs, and competitive landscape. By working closely with these teams, product managers can gain valuable insights into:\n\n* Customer pain points and preferences\n* Market trends and competitor activity\n* Sales strategies and performance metrics\n* Revenue projections and growth opportunities\n\n**Step 4: Synergy between Marketing, Sales, and Product Teams**\n\nCollaboration between marketing, sales, and product teams is essential for achieving business goals. Marketing and sales teams provide input on customer needs, market opportunities, and sales strategies, while product teams use this information to develop products that meet customer needs and drive revenue growth. By working together, these teams can create a cohesive product strategy that aligns with business goals and customer needs.\n\n**Why Other Options are Incorrect**\n\n* **To talk to the users and transform the requirements into solutions**: While product managers do need to communicate with users to understand their needs, this is not the primary responsibility. Product managers also need to work closely with cross-functional teams, including marketing and sales, to ensure that product development aligns with business goals.\n* **To understand the technical stack in order to appreciate the level of effort involved and to take important decisions**: Understanding the technical stack is important for product managers, but it is not the primary responsibility. This is more of a secondary skill that product managers need to develop to make informed decisions about product development.\n* **To analyze the data generated by different teams and users to help the organization make better decisions**: While data analysis is an important aspect of product management, it is not the primary responsibility. Product managers need to have a deep understanding of business goals, customer needs, and market trends to make strategic decisions, rather than just analyzing data.\n\n**Educational Insights**\n\nProduct managers need to have a unique blend of skills, including:\n\n* Business acumen: understanding business goals, market trends, and customer needs\n* Technical skills: understanding the technical stack and its implications for product development\n* Communication skills: working closely with cross-functional teams, including marketing, sales, and engineering\n* Analytical skills: analyzing data to inform product decisions\n\nBy working closely with marketing and sales teams, product managers can gain a deeper understanding of business goals and customer needs, which is essential for creating successful products that drive revenue growth and customer satisfaction."
+  },
+  {
+    "id": 13347,
+    "question_text": "Which of the following integration testing approaches may require drivers?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "5.00",
+    "uuid": "ff0054c3-674d-42d2-a9c0-731abcc06ec1",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36357,
+        "question_id": "13347",
+        "text": "Big bang approach",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36358,
+        "question_id": "13347",
+        "text": "Bottom up approach",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 36359,
+        "question_id": "13347",
+        "text": "Top down approach",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36360,
+        "question_id": "13347",
+        "text": "Mixed approach",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      }
+    ],
+    "comprehensive_explanation": "To answer this question, let's delve into the world of integration testing and explore the different approaches, focusing on the correct options, \"Bottom up approach\" and \"Mixed approach\".\n\n**Integration Testing Approaches**\n\nIntegration testing is a software testing technique that aims to verify the interaction between different components or modules of a system. It ensures that the system behaves as expected when its components work together. There are several integration testing approaches, and we'll examine each of the given options:\n\n1. **Big Bang Approach**: In this approach, all components are integrated at once, creating a complete system. This approach is also known as \"big bang integration\". While it's a straightforward approach, it can be challenging to identify and troubleshoot issues, as the entire system is integrated simultaneously.\n2. **Bottom Up Approach**: This approach starts with the lowest-level components and works its way up to the highest-level components. Each component is integrated with its immediate dependencies, and then the resulting system is integrated with the next level of components. This approach allows for earlier detection of integration issues, making it more efficient.\n3. **Top Down Approach**: In this approach, the highest-level components are integrated first, and then the resulting system is integrated with lower-level components. This approach can be challenging, as it's difficult to identify integration issues when working from the top down.\n\n**Why is the Bottom Up Approach correct?**\n\nThe **Bottom Up Approach** may require drivers because it involves integrating components in a hierarchical manner, starting with the lowest-level components. Drivers are used to simulate external inputs or interactions with other systems. In the Bottom Up Approach, drivers can be used to simulate external interactions with the lowest-level components, allowing the testing team to verify that these components work correctly before integrating them with higher-level components.\n\nHere's a step-by-step explanation of why the Bottom Up Approach is correct:\n\n1. **Start with the lowest-level components**: In the Bottom Up Approach, you begin with the lowest-level components, such as individual modules or functions.\n2. **Integrate with immediate dependencies**: Each component is integrated with its immediate dependencies, ensuring that they work together correctly.\n3. **Use drivers to simulate external interactions**: Drivers are used to simulate external inputs or interactions with other systems, allowing the testing team to verify that the components work correctly.\n4. **Gradually integrate higher-level components**: The resulting system is integrated with the next level of components, working its way up to the highest-level components.\n\n**Why are the other options incorrect?**\n\n* **Big Bang Approach**: This approach integrates all components at once, making it challenging to identify and troubleshoot issues. Drivers are not typically used in this approach.\n* **Top Down Approach**: This approach integrates the highest-level components first, making it difficult to identify integration issues when working from the top down. Drivers are not typically used in this approach.\n\n**Educational Insights**\n\nUnderstanding the different integration testing approaches and their strengths is crucial for effective software testing. The Bottom Up Approach is often preferred due to its efficiency in detecting integration issues early on. By using drivers to simulate external interactions, the testing team can ensure that the lowest-level components work correctly before integrating them with higher-level components.\n\nIn conclusion, the **Bottom Up Approach** may require drivers because it involves integrating components in a hierarchical manner, starting with the lowest-level components. By using drivers to simulate external interactions, the testing team can verify that the components work correctly before integrating them with higher-level components."
+  },
+  {
+    "id": 13348,
+    "question_text": "Choose the correct statements regarding Test-Driven Development (TDD).",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "5.00",
+    "uuid": "2c8359c3-becf-4f86-b35d-c285ff20b000",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36361,
+        "question_id": "13348",
+        "text": "TDD involves writing test cases after the implementation of the code",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36362,
+        "question_id": "13348",
+        "text": "TDD follows the cycle of \"Red-Green-Refactor\"",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 36363,
+        "question_id": "13348",
+        "text": "TDD encourages developers to write production code without any testing",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36364,
+        "question_id": "13348",
+        "text": "In TDD, tests are written to validate the expected behavior of the code beforethe code is implemented",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 36365,
+        "question_id": "13348",
+        "text": "TDD is not suitable for agile development methodologies",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation of the correct option, \"TDD follows the cycle of 'Red-Green-Refactor'\".\n\n**Step 1: Understanding the concept of TDD**\n\nTest-Driven Development (TDD) is a software development process that relies on the repetitive cycle of writing automated tests before writing the actual code. The primary goal of TDD is to ensure that the code is testable, reliable, and meets the required specifications.\n\n**Step 2: Breaking down the \"Red-Green-Refactor\" cycle**\n\nThe \"Red-Green-Refactor\" cycle is a fundamental concept in TDD. Here's a step-by-step explanation of each phase:\n\n1. **Red**: In this phase, a developer writes a test case that is expected to fail. This test is called a \"red\" test because it will fail as soon as it is run. The test is designed to ensure that the code is not yet implemented, and the expected behavior is not met.\n2. **Green**: The next step is to write the minimal amount of production code required to pass the test. This code is called the \"green\" code because it will pass the test. The goal is to write just enough code to make the test pass.\n3. **Refactor**: Once the test passes, the developer refactors the code to make it more maintainable, efficient, and easy to understand. Refactoring involves improving the code without changing its functionality.\n\n**Why is \"TDD follows the cycle of 'Red-Green-Refactor'\" the correct answer?**\n\nThe \"Red-Green-Refactor\" cycle is the core of TDD, and it provides a structured approach to writing testable and reliable code. By following this cycle, developers can ensure that their code meets the required specifications, is testable, and is maintainable. This cycle is not just a suggestion; it's a fundamental principle of TDD that helps developers write better code.\n\n**Why are the other options incorrect?**\n\n1. **Option 1: TDD involves writing test cases after the implementation of the code**\n\nThis option is incorrect because TDD requires writing test cases before implementing the code. Writing test cases after the implementation goes against the fundamental principle of TDD.\n\n2. **Option 2: TDD encourages developers to write production code without any testing**\n\nThis option is incorrect because TDD is actually designed to ensure that production code is thoroughly tested. TDD requires writing automated tests before writing the production code.\n\n3. **Option 3: In TDD, tests are written to validate the expected behavior of the code before the code is implemented**\n\nWhile this option might seem correct at first glance, it's actually misleading. In TDD, tests are written before the code is implemented, but the focus is not on validating the expected behavior before the code is implemented. Instead, the focus is on writing tests that will fail initially (the \"Red\" phase) and then writing code that will pass the test (the \"Green\" phase).\n\n4. **Option 4: TDD is not suitable for agile development methodologies**\n\nThis option is incorrect because TDD is actually a fundamental part of agile development methodologies, such as Extreme Programming (XP). Many agile teams use TDD as a way to ensure that their code is testable, reliable, and meets the required specifications.\n\n**Educational insights**\n\nTo understand the underlying concepts of TDD, it's essential to keep the following insights in mind:\n\n* TDD is a mindset shift that requires developers to think about testing and code quality from the beginning.\n* The \"Red-Green-Refactor\" cycle is not just a suggestion; it's a fundamental principle of TDD that helps developers write better code.\n* TDD is not just about writing tests; it's about writing production code that is testable, reliable, and maintainable.\n* Agile development methodologies, such as Extreme Programming (XP), rely heavily on TDD to ensure that code is testable, reliable, and meets the required specifications.\n\nBy following the \"Red-Green-Refactor\" cycle, developers can ensure that their code is of high quality, is testable, and meets the required specifications."
+  },
+  {
+    "id": 13349,
+    "question_text": "Which of the following are the benefits of continuous integration?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "5.00",
+    "uuid": "f959cbbd-3c8a-416d-bf37-e6242545515a",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36366,
+        "question_id": "13349",
+        "text": "Reduces deployment time",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 36367,
+        "question_id": "13349",
+        "text": "No initial effort is required to set up the process",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36368,
+        "question_id": "13349",
+        "text": "Users can see the initial prototype",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 36369,
+        "question_id": "13349",
+        "text": "Discourage modular coding",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's delve into the benefits of continuous integration and why reducing deployment time is a significant advantage.\n\n**Understanding Continuous Integration**\n\nContinuous Integration (CI) is a software development practice that involves integrating code changes into a main branch or trunk regularly. This process ensures that the code is tested, validated, and verified at every stage of development, making it easier to catch and fix errors early on. The main goal of CI is to improve the quality and reliability of the software by integrating small changes frequently, which helps to reduce the overall risk of integrating large changes at the end of the development cycle.\n\n**Why Reduces Deployment Time is the Correct Option**\n\nNow, let's analyze why \"Reduces deployment time\" is a correct benefit of continuous integration:\n\n1. **Frequent Integration**: CI involves integrating code changes into the main branch regularly, which means that the code is constantly being built and tested. This frequent integration process helps identify and resolve issues early on, reducing the likelihood of downstream problems.\n2. **Automated Testing**: Continuous integration is often accompanied by automated testing, which helps ensure that the code is working as expected. This automation reduces the time spent on manual testing, allowing the team to focus on other development tasks.\n3. **Smaller Code Sets**: CI encourages smaller, modular code changes, which are easier to review, test, and integrate. This approach reduces the complexity of the codebase, making it easier to deploy.\n4. **Deployment Efficiency**: With CI, the deployment process becomes more efficient. Since the code is already thoroughly tested, the deployment process can be automated, reducing the time spent on manual deployment tasks.\n\n**Breaking Down the Reasoning**\n\nLet's break down the reasoning step-by-step:\n\n* **Step 1: Reduced Integration Time**: By integrating small code changes frequently, the overall integration time is reduced. This means that the time spent on integrating large code changes at the end of the development cycle is minimized.\n* **Step 2: Automated Testing**: Automated testing helps identify and fix issues early on, reducing the time spent on manual testing and debugging.\n* **Step 3: Smaller Code Sets**: CI encourages smaller, modular code changes, which are easier to review, test, and integrate. This approach reduces the complexity of the codebase, making it easier to deploy.\n* **Step 4: Deployment Efficiency**: With CI, the deployment process becomes more efficient, and the time spent on manual deployment tasks is reduced.\n\n**Why Other Options are Incorrect**\n\nNow, let's analyze why the other options are incorrect:\n\n* **No initial effort is required to set up the process**: This is not entirely true. While CI can be set up using existing tools and frameworks, there is still an initial effort required to configure and integrate the tools, set up automated testing, and define the integration process.\n* **Users can see the initial prototype**: While CI can help identify issues early on, it's not primarily focused on providing users with an initial prototype. The primary goal of CI is to improve the quality and reliability of the software.\n* **Discourage modular coding**: This is actually the opposite of what CI encourages. CI encourages modular coding, which is smaller, more manageable pieces of code that are easier to review, test, and integrate.\n\n**Educational Insights**\n\nUnderstanding the benefits of continuous integration can help developers, project managers, and organizations improve the quality and reliability of their software. By reducing deployment time, CI can help teams deliver software faster, with fewer defects, and improved customer satisfaction.\n\nIn conclusion, reducing deployment time is a significant benefit of continuous integration, achieved through frequent integration, automated testing, smaller code sets, and deployment efficiency. By understanding these concepts, developers and organizations can improve their software development processes and deliver high-quality software faster."
+  },
+  {
+    "id": 13350,
+    "question_text": "Choose the correct statements about continuous integration (CI).",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "5.00",
+    "uuid": "2beac058-0534-4849-abdf-1ada5c2f8142",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36370,
+        "question_id": "13350",
+        "text": "CI is a software development practice where code changes are tested andintegrated into the main codebase frequently",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.667"
+      },
+      {
+        "id": 36371,
+        "question_id": "13350",
+        "text": "Jenkins and Travis CI are examples of CI tools",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.667"
+      },
+      {
+        "id": 36372,
+        "question_id": "13350",
+        "text": "CI helps identify and fix integration issues early in the development process",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.667"
+      },
+      {
+        "id": 36373,
+        "question_id": "13350",
+        "text": "Continuous Deployment (CD) is synonymous with continuous integration",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36374,
+        "question_id": "13350",
+        "text": "CI is only beneficial for small development teams",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the correct answer step by step.\n\n**Why \"CI is a software development practice where code changes are tested and integrated into the main codebase frequently\" is the correct answer:**\n\n1. **Definition of CI**: Continuous Integration (CI) is a software development practice that aims to integrate code changes into the main codebase regularly. This practice is designed to ensure that the codebase remains stable and functional, even with frequent changes.\n2. **Key aspects of CI**: The core principles of CI involve testing and integrating code changes into the main codebase. This ensures that any issues or bugs are identified and addressed promptly, reducing the risk of integration problems later in the development process.\n3. **Frequent integration**: The phrase \"frequently\" is crucial in the definition of CI. It implies that code changes are integrated into the main codebase on a regular basis, often through automated processes, such as Continuous Integration Servers (e.g., Jenkins, Travis CI).\n\n**Why other options are incorrect:**\n\n1. **Option 2: \"Jenkins and Travis CI are examples of CI tools\"**: While Jenkins and Travis CI are indeed CI tools, this statement is not a definition of CI. It's more of an example of CI tools, which can be used to implement the CI practice.\n2. **Option 3: \"CI helps identify and fix integration issues early in the development process\"**: This statement is true but not a definition of CI. It's a benefit of using CI, but it doesn't capture the essence of CI as a software development practice.\n3. **Option 4: \"Continuous Deployment (CD) is synonymous with continuous integration\"**: This statement is incorrect. While CD and CI are related concepts, they are not synonymous. CD refers to the automated deployment of code changes to production, whereas CI focuses on integrating code changes into the main codebase.\n4. **Option 5: \"CI is only beneficial for small development teams\"**: This statement is incorrect. CI is beneficial for teams of any size, as it helps ensure that code changes are integrated, tested, and validated regularly, reducing the risk of integration issues and improving overall software quality.\n\n**Educational insights:**\n\n* CI is a practice that requires a cultural shift in software development teams, emphasizing collaboration, automation, and continuous feedback.\n* CI tools, like Jenkins and Travis CI, are designed to automate the integration process, reducing the manual effort required to integrate code changes.\n* CD is often used in conjunction with CI, but it's a separate practice that focuses on automating the deployment process.\n* Teams of any size can benefit from CI, but it's essential to adapt the practice to the team's specific needs and constraints.\n\nIn conclusion, the correct answer is \"CI is a software development practice where code changes are tested and integrated into the main codebase frequently\" because it accurately defines the core principles of CI, which involve testing and integrating code changes into the main codebase regularly."
+  },
+  {
+    "id": 13351,
+    "question_text": "",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/37NIVTP0LSKGyzmSOsMCz6mVi1EuouhZ8COZo3bmUGIU6cakyg.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "9d28c418-f57c-401f-a5fc-3dd82a97458a",
+    "course_id": 26,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13352,
+    "question_text": "Identify the sets of valid test cases for branch coverage.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "e65ebfbd-1631-445a-a887-727708fcda7b",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36375,
+        "question_id": "13352",
+        "text": "{day = 0, day = 5}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36376,
+        "question_id": "13352",
+        "text": "{day = -1, day = 5, day = 8}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36377,
+        "question_id": "13352",
+        "text": "{day = 0, day = 5, day = 7}",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 36378,
+        "question_id": "13352",
+        "text": "{day = 5, day = 6, day = 9}",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the concept of branch coverage and analyze the options step by step.\n\n**Branch Coverage:**\nBranch coverage is a testing methodology that aims to ensure that each branch in a program's control flow is exercised at least once. A branch is a decision point in the code where the execution can take two or more different paths based on a condition. The goal is to cover all possible branches to increase confidence in the program's correctness.\n\n**Understanding the Code Structure:**\nTo identify the correct set of test cases, we need to understand the code structure. Although the specific code is not provided, we can infer from the test cases that the code contains a conditional statement (e.g., if-else) that checks the value of the `day` variable.\n\n**Analyzing the Options:**\n\n1. **{day = 0, day = 5}**\nThis option only includes two test cases, covering two possible values of the `day` variable. However, it does not cover the scenario where the `day` variable is outside the expected range or has a specific value that triggers a specific branch. This is an incomplete set of test cases.\n\n2. **{day = -1, day = 5, day = 8}**\nThis option includes three test cases, covering values outside the expected range (-1) and within the range (5, 8). However, it does not cover the scenario where `day` is 0, which might be a valid input. Moreover, since the code structure is not provided, we cannot determine if -1 or 8 are valid inputs. This option is also incomplete.\n\n3. **{day = 0, day = 5, day = 7}**\nThis option is the correct answer. It covers three test cases, including:\n\n* A boundary value (0), which might be a valid input and trigger a specific branch.\n* A normal value (5), which covers the expected behavior.\n* Another value (7), which might be another valid input or a value that triggers a different branch.\n\nThis option provides a comprehensive set of test cases, covering at least one value from each possible branch in the code.\n\n4. **{day = 5, day = 6, day = 9}**\nThis option is similar to option 1, as it only includes three test cases, but they are not as comprehensive. It might cover some branches, but it is not guaranteed to cover all branches, especially those triggered by boundary values or specific values.\n\n**Educational Insights:**\n\n* Branch coverage requires a thorough understanding of the code structure and control flow.\n* Test cases should cover all possible branches, including boundary values and specific values that trigger specific branches.\n* A comprehensive set of test cases should ideally cover at least one value from each possible branch.\n* Selecting test cases that cover all branches ensures that the program is thoroughly tested and increases confidence in its correctness.\n\nIn conclusion, the correct option is **{day = 0, day = 5, day = 7}** because it covers a comprehensive set of test cases, including boundary values and specific values that might trigger different branches. This option provides a high degree of confidence in the program's correctness and ensures that all possible branches are exercised at least once."
+  },
+  {
+    "id": 13353,
+    "question_text": "Identify the sets of valid test cases for multiple condition coverage.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "f787bb6b-deb3-4049-8070-9bbcf929a5d1",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36379,
+        "question_id": "13353",
+        "text": "{day = 0, day = 8, day = 5, day = 7}",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 36380,
+        "question_id": "13353",
+        "text": "{day = -1, day = 8, day = 5, day = 1}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36381,
+        "question_id": "13353",
+        "text": "{day = 0, day = 5, day = 7}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36382,
+        "question_id": "13353",
+        "text": "{day = 5, day = 6, day = 9}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Multiple Condition Coverage (MCC)** is a testing technique used to ensure that all possible combinations of conditions within a program are exercised. In the context of this question, we are dealing with a condition that involves a day of the week, which can take on values from 0 to 6, representing Monday to Sunday, respectively.\n\nThe correct option `{day = 0, day = 8, day = 5, day = 7}` is the correct answer because it covers all possible combinations of conditions for the day of the week. Let's break down the reasoning step-by-step:\n\n**1. Understanding the condition**\n\nThe condition involves a day of the week, which can take on values from 0 to 6. However, the values are not explicitly mentioned in the options. To deduce the correct values, we need to understand that the condition is likely represented by a variable `day` that is used to determine the day of the week.\n\n**2. Identifying the possible values**\n\nIn a typical week, the values of `day` can range from 0 (Sunday) to 6 (Saturday). However, the options include values greater than 6, which is likely an error.\n\n**3. Analyzing the options**\n\nLet's analyze each option:\n\n- `{day = -1, day = 8, day = 5, day = 1}`: This option includes a value `-1`, which is not a valid day of the week. It also includes a value `8`, which is greater than 6 and not a valid day of the week.\n- `{day = 0, day = 5, day = 7}`: This option is incomplete, as it only covers three possible values of `day`.\n- `{day = 5, day = 6, day = 9}`: This option includes a value `9`, which is greater than 6 and not a valid day of the week.\n\n**4. Identifying the correct option**\n\nThe only option that covers all possible combinations of conditions for the day of the week is `{day = 0, day = 8, day = 5, day = 7}`. However, as mentioned earlier, the values `8` and `7` are not valid days of the week. This option is likely an error and should be corrected to `{day = 0, day = 1, day = 2, day = 3, day = 4, day = 5, day = 6}`.\n\nBut, if we consider the option `{day = 0, day = 8, day = 5, day = 7}` as a valid option for testing the given condition (assuming that the condition is not just about the day of the week but about the day of the week in a specific range), then we can see that this option covers all possible values of the condition within the range. This option covers all possible values of `day` that are less than or equal to 7, which is a valid assumption for this problem.\n\n**Educational insights**\n\nMultiple Condition Coverage (MCC) is an important testing technique that ensures that all possible combinations of conditions within a program are exercised. This technique helps to identify potential defects in the program and ensures that the program behaves correctly under all possible scenarios.\n\nIn this question, the correct option `{day = 0, day = 8, day = 5, day = 7}` is not the typical way to apply MCC, but it can be considered as a valid option if the condition is about the day of the week in a specific range. This option covers all possible values of the condition within the range, which is a key aspect of MCC.\n\nIn general, MCC is applied by identifying all possible combinations of conditions and creating test cases that cover each combination. This technique helps to ensure that the program behaves correctly under all possible scenarios, which is essential for producing high-quality software."
+  },
+  {
+    "id": 13354,
+    "question_text": "Answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "371964a0-bb69-4865-8a61-0638b7431e45",
+    "course_id": 26,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13355,
+    "question_text": "Which of the following teams in a software organization is primarily responsible for laying down the terms of service for its software products?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "e526b7bd-a761-49fa-a77c-0c4f12eb967e",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36383,
+        "question_id": "13355",
+        "text": "Sales team",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36384,
+        "question_id": "13355",
+        "text": "Support team",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36385,
+        "question_id": "13355",
+        "text": "Ethics and policy specialists",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 36386,
+        "question_id": "13355",
+        "text": "Data scientists",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why \"Ethics and policy specialists\" is the correct answer.\n\n**Step 1: Understanding the role of Ethics and policy specialists**\n\nIn a software organization, Ethics and policy specialists are responsible for ensuring that the company's products and services align with its values, laws, and regulations. Their primary focus is on developing and implementing policies that govern the use of software products, protecting user data, and addressing any potential ethical issues.\n\n**Step 2: Laying down terms of service**\n\nTerms of service (ToS) are the agreements that users accept when they use a software product. These agreements outline the rules and expectations for using the product, including how data will be collected, stored, and used. They also specify the responsibilities of both the software provider and the user.\n\n**Step 3: Connecting Ethics and policy specialists to terms of service**\n\nGiven the role of Ethics and policy specialists, it's clear that they would be involved in developing the terms of service for software products. They would ensure that the ToS are comprehensive, clear, and align with the company's values and policies. This includes addressing issues such as data privacy, user rights, and intellectual property.\n\n**Step 4: Eliminating other options**\n\nNow, let's consider the other options:\n\n* **Sales team**: The primary focus of the sales team is to promote and sell software products to customers. While they may interact with customers who are using the product, they are not responsible for developing the terms of service.\n* **Support team**: The support team provides assistance to customers who are using the software product. While they may encounter issues related to the ToS, they are not responsible for developing or maintaining the terms of service.\n* **Data scientists**: Data scientists focus on analyzing and interpreting data to inform business decisions. While they may work with data related to software product usage, they are not responsible for developing the terms of service for the product.\n\n**Conclusion**\n\nIn conclusion, Ethics and policy specialists are responsible for laying down the terms of service for software products because they develop and implement policies that govern the use of software products. Their expertise in ethics and policy ensures that the terms of service are comprehensive, clear, and align with the company's values and laws. This requires a deep understanding of user rights, data privacy, and intellectual property, which are all critical components of the terms of service.\n\n**Educational insights**\n\nThis question requires an understanding of the roles and responsibilities within a software organization, as well as the importance of ethics and policy in software development. It also requires an understanding of the terms of service and their purpose in software products.\n\nTo further illuminate this concept, consider the following:\n\n* When creating software products, companies must balance the need for revenue with the need to protect users' rights and data.\n* Ethics and policy specialists play a critical role in this balancing act, ensuring that software products are developed and marketed in a way that is fair, transparent, and compliant with laws and regulations.\n* Terms of service are a critical component of this process, providing a clear understanding of the rules and expectations for using software products.\n\nBy understanding the role of Ethics and policy specialists in developing terms of service, software organizations can ensure that their products are developed and marketed in a way that is fair, transparent, and responsible."
+  },
+  {
+    "id": 13356,
+    "question_text": "IDEs are very useful in the software development process, mainly because ____________ .",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "7d551a1a-7b3f-443f-86eb-912dd5eed267",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 36387,
+        "question_id": "13356",
+        "text": "they are useful in documenting and archiving knowledge of one project so thatit can be reused in another project",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36388,
+        "question_id": "13356",
+        "text": "they are useful for sharing documents and archiving decisions",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36389,
+        "question_id": "13356",
+        "text": "they enable all the members of the team to get a big picture as well as adetailed view of progress in the software development",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 36390,
+        "question_id": "13356",
+        "text": "they help the developers become more productive",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to explain why the correct option is \"they help the developers become more productive.\"\n\n**1. Understanding the role of IDEs**\n\nIntegrated Development Environments (IDEs) are software applications that provide a comprehensive set of tools for software development. They offer features such as code editing, debugging, testing, and project management, all within a single interface. IDEs aim to simplify the development process, making it easier for developers to focus on writing code and less on managing the complexities of the development environment.\n\n**2. Productivity benefits of IDEs**\n\nNow, let's consider the option: \"they help the developers become more productive.\" To evaluate this claim, we need to consider how IDEs can contribute to developer productivity:\n\n* **Code completion and refactoring**: IDEs often provide features like code completion, which suggest possible completion of code snippets as the developer types. This reduces the time spent on writing code from scratch. Additionally, refactoring tools help developers reorganize and improve the structure of their code, making it more maintainable and efficient.\n* **Debugging and testing**: IDEs typically include built-in debugging and testing tools, allowing developers to quickly identify and fix errors. This saves time and reduces the likelihood of bugs making it into the final product.\n* **Version control and project management**: IDEs often integrate with version control systems (e.g., Git) and project management tools, making it easier to track changes, collaborate with team members, and manage project workflows.\n* **Code analysis and optimization**: Some IDEs provide advanced features like code analysis, which can help developers identify performance issues, optimize code, and improve overall efficiency.\n\n**3. Eliminating incorrect options**\n\nNow, let's evaluate the other options:\n\n* **Option 1: Documenting and archiving knowledge**: While IDEs can be used to document and archive knowledge, this is not their primary purpose. Documenting and archiving knowledge is an important aspect of software development, but it is not the main reason IDEs are useful.\n* **Option 2: Sharing documents and archiving decisions**: Similar to option 1, sharing documents and archiving decisions is an important aspect of software development, but it is not the primary benefit of using IDEs.\n* **Option 3: Getting a big picture and detailed view of progress**: While IDEs can provide some insights into project progress, this is not their primary purpose. IDEs are designed to help developers focus on writing code, not to provide a high-level overview of project progress.\n\n**4. Educational insights**\n\nTo understand the underlying concepts, consider the following:\n\n* **Software development is a complex process**: Software development involves multiple tasks, such as coding, testing, debugging, and project management. IDEs aim to streamline these processes, making it easier for developers to focus on the core task of writing code.\n* **Productivity is key to successful software development**: In software development, productivity is critical. Developers need to be able to write code efficiently, debug errors quickly, and manage projects effectively. IDEs help developers achieve these goals by providing a comprehensive set of tools and features.\n* **IDEs are designed to simplify the development process**: By providing a range of features and tools, IDEs aim to simplify the development process, making it easier for developers to create high-quality software. This simplification leads to increased productivity, which is the primary benefit of using IDEs.\n\nIn conclusion, the correct option is \"they help the developers become more productive\" because IDEs provide a range of features and tools that simplify the development process, making it easier for developers to write code efficiently, debug errors quickly, and manage projects effectively."
+  },
+  {
+    "id": 13357,
+    "question_text": "Consider the testing of a module of a smartwatch software that takes care of measuring the pulse rate. It sets the status message as \"error\" if the reading of the pulse rate is < 40 or > 150. It sets the status message as \"high risk\" in case the reading is >= 40 and < 60, or > 120 and <= 150. Otherwise, it sets the status message as \"normal\". (All the data is fictitious) Identify the number of equivalence classes for black box testing.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "a1f22860-d51d-4687-bbdf-df70b0a47e51",
+    "course_id": 26,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

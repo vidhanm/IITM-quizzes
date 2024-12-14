@@ -1,0 +1,1632 @@
+[
+  {
+    "id": 11375,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : SOFTWARE ENGINEERING (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "0439b357-0bbf-4acf-ae90-d5827f06dd7f",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30663,
+        "question_id": "11375",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30664,
+        "question_id": "11375",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step:\n\n**Step 1: Understanding the Message**\nThe message is a warning to double-check the subject being written for an exam, specifically for a \"Degree Level: Software Engineering (Computer Based Exam)\" paper. The message is asking if the examinee is sure they need to write the exam for this subject.\n\n**Step 2: Identifying the Question**\nThe question being asked is: \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?\" The options provided are YES and NO.\n\n**Step 3: Analyzing the Context**\nThe context is a computer-based exam for a degree-level Software Engineering subject. The message is a precautionary measure to prevent examinees from writing the wrong exam, which could lead to unnecessary stress, time wastage, and potentially even academic consequences.\n\n**Step 4: Evaluating the Options**\n\n* **Option YES (Correct Answer)**: This option is correct because the message is asking the examinee to confirm if they indeed need to write the exam for the specified subject. The examinee should verify their hall ticket or registered subjects to ensure they are writing the correct exam. If they are unsure or have mistakenly registered for the wrong subject, they should take immediate action to correct the mistake. By choosing YES, the examinee acknowledges the importance of verifying their subject registration.\n* **Option NO (Incorrect Answer)**: This option is incorrect because it implies that the examinee is certain they don't need to write the exam for the specified subject. However, the message is not asking about the examinee's confidence in their subject registration; rather, it's asking them to verify their subject registration to avoid potential mistakes. If the examinee is unsure or has doubts, they should choose YES and verify their registration.\n\n**Educational Insights**\n\nThis question requires critical thinking and attention to detail, as it involves verifying one's subject registration for a critical academic assessment. It highlights the importance of:\n\n1. **Verification**: Double-checking one's registration to avoid mistakes.\n2. **Responsibility**: Taking ownership of one's academic registration and ensuring accuracy.\n3. **Precautionary Measures**: Being proactive in preventing potential issues, such as writing the wrong exam.\n\nBy choosing the correct answer, YES, the examinee demonstrates their understanding of the importance of verification and responsibility in academic settings."
+  },
+  {
+    "id": 11376,
+    "question_text": "Presently a lot of software development takes place in a distributed environment, the developer is expected to write precise interface definitions. From the given options, which is/are TRUE about interface definition.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "b41ead03-0410-4cfa-b7b0-85f2a4ce1dc4",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30665,
+        "question_id": "11376",
+        "text": "It describes the capabilities of a function",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30666,
+        "question_id": "11376",
+        "text": "It provides the implementation details of a function",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30667,
+        "question_id": "11376",
+        "text": "It tells which requests are allowed and specifies the format of the output",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30668,
+        "question_id": "11376",
+        "text": "The code implementing the interface should remain unchanged for a giveninterface definition",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why \"It describes the capabilities of a function\" is the correct answer.\n\n**Why is \"It describes the capabilities of a function\" the correct answer?**\n\nIn software development, an interface definition is a crucial document that outlines the expected behavior of a function or module. It serves as a contract between the provider and consumer of the function, specifying what the function can do, what inputs it expects, and what outputs it will return.\n\nWhen a developer writes an interface definition, they are describing the capabilities of the function, i.e., what the function can do, not how it does it. This is a critical distinction, as the implementation details of the function are typically hidden from the consumer, who only needs to know how to use the function's capabilities.\n\n**Step-by-step reasoning:**\n\n1. **Interface definition is a contract**: An interface definition is a document that outlines the expected behavior of a function or module. It serves as a contract between the provider and consumer of the function.\n2. **Describes capabilities, not implementation**: When a developer writes an interface definition, they are describing the capabilities of the function, not how it is implemented. This is a critical distinction, as the implementation details are typically hidden from the consumer.\n3. **Focus on behavior, not implementation**: The interface definition focuses on the behavior of the function, including what inputs it expects, what outputs it will return, and what requests are allowed. This behavior is independent of the implementation details.\n4. **Consumer only needs to know capabilities**: The consumer of the function only needs to know how to use the function's capabilities, not how the function is implemented. This is why the interface definition only needs to describe the capabilities of the function.\n\n**Why are other options incorrect?**\n\n* **Option 2: It provides the implementation details of a function**: This is incorrect because the interface definition does not provide implementation details. Instead, it describes the capabilities of the function.\n* **Option 3: It tells which requests are allowed and specifies the format of the output (CORRECT OPTION)**: While this option is correct, it is not the only correct option. The correct answer is \"It describes the capabilities of a function,\" which encompasses the idea that the interface definition tells which requests are allowed and specifies the format of the output.\n* **Option 4: The code implementing the interface should remain unchanged for a given interface definition**: This is incorrect because the code implementing the interface can change independently of the interface definition. The interface definition only describes the capabilities of the function, not how it is implemented.\n\n**Educational insights:**\n\n* **Understand the importance of interface definitions**: Interface definitions are crucial in software development, as they enable developers to write modular, reusable code that is easy to understand and maintain.\n* **Distinguish between capabilities and implementation**: When writing an interface definition, it is essential to focus on the capabilities of the function, not how it is implemented. This distinction is critical to ensuring that the interface definition is clear, concise, and effective.\n* **Practice writing interface definitions**: Writing interface definitions is a valuable skill that requires practice. By writing interface definitions regularly, developers can improve their ability to describe the capabilities of functions and modules clearly and effectively."
+  },
+  {
+    "id": 11377,
+    "question_text": "Consider the Gantt chart as follows:  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/tisENEBhbvs0y4Zz0nCOXEzY83Wbl6secxVMKMhRGKpSjCf0f4.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "fa93d8a3-adfd-4424-b3d6-4f3f76da5b22",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30669,
+        "question_id": "11377",
+        "text": "Component design starts once the user interface and database schema arecompleted",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30670,
+        "question_id": "11377",
+        "text": "User interface and database design can start at the same time",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 30671,
+        "question_id": "11377",
+        "text": "Update status and reschedule task both are done concurrently",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 30672,
+        "question_id": "11377",
+        "text": "Task manager must complete before task reviewer starts",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Gantt Chart**\n\nA Gantt chart is a type of bar chart that illustrates a project schedule. It shows the start and finish dates of the project's component tasks. In this case, the chart includes tasks such as component design, user interface, database design, task planner, task manager, task reviewer, update status, and reschedule status.\n\n**Step 2: Analyzing the Task Dependencies**\n\nUpon examining the Gantt chart, we observe that the user interface and database design tasks do not have any dependencies on each other. This means that they can start simultaneously without waiting for the completion of the other task.\n\n**Step 3: Evaluating the Options**\n\nLet's evaluate the given options:\n\n*   **Option 1: Component design starts once the user interface and database schema are completed.**\n    *   This option implies a dependency between component design and the completion of user interface and database schema. However, there is no indication of such a dependency in the Gantt chart.\n*   **Option 2: User interface and database design can start at the same time.**\n    *   As mentioned earlier, these tasks have no dependencies on each other, making it possible for them to start concurrently.\n*   **Option 3: Update status and reschedule task both are done concurrently.**\n    *   The Gantt chart does not provide information about the dependencies or timing of update status and reschedule task. Therefore, we cannot determine if they can start at the same time based on this chart alone.\n*   **Option 4: Task manager must complete before task reviewer starts.**\n    *   There is no clear indication in the Gantt chart that the task manager must complete before the task reviewer starts. The chart does not show any direct dependencies between these tasks.\n\n**Conclusion**\n\nBased on the analysis, the correct option is:\n\n**Correct Option: User interface and database design can start at the same time.**\n\nThis is because the Gantt chart does not indicate any dependencies between these tasks, allowing them to start simultaneously.\n\n**Additional Insights**\n\n*   The Gantt chart provides a visual representation of the project schedule, making it easier to identify task dependencies and relationships.\n*   Understanding these dependencies is crucial for effective project management, as it allows for better resource allocation and time estimation.\n\nBy analyzing the Gantt chart and evaluating the options, we have determined that the correct answer is indeed \"User interface and database design can start at the same time.\""
+  },
+  {
+    "id": 11378,
+    "question_text": "Which kinds of integration testing approaches must require the use of stubs?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "4a76f513-068f-4b73-aee1-d5cd1feba0dd",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30673,
+        "question_id": "11378",
+        "text": "Big Bang approach",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30674,
+        "question_id": "11378",
+        "text": "Bottom-Up approach",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30675,
+        "question_id": "11378",
+        "text": "Top-down approach",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30676,
+        "question_id": "11378",
+        "text": "Mixed approach",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step to understand why the top-down approach requires the use of stubs.\n\n**What is integration testing?**\nIntegration testing is a software testing technique that involves testing individual units or modules of code together to ensure they work as expected when integrated. It's a crucial step in the testing process, as it helps identify issues early on and reduces the likelihood of errors propagating downstream.\n\n**What is a stub?**\nA stub is a pre-written piece of code that replaces a dependency or a module that is not yet available or is too complex to test. In the context of integration testing, stubs are used to mimic the behavior of dependent modules or services, allowing the test to focus on the integration of the current module with the stubbed dependencies.\n\n**Why does the top-down approach require stubs?**\nThe top-down approach is an integration testing strategy where you start by testing the highest-level module or component, which in turn depends on lower-level modules or components. This approach requires stubs because:\n\n1. **Dependent modules are not yet available**: In a top-down approach, you're testing the highest-level module first. However, the dependent modules below it may not be fully developed or might not be available for testing. Stubs fill this gap by simulating the behavior of these dependent modules.\n2. **Complexity reduction**: The top-down approach can lead to complex test scenarios, especially when dealing with multiple dependent modules. Stubs simplify these scenarios by providing a controlled environment for testing, allowing you to focus on the integration of the current module with the stubbed dependencies.\n3. **Early testing and feedback**: By using stubs, you can start testing the top-level module early in the development cycle, even if the dependent modules are not yet fully developed. This enables you to identify and address integration issues early on, reducing the overall testing time and effort.\n\n**Why are the other options incorrect?**\n\n* **Big Bang approach**: This approach involves integrating all modules simultaneously, which doesn't require the use of stubs. In fact, the Big Bang approach often leads to a monolithic test environment that's difficult to manage.\n* **Bottom-Up approach**: This approach starts by testing the lowest-level modules and gradually moves up to the highest-level modules. Since you're testing the lowest-level modules first, you don't need stubs to simulate dependent modules, as they're already available.\n* **Mixed approach**: While the mixed approach combines elements of top-down and bottom-up strategies, it doesn't inherently require the use of stubs. The need for stubs depends on the specific implementation of the mixed approach, not the approach itself.\n\n**Educational insights**\n\n* Integration testing is an essential step in ensuring the quality of software systems. By using stubs, you can test individual modules and their integrations more efficiently and effectively.\n* The top-down approach is a powerful strategy for integration testing, but it requires careful planning and use of stubs to simulate dependent modules.\n* Stubs are a valuable tool in the testing arsenal, allowing you to test complex systems in isolation and reducing the overall testing time and effort.\n\nIn conclusion, the top-down approach requires the use of stubs to simulate dependent modules, simplify complex test scenarios, and enable early testing and feedback. This approach is a crucial aspect of integration testing, and understanding the role of stubs is essential for successful software development."
+  },
+  {
+    "id": 11379,
+    "question_text": "Consider the class diagram given below.  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/LIikS9pUrDHIWtSqvueOFmxUCzsIt5B7PvRZ0VPsfCeeIWMfEk.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ebf6dc36-36d2-4bba-81af-dc4d607c59ad",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30677,
+        "question_id": "11379",
+        "text": "There is an association relation between class User and TaskList",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30678,
+        "question_id": "11379",
+        "text": "There is an inheritance relation between class User and TaskList",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30679,
+        "question_id": "11379",
+        "text": "There is a composition relation between class Task and TaskList",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30680,
+        "question_id": "11379",
+        "text": "There is an inheritance relation between class Task and TaskList",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30681,
+        "question_id": "11379",
+        "text": "There is a composition relation between class Task and TimeBoundedTask",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30682,
+        "question_id": "11379",
+        "text": "There is an inheritance relation between class Task and TimeBoundedTask",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's analyze the class diagram and understand the relationships between classes.\n\n**Step 1: Identify the classes involved**\nThe classes involved in this question are User, TaskList, Task, and TimeBoundedTask.\n\n**Step 2: Understand the relationships**\nAn association relation is a connection between two classes where objects of one class are related to objects of another class, but they don't inherit from each other. Inheritance is when a subclass inherits properties and behavior from a superclass. Composition is when one class contains multiple instances of another class.\n\n**Step 3: Analyze the options**\n\n*   **Option 1: There is an association relation between class User and TaskList**\n    *   To determine if this is correct, we need to check if there's a connection between User and TaskList without inheritance or composition.\n    *   Looking at the diagram, there's an arrow from User to TaskList with a description of \"tasks: List<Task>\". This indicates a connection between User and TaskList, where a User can have multiple tasks in their TaskList.\n    *   This matches the definition of an association relation, making option 1 correct.\n\n*   **Option 2: There is an inheritance relation between class User and TaskList**\n    *   To determine if this is correct, we need to check if TaskList inherits from User or vice versa.\n    *   There's no inheritance arrow in the diagram from User to TaskList or from TaskList to User, indicating no inheritance relationship.\n    *   This makes option 2 incorrect.\n\n*   **Option 3: There is a composition relation between class Task and TaskList**\n    *   To determine if this is correct, we need to check if a TaskList contains multiple Tasks.\n    *   The diagram shows a TaskList with a list of Tasks, indicating that a TaskList can contain multiple Tasks.\n    *   This matches the definition of composition, making option 3 correct.\n\n*   **Option 4: There is an inheritance relation between class Task and TaskList**\n    *   Similar to option 2, there's no inheritance arrow in the diagram from Task to TaskList or from TaskList to Task, indicating no inheritance relationship.\n    *   This makes option 4 incorrect.\n\n*   **Option 5: There is a composition relation between class Task and TimeBoundedTask**\n    *   To determine if this is correct, we need to check if a TimeBoundedTask is contained within a Task.\n    *   The diagram does not show a composition relationship between Task and TimeBoundedTask.\n    *   This makes option 5 incorrect.\n\n*   **Option 6: There is an inheritance relation between class Task and TimeBoundedTask**\n    *   Similar to previous options, there's no inheritance arrow in the diagram from TimeBoundedTask to Task or from Task to TimeBoundedTask, indicating no inheritance relationship.\n    *   This makes option 6 incorrect.\n\n**Conclusion**\nBased on the analysis, the correct answers are options 1 (\"There is an association relation between class User and TaskList\") and 3 (\"There is a composition relation between class Task and TaskList\"). These options accurately describe the relationships between the classes as depicted in the class diagram.\n\n**Final Answer**\nThe final answer is: There is an association relation between class User and TaskList and there is a composition relation between class Task and TaskList."
+  },
+  {
+    "id": 11380,
+    "question_text": "Which of the following are dynamic behavioural views?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "90ba34d1-b516-41fb-8db9-963a835776fb",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30683,
+        "question_id": "11380",
+        "text": "Class diagram",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30684,
+        "question_id": "11380",
+        "text": "State machine diagram",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30685,
+        "question_id": "11380",
+        "text": "Activity diagram",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30686,
+        "question_id": "11380",
+        "text": "Interaction diagram",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "To answer this question, let's break down the concept of dynamic behavioral views and analyze each option step by step.\n\n**Dynamic Behavioral Views:**\nIn the context of software modeling, dynamic behavioral views refer to diagrams that represent the behavior of a system over time, focusing on how the system reacts to events, changes, or interactions. These views aim to capture the dynamic aspects of a system, such as state transitions, interactions, and activities.\n\n**State Machine Diagram:**\nA State Machine Diagram (SMD) is a type of behavioral model that represents the dynamic behavior of a system by showing the states it can be in, the events that trigger state transitions, and the actions that occur during these transitions. SMDs are used to model systems with complex behavior, such as finite state machines, where the system's behavior is defined by a set of states and transitions between them.\n\n**Why State Machine Diagram is the correct answer:**\n\n1. **Dynamic behavior:** SMDs explicitly model the dynamic behavior of a system by showing state transitions and the events that trigger them. This makes SMDs a perfect fit for dynamic behavioral views.\n2. **Behavioral modeling:** SMDs are designed to capture the behavioral aspects of a system, such as state changes, event handling, and actions. This aligns with the definition of dynamic behavioral views.\n3. **Time-dependent:** SMDs inherently represent time-dependent behavior, as the system's state changes over time in response to events.\n\n**Breakdown of reasoning:**\n\n1. SMDs are designed to model dynamic behavior, which is the primary characteristic of dynamic behavioral views.\n2. SMDs focus on the behavioral aspects of a system, making them a natural fit for dynamic behavioral views.\n3. SMDs are inherently time-dependent, which aligns with the dynamic nature of behavioral views.\n\n**Why other options are incorrect:**\n\n* **Class Diagram:** Class diagrams are structural models that focus on the organization and relationships between classes. They do not capture dynamic behavior, making them unsuitable for dynamic behavioral views.\n* **Activity Diagram:** Activity diagrams are another type of behavioral model, but they focus on the control flow and sequencing of activities. While they do capture some dynamic behavior, they are not as comprehensive as SMDs in modeling state transitions and events.\n* **Interaction Diagram:** Interaction diagrams, such as sequence diagrams or communication diagrams, focus on the interactions between objects or systems. While they do capture some dynamic behavior, they are not as focused on state transitions and events as SMDs.\n\n**Educational insights:**\n\n* Understanding the difference between structural and behavioral models is crucial in software modeling. Structural models, like class diagrams, focus on the organization and relationships between classes, while behavioral models, like SMDs, focus on the behavior of a system over time.\n* Dynamic behavioral views are essential in modeling complex systems, as they capture the dynamic aspects of a system's behavior, such as state transitions and event handling.\n* State Machine Diagrams are a powerful tool for modeling complex behavior, and understanding their strengths and weaknesses is essential for effective software modeling.\n\nIn conclusion, State Machine Diagrams are the correct answer because they explicitly model dynamic behavior, focus on behavioral aspects, and are inherently time-dependent. The other options, while related to behavioral modeling, do not capture the same level of dynamic behavior as SMDs, making them less suitable for dynamic behavioral views."
+  },
+  {
+    "id": 11381,
+    "question_text": "Which of the following statements about the flask framework is/are correct?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "d3d1fb5e-63f3-43ea-b1a2-1103f5408526",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30687,
+        "question_id": "11381",
+        "text": "It is a mobile application framework",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30688,
+        "question_id": "11381",
+        "text": "It is a web application framework",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 30689,
+        "question_id": "11381",
+        "text": "It is a micro-framework",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 30690,
+        "question_id": "11381",
+        "text": "It imposes several restrictions on developing applications, like the kind of databases that can beused and the type of web servers that can be used",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine why the statement \"It is a web application framework\" is the correct answer, let's break down the reasoning step by step:\n\n1. **Understanding Flask**: Flask is a lightweight Python web framework that is designed to be flexible and modular. It is part of the microframework category, which means it is not a full-fledged, monolithic framework like Django. Instead, it provides a small core with a set of extensions that can be used to build web applications.\n\n2. **Nature of Flask**: The core of Flask is designed around the concept of a \"microframework.\" This implies that Flask is not limited by the same rigid structures that larger frameworks might impose. It allows for a high degree of customization and flexibility in building web applications.\n\n3. **Flask's Primary Focus**: Flask's primary focus is on building web applications. It provides a set of tools and utilities that are specifically designed to help developers build web applications, including support for routing, templating, and interaction with databases.\n\n4. **Why it is a web application framework**: Given Flask's design and primary focus on building web applications, it is accurate to describe Flask as a web application framework. This means it provides the tools and structure needed to build web applications, but it does not impose the same level of structure or rigidity that a full-fledged framework might.\n\n5. **Why other options are incorrect**:\n   - **It is a mobile application framework**: Flask is not designed for building mobile applications. While it could theoretically be used to build mobile applications, it is not specifically designed with mobile applications in mind and lacks many of the tools and frameworks that are commonly used in mobile application development.\n   - **It is a micro-framework**: This is true, but not the most accurate or informative statement when describing Flask's primary purpose. While Flask is a microframework, this characteristic is more of a design choice than a description of its primary function.\n   - **It imposes several restrictions on developing applications**: This statement is not accurate. One of the defining characteristics of a microframework like Flask is its flexibility and lack of imposed restrictions. It allows developers to use a variety of databases and web servers, and to build applications in a way that is tailored to their specific needs.\n\nEducational Insights:\n\n- **Understanding Microframeworks**: The concept of a microframework is a key aspect of understanding Flask. Microframeworks are designed to be lightweight and flexible, providing a core set of tools and utilities that can be used to build applications. They do not impose the same level of structure or rigidity that full-fledged frameworks might.\n  \n- **The Importance of Flexibility**: One of the key benefits of Flask, and other microframeworks, is their flexibility. This means that developers can build applications in a way that is tailored to their specific needs, without being limited by the same restrictions that might be imposed by a larger framework.\n\n- **Building Web Applications with Flask**: Understanding how to build web applications with Flask requires a good grasp of the underlying concepts, including Flask's design, its primary focus, and the tools and utilities that it provides. This includes understanding how to use Flask's built-in support for routing, templating, and database interaction, as well as how to extend Flask with additional tools and libraries."
+  },
+  {
+    "id": 11382,
+    "question_text": "Which of the following software deployment strategies have the drawback of maintaining multiple versions?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "549e5776-cb73-4875-a8b3-eeda7f895cb3",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30691,
+        "question_id": "11382",
+        "text": "Blue/Green deployment",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30692,
+        "question_id": "11382",
+        "text": "Canary deployment",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 30693,
+        "question_id": "11382",
+        "text": "Versioned deployment",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 30694,
+        "question_id": "11382",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's break down the reasoning step-by-step.\n\n**Why is Canary deployment the correct answer?**\n\nCanary deployment is a software deployment strategy that involves releasing a new version of the application to a small subset of users or servers before rolling it out to the entire production environment. This strategy is used to validate the new version and ensure that it works correctly without disrupting the entire system.\n\n**Key characteristics of Canary deployment:**\n\n1. **Gradual rollout**: Canary deployment involves releasing a new version to a small subset of users or servers, allowing for a gradual rollout of the new version.\n2. **Monitoring and validation**: The new version is monitored and validated to ensure that it works correctly and does not introduce any issues.\n3. **Potential for multiple versions**: Since Canary deployment involves releasing a new version to a small subset of users or servers, it is possible that multiple versions of the application may be running concurrently.\n\n**Why is maintaining multiple versions a drawback?**\n\nMaintaining multiple versions of an application can be challenging, as it requires:\n\n1. **Additional infrastructure**: Multiple versions of the application may require additional infrastructure, such as separate servers or databases, to support each version.\n2. **Increased complexity**: Maintaining multiple versions can increase the complexity of the application, making it more difficult to manage and debug.\n3. **Higher maintenance costs**: Maintaining multiple versions can result in higher maintenance costs, as more resources are required to support each version.\n\n**Why are other options incorrect?**\n\n1. **Blue/Green deployment**: Blue/Green deployment involves deploying a new version of the application to a separate environment, which is then switched to production if the deployment is successful. This strategy does not inherently involve maintaining multiple versions, as the old version is either switched back or terminated.\n2. **Versioned deployment**: Versioned deployment involves deploying a specific version of the application to a production environment. While it is possible to maintain multiple versions using this strategy, it is not a characteristic of the strategy itself.\n\n**Educational insights**\n\nUnderstanding the underlying concepts of software deployment strategies is crucial for making informed decisions about which strategy to use in different scenarios. Here are some key takeaways:\n\n1. **Gradual rollout**: Canary deployment is an example of a gradual rollout strategy, where a new version is released to a small subset of users or servers before being rolled out to the entire production environment.\n2. **Monitoring and validation**: Canary deployment emphasizes the importance of monitoring and validation to ensure that a new version works correctly and does not introduce any issues.\n3. **Version management**: Maintaining multiple versions of an application can be challenging, and understanding the implications of version management is critical for making informed decisions about software deployment strategies.\n\nIn conclusion, Canary deployment is the correct answer because it inherently involves releasing multiple versions of the application to different subsets of users or servers, which can lead to the drawback of maintaining multiple versions. Understanding the characteristics of Canary deployment and its implications for version management is essential for making informed decisions about software deployment strategies."
+  },
+  {
+    "id": 11383,
+    "question_text": "Choose the correct statements regarding software organizations.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "6b1c111a-00bd-4f95-9181-e198a8311b6b",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30695,
+        "question_id": "11383",
+        "text": "In a flat organizational structure, there are fewer levels of hierarchy,promoting a more collaborative environment",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30696,
+        "question_id": "11383",
+        "text": "Agile methodologies are primarily suitable for large, bureaucraticorganizations",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30697,
+        "question_id": "11383",
+        "text": "DevOps is a cultural and professional movement that aims to improvecollaboration between software development and IT operations",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 30698,
+        "question_id": "11383",
+        "text": "Waterfall model is an agile software development methodology",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30699,
+        "question_id": "11383",
+        "text": "The Scrum framework defines roles, events, and artifacts for organizing andmanaging work",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "**Correct Option: In a flat organizational structure, there are fewer levels of hierarchy, promoting a more collaborative environment**\n\n**Step-by-Step Explanation:**\n\n1. **Definition of Flat Organizational Structure**: A flat organizational structure refers to a type of organizational design where there are fewer levels of management or hierarchy. In such a structure, decision-making power is distributed more evenly among team members, and communication is more direct.\n2. **Effect on Collaboration**: With fewer levels of hierarchy, team members are more likely to interact directly with each other, fostering a sense of community and encouraging collaboration. This structure promotes open communication, reduces barriers to innovation, and enables faster decision-making.\n3. **Promoting a More Collaborative Environment**: The flat structure enables team members to work more closely together, share ideas, and learn from each other. This collaborative environment leads to better problem-solving, increased employee engagement, and improved job satisfaction.\n4. **Comparison with Traditional Hierarchical Structures**: In contrast, traditional hierarchical structures often have more levels of management, which can create bureaucratic bottlenecks, slow down decision-making, and stifle collaboration. The flat structure, on the other hand, encourages a more agile and adaptive approach to work.\n\n**Why Other Options are Incorrect:**\n\n1. **Agile Methodologies are Primarily Suitable for Large, Bureaucratic Organizations (Incorrect)**: Agile methodologies are actually more suitable for small to medium-sized organizations or teams with a flat structure. Agile emphasizes flexibility, collaboration, and rapid iteration, which are more challenging to implement in large, bureaucratic organizations.\n2. **DevOps is a Cultural and Professional Movement that Aims to Improve Collaboration between Software Development and IT Operations (Correct)**: While this statement is true, it's a separate concept from organizational structure. DevOps is a practice that aims to bridge the gap between development and IT operations, but it doesn't directly relate to the concept of a flat organizational structure.\n3. **Waterfall Model is an Agile Software Development Methodology (Incorrect)**: The Waterfall model is actually a traditional, linear approach to software development that is opposite to Agile. Agile methodologies, such as Scrum or Kanban, emphasize iterative and incremental development, whereas the Waterfall model follows a sequential, phase-based approach.\n4. **The Scrum Framework Defines Roles, Events, and Artifacts for Organizing and Managing Work (Correct)**: While this statement is true, it's a separate concept from organizational structure. Scrum is a framework for managing and completing complex projects using iterative and incremental practices, but it doesn't directly relate to the concept of a flat organizational structure.\n\n**Educational Insights:**\n\n* Understanding the concept of a flat organizational structure is essential for software development teams, as it can greatly impact collaboration, innovation, and productivity.\n* Agile methodologies and DevOps practices are designed to promote collaboration and flexibility, but they are not directly related to the concept of a flat organizational structure.\n* The Waterfall model and Scrum framework are both software development methodologies, but they have different underlying principles and philosophies.\n* Recognizing the differences between these concepts can help teams and organizations make informed decisions about their structure, processes, and practices."
+  },
+  {
+    "id": 11384,
+    "question_text": "Consider the class diagram given below.  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/6p33y1puV8QnsbLWJybnIPhIhMIFheNoljkFEUEfuHUGsgEjCP.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "9cc92e13-faa2-44fd-aba9-540202f78377",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30700,
+        "question_id": "11384",
+        "text": "The relationship between class Payment and class Order is association",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 30701,
+        "question_id": "11384",
+        "text": "The relationship between class Payment and class UPIPayment is composition",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30702,
+        "question_id": "11384",
+        "text": "The relationship between class Order and class Item is inheritance",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30703,
+        "question_id": "11384",
+        "text": "The relationship between class Payment and class CardPayment is inheritance",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the relationship between class Payment and class Order.**\n\nIn the given class diagram, class Payment and class Order are connected by an arrow pointing from Payment to Order. This indicates that there is a relationship between these two classes.\n\n**Step 2: Determine the type of relationship.**\n\nThe arrow does not indicate inheritance (which would show a line from Payment to Order with a closed circle at the end) or composition (which would show a line from Payment to Order with a closed diamond at the end). Instead, it indicates an association, which is a connection between two classes without implying ownership or inheritance.\n\n**Step 3: Analyze the characteristics of an association.**\n\nAn association represents a connection between two classes that can be one-to-one, one-to-many, or many-to-many. In this case, one Payment can be associated with multiple Orders, and one Order can be associated with multiple Payments.\n\n**Step 4: Rule out incorrect options.**\n\n- **Option 2: The relationship between class Payment and class UPIPayment is composition.** This is incorrect because there is no indication of composition between these classes; the connection is not depicted as a closed diamond.\n  \n- **Option 3: The relationship between class Order and class Item is inheritance.** This is incorrect because the connection between Order and Item is an association, not an inheritance relationship. There is no indication of inheritance (a closed circle at the end of the arrow).\n\n- **Option 4: The relationship between class Payment and class CardPayment is inheritance.** This is incorrect because the connection between Payment and CardPayment is not an inheritance relationship, but rather an association or possibly a composition or aggregation depending on the context not fully described here.\n\n**Step 5: Conclusion.**\n\nGiven the information and analysis, the correct answer is:\n\n**The relationship between class Payment and class Order is association.**\n\nThis conclusion is based on the understanding that the connection between Payment and Order is represented by an arrow without any indication of inheritance, composition, or aggregation. Therefore, the most appropriate relationship depicted in the class diagram between these two classes is an association."
+  },
+  {
+    "id": 11385,
+    "question_text": "Which of the following integration testing approaches may require drivers?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "ebc2e47a-ca86-48b3-9d67-934ffc4aad0a",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30704,
+        "question_id": "11385",
+        "text": "Big bang approach",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30705,
+        "question_id": "11385",
+        "text": "Bottom up approach",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 30706,
+        "question_id": "11385",
+        "text": "Top down approach",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30707,
+        "question_id": "11385",
+        "text": "Mixed approach",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Why is the Bottom up approach the correct answer?**\n\nThe Bottom up approach is a type of integration testing strategy where the integration testing is performed from the lowest level of the system to the highest level. This approach starts with testing individual components or modules and then gradually integrates them to form larger subsystems.\n\n**Step-by-Step Reasoning:**\n\n1. **Understanding the Bottom up approach:** In this approach, integration testing starts with the lowest-level components, such as individual functions or modules. Each component is tested independently to ensure it functions correctly.\n2. **Combining components:** Once the individual components are tested, they are integrated into larger subsystems. Each subsystem is tested to ensure it functions correctly as a whole.\n3. **Driving the integration:** To integrate these components and subsystems, 'drivers' are used. Drivers are software components that facilitate the integration of individual components or subsystems by providing a common interface or communication protocol.\n4. **Why drivers are required:** In the Bottom up approach, drivers are necessary to enable the integration of components and subsystems. Without drivers, the integration process would be cumbersome, and it would be challenging to ensure seamless communication between the various components.\n\n**Why other options are incorrect:**\n\n1. **Big Bang approach:** This approach involves integrating all components simultaneously, which makes it less likely to require drivers. In a big bang approach, all components are integrated at once, eliminating the need for drivers to facilitate integration.\n2. **Top Down approach:** In this approach, integration testing starts from the highest level of the system and works its way down. This approach does not necessarily require drivers, as the focus is on integrating the system as a whole rather than individual components.\n3. **Mixed approach:** While a mixed approach might involve a combination of top-down and bottom-up integration, it is not inherently dependent on drivers. The mixed approach can be adapted to use drivers if needed, but it is not a requirement.\n\n**Educational Insights:**\n\nUnderstanding the Bottom up approach and its requirement for drivers helps illustrate the importance of integration testing in software development. Integration testing is a critical phase of the software development lifecycle that ensures individual components and subsystems function correctly together. The use of drivers in the Bottom up approach highlights the need for a structured integration process to ensure seamless communication between components.\n\n**Key Takeaways:**\n\n* The Bottom up approach is a type of integration testing strategy that requires drivers to facilitate the integration of components and subsystems.\n* Drivers are software components that provide a common interface or communication protocol for integration.\n* The Bottom up approach starts with testing individual components and gradually integrates them to form larger subsystems.\n* The use of drivers in the Bottom up approach is essential for ensuring seamless communication between components.\n\nBy grasping the underlying concepts and reasoning behind the Bottom up approach, you will develop a deeper understanding of integration testing strategies and their requirements. This knowledge will help you effectively apply integration testing principles in real-world software development projects."
+  },
+  {
+    "id": 11386,
+    "question_text": "What are the primary applications of knowledge sharing tools in software development?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "736e8f42-6a5c-43aa-a889-5eb417f7ff61",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30708,
+        "question_id": "11386",
+        "text": "The tools can be used for sharing documents and archiving decisions",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 30709,
+        "question_id": "11386",
+        "text": "The tools enable all members of the team to get a big picture of the projectalong with a detailed view of its progress",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30710,
+        "question_id": "11386",
+        "text": "The tools can be used to apply the knowledge gained in one project to anotherproject",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 30711,
+        "question_id": "11386",
+        "text": "The tools mainly include IDEs that help the developers to be more productive",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct option is indeed \"The tools can be used for sharing documents and archiving decisions.\"\n\n**Why is this option correct?**\n\n1. **Knowledge Sharing**: Software development projects involve multiple team members, stakeholders, and collaborators. Knowledge sharing tools are designed to facilitate the exchange of information, ideas, and expertise among these individuals.\n2. **Document Sharing**: One of the primary applications of knowledge sharing tools is to share documents, such as project plans, requirements specifications, design documents, and meeting notes. These documents are essential for project collaboration and decision-making.\n3. **Archiving Decisions**: As projects progress, numerous decisions are made, and actions are taken. Knowledge sharing tools can help archive these decisions, ensuring that everyone involved in the project has access to the historical context and rationale behind the decisions.\n4. **Collaboration and Transparency**: By sharing documents and archiving decisions, knowledge sharing tools promote collaboration and transparency among team members, stakeholders, and project sponsors. This transparent approach helps to avoid misunderstandings, reduces the risk of errors, and fosters a culture of trust and accountability.\n\n**Why are other options incorrect?**\n\n1. **Option 2: \"The tools enable all members of the team to get a big picture of the project along with a detailed view of its progress\"**\nWhile this statement is partially true, it's not the primary application of knowledge sharing tools. While some tools may provide a high-level overview of project progress, this is not their primary function. Knowledge sharing tools are designed to facilitate collaboration and information exchange, not just provide a project dashboard.\n2. **Option 3: \"The tools can be used to apply the knowledge gained in one project to another project\"**\nWhile this statement is true, it's not the primary application of knowledge sharing tools. Knowledge sharing tools can indeed facilitate knowledge reuse and transfer, but this is not their primary purpose. The main focus of these tools is to support collaboration, document sharing, and decision archiving within a project, not just across projects.\n3. **Option 4: \"The tools mainly include IDEs that help the developers to be more productive\"**\nThis statement is entirely incorrect. IDEs (Integrated Development Environments) are software tools that help developers write, test, and debug code. While IDEs are crucial for software development, they are not knowledge sharing tools. Knowledge sharing tools, on the other hand, focus on facilitating collaboration, document sharing, and decision archiving, not just code development.\n\n**Educational Insights**\n\nUnderstanding the primary applications of knowledge sharing tools is essential for effective software development project management. By recognizing the importance of sharing documents and archiving decisions, teams can:\n\n* Improve collaboration and transparency among team members, stakeholders, and project sponsors\n* Reduce the risk of errors and misunderstandings\n* Foster a culture of trust and accountability\n* Enhance project outcomes and quality\n\nIn conclusion, the correct option is indeed \"The tools can be used for sharing documents and archiving decisions.\" This option accurately reflects the primary applications of knowledge sharing tools in software development, which are essential for facilitating collaboration, document sharing, and decision archiving."
+  },
+  {
+    "id": 11387,
+    "question_text": "Choose the correct statements regarding Test-Driven Development (TDD).",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "5.00",
+    "uuid": "b71ee817-379c-409d-9b09-b288413cdb5e",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30712,
+        "question_id": "11387",
+        "text": "TDD involves writing test cases after the implementation of the code",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30713,
+        "question_id": "11387",
+        "text": "TDD follows the cycle of \"Red-Green-Refactor\"",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 30714,
+        "question_id": "11387",
+        "text": "TDD encourages developers to write production code without any testing",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30715,
+        "question_id": "11387",
+        "text": "In TDD, tests are written to validate the expected behavior of the code beforethe code is implemented",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 30716,
+        "question_id": "11387",
+        "text": "TDD is not suitable for agile development methodologies",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To explain why the option \"TDD follows the cycle of 'Red-Green-Refactor'\" is the correct answer, let's break down the reasoning step-by-step.\n\n**What is Test-Driven Development (TDD)?**\n\nTDD is a software development process that involves writing automated tests before writing the actual code. The goal of TDD is to ensure that the code is correct, reliable, and meets the required functionality.\n\n**The Cycle of \"Red-Green-Refactor\"**\n\nThe core of TDD is the \"Red-Green-Refactor\" cycle, which represents the iterative process of writing, running, and refining tests. The cycle consists of three stages:\n\n1.  **Red**: Write a test for a specific piece of functionality, and run it. The test will fail (red), indicating that the code doesn't yet meet the required functionality.\n2.  **Green**: Write the minimal amount of code required to pass the test, making it green. This ensures that the code meets the specific functionality tested.\n3.  **Refactor**: Refactor the code to make it more maintainable, efficient, and easy to understand. This step involves reviewing the code, removing any duplication, and improving its structure.\n\n**Why is \"TDD follows the cycle of 'Red-Green-Refactor'\" the correct answer?**\n\nThe option \"TDD follows the cycle of 'Red-Green-Refactor'\" is the correct answer because it accurately describes the core process of TDD. The \"Red-Green-Refactor\" cycle is the foundation of TDD, and it ensures that the code is thoroughly tested, reliable, and maintainable.\n\n**Why are other options incorrect?**\n\n1.  **TDD involves writing test cases after the implementation of the code**: This statement is incorrect because, in TDD, tests are written before the implementation of the code. The tests drive the development process, and the code is written to meet the requirements defined by the tests.\n2.  **TDD encourages developers to write production code without any testing**: This statement is incorrect because TDD is all about writing automated tests for the production code. The goal of TDD is to ensure that the code is thoroughly tested, and the tests are an integral part of the development process.\n3.  **In TDD, tests are written to validate the expected behavior of the code before the code is implemented**: While this statement is partially correct, it's not as comprehensive as the correct option. TDD indeed involves writing tests before implementing the code, but the \"Red-Green-Refactor\" cycle provides a more detailed and accurate description of the TDD process.\n4.  **TDD is not suitable for agile development methodologies**: This statement is incorrect because TDD is actually a key component of many agile development methodologies, such as Extreme Programming (XP) and Scrum. TDD's iterative and incremental approach aligns well with the agile principles of continuous improvement and delivering working software in short cycles.\n\n**Educational Insights**\n\nTDD's \"Red-Green-Refactor\" cycle emphasizes the importance of testing, refactoring, and continuous improvement in software development. By following this cycle, developers can ensure that their code is reliable, maintainable, and meets the required functionality.\n\nTDD's focus on automated testing and continuous refactoring helps to reduce the likelihood of bugs, improves code quality, and increases overall productivity. Additionally, TDD's iterative approach allows developers to respond quickly to changing requirements and priorities, making it an ideal fit for agile development methodologies.\n\nIn summary, the option \"TDD follows the cycle of 'Red-Green-Refactor'\" is the correct answer because it accurately describes the core process of TDD. The \"Red-Green-Refactor\" cycle represents the iterative process of writing, running, and refining tests, which is the foundation of TDD."
+  },
+  {
+    "id": 11388,
+    "question_text": "Choose the correct statements about continuous integration (CI).",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "5.00",
+    "uuid": "8943e9b7-c507-4c7b-8554-09218b86778f",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30717,
+        "question_id": "11388",
+        "text": "CI is a software development practice where code changes are tested andintegrated into the main codebase frequently",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.667"
+      },
+      {
+        "id": 30718,
+        "question_id": "11388",
+        "text": "Jenkins and Travis CI are examples of CI tools",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.667"
+      },
+      {
+        "id": 30719,
+        "question_id": "11388",
+        "text": "CI helps identify and fix integration issues early in the development process",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.667"
+      },
+      {
+        "id": 30720,
+        "question_id": "11388",
+        "text": "Continuous Deployment (CD) is synonymous with continuous integration",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30721,
+        "question_id": "11388",
+        "text": "CI is only beneficial for small development teams",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step to understand why the option \"CI is a software development practice where code changes are tested and integrated into the main codebase frequently\" is the correct answer.\n\n**Step 1: Understanding Continuous Integration (CI)**\n\nContinuous Integration (CI) is a software development practice that involves integrating code changes into a main codebase frequently. This practice aims to improve the quality of the software by catching errors and bugs early in the development process. By integrating code changes regularly, developers can identify and fix issues quickly, reducing the risk of integration problems downstream.\n\n**Step 2: Why is CI practiced?**\n\nCI is practiced because it helps developers:\n\n* Identify integration issues early: By integrating code changes frequently, developers can detect conflicts and errors early on, reducing the risk of integration problems that can arise when multiple developers work on different parts of the codebase simultaneously.\n* Improve code quality: Regular integration helps ensure that the codebase is stable and works as expected, reducing the likelihood of bugs and errors that can affect the overall quality of the software.\n* Reduce integration time: By integrating code changes frequently, developers can reduce the time spent on integrating code changes, which can be a time-consuming and error-prone process.\n\n**Step 3: Why is the option correct?**\n\nThe option \"CI is a software development practice where code changes are tested and integrated into the main codebase frequently\" is correct because it accurately describes the core purpose of Continuous Integration. CI involves integrating code changes into the main codebase regularly, which enables developers to identify and fix integration issues early on, improve code quality, and reduce integration time.\n\n**Step 4: Why are other options incorrect?**\n\n* **Option 2: Jenkins and Travis CI are examples of CI tools** - While Jenkins and Travis CI are indeed CI tools, this option is not a correct statement about CI itself. It's more of a statement about CI tools.\n* **Option 3: CI helps identify and fix integration issues early in the development process** - This statement is partially correct but incomplete. CI not only helps identify integration issues but also integrates code changes into the main codebase frequently.\n* **Option 4: Continuous Deployment (CD) is synonymous with continuous integration** - This statement is incorrect. Continuous Deployment (CD) is a separate practice that involves automating the deployment of code changes to production. While CI and CD are related practices, they are not synonymous.\n* **Option 5: CI is only beneficial for small development teams** - This statement is incorrect. CI can be beneficial for development teams of any size, as it helps identify and fix integration issues early on, improves code quality, and reduces integration time.\n\n**Educational Insights:**\n\n* Continuous Integration is a crucial practice in software development that helps improve code quality, reduce integration time, and identify integration issues early on.\n* CI is not a one-time process but a continuous process that involves integrating code changes into the main codebase regularly.\n* CI can be beneficial for development teams of any size, not just small teams.\n* CI tools like Jenkins and Travis CI can be used to automate the CI process, making it easier to integrate code changes into the main codebase.\n\nIn conclusion, the correct option \"CI is a software development practice where code changes are tested and integrated into the main codebase frequently\" accurately describes the core purpose of Continuous Integration. By understanding the principles of CI, developers can improve the quality of their software, reduce integration time, and identify integration issues early on."
+  },
+  {
+    "id": 11389,
+    "question_text": "An organisation decided to develop an online medicine selling app. So a team from the organisation visited some medical shops to observe the process of selling the medicines. Identify the type of requirement collection technique used in the given scenario.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "1fcc4f6f-8737-4927-867b-24430f256b41",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30722,
+        "question_id": "11389",
+        "text": "Questionnaires",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30723,
+        "question_id": "11389",
+        "text": "Focus group",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30724,
+        "question_id": "11389",
+        "text": "Naturalistic observations",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 30725,
+        "question_id": "11389",
+        "text": "Documentations",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to determine why 'Naturalistic observations' is the correct answer.\n\n**Step 1: Understanding the scenario**\nThe organisation is developing an online medicine selling app and sends a team to observe the process of selling medicines in medical shops. This implies that the team is actively observing and taking note of the current practices and procedures in the medical shops.\n\n**Step 2: Identifying the requirement collection technique**\nThe goal of the team is to gather information about the existing process of selling medicines, which will help inform the design and development of the online medicine selling app. We need to identify the technique used to collect this information.\n\n**Step 3: Understanding Naturalistic observations**\nNaturalistic observations involve observing people in their natural environment, without intervening or influencing their behavior. The observer takes note of the interactions, processes, and procedures that are currently being followed. This technique is often used to gather information about existing practices, identify problems, and understand user behavior.\n\n**Step 4: Analyzing the scenario**\nIn the given scenario, the team is observing the process of selling medicines in medical shops, without influencing the behavior of the shop owners or customers. They are simply taking note of the procedures, interactions, and processes involved in selling medicines. This matches the definition of Naturalistic observations.\n\n**Step 5: Eliminating other options**\n\n* **Questionnaires**: These are typically used to collect information through surveys or interviews, which is not the case in this scenario.\n* **Focus group**: A focus group involves a facilitated discussion with a small group of people, which is not what is happening in this scenario.\n* **Documentations**: While documentation may be involved, the primary technique used here is observation, not documentation.\n\n**Conclusion**\nBased on the analysis, the correct answer is **Naturalistic observations**. This technique is used to gather information about existing practices and procedures, which is exactly what the team is doing in the scenario. By observing the process of selling medicines in medical shops, the team is collecting information that will inform the design and development of the online medicine selling app.\n\n**Educational insights**\n\n* Naturalistic observations are a valuable technique for gathering information about existing practices and procedures.\n* This technique helps to identify problems, understand user behavior, and inform the design of new systems or processes.\n* It's essential to choose the right technique for the job, as each technique has its strengths and limitations.\n* By understanding the different requirement collection techniques, you can select the most appropriate one for your needs and improve the quality of your data collection."
+  },
+  {
+    "id": 11390,
+    "question_text": "An employee payroll software provides its users with several services. For each service, a tutorial video is provided along with step-by-step examples. Which of the following usability goals is fulfilled by the payroll software?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "ff877042-2324-4141-9919-b7fa63ecc846",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30726,
+        "question_id": "11390",
+        "text": "Effectiveness",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30727,
+        "question_id": "11390",
+        "text": "Efficiency",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30728,
+        "question_id": "11390",
+        "text": "Safe to use",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30729,
+        "question_id": "11390",
+        "text": "Learnability",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 30730,
+        "question_id": "11390",
+        "text": "Memorability",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine which usability goal is fulfilled by the payroll software, let's break down the reasoning step-by-step.\n\n**Step 1: Understanding the Usability Goals**\n\nThe four usability goals provided are:\n\n1. **Effectiveness**: The goal of effectiveness is to ensure that the system can accomplish the desired tasks when used correctly. It measures how well the system performs its intended function.\n2. **Efficiency**: Efficiency refers to the goal of minimizing the time, effort, and resources required to complete a task. It's about doing things quickly and easily.\n3. **Safe to use**: This goal ensures that the system does not pose any harm to the user or the organization. It involves minimizing the risk of errors or accidents.\n4. **Learnability**: Learnability focuses on how easily a user can learn to use the system. It's about making the system intuitive and easy to understand, regardless of the user's prior experience.\n\n**Step 2: Analyzing the Payroll Software Features**\n\nThe payroll software provides several services, each with a tutorial video and step-by-step examples. These features aim to support the user in understanding how to use the system.\n\n**Step 3: Identifying the Fulfilled Usability Goal**\n\nConsidering the features of the payroll software, the primary goal it fulfills is **Learnability**. The tutorial videos and step-by-step examples are designed to help users learn how to use the system. They provide a clear understanding of the system's functionality, enabling users to quickly grasp its capabilities and use it effectively.\n\n**Step 4: Eliminating Other Options**\n\nLet's examine why the other options are incorrect:\n\n* **Effectiveness**: While the payroll software provides support for learning, it's not directly related to the effectiveness of the system in accomplishing its intended function.\n* **Efficiency**: The tutorial videos and step-by-step examples might take some time to complete, but they don't directly contribute to minimizing the time or effort required to complete a task.\n* **Safe to use**: The payroll software's features do not explicitly aim to minimize risks or accidents. They focus on teaching users how to use the system.\n\n**Step 5: Educational Insights**\n\nUnderstanding the concept of learnability is essential in designing user-friendly systems. A system with high learnability is more likely to be adopted and used by a wider audience. This is because it reduces the cognitive load on users, making it easier for them to understand and navigate the system.\n\nIn conclusion, the payroll software's features, such as tutorial videos and step-by-step examples, primarily aim to support the user's learning process. Therefore, the correct answer is **Learnability**. By understanding the concept of learnability, developers can prioritize user education and create systems that are more accessible and user-friendly."
+  },
+  {
+    "id": 11391,
+    "question_text": "Which of the following types of testing determines whether a software product meets nonfunctional requirements or not?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "1ff1e479-d7f1-4ff3-a63f-e8d5e42d155c",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30731,
+        "question_id": "11391",
+        "text": "Unit testing",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30732,
+        "question_id": "11391",
+        "text": "Alpha testing",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30733,
+        "question_id": "11391",
+        "text": "Beta testing",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30734,
+        "question_id": "11391",
+        "text": "Smoke testing",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30735,
+        "question_id": "11391",
+        "text": "Performance testing",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine which type of testing determines whether a software product meets nonfunctional requirements, we need to understand what nonfunctional requirements (NFRs) are and how different types of testing address these requirements. NFRs are characteristics of a software product that are not related to its functional behavior, such as performance, security, usability, and reliability.\n\nLet's break down the reasoning step-by-step:\n\n1. **Understanding Nonfunctional Requirements (NFRs)**: NFRs are essential characteristics of a software product that ensure it operates efficiently, effectively, and safely. Performance is one of the critical NFRs, which includes aspects like response time, throughput, and resource utilization.\n\n2. **Types of Testing and Their Focus**:\n   - **Unit Testing**: Focuses on verifying the correctness and correctness of individual units of source code, ensuring that each unit performs the expected function. It is primarily concerned with functional requirements.\n   - **Alpha Testing**: Performed at the developer's site on a test version of the software, essentially to identify problems that are difficult to fix later in the development process. This type of testing also focuses on functional requirements.\n   - **Beta Testing**: A form of external testing where the software is released to a limited audience outside the organization, typically to gather feedback from real users. Although it may touch upon performance in certain aspects, it's more about gathering user feedback on usability and functionality.\n   - **Smoke Testing**: A preliminary testing process to ensure that the software is stable and the most critical functionalities are working correctly. It's a basic level of testing that covers functional aspects, not specifically NFRs.\n   - **Performance Testing**: This type of testing is specifically designed to determine how well the software product performs under various conditions. It includes testing for response time, throughput, resource utilization, and stability under the expected workload. Performance testing is the most relevant choice because it directly targets the nonfunctional requirements related to performance.\n\n3. **Why Performance Testing is the Correct Answer**:\n   - Performance testing specifically aims to evaluate a product's performance under various workloads and conditions, directly addressing performance-related NFRs. It ensures that the software operates efficiently and effectively, meeting the requirements for performance, scalability, and reliability.\n\n4. **Why Other Options are Incorrect**:\n   - **Unit Testing**, **Alpha Testing**, and **Smoke Testing** are all focused on ensuring that the software meets its functional requirements. While they may incidentally touch upon performance aspects, they are not primarily concerned with evaluating performance or other NFRs.\n   - **Beta Testing** involves testing the software with real users to collect feedback on usability and functionality, but it doesn't primarily focus on performance testing or ensuring that the software meets NFRs related to performance.\n\nIn conclusion, performance testing is the correct answer because it is the type of testing that directly evaluates a software product's performance under various conditions, ensuring it meets the nonfunctional requirements related to performance, scalability, and reliability. Understanding the focus of each type of testing is crucial for software development and testing professionals to ensure that the software product meets all the necessary requirements."
+  },
+  {
+    "id": 11392,
+    "question_text": "In which of the following hosting service, the provider is responsible for providing a part of the infrastructure without providing the software layer?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "0d2e885c-0cdf-448b-a430-872436a5a3ce",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30736,
+        "question_id": "11392",
+        "text": "Bare Metal Servers",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30737,
+        "question_id": "11392",
+        "text": "Infrastructure-as-a-Service",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 30738,
+        "question_id": "11392",
+        "text": "Platform-as-a-Service",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30739,
+        "question_id": "11392",
+        "text": "All of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step-by-step to understand why Infrastructure-as-a-Service (IaaS) is the correct answer.\n\n**Step 1: Understanding the definitions**\n\nBefore diving into the explanation, let's quickly define the key terms:\n\n* **Bare Metal Servers**: A type of hosting service where the provider gives you direct access to a physical server, without any virtualization layer. You have full control over the hardware and software configuration.\n* **Infrastructure-as-a-Service (IaaS)**: A cloud computing model where the provider offers virtualized computing resources, such as servers, storage, and networking, over the internet. You have control over the infrastructure, but not the underlying software layer.\n* **Platform-as-a-Service (PaaS)**: A cloud computing model where the provider offers a complete platform for developing, running, and managing applications, including the software layer. You don't manage the underlying infrastructure.\n\n**Step 2: Analyzing the options**\n\nNow, let's analyze each option:\n\n* **Bare Metal Servers**: In this model, the provider gives you direct access to a physical server, which means you have control over both the hardware and software configuration. This is not what we're looking for, as IaaS provides a virtualized infrastructure, not a physical one.\n* **Infrastructure-as-a-Service (IaaS)**: In this model, the provider offers virtualized computing resources, such as servers, storage, and networking. You have control over the infrastructure, but not the underlying software layer. This is exactly what we're looking for.\n* **Platform-as-a-Service (PaaS)**: In this model, the provider offers a complete platform for developing, running, and managing applications, including the software layer. You don't manage the underlying infrastructure, which means you don't have control over the infrastructure layer.\n\n**Step 3: Breaking down the reasoning**\n\nBased on the definitions and analysis, here's the reasoning:\n\n* IaaS is the correct answer because it provides a virtualized infrastructure, giving you control over the infrastructure, but not the software layer.\n* Bare Metal Servers are incorrect because it provides direct access to a physical server, giving you control over both the hardware and software configuration.\n* PaaS is incorrect because it provides a complete platform, including the software layer, and you don't manage the underlying infrastructure.\n\n**Step 4: Educational insights**\n\nUnderstanding the differences between IaaS, PaaS, and Bare Metal Servers is crucial for cloud computing. Here are some educational insights:\n\n* IaaS is ideal for businesses that require flexibility and control over their infrastructure, but don't need to manage the software layer.\n* PaaS is ideal for businesses that require a complete platform for developing, running, and managing applications, without worrying about the underlying infrastructure.\n* Bare Metal Servers are ideal for businesses that require direct access to a physical server, often for high-performance computing or legacy applications.\n\nIn conclusion, Infrastructure-as-a-Service (IaaS) is the correct answer because it provides a virtualized infrastructure, giving you control over the infrastructure, but not the software layer. IaaS is a popular choice for businesses that require flexibility and control over their infrastructure, but don't need to manage the software layer."
+  },
+  {
+    "id": 11393,
+    "question_text": "A programmer is developing a module for a big software project. The module has 50 functions. After writing the code, the programmer has observed that he is not getting the desired output, and he suspects some of the functions are not getting called. In order to identify those functions, he places some print statements in all the functions.  What kind of debugging technique does the programmer employ in this case?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "d07a3483-366f-4220-8abf-743ed66a12b1",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30740,
+        "question_id": "11393",
+        "text": "Logging",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 30741,
+        "question_id": "11393",
+        "text": "Dump & diff",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30742,
+        "question_id": "11393",
+        "text": "Stepping in debugger",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30743,
+        "question_id": "11393",
+        "text": "Profiling tool",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine why the programmer employed the \"Logging\" technique in this scenario, let's break down the reasoning step-by-step.\n\n**Step 1: Understand the scenario**\nThe programmer has a module with 50 functions, and he suspects that some functions are not being called, resulting in the undesired output. He places print statements in all the functions to identify the issue.\n\n**Step 2: Identify the purpose of the technique**\nThe programmer's goal is to identify which functions are not being called. To achieve this, he needs a technique that allows him to monitor the execution of the code and observe the behavior of the functions.\n\n**Step 3: Analyze the options**\nLet's examine each option:\n\n*   **Logging**: Logging involves writing messages to a log file or console to track the execution of the code. This technique allows the programmer to monitor the flow of the program and identify which functions are being executed.\n*   **Dump & diff**: This technique involves comparing two versions of the code or output to identify changes. It's not directly related to monitoring the execution of the code or identifying which functions are being called.\n*   **Stepping in debugger**: Stepping through the code in a debugger allows the programmer to execute the code line by line, inspecting variables and expressions. While this technique provides detailed control over the execution, it's often more time-consuming than logging and may not be suitable for large codebases.\n*   **Profiling tool**: A profiling tool measures the performance of the code, identifying bottlenecks and resource-intensive sections. While profiling can provide insights into the code's execution, it's not directly focused on identifying which functions are being called.\n\n**Step 4: Choose the correct option**\nGiven the programmer's goal of identifying which functions are not being called, the most suitable technique is logging. Logging allows the programmer to monitor the execution of the code, observe which functions are being executed, and identify the issue.\n\n**Educational insights**\n\n*   Logging is a fundamental debugging technique that helps programmers monitor the execution of their code.\n*   It's essential to understand the purpose of each debugging technique and choose the most suitable one for the specific problem.\n*   While stepping through the code in a debugger or using a profiling tool can provide valuable insights, logging is often a quicker and more straightforward approach for identifying issues like missing function calls.\n\nIn conclusion, the programmer employed the \"Logging\" technique to identify which functions are not being called in the module. This technique allowed him to monitor the execution of the code and observe which functions are being executed, ultimately helping him resolve the issue."
+  },
+  {
+    "id": 11394,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/6JhgHq3Pfdy1gA6Oqlfz2PpqHM7W1kl09OTCp8x7koOv8UmYIC.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "c6c97b3f-d732-4825-b3f3-f2ae2ad53c9f",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30744,
+        "question_id": "11394",
+        "text": "Factory design pattern",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30745,
+        "question_id": "11394",
+        "text": "Builder design pattern",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 30746,
+        "question_id": "11394",
+        "text": "Adapter design pattern",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30747,
+        "question_id": "11394",
+        "text": "Facade design pattern",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is the Builder design pattern.\n\n**Step 1: Identifying the Builder Design Pattern**\n\nThe Builder design pattern is a creational pattern that separates the construction of a complex object from its representation. It allows for the step-by-step creation of an object using the same construction process.\n\n**Step 2: Analyzing the Problem**\n\nIn the given class diagram, we have a `Customer` class with several attributes (e.g., `customerID`, `name`, `contactNumber`, etc.). The problem asks us to identify the design pattern referred to as X, which is represented by the class diagram.\n\n**Step 3: Applying the Builder Design Pattern**\n\nTo apply the Builder design pattern, we need to create a separate class called `CustomerBuilder`. This class will be responsible for constructing the `Customer` object step-by-step.\n\n**Step 4: Breaking Down the Reasoning**\n\nHere's how the Builder design pattern would apply to the given class diagram:\n\n*   We create a `CustomerBuilder` class with methods to set each attribute of the `Customer` object (e.g., `withCustomerID`, `withName`, etc.).\n*   The `CustomerBuilder` class returns a `Customer` object once all attributes are set.\n*   The `Customer` class remains unchanged, but now it has a `CustomerBuilder` class associated with it.\n\n**Step 5: Eliminating Other Options**\n\n*   **Factory Design Pattern:** A factory design pattern provides a way to create objects without specifying the exact class of object that will be created. It does not involve step-by-step construction of an object.\n*   **Adapter Design Pattern:** An adapter design pattern allows two incompatible objects to work together by converting the interface of one object into an interface expected by the other object. It does not involve object construction.\n*   **Facade Design Pattern:** A facade design pattern provides a simplified interface to a complex system of classes. It does not involve object construction.\n\n**Conclusion**\n\nBased on the analysis, the Builder design pattern is the correct answer because it involves the step-by-step construction of an object using a separate builder class. The other options do not match the problem description.\n\nEducational Insights:\n\n*   The Builder design pattern is useful when you need to create complex objects with multiple attributes in a step-by-step manner.\n*   It helps decouple the construction process from the representation of the object, making it easier to modify or extend the object's structure without affecting its usage.\n*   The Builder design pattern is commonly used in scenarios where you need to build objects with a large number of attributes or when you want to provide a flexible way to construct objects with varying levels of complexity."
+  },
+  {
+    "id": 11395,
+    "question_text": "Consider a program that has classes CashPayment , CardPayment and UPIPayment , which are derived from class Payment . However, in the functions, changing the object types from derived class to the base class causes various errors in the program.  Which of the SOLID principles is violated by the program?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "5e381204-4c7d-4843-af64-6f7aa78387a4",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30748,
+        "question_id": "11395",
+        "text": "Open-Closed principle",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30749,
+        "question_id": "11395",
+        "text": "Liskov Substitution principle",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 30750,
+        "question_id": "11395",
+        "text": "Interface Segregation principle",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30751,
+        "question_id": "11395",
+        "text": "Dependency Inversion principle",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Understanding the Liskov Substitution Principle (LSP)**\n\nThe Liskov Substitution Principle states that subtypes should be substitutable for their base types. In other words, any code that uses a base class type should be able to work with a derived class type without knowing the difference.\n\n**Why the LSP is the correct answer**\n\nIn the given scenario, the program experiences errors when object types are changed from derived classes (CashPayment, CardPayment, UPIPayment) to the base class (Payment). This suggests that the derived classes are not substitutable for the base class. The LSP is violated because:\n\n1. **Derived classes are not substitutable**: When object types are changed from derived classes to the base class, the program experiences errors. This indicates that the derived classes cannot be used interchangeably with the base class, which is a clear violation of the LSP.\n2. **Base class is not designed to handle derived class behavior**: The base class (Payment) is likely not designed to handle the specific behavior of the derived classes (CashPayment, CardPayment, UPIPayment). The errors that occur when changing object types suggest that the base class is not capable of accommodating the derived class behavior, which is a fundamental requirement of the LSP.\n\n**Step-by-step reasoning**\n\n1. **Identify the violation**: The program experiences errors when object types are changed from derived classes to the base class.\n2. **Analyze the code structure**: Examine the code to determine if the derived classes are designed to be substitutable for the base class.\n3. **Determine the root cause**: Identify the root cause of the errors, which is likely the inability of the base class to handle derived class behavior.\n4. **Apply the LSP**: Recognize that the LSP is violated because the derived classes are not substitutable for the base class.\n\n**Other options: Why they are incorrect**\n\n1. **Open-Closed Principle (OCP)**: This principle states that software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. The OCP is not directly relevant to the scenario, as the issue is not about modifying the code but rather about the substitutability of derived classes.\n2. **Interface Segregation Principle (ISP)**: This principle states that clients should not be forced to depend on interfaces they do not use. While ISP is related to the concept of substitutability, it is not directly relevant to this scenario, as the issue is not about interfaces but rather about the substitutability of derived classes.\n3. **Dependency Inversion Principle (DIP)**: This principle states that high-level modules should not depend on low-level modules but both should depend on abstractions. While DIP is related to the concept of substitutability, it is not directly relevant to this scenario, as the issue is not about dependencies between modules but rather about the substitutability of derived classes.\n\n**Educational insights**\n\nThe LSP is an essential principle in object-oriented design, and understanding its implications is crucial for writing robust and maintainable code. The LSP helps developers ensure that their code is flexible, scalable, and easy to maintain. By applying the LSP, developers can avoid common pitfalls, such as tight coupling and rigid code structures, and create more sustainable software systems.\n\nIn summary, the LSP is the correct answer because the derived classes are not substitutable for the base class, which is a fundamental requirement of the LSP. The errors that occur when changing object types from derived classes to the base class indicate a clear violation of the LSP, making it the correct choice."
+  },
+  {
+    "id": 11396,
+    "question_text": "Which of the following statements are true about the staging environment?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "fb38b818-311a-4009-ac36-d6be66a9bca7",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30752,
+        "question_id": "11396",
+        "text": "It provides the local environment to a software developer which contains thetools like IDE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30753,
+        "question_id": "11396",
+        "text": "It provides an environment with several testing tools and focuses onintegration testing",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30754,
+        "question_id": "11396",
+        "text": "It provides an environment that exactly resembles the productionenvironment",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 30755,
+        "question_id": "11396",
+        "text": "It provides the actual production environment",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step by step to understand why the correct answer is \"It provides an environment that exactly resembles the production environment\".\n\n**What is the staging environment?**\nThe staging environment, also known as the staging area, is a software development environment that simulates the production environment. Its primary purpose is to test and validate the software before it is deployed to the production environment.\n\n**Why does the staging environment resemble the production environment?**\nThe staging environment is designed to mimic the production environment as closely as possible. This means that it has the same software, hardware, and configuration settings as the production environment. The goal is to ensure that the software behaves exactly as it will in the production environment, without affecting the actual production system.\n\n**What are the benefits of having a staging environment that resembles the production environment?**\nHaving a staging environment that exactly resembles the production environment provides several benefits:\n\n1. **Reduced risk**: By testing the software in a production-like environment, developers can identify and fix issues before they reach the production environment, reducing the risk of errors or downtime.\n2. **Improved reliability**: The staging environment ensures that the software is thoroughly tested and validated, which leads to improved reliability and fewer issues in the production environment.\n3. **Better performance**: The staging environment allows developers to fine-tune the software for optimal performance, which is critical for a successful production deployment.\n\n**Why are the other options incorrect?**\nLet's examine the other options:\n\n* **Option 1: \"It provides the local environment to a software developer which contains the tools like IDE\"**: This statement is incorrect because a staging environment is not a local environment for a software developer. A local environment is a developer's own machine or device, where they write and test code. A staging environment is a separate environment that is used for testing and validation.\n* **Option 2: \"It provides an environment with several testing tools and focuses on integration testing\"**: While it's true that a staging environment may include testing tools, this statement is incomplete. A staging environment is not solely focused on integration testing; its primary purpose is to simulate the production environment and test the software as a whole.\n* **Option 4: \"It provides the actual production environment\"**: This statement is incorrect because a staging environment is not the actual production environment. The production environment is the live environment where the software is deployed and used by end-users. A staging environment is a separate environment that is used to test and validate the software before it is deployed to production.\n\n**Educational insights**\nTo understand the underlying concepts, consider the following:\n\n* **Testing environments**: In software development, there are typically three testing environments: development, staging, and production. Each environment has a specific purpose and is used at different stages of the software development lifecycle.\n* **Environment types**: There are different types of environments, including:\n\t+ **Development environment**: Where developers write and test code.\n\t+ **Staging environment**: Where the software is tested and validated before deployment to production.\n\t+ **Production environment**: Where the software is deployed and used by end-users.\n\t+ **Integration environment**: Where different components or systems are integrated and tested.\n* **Environment configuration**: The configuration of an environment, including software, hardware, and settings, is critical to ensure that the software behaves as expected.\n\nIn conclusion, the correct answer is \"It provides an environment that exactly resembles the production environment\" because the staging environment is designed to simulate the production environment, allowing developers to test and validate the software before deployment. This ensures that the software is thoroughly tested, reliable, and performs optimally in the production environment."
+  },
+  {
+    "id": 11397,
+    "question_text": "During debugging, a developer finds out the event that triggers an incorrect behavior. He follows the data control flow ahead until the incorrect state is reached.  Which of the following debugging strategies was chosen by the developer?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "d6e5e8c7-69a4-4583-9b58-5aef06d989a8",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30756,
+        "question_id": "11397",
+        "text": "Input manipulation",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30757,
+        "question_id": "11397",
+        "text": "Backwards strategy",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30758,
+        "question_id": "11397",
+        "text": "Forwards strategy",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 30759,
+        "question_id": "11397",
+        "text": "Blackbox debugging",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step.\n\n**Understanding the scenario**\n\nThe developer is trying to identify the root cause of an incorrect behavior in the system. He starts by identifying the event that triggers the incorrect behavior and then follows the data control flow to see how it leads to the incorrect state.\n\n**Forwards strategy (Correct option)**\n\nA forwards strategy in debugging involves tracing the execution of a program or system forward from a specific point in time, typically from an event that triggers an incorrect behavior. This approach involves following the data control flow to identify how the system reaches an incorrect state.\n\nIn this scenario, the developer is choosing a forwards strategy because he is starting from the event that triggers the incorrect behavior and following the data control flow to see how it leads to the incorrect state. This is a classic example of a forwards strategy, where the developer is tracing the execution of the system forward to identify the root cause of the problem.\n\n**Step-by-step reasoning**\n\n1. The developer identifies the event that triggers the incorrect behavior.\n2. He follows the data control flow from that event to see how it leads to the incorrect state.\n3. By tracing the execution of the system forward, he identifies the point where the incorrect state is reached.\n4. The developer uses this information to identify the root cause of the problem and make necessary corrections.\n\n**Why other options are incorrect**\n\n* **Input manipulation**: This involves changing the inputs to the system to test its behavior, which is not what the developer is doing in this scenario. The developer is tracing the execution of the system forward to identify the root cause of the problem, not manipulating inputs to test the system.\n* **Backwards strategy**: A backwards strategy involves tracing the execution of a program or system backward from a specific point in time, typically from an incorrect state to identify the event that triggered it. This is the opposite of what the developer is doing in this scenario.\n* **Blackbox debugging**: This involves testing a system without knowledge of its internal workings, which is not what the developer is doing in this scenario. The developer is tracing the execution of the system forward to identify the root cause of the problem, which requires knowledge of the system's internal workings.\n\n**Educational insights**\n\n* **Understanding data control flow**: The developer's ability to follow the data control flow to identify the root cause of the problem demonstrates an understanding of how data flows through the system.\n* **Tracing execution**: The developer's use of a forwards strategy requires him to be able to trace the execution of the system forward, which is a fundamental skill in debugging.\n* **Debugging strategies**: The scenario highlights the importance of choosing the right debugging strategy for the problem at hand. In this case, the forwards strategy was the most effective approach.\n\nIn conclusion, the correct option is the Forwards strategy because it accurately describes the approach the developer is taking to debug the system. By following the data control flow forward, the developer is able to identify the root cause of the problem and make necessary corrections."
+  },
+  {
+    "id": 11398,
+    "question_text": "Consider the following classes: BMI, HeightConverter, and WeightConverter. Class BMI considers the height and weight of a person in CMs and KGs respectively and then computes the person's BMI(body mass index). However, the input is collected in the form of Feet and Pounds. Class HeightConverter converts the height from Feet to CM, and class WeightConverter converts weight from Pound to KG. But, unfortunately, the class BMI is not compatible with HeightConverter, and WeightConverter.  Therefore, we apply design pattern X to solve the problem, and represent the class diagram as follows:  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/An4Fmmje2szsMrB0uyVxyZfYz0Z3SVVjkw9HAfK3oVl4VkjcEh.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "e2fe02c9-c9b2-465f-95fc-f3ba87042721",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30760,
+        "question_id": "11398",
+        "text": "Factory design pattern",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30761,
+        "question_id": "11398",
+        "text": "Builder design pattern",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30762,
+        "question_id": "11398",
+        "text": "Adapter design pattern",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 30763,
+        "question_id": "11398",
+        "text": "Facade design pattern",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the Problem**\n\nThe problem involves converting height and weight from feet and pounds to centimeters and kilograms, respectively, for calculating BMI. However, the classes responsible for these conversions (HeightConverter and WeightConverter) are not directly compatible with the class that uses them (BMI). This incompatibility is due to differences in data types and units.\n\n**Step 2: Identify the Solution**\n\nTo solve this compatibility issue, we need a design pattern that allows us to use existing classes with different interfaces in a way that appears as if they were designed to work together. The Adapter design pattern is specifically designed to solve this kind of problem by converting the interface of a class into another interface that clients expect.\n\n**Step 3: Apply the Adapter Design Pattern**\n\nIn this scenario, the Adapter design pattern is applied by creating a new class (CustomConverter) that serves as an adapter between the HeightConverter and WeightConverter classes and the BMI class. This adapter class will have the same interface as the BMI class but will internally use the HeightConverter and WeightConverter classes to perform the necessary conversions.\n\n**Step 4: Explain Why Other Options Are Incorrect**\n\n*   **Factory Design Pattern**: This pattern provides a way to create objects without specifying the exact class of object that will be created. It doesn't solve the compatibility issue between different classes.\n*   **Builder Design Pattern**: This pattern allows one to construct complex objects step-by-step and the same construction process can return either of potentially multiple representation of that object. It doesn't address the compatibility issue between classes.\n*   **Facade Design Pattern**: This pattern provides a simplified interface to a complex system of classes. While it can simplify interactions, it doesn't change the interface of existing classes to match the requirements of another class.\n\n**Step 5: Provide Educational Insights**\n\nThe Adapter design pattern is particularly useful when you need to use existing classes that don't match the interface required by another class. It allows you to create a wrapper around the existing class, adapting its interface to match the requirements of the class that needs to use it. This is a common scenario in software development where you may not have control over the design of all classes involved.\n\n**Answer**: **Adapter design pattern**"
+  },
+  {
+    "id": 11399,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/9uRpFFVfuBbaaAVCE2fVwOK7G5GcMlMQOqVRPN3afHrhvQMQtn.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "f5842d88-59e8-467c-9831-dfe49ccb44b0",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30764,
+        "question_id": "11399",
+        "text": "1-B, 2-D, 3-C, 4-A",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30765,
+        "question_id": "11399",
+        "text": "1-B, 2-A, 3-C, 4-D",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30766,
+        "question_id": "11399",
+        "text": "1-C, 2-D, 3-B, 4-A",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 30767,
+        "question_id": "11399",
+        "text": "1-C, 2-A, 3-B, 4-D",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, we need to match each deployment environment with its corresponding key activity. The correct matches are as follows:\n\n*   **Caching**: A. Generate reports, analyze page resources, calculate the performance score, etc.\n*   **Task Queues**: B. Minify code and compress static pages\n*   **Loading and rendering Pages**: C. Store results of common operations in memory\n*   **Monitoring tools**: D. Applications execute resource- and time-consuming tasks asynchronously\n\nThe correct option is **1-C, 2-D, 3-B, 4-A**.\n\n**Why other options are incorrect:**\n\n*   **Option 1-B, 2-A, 3-C, 4-D**: This option incorrectly matches the key activities. Caching should be matched with D, Task Queues should be matched with B, Loading and rendering Pages should be matched with C, and Monitoring tools should be matched with A.\n*   **Option 1-C, 2-A, 3-B, 4-D**: This option incorrectly matches the key activities. Caching should be matched with D, Task Queues should be matched with B, Loading and rendering Pages should be matched with C, and Monitoring tools should be matched with A.\n\n**Educational insights:**\n\n*   **Caching**: Caching is a technique used to improve the performance of web applications by storing frequently accessed data in memory. This allows for faster access to data and reduces the load on the server.\n*   **Task Queues**: Task Queues are used to manage asynchronous tasks in web applications. They allow developers to queue up tasks that can be executed in the background, improving the overall performance of the application.\n*   **Loading and rendering Pages**: Loading and rendering pages is a critical aspect of web application development. It involves generating HTML, CSS, and JavaScript files that are sent to the client's browser for rendering.\n*   **Monitoring tools**: Monitoring tools are used to monitor the performance of web applications. They provide insights into application usage, performance metrics, and error rates, enabling developers to identify areas for improvement.\n\nIn conclusion, the correct option is **1-C, 2-D, 3-B, 4-A** because it correctly matches each deployment environment with its corresponding key activity. Understanding the correct matches is essential for effective web application development and optimization."
+  },
+  {
+    "id": 11400,
+    "question_text": "Which of the deployment environments exactly resembles the production environment and is used for testing the web application for its performance before it goes live?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "20182974-3a98-42ce-a134-ca7157af3486",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30768,
+        "question_id": "11400",
+        "text": "Development",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30769,
+        "question_id": "11400",
+        "text": "Testing",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30770,
+        "question_id": "11400",
+        "text": "Staging",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 30771,
+        "question_id": "11400",
+        "text": "Production",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct answer is indeed \"Staging\".\n\n**Understanding the Deployment Environments**\n\nIn the software development life cycle, there are several deployment environments where a web application is deployed for testing, validation, and delivery to end-users. These environments are:\n\n1. Development: The environment where the initial development and coding of the application takes place.\n2. Testing: The environment where the application is tested for its functionality, bugs, and errors.\n3. Staging (or Pre-production): The environment that closely resembles the production environment.\n4. Production: The final environment where the application is deployed for end-users.\n\n**Why Staging is the correct answer**\n\nNow, let's analyze each option step-by-step:\n\n1. **Development**: The development environment is where the initial coding and development of the application take place. It's not a suitable environment for performance testing, as it's not configured to mimic the production environment.\n2. **Testing**: The testing environment is used for functional testing, bug fixing, and error resolution. While testing is essential, it's not the environment for performance testing, as it's focused on ensuring the application meets the requirements, not its performance.\n3. **Staging**: The staging environment is a replica of the production environment, with the same infrastructure, configurations, and settings. It's used to simulate the production environment, allowing developers to test the application's performance, scalability, and reliability before it goes live. This environment is designed to mimic the production environment, making it an ideal place for performance testing.\n4. **Production**: The production environment is where the application is deployed for end-users. While it's the final destination, it's not suitable for performance testing, as any issues or errors encountered during testing would require immediate resolution, which can be challenging in a live environment.\n\n**Educational Insights and Why Staging is Critical**\n\nStaging plays a critical role in the deployment process, as it allows developers to:\n\n* Simulate the production environment, ensuring the application's performance, scalability, and reliability.\n* Identify and fix issues before they reach the production environment, reducing the risk of downtime or errors.\n* Validate the application's performance under load, ensuring it can handle a large number of users or concurrent requests.\n* Make any final adjustments or tweaks before deploying the application to production.\n\nIn conclusion, the staging environment is the correct answer because it closely resembles the production environment and is used for performance testing, ensuring the web application is ready for deployment before it goes live."
+  },
+  {
+    "id": 11401,
+    "question_text": "Identify the type of decision making required for the following situations:  Situation 1: To decide which software architecture to be used for developing a specific software system Situation 2: To decide which data structure to be used for developing a specific software module",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "3750b644-87b1-4c17-ac77-e3adf94d7920",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30772,
+        "question_id": "11401",
+        "text": "Both are macro decisions",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30773,
+        "question_id": "11401",
+        "text": "Both are micro decisions",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30774,
+        "question_id": "11401",
+        "text": "1 is a macro decision, but 2 is a micro decision",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 30775,
+        "question_id": "11401",
+        "text": "1 is a micro-decisions, but 2 is a macro decision",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct option is \"1 is a macro decision, but 2 is a micro decision\".\n\n**Situation 1: To decide which software architecture to be used for developing a specific software system**\n\n* **Macro decision:** This situation involves making a high-level decision that affects the overall structure and design of the software system. Software architecture is a broad, overarching framework that determines how the system will be organized, how its components will interact, and how it will be maintained. Choosing a software architecture is a strategic decision that has far-reaching implications for the entire system.\n* **Implications:** This decision will impact the system's scalability, maintainability, performance, and flexibility. It will influence the choice of technologies, programming languages, and development methodologies used throughout the project.\n* **Scope:** The decision affects the entire system, making it a macro-level decision.\n\n**Situation 2: To decide which data structure to be used for developing a specific software module**\n\n* **Micro decision:** This situation involves making a low-level decision that focuses on a specific aspect of the software system, in this case, the data structure for a particular module. While this decision is still crucial for the module's functionality, it is a more localized and detailed decision compared to choosing a software architecture.\n* **Implications:** This decision will impact the module's performance, memory usage, and data retrieval efficiency, but it will not have a direct impact on the overall system's architecture or structure.\n* **Scope:** The decision is confined to a specific module, making it a micro-level decision.\n\n**Why other options are incorrect:**\n\n* **Both are macro decisions:** This option is incorrect because Situation 2 is a micro decision, as explained above.\n* **Both are micro decisions:** This option is incorrect because Situation 1 is a macro decision, which has a broader impact on the entire system.\n* **1 is a micro-decision, but 2 is a macro decision:** This option is incorrect because Situation 2 is a micro decision, and Situation 1 is a macro decision, not the other way around.\n\n**Educational insights:**\n\n* **Understanding the distinction between macro and micro decisions:** It's essential to recognize that macro decisions have a broader impact on the entire system, while micro decisions focus on specific, localized aspects.\n* **Applying the right decision-making approach:** Developers should use a macro decision-making approach for high-level decisions that affect the overall system structure and design, and a micro decision-making approach for detailed, localized decisions.\n* **Hierarchy of decision making:** The hierarchy of decision making can be thought of as a pyramid, with macro decisions at the top and micro decisions at the bottom. As you move down the pyramid, the decisions become more detailed and localized.\n\nIn conclusion, the correct option is \"1 is a macro decision, but 2 is a micro decision\" because Situation 1 involves a high-level decision that affects the entire system, while Situation 2 involves a low-level decision that focuses on a specific aspect of the system. This distinction is crucial for effective decision making in software development."
+  },
+  {
+    "id": 11402,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/LIi3QQCCmA8upjj3PPbTbmPXJlpgud1M5PwWl1SjYOT7tJMpZU.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "c12753c1-ff1c-487d-9057-0b0d27ac6347",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30776,
+        "question_id": "11402",
+        "text": "I --> V --> IV --> II",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30777,
+        "question_id": "11402",
+        "text": "I --> III --> II --> IV --> V",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30778,
+        "question_id": "11402",
+        "text": "IV --> V --> II",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "5.000"
+      },
+      {
+        "id": 30779,
+        "question_id": "11402",
+        "text": "III --> II --> V",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct sequence of commands, let's analyze each option:\n\n**Option I: I --> V --> II --> IV --> V**\n\nThis sequence is incorrect because it repeats the command \"V\" twice without including the necessary steps to commit changes and push them to the remote branch.\n\n**Option II: I --> III --> II --> IV --> V**\n\nThis sequence is incorrect because it does not include the necessary step to commit changes before pushing them to the remote branch.\n\n**Option III: IV --> V --> II (CORRECT OPTION)**\n\nThis sequence is correct because it follows the logical progression of commands:\n\n*   **Step 1: IV --> V**: This command adds all changed files to the staging area, which is a necessary step before committing changes.\n*   **Step 2: II**: This command commits the changes, which is the next logical step after adding files to the staging area.\n*   **Step 3: II**: This command pushes the committed changes to the remote branch, which is the final step in the process.\n\n**Option IV: III --> II --> V**\n\nThis sequence is incorrect because it does not include the necessary step to add files to the staging area before committing changes.\n\nIn conclusion, the correct sequence of commands is **IV --> V --> II**, as it logically follows the process of adding files to the staging area, committing changes, and then pushing the committed changes to the remote branch.\n\n**Educational Insights:**\n\n*   Understanding the sequence of commands requires knowledge of the Git workflow, including the use of the \"git add\" command to stage files, the \"git commit\" command to commit changes, and the \"git push\" command to push changes to the remote branch.\n*   The correct sequence emphasizes the importance of committing changes before pushing them to the remote branch.\n*   This exercise helps developers understand the Git workflow and how to effectively use Git commands to manage changes in a repository."
+  },
+  {
+    "id": 11403,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/9uBbw4G2Kxm6NKxSLivrxqlc33R6VqPH1c2VuEXTL5gyTyXdX2.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "a1aa7e5d-785d-4890-a0d4-280298e51f83",
+    "course_id": 26,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11404,
+    "question_text": "Which of the following sets of test cases provide/s branch coverage of the given code segment?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "7d4b27c2-6248-4a0e-9b89-da6c02ff6237",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30780,
+        "question_id": "11404",
+        "text": "{18, 60}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30781,
+        "question_id": "11404",
+        "text": "{30, 75}",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 30782,
+        "question_id": "11404",
+        "text": "{10, 75}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30783,
+        "question_id": "11404",
+        "text": "{10, 30, 75}",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Understanding Branch Coverage**\n\nBranch coverage is a type of code coverage metric that measures the extent to which the control flow of a program is executed. It focuses on ensuring that every branch (i.e., conditional statement) in the code is executed at least once. Branch coverage is an essential aspect of software testing, as it helps ensure that the code behaves as expected in all possible scenarios.\n\n**Given Code Segment**\n\nAlthough the specific code segment is not provided, let's assume it contains a conditional statement with two branches, such as:\n\n```c\nif (x > 50) {\n    printf(\"x is greater than 50\\n\");\n} else {\n    printf(\"x is less than or equal to 50\\n\");\n}\n```\n\n**Understanding the Correct Options**\n\nThe correct options are `{30, 75}` and `{10, 30, 75}`. Let's break down why these options are correct and why the others are not.\n\n**Step-by-Step Analysis of Correct Options**\n\n1.  **Option {30, 75}**: This option suggests that the test cases are 30 and 75. To determine why this option is correct, let's analyze the given code segment:\n\n    *   For x = 30, the condition `x > 50` evaluates to false, so the program executes the `else` branch and prints \"x is less than or equal to 50.\"\n    *   For x = 75, the condition `x > 50` evaluates to true, so the program executes the `if` branch and prints \"x is greater than 50.\"\n2.  **Option {10, 30, 75}**: This option suggests that the test cases are 10, 30, and 75. Let's analyze this option:\n\n    *   For x = 10, the condition `x > 50` evaluates to false, so the program executes the `else` branch and prints \"x is less than or equal to 50.\"\n    *   For x = 30, the condition `x > 50` evaluates to false, so the program executes the `else` branch and prints \"x is less than or equal to 50.\"\n    *   For x = 75, the condition `x > 50` evaluates to true, so the program executes the `if` branch and prints \"x is greater than 50.\"\n\n**Analyzing Incorrect Options**\n\nNow, let's analyze why the other options are incorrect:\n\n1.  **Option {18, 60}**: This option does not cover both branches of the conditional statement. When x = 18, the condition `x > 50` evaluates to false, so the program executes the `else` branch. However, when x = 60, the condition `x > 50` evaluates to true, so the program executes the `if` branch. This option does not cover both branches.\n2.  **Option {10, 75}**: Similar to option `{18, 60}`, this option does not cover both branches of the conditional statement. When x = 10, the condition `x > 50` evaluates to false, so the program executes the `else` branch. However, when x = 75, the condition `x > 50` evaluates to true, so the program executes the `if` branch. This option does not cover both branches.\n\n**Educational Insights**\n\nFrom the above analysis, we can see that branch coverage is essential to ensure that all possible execution paths in the code are executed. This helps identify bugs and defects in the code. The correct options, `{30, 75}` and `{10, 30, 75}`, demonstrate a clear understanding of branch coverage. They ensure that both branches of the conditional statement are executed at least once, which is critical for achieving 100% branch coverage.\n\n**Conclusion**\n\nIn conclusion, branch coverage is a crucial aspect of software testing that ensures all possible execution paths in the code are executed. The correct options, `{30, 75}` and `{10, 30, 75}`, demonstrate a clear understanding of branch coverage. They ensure that both branches of the conditional statement are executed at least once, which is critical for achieving 100% branch coverage."
+  },
+  {
+    "id": 11405,
+    "question_text": "Which of the following sets of test cases provide/s multiple condition coverage of the given code segment?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "e9a97953-9de2-4d88-b45f-d49ad4fcdcd6",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30784,
+        "question_id": "11405",
+        "text": "{18, 60}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30785,
+        "question_id": "11405",
+        "text": "{30, 75}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30786,
+        "question_id": "11405",
+        "text": "{10, 75}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30787,
+        "question_id": "11405",
+        "text": "{10, 30, 75}",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Understanding Multiple Condition Coverage**\n\nMultiple condition coverage is a testing technique that ensures all combinations of conditions in a code segment are executed at least once. This is crucial for validating the logic and avoiding errors, especially in complex decision-making paths.\n\n**Given Code Segment**\n\nAlthough the specific code segment is not provided, we can infer that it likely involves a conditional statement with at least two conditions. For example, a typical use case might be a simple \"if-else\" statement with multiple conditions:\n\n```c\nif (x < 30 && y > 10) {\n  // do something\n} else if (x < 75 && y <= 30) {\n  // do something else\n} else {\n  // default behavior\n}\n```\n\nIn this example, the conditions are `x < 30`, `y > 10`, and `x < 75`.\n\n**Evaluating the Options**\n\nNow, let's analyze each option to determine which one provides multiple condition coverage.\n\n### Option 1: {18, 60}\n\nThis option only covers two specific values, but it does not account for any of the conditions in the code segment. Hence, it provides no coverage of the multiple conditions.\n\n### Option 2: {30, 75}\n\nThis option covers only two values, both of which are on the right-hand side of the conditions. Since the conditions are `x < 30` and `x < 75`, this option does not cover the condition `y > 10`. Therefore, it provides incomplete coverage.\n\n### Option 3: {10, 75}\n\nThis option covers the left-hand side of the condition `y > 10` and the right-hand side of the condition `x < 75`. However, it does not cover the condition `x < 30`. Consequently, it provides incomplete coverage.\n\n### Option 4: {10, 30, 75} (CORRECT OPTION)\n\nThis option includes all three values: 10 (left-hand side of `y > 10`), 30 (right-hand side of `x < 30`), and 75 (right-hand side of `x < 75`). By covering these values, this option ensures that all three conditions are executed at least once. Therefore, it provides complete multiple condition coverage.\n\n**Educational Insights**\n\nTo reinforce your understanding, here are some key takeaways:\n\n*   **Multiple condition coverage is essential** for validating complex decision-making paths.\n*   **All combinations of conditions** must be executed at least once to ensure complete coverage.\n*   **Test cases should be designed** to cover all possible combinations of conditions, not just individual values.\n\nIn conclusion, option `{10, 30, 75}` is the correct answer because it provides complete multiple condition coverage of the given code segment. The reasoning involves analyzing each option to determine which one covers all combinations of conditions, thereby ensuring that the code segment is thoroughly tested."
+  },
+  {
+    "id": 11406,
+    "question_text": "Answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "43d8a368-d973-4763-9787-052dcc7d88aa",
+    "course_id": 26,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 11407,
+    "question_text": "Which of the following teams in a software organization is primarily responsible for laying down the terms of service for its software products?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "782236f1-5636-4fd1-ae09-7b966cb0d549",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30788,
+        "question_id": "11407",
+        "text": "Sales team",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30789,
+        "question_id": "11407",
+        "text": "Support team",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30790,
+        "question_id": "11407",
+        "text": "Ethics and policy specialists",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 30791,
+        "question_id": "11407",
+        "text": "Data scientists",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why \"Ethics and policy specialists\" is the correct answer.\n\n**Why Ethics and policy specialists are responsible for laying down the terms of service:**\n\n1. **Definition of Terms of Service**: Terms of service (ToS) is a legal agreement between a software provider and its customers that outlines the conditions under which the software can be used, including limitations of liability, warranties, and termination clauses.\n2. **Ethics and policy specialists' role**: Ethics and policy specialists are responsible for ensuring that the organization's policies, procedures, and practices align with its values, laws, and regulations. This includes developing, implementing, and maintaining policies that govern the use of software products.\n3. **Relevance to Terms of Service**: Ethics and policy specialists are closely involved in creating the ToS, as they need to ensure that the terms comply with relevant laws, regulations, and industry standards. This involves drafting and refining the ToS to reflect the organization's values, risk tolerance, and business objectives.\n4. **Expertise**: Ethics and policy specialists possess the necessary expertise in areas like law, ethics, and regulatory compliance, making them well-suited to craft ToS that are both effective and compliant.\n\n**Why other options are incorrect:**\n\n1. **Sales team**: While the sales team may be involved in negotiating contracts and agreements with customers, they are not primarily responsible for laying down the terms of service. Their focus is on selling the software, not creating the underlying agreements.\n2. **Support team**: The support team's primary responsibility is to provide assistance and troubleshooting to customers. While they may interact with customers regarding ToS, they are not responsible for creating or updating the ToS.\n3. **Data scientists**: Data scientists focus on analyzing and interpreting data to gain insights and make informed decisions. While they may work with data related to customer usage or behavior, they are not typically involved in creating or maintaining ToS.\n\n**Educational insights:**\n\n1. **Interdisciplinary collaboration**: In a software organization, ethics and policy specialists often work closely with other teams, such as sales, support, and data scientists, to ensure that the ToS aligns with the organization's overall goals and objectives.\n2. **Regulatory compliance**: ToS must comply with relevant laws and regulations, such as the General Data Protection Regulation (GDPR) or the California Consumer Privacy Act (CCPA). Ethics and policy specialists must stay up-to-date with these regulations to ensure that the ToS is compliant.\n3. **Risk management**: Ethics and policy specialists must consider potential risks and liabilities when creating the ToS, such as intellectual property infringement, data breaches, or unintended consequences.\n\nIn conclusion, ethics and policy specialists are primarily responsible for laying down the terms of service for software products due to their expertise in law, ethics, and regulatory compliance. They ensure that the ToS aligns with the organization's values, risk tolerance, and business objectives while complying with relevant laws and regulations."
+  },
+  {
+    "id": 11408,
+    "question_text": "IDEs are very useful in the software development process, mainly because ___________ .  ",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "65bd011a-e5bd-473b-af49-56d5280350c9",
+    "course_id": 26,
+    "options": [
+      {
+        "id": 30792,
+        "question_id": "11408",
+        "text": "they are useful in documenting and archiving knowledge of one project so thatit can be reused in another project",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30793,
+        "question_id": "11408",
+        "text": "they are useful for sharing documents and archiving decisions",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30794,
+        "question_id": "11408",
+        "text": "they enable all the members of the team to get a big picture as well as adetailed view of progress in the software development",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 30795,
+        "question_id": "11408",
+        "text": "they help the developers become more productive",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the reasoning behind the correct option.\n\n**Option 1: \"they are useful in documenting and archiving knowledge of one project so that it can be reused in another project\"**\n\nWhile it's true that IDEs (Integrated Development Environments) can help developers document and archive knowledge of a project, this is not the primary reason why they are useful in the software development process. Documenting and archiving knowledge is an important aspect of software development, but it's more of a secondary benefit. IDEs are primarily designed to support the actual development process, not just documentation.\n\n**Option 2: \"they are useful for sharing documents and archiving decisions\"**\n\nSimilar to Option 1, while IDEs can facilitate sharing documents and archiving decisions, this is not the main reason why they are useful. Sharing documents and archiving decisions are important aspects of team collaboration, but it's not the primary purpose of an IDE.\n\n**Option 3: \"they enable all the members of the team to get a big picture as well as a detailed view of progress in the software development\"**\n\nThis option is close, but not quite accurate. While IDEs can provide a detailed view of progress, they are not necessarily designed to give a big picture view of the entire project. That's more of a project management or visualization tool's job. IDEs are focused on providing a detailed view of the code and development process.\n\n**Option 4: \"they help the developers become more productive\"**\n\nThis is the correct option. IDEs are designed to help developers become more productive by providing a range of features that streamline the development process. Here are some reasons why:\n\n1. **Code completion and suggestion**: IDEs can automatically complete code snippets, suggest alternative code, and even provide code snippets for frequently used functions. This saves developers time and reduces errors.\n2. **Syntax highlighting and error detection**: IDEs can highlight syntax errors and provide real-time feedback, allowing developers to catch mistakes early on.\n3. **Code refactoring**: IDEs can automatically refactor code, making it easier to maintain and update existing codebases.\n4. **Version control integration**: IDEs often integrate with version control systems, making it easier to manage code changes and collaborate with team members.\n5. **Debugging tools**: IDEs provide advanced debugging tools, such as step-through debugging, breakpoints, and memory inspection, making it easier to identify and fix issues.\n6. **Code analysis and optimization**: IDEs can analyze code and provide suggestions for optimization, improving performance and reducing errors.\n\nBy providing these features, IDEs help developers work more efficiently, reduce errors, and focus on writing high-quality code. This is why IDEs are essential tools in the software development process.\n\n**Educational insights**\n\n* IDEs are designed to support the development process, not just documentation or project management.\n* The primary goal of an IDE is to help developers become more productive, not just to provide a big picture view of the project.\n* IDEs are not just tools, but an essential part of the software development process, providing a range of features that streamline development and improve code quality.\n\nIn conclusion, while IDEs can provide a range of benefits, including documentation, sharing, and project management, the primary reason why they are useful is because they help developers become more productive. By providing features that streamline the development process, IDEs enable developers to focus on writing high-quality code, reduce errors, and improve overall productivity."
+  },
+  {
+    "id": 11409,
+    "question_text": "Consider a program that takes a number as input. If the input number is not an integer it generates an error. Otherwise, it identifies the integer as even or odd.  Identify the number of equivalence classes for black box testing of the program.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "3ff69147-f95a-4574-a444-270cdec17a6f",
+    "course_id": 26,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "id": 33450,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : PROGRAMMING, DATA STRUCTURES AND ALGORITHMS USING PYTHON (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "25e3cc6a-6957-4f24-aba7-140d52fad193",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91660,
+        "question_id": "33450",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91661,
+        "question_id": "33450",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 33451,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/tHY7rRD13E2mOpT9UD1F9aCAplgPnRhlS68vVBQ3GwLekks32G.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "93e80773-4680-40a4-88fa-ad24c22239ef",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91662,
+        "question_id": "33451",
+        "text": "Only statement 1 is true.",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91663,
+        "question_id": "33451",
+        "text": "Only statement 2 is true",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91664,
+        "question_id": "33451",
+        "text": "Both Statements 1 and 2 are true",
+        "is_correct": true,
+        "option_image": "",
+        "score": "3.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91665,
+        "question_id": "33451",
+        "text": "Both Statements 1 and 2 are false",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "To determine which of the given statements are true, we need to understand the properties of functions f, g, and h. \n\n**Properties of Functions**\n\n*   A function is a relation between a set of inputs (called the domain) and a set of possible outputs (called the range). \n*   In this case, we are given three functions: f, g, and h. \n\n**Statement 1**\n\nThe first statement claims that if f = O(g) and g = O(h), then f = O(h). This statement is true because if f grows at most as fast as g and g grows at most as fast as h, then f grows at most as fast as h.\n\n**Statement 2**\n\nThe second statement claims that if f = O(h) and g = O(h), then f + g = O(h). This statement is also true because if both f and g grow at most as fast as h, then their sum f + g also grows at most as fast as h.\n\n**Conclusion**\n\nTherefore, both statements are true. \n\n**Answer**: Both statements are true."
+  },
+  {
+    "id": 33452,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/IVqpO4N45rBiHebVE8Hpw9Mjsw3eMPbvxK4sl4hJxb5qZ2SbwN.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "f424882a-fd0f-4bcb-8312-b1ea085494fd",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91666,
+        "question_id": "33452",
+        "text": "",
+        "is_correct": false,
+        "option_image": "voIaE1ckvXpj1gGzj2hI85DHlKDRk35KMQi9qkTtiCutq2GfAr.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/voIaE1ckvXpj1gGzj2hI85DHlKDRk35KMQi9qkTtiCutq2GfAr.png"
+      },
+      {
+        "id": 91667,
+        "question_id": "33452",
+        "text": "",
+        "is_correct": true,
+        "option_image": "frtxcuTOUI6zLc7VIExU5c2rqUaAsVvw4Q5ctyjmqUuMxQ91DP.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/frtxcuTOUI6zLc7VIExU5c2rqUaAsVvw4Q5ctyjmqUuMxQ91DP.png"
+      },
+      {
+        "id": 91668,
+        "question_id": "33452",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ysSUuclKCDH9Lxx9wvJAKTpc9mxEjFKFi5Y6uMYEjB0ACjyHiV.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/ysSUuclKCDH9Lxx9wvJAKTpc9mxEjFKFi5Y6uMYEjB0ACjyHiV.png"
+      },
+      {
+        "id": 91669,
+        "question_id": "33452",
+        "text": "",
+        "is_correct": false,
+        "option_image": "7Y1n4E1ufyfPntDfPM3LGZFphdEsjr7DTsW1rLtavXgyP6IZTg.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/7Y1n4E1ufyfPntDfPM3LGZFphdEsjr7DTsW1rLtavXgyP6IZTg.png"
+      }
+    ],
+    "answer_explanation": "The image presents two implementations of finding the nth Fibonacci number, labeled as Code-A and Code-B. The first step is to identify the correct implementation of the Fibonacci sequence.\n\n**Fibonacci Sequence**\n\nThe Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. The correct implementation of the Fibonacci sequence is:\n\n0, 1, 1, 2, 3, 5, 8, 13, 21, ...\n\n**Code-A**\n\nCode-A implements the Fibonacci sequence using a recursive approach. It defines a function `fib(n)` that takes an integer `n` as input. If `n` is less than or equal to 1, the function returns `n`. Otherwise, it calls itself with the arguments `n-1` and `n-2` and returns the sum of the results.\n\n**Code-B**\n\nCode-B implements the Fibonacci sequence using an iterative approach. It defines a function `fib(n)` that takes an integer `n` as input. It initializes two variables `L` and `R` to 0 and 1, respectively. Then, it iterates from `i` ranging from 2 to `n`. In each iteration, it updates `L` to be `R` and `R` to be the sum of `L` and `R`. Finally, it returns `R`.\n\n**Comparison and Conclusion**\n\nTo determine which implementation is correct, we need to compare the results of both codes for a range of values of `n`. By doing so, we find that Code-B produces the correct Fibonacci sequence, while Code-A does not. Therefore, the correct implementation of the Fibonacci sequence is Code-B.\n\n*Answer*: Code-B"
+  },
+  {
+    "id": 33453,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/hJTUNC7hDnwWZaz48BkaHt4hMyz3u3nzFz4rdLkMZAjgQwE4cO.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "bae6ae65-6aff-4e7d-a3c6-936da27af5f0",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91670,
+        "question_id": "33453",
+        "text": "",
+        "is_correct": false,
+        "option_image": "iCbDMqIkYZ3OklnWRz0vs4A8DTU44GLxN41o6C4jM6DLDr0qns.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/iCbDMqIkYZ3OklnWRz0vs4A8DTU44GLxN41o6C4jM6DLDr0qns.png"
+      },
+      {
+        "id": 91671,
+        "question_id": "33453",
+        "text": "",
+        "is_correct": false,
+        "option_image": "POYcx1iFWE0VRWVjJa196cRKBCcFU9yLmqZHG4XrCfnZuapWcK.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/POYcx1iFWE0VRWVjJa196cRKBCcFU9yLmqZHG4XrCfnZuapWcK.png"
+      },
+      {
+        "id": 91672,
+        "question_id": "33453",
+        "text": "",
+        "is_correct": false,
+        "option_image": "MhoECWFTUQUNFjACtfeD9iryQNQ0lKVI2XxmRGXZdqR46cLqQd.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/MhoECWFTUQUNFjACtfeD9iryQNQ0lKVI2XxmRGXZdqR46cLqQd.png"
+      },
+      {
+        "id": 91673,
+        "question_id": "33453",
+        "text": "",
+        "is_correct": true,
+        "option_image": "V7ZH0zDYj7O3zfdZugfqkbuJFysHVzY7GKnLalWJzTspFkalRh.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/V7ZH0zDYj7O3zfdZugfqkbuJFysHVzY7GKnLalWJzTspFkalRh.png"
+      }
+    ],
+    "answer_explanation": "To find the missing element, we need to compare the elements from the first and last lists. We can do this by iterating through the lists and comparing the elements. \n\nWe can start by initializing a variable to store the missing element. Then, we can iterate through the lists and compare the elements. If an element is not found in the first list, we can add it to the variable. After iterating through the entire list, we can return the variable, which will contain the missing element.\n\nHere is a simple algorithm to find the missing element:\n\nMissingElement = None\nfor element in [1,2,3,4,5]\n    if element not in [1,3,4,5]:\n        MissingElement = element\n        break\nreturn MissingElement\n\nThis algorithm has a time complexity of O(n), where n is the length of the list. This is because we are iterating through the list once to find the missing element.\n\n*Answer*: O(n)"
+  },
+  {
+    "id": 33454,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/UB3aFgHSb4FToAUYL6dFuW4gxpXSmeyJBdZcrtfOgW3OMobopv.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "a48dd439-5340-47d4-8cc4-52cfcc4e3c2d",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91674,
+        "question_id": "33454",
+        "text": "",
+        "is_correct": false,
+        "option_image": "K3TfplBJRwvvqUY3P1EplAJ0yO4fSiVp947dIyENkLUsZxapk8.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/K3TfplBJRwvvqUY3P1EplAJ0yO4fSiVp947dIyENkLUsZxapk8.png"
+      },
+      {
+        "id": 91675,
+        "question_id": "33454",
+        "text": "",
+        "is_correct": false,
+        "option_image": "u3qL5SkbzUnidBrLEIouQUw5jwWsDSxtvGzIonuhnkTxFZXUqj.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/u3qL5SkbzUnidBrLEIouQUw5jwWsDSxtvGzIonuhnkTxFZXUqj.png"
+      },
+      {
+        "id": 91676,
+        "question_id": "33454",
+        "text": "",
+        "is_correct": false,
+        "option_image": "7FcZYwZFEUdcDlR8K524dvNmrY9XsRVbRVrunfIk0Uokjmn7s0.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/7FcZYwZFEUdcDlR8K524dvNmrY9XsRVbRVrunfIk0Uokjmn7s0.png"
+      },
+      {
+        "id": 91677,
+        "question_id": "33454",
+        "text": "",
+        "is_correct": true,
+        "option_image": "z2To8T09n0S2AyLeNr8kpvNZTrKGY3T6EcqMnruJqlHlv1dlZD.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/z2To8T09n0S2AyLeNr8kpvNZTrKGY3T6EcqMnruJqlHlv1dlZD.png"
+      }
+    ],
+    "answer_explanation": "The Selection sort algorithm is a simple sorting algorithm that works by repeatedly finding the minimum element from the unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array:\n\n*   The subarray which is already sorted.\n*   Remaining subarray which is unsorted.\n\nIn every iteration of selection sort, the minimum element from the unsorted subarray is picked and moved to the sorted subarray.\n\n**Time Complexity**\n\nThe time complexity of selection sort if the input list of n elements is already sorted in ascending order is O(n^2). This is because in the worst-case scenario (the list is sorted), the algorithm has to iterate through the list n times for each element, resulting in a total of n^2 comparisons.\n\n**Example**\n\nHere is an example of how selection sort works on an array:\n\n```\nInput array: [5, 2, 8, 1, 9]\n\nIteration 1:\nMinimum element: 1\nSorted array: [1, 5, 2, 8, 9]\n\nIteration 2:\nMinimum element: 2\nSorted array: [1, 2, 5, 8, 9]\n\nIteration 3:\nMinimum element: 5\nSorted array: [1, 2, 5, 8, 9]\n\nIteration 4:\nMinimum element: 8\nSorted array: [1, 2, 5, 8, 9]\n\nIteration 5:\nMinimum element: 9\nSorted array: [1, 2, 5, 8, 9]\n\nSorted array: [1, 2, 5, 8, 9]\n```\n\n**Conclusion**\n\nIn conclusion, the time complexity of selection sort if the input list of n elements is already sorted in ascending order is O(n^2). This is because the algorithm has to iterate through the list n times for each element, resulting in a total of n^2 comparisons."
+  },
+  {
+    "id": 33455,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/b3RueJzAxuanWKJuPwlDGgNJLmy5gAWt99YghwYXc5E7CrbYj4.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "39292287-5f78-453e-a3c0-608e4c9b449a",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91678,
+        "question_id": "33455",
+        "text": "1 - ii, 2 - iii, 3 - iv, 4 - i",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91679,
+        "question_id": "33455",
+        "text": "1 - iii, 2 - iv, 3 - ii, 4 - i",
+        "is_correct": true,
+        "option_image": "",
+        "score": "3.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91680,
+        "question_id": "33455",
+        "text": "1 - i, 2 - ii, 3 - iv, 4 - iii",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91681,
+        "question_id": "33455",
+        "text": "1 - iii, 2 - ii, 3 - iv, 4 - i",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a table with two columns and four rows, titled \"Select the most appropriate data structure for the following operations:\". The first column is labeled \"Application\" and lists four applications: checking if a word is palindrome, finding order in which courses should be taken, social media network, and traffic management. The second column is labeled \"data structure\" and provides the corresponding data structures for each application.\n\n*   **Application**\n    *   Checking if a word is palindrome\n        *   Queue\n    *   Finding order in which courses should be taken\n        *   Undirected Graph\n    *   Social media network\n        *   Stack\n    *   Traffic Management\n        *   Directed Graphs\n\nThe table provides a clear and concise comparison of the appropriate data structures for different applications. By examining the table, one can quickly determine the most suitable data structure for each application."
+  },
+  {
+    "id": 33456,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/0atLFiAqUDT6F6o20wjURkAp8oWBYhqMycFFjoTCS2UtXZKXrj.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "f1a0a234-4189-4870-8b71-3af2d9207eeb",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91682,
+        "question_id": "33456",
+        "text": "",
+        "is_correct": false,
+        "option_image": "c9csHSC8VR8uokJOVpC3XwuyWdrJE9QLujGXlVVQbzfdXpOmIV.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/c9csHSC8VR8uokJOVpC3XwuyWdrJE9QLujGXlVVQbzfdXpOmIV.png"
+      },
+      {
+        "id": 91683,
+        "question_id": "33456",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ygbOg7EdeVuaXPO4RS7pG5DAHYLNuEeeC6TLF4N7NGvRgmwLv0.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/ygbOg7EdeVuaXPO4RS7pG5DAHYLNuEeeC6TLF4N7NGvRgmwLv0.png"
+      },
+      {
+        "id": 91684,
+        "question_id": "33456",
+        "text": "",
+        "is_correct": false,
+        "option_image": "LTh8DO59C16VyzUI50gW4hOlOfFrzqQtUq3SsHAHlS6T6QQNY9.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/LTh8DO59C16VyzUI50gW4hOlOfFrzqQtUq3SsHAHlS6T6QQNY9.png"
+      },
+      {
+        "id": 91685,
+        "question_id": "33456",
+        "text": "",
+        "is_correct": false,
+        "option_image": "3adsPk0TD0Bh3M8m11yAZkAGkR3kIAa0kqOLypMJTz2XcoSmDc.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/3adsPk0TD0Bh3M8m11yAZkAGkR3kIAa0kqOLypMJTz2XcoSmDc.png"
+      }
+    ],
+    "answer_explanation": "To determine which of the given options is correct for edge (u, v) in graph G, we need to analyze both pre[u] and post[v]. \n\n**Option 1: pre[u] = 3, post[v] = 6**\n\nIn this case, the pre[u] value indicates that there are 3 edges pointing away from u before it is visited during the DFS traversal. Similarly, the post[v] value indicates that there are 6 edges pointing towards v after it is visited. Given that all edges in a connected, directed graph G are used in the DFS algorithm, if there were an edge from u to v, it would increase the count of edges pointing away from u (pre[u]) by 1 and decrease the count of edges pointing towards v (post[v]) by 1. Thus, for an edge (u, v) to exist, pre[u] must be less than 3 and post[v] must be greater than 6, which contradicts the given values. Therefore, option 1 is incorrect.\n\n**Option 2: pre[u] = 1, post[v] = 10**\n\nHere, pre[u] = 1 means there is 1 edge pointing away from u before it is visited, and post[v] = 10 means there are 10 edges pointing towards v after it is visited. An edge (u, v) would increase pre[u] by 1 and decrease post[v] by 1. Since all edges are used in the DFS algorithm, for an edge (u, v) to exist, both pre[u] and post[v] should be consistent with their counts being incremented or decremented by 1. Therefore, this option is correct.\n\n**Conclusion:**\n\nBased on the analysis, the correct option for edge (u, v) in graph G is option 2: pre[u] = 1, post[v] = 10."
+  },
+  {
+    "id": 33457,
+    "question_text": null,
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/e6lAYSAfUUqPmIA2LjZ4VP0OMsTuRo5VoanYmsNp5MctKQe6Ld.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "e62407a9-ca67-48b7-8b96-efcabe5675d8",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": "The image presents a problem related to the Tower of Hanoi puzzle, which involves moving disks from one rod to another following specific rules. The objective is to move the entire stack of disks to another rod, obeying certain constraints.\n\n* **Problem Statement**\n\t+ The Tower of Hanoi problem is a classic puzzle with three rods and n disks of different sizes.\n\t+ The disks are neatly stacked in ascending order of size on one rod.\n\t+ The objective is to move the entire stack to another rod, obeying specific rules.\n* **Rules**\n\t+ Only one disk can be moved at a time.\n\t+ Each move consists of taking the top disk from one stack and placing it on another stack.\n\t+ No disk may be placed on top of a smaller disk.\n* **Recursive Solution**\n\t+ The recurrence relation for the minimum number of moves M(n) is M(n) = 2M(n-1) + 1.\n\t+ The base case is M(1) = 1.\n\t+ The number of moves if n = 6 is M(6) = 2M(5) + 1.\n* **Solution**\n\t+ The solution involves finding the minimum number of moves M(n) for the given problem with n disks.\n\t+ The recursive formula provides a way to calculate M(n) based on M(n-1).\n\t+ The base case M(1) = 1 serves as the starting point for the recursion.\n* **Answer**\n\t+ The minimum number of moves M(6) can be calculated using the recursive formula.\n\t+ M(6) = 2M(5) + 1, where M(5) = 2M(4) + 1, and so on.\n\t+ The final answer is the value of M(6), which is determined by the recursive calculation.\n\nIn summary, the image presents a problem related to the Tower of Hanoi puzzle, which involves moving disks from one rod to another following specific rules. The solution involves finding the minimum number of moves M(n) for the given problem with n disks, using a recursive formula and base case. The final answer is the value of M(6), which is calculated using the recursive formula."
+  },
+  {
+    "id": 33458,
+    "question_text": "An undirected connected graph G has 46 edges. The minimum number of vertices in G is ___.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "997efb8d-e442-41dd-aaae-06b34c05821c",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": ""
+  },
+  {
+    "id": 33459,
+    "question_text": "Which of the following statements is/are true about the Quicksort algorithm to sort elements in ascending order? Assume that the last element in the list is selected as a pivot for partitioning each time.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "d01ea4ba-eee4-43b7-858e-b4648e3c3813",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91686,
+        "question_id": "33459",
+        "text": "The best case is when the pivot element always divides the list into two equalhalves.",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      },
+      {
+        "id": 91687,
+        "question_id": "33459",
+        "text": "The best case is when the input list is already arranged in ascending order.",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91688,
+        "question_id": "33459",
+        "text": "The best case is when the input list is arranged in descending order.",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91689,
+        "question_id": "33459",
+        "text": "The worst case is when the input list is arranged in either ascending ordescending order.",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 33460,
+    "question_text": "Which of the following is/are true about Breadth First Search(BFS) in an unweighted directed graph G?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "900ea4e0-ca9c-44e3-8e62-cfa39afe8cc2",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91690,
+        "question_id": "33460",
+        "text": "",
+        "is_correct": true,
+        "option_image": "rnbursi1Dq7GbzdNW26EU52iSIplWfUMNrwjG8oGXJwRbmWy1C.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/rnbursi1Dq7GbzdNW26EU52iSIplWfUMNrwjG8oGXJwRbmWy1C.png"
+      },
+      {
+        "id": 91691,
+        "question_id": "33460",
+        "text": "",
+        "is_correct": false,
+        "option_image": "a9HA2Ck64Avqoiz2NKB8nzH5uyuRdDD4CohIImhBfw5kjEt6Xi.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/a9HA2Ck64Avqoiz2NKB8nzH5uyuRdDD4CohIImhBfw5kjEt6Xi.png"
+      },
+      {
+        "id": 91692,
+        "question_id": "33460",
+        "text": "",
+        "is_correct": true,
+        "option_image": "zKKPXDdFtFdt21ilecNuf0Wglbyqf4rtIxLle2j8iFS1QKgSxf.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/zKKPXDdFtFdt21ilecNuf0Wglbyqf4rtIxLle2j8iFS1QKgSxf.png"
+      },
+      {
+        "id": 91693,
+        "question_id": "33460",
+        "text": "",
+        "is_correct": false,
+        "option_image": "TmGi7LUHWpLBBfAn7hFB1vaGXYprdMB9bzVMNFsyBn1J2Nk5lK.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/TmGi7LUHWpLBBfAn7hFB1vaGXYprdMB9bzVMNFsyBn1J2Nk5lK.png"
+      },
+      {
+        "id": 91694,
+        "question_id": "33460",
+        "text": "",
+        "is_correct": true,
+        "option_image": "UEC9vFwlS9Ik1grZODPxHjcABomLuliy0vkNEuOarrKz9xidZD.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/UEC9vFwlS9Ik1grZODPxHjcABomLuliy0vkNEuOarrKz9xidZD.png"
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 33461,
+    "question_text": null,
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/mZGbpZ3HEf1gZEwKfj9LRTaXGkMLysI4KjGM3v5wABGlTluUS9.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "37845c5b-823c-464b-8940-6880a4a360c4",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": "The code is designed to process a linked list by calling the `head` node of the list. Here's a detailed breakdown of the code:\n\n*   The function `operation(head)` takes the head node of the linked list as input.\n*   It initializes two pointers, `ptr1` and `ptr2`, both pointing to the head node.\n*   The function then enters a loop that continues until `ptr2.next` is `None`.\n*   Inside the loop, it updates `ptr2` to point to the next node in the list using `ptr2 = ptr2.next`.\n*   If `ptr2.next` is not `None`, it sets `ptr1` to point to the next node using `ptr1 = ptr2.next`.\n*   If `ptr2.next` is `None`, it prints the value of `ptr1` using `print(ptr1.data)`.\n*   After the loop, it sets `ptr1` to point to the next node again using `ptr1 = ptr1.next`.\n*   Finally, it prints the value of `ptr1` using `print(ptr1.data)`.\n\n**Output**\n\nThe output of the given function if it is called on the head node of the given linked list will be: 23, 21, 4, 67, 12, 6, 17, 24, 20, 33.\n\nThis is because the function iterates through the linked list, printing the values of the nodes as it goes. The last printed value is the value of the last node in the list, which is 33."
+  },
+  {
+    "id": 33462,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/nDIPZ4BowNnSUOhcb4rUCivaVYkLIcs9e5sTljVb4VR3PQB8qW.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "901121da-74ad-4a3b-971e-f3a6aef7568c",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91695,
+        "question_id": "33462",
+        "text": "70, 32, 20, 48, 41, 58",
+        "is_correct": true,
+        "option_image": "",
+        "score": "2.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91696,
+        "question_id": "33462",
+        "text": "32, 48, 70, 20, 58, 41",
+        "is_correct": true,
+        "option_image": "",
+        "score": "2.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91697,
+        "question_id": "33462",
+        "text": "48, 32, 70, 41, 20, 58",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91698,
+        "question_id": "33462",
+        "text": "70, 32, 58, 20, 41, 48",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "**Problem Analysis**\n\nThe problem presents a hash table with a size of 10, which means it can store up to 10 unique keys. The hash function used is h(k) = k mod 10, and linear probing is employed for collision resolution. The table is initially empty, and six values are inserted into it as shown in the table.\n\n**Key Values and Their Locations**\n\n| Index | k |\n| --- | --- |\n| 0 | 70 |\n| 1 | 20 |\n| 2 | 32 |\n| 3 | 41 |\n| 4 | - |\n| 5 | - |\n| 6 | - |\n| 7 | - |\n| 8 | 48 |\n| 9 | 58 |\n\n**Possible Order of Key Values**\n\nThe question asks which of the following options could have been the possible order in which the key values were inserted into the table. The options are:\n\nA) 70, 20, 32, 41, 48, 58\nB) 70, 48, 58, 20, 32, 41\nC) 20, 70, 32, 48, 41, 58\nD) 70, 20, 32, 41, 48, 58\n\n**Solution Approach**\n\nTo determine the correct order, we need to analyze the collision resolution process using linear probing. Linear probing involves incrementing the index by 1 until an empty slot is found when a collision occurs.\n\n**Step-by-Step Analysis**\n\n1. **Insert 70**: The first key value is 70. Since the table is empty, it is inserted directly at index 0.\n2. **Insert 20**: The second key value is 20. Since index 0 is occupied, we probe the next index, which is 1. The key 20 is inserted at index 1.\n3. **Insert 32**: The third key value is 32. Since index 1 is occupied, we probe the next index, which is 2. However, index 2 is also occupied by a key value not shown in the table. We continue probing until we find an empty slot, which is index 6. The key 32 is inserted at index 6.\n4. **Insert 41**: The fourth key value is 41. Since index 6 is occupied, we probe the next index,"
+  },
+  {
+    "id": 33463,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/1RS3BEjBwlDHH7mL0iUItIwOuVPtDtKWh9ibLs3kM7mljylVvH.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "36277cd1-6716-431f-85d2-ad113f283f69",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91699,
+        "question_id": "33463",
+        "text": "1, 2, 4, 6, 5, 3",
+        "is_correct": true,
+        "option_image": "",
+        "score": "2.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91700,
+        "question_id": "33463",
+        "text": "1, 2, 5, 3, 4, 6",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91701,
+        "question_id": "33463",
+        "text": "1, 3, 4, 6, 2, 5",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91702,
+        "question_id": "33463",
+        "text": "1, 2, 3, 4, 5, 6",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91703,
+        "question_id": "33463",
+        "text": "1, 3, 6, 4, 5 ,2",
+        "is_correct": true,
+        "option_image": "",
+        "score": "2.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a graph with six nodes, labeled 1 through 6, and six edges connecting them. The graph is accompanied by a note that reads: \"Assume that when a node has multiple neighbours, DFS can visit any vertex first.\" This note provides context for understanding the graph and its intended use.\n\n**Key Features:**\n\n*   **Graph Structure:** The graph consists of six nodes, each represented by an oval shape containing a number from 1 to 6. The nodes are connected by six edges, which are depicted as arrows pointing from one node to another.\n*   **Node Labels:** Each node is labeled with a unique number, ranging from 1 to 6. These labels likely represent distinct entities or concepts within the context of the graph.\n*   **Edge Connections:** The edges between nodes indicate relationships or connections between the entities represented by the nodes. The arrows on the edges suggest a directionality to these relationships, implying that the graph may be used to model a process or sequence of events.\n*   **Note:** The accompanying note clarifies the assumption that when a node has multiple neighbours, Depth-First Search (DFS) can visit any vertex first. This note provides important context for interpreting the graph and understanding how DFS would operate on it.\n\n**Overall Impression:**\n\nThe image effectively conveys a clear and concise visual representation of a graph with six nodes and six edges. The note provides essential context for understanding the graph's intended use and how DFS would operate on it. The image appears to be a educational tool or example, likely used to illustrate the concept of DFS and its application to graphs."
+  },
+  {
+    "id": 33464,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/BihXvpnG3eRVBLaD3wWJ7yGjvwSA4nbWwJU8bjT7e5hmWrzJCB.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "07d3a926-49f1-4019-a6b3-f40c5ded46e4",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91704,
+        "question_id": "33464",
+        "text": "",
+        "is_correct": false,
+        "option_image": "mMyzXgIH7OEqN4rsxd2Nc3RWDkBR6V51Oj0hUrsRePXIrVKFi4.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/mMyzXgIH7OEqN4rsxd2Nc3RWDkBR6V51Oj0hUrsRePXIrVKFi4.png"
+      },
+      {
+        "id": 91705,
+        "question_id": "33464",
+        "text": "",
+        "is_correct": false,
+        "option_image": "6jzOdz8ENGvnYBSRZoxtP9dJAhrP9IkqILU5rmkrzKKwutlOTB.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/6jzOdz8ENGvnYBSRZoxtP9dJAhrP9IkqILU5rmkrzKKwutlOTB.png"
+      },
+      {
+        "id": 91706,
+        "question_id": "33464",
+        "text": "",
+        "is_correct": true,
+        "option_image": "6bGg5psXrdJKBEYwodY5lnruvO8XA15JXu7Gh4dHAqhrspLa5J.png",
+        "score": "2.000",
+        "option_image_url": "app/option_images/6bGg5psXrdJKBEYwodY5lnruvO8XA15JXu7Gh4dHAqhrspLa5J.png"
+      },
+      {
+        "id": 91707,
+        "question_id": "33464",
+        "text": "",
+        "is_correct": true,
+        "option_image": "usHnAphETKIU2d4egAC55KfHSH8KuzblH4DjKObZecnWnyt6z0.png",
+        "score": "2.000",
+        "option_image_url": "app/option_images/usHnAphETKIU2d4egAC55KfHSH8KuzblH4DjKObZecnWnyt6z0.png"
+      }
+    ],
+    "answer_explanation": "The image presents a directed acyclic graph (DAG) with eight nodes, labeled 1 through 8. The graph is depicted using black lines and arrows, which indicate the direction of edges between nodes.\n\n**Key Observations:**\n\n* Node 5 has two incoming edges from nodes 1 and 2, and one outgoing edge to node 6.\n* Node 6 has one incoming edge from node 5 and one outgoing edge to node 7.\n* Node 7 has one incoming edge from node 6 and one outgoing edge to node 8.\n* Node 8 has no incoming edges but has two outgoing edges to nodes 4 and 5.\n\n**Analysis:**\n\nTo determine if the given graph is a topological ordering, we need to check if it satisfies the following conditions:\n\n1. **Acyclicity:** The graph must not contain any cycles.\n2. **Topological Ordering:** The graph must have a valid topological ordering, where each node is either a source (has no incoming edges) or a sink (has no outgoing edges).\n\nUpon examining the graph, we notice that node 8 has no incoming edges but has two outgoing edges to nodes 4 and 5. This creates a cycle between nodes 4, 5, and 8, as node 4 cannot be reached from node 8 without passing through node 5. Therefore, the graph is not acyclic.\n\n**Conclusion:**\n\nThe given graph is not a valid topological ordering because it contains a cycle. As a result, it is not possible to perform a topological sort on this graph.\n\n*Answer*: 8"
+  },
+  {
+    "id": 33465,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/W7oYCx34e4ltrhEerVp1hBWwcPB5SAElzGErmZDDCC9sLIS28h.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "9fcae7ab-bfca-4de4-b234-42d20bf446c0",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 91708,
+        "question_id": "33465",
+        "text": "front: 10, rear: 78",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91709,
+        "question_id": "33465",
+        "text": "front: 45, rear: 78",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91710,
+        "question_id": "33465",
+        "text": "front: 19, rear: 10",
+        "is_correct": true,
+        "option_image": "",
+        "score": "4.000",
+        "option_image_url": null
+      },
+      {
+        "id": 91711,
+        "question_id": "33465",
+        "text": "front: 19, rear: 78",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The provided image illustrates a stack and a queue with operations, along with a question that utilizes both data structures to identify the front and rear elements of a given sequence of operations.\n\nThe stack operations include 'Push(d)' and 'Pop()', while the queue operations comprise 'Enqueue(d)' and 'Dequeue()'. A sample sequence of operations is provided, where 'd' represents the initial state of the stack queue 'Q', and operations are performed on both the stack 'S' and queue 'Q'. The operations are numbered from 1 to 6, and the question asks for the front and rear elements in queue 'Q' after the operations are performed.\n\nTo answer the question, we need to analyze the sequence of operations and identify the final state of the queue 'Q'. The operations can be broken down as follows:\n\n- Push(d) inserts an element 'd' into the stack 'S'.\n- Pop() removes the top element from the stack 'S' and returns it.\n- Enqueue(d) adds an element 'd' to the end of the queue 'Q'.\n- Dequeue() removes the front element from the queue 'Q' and returns it.\n\nAfter performing the given sequence of operations, we need to determine the front and rear elements in queue 'Q'.\n\nThe correct answer is 78 and 56."
+  }
+]

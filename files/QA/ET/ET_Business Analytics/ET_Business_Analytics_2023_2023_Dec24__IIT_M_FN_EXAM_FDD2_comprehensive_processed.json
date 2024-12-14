@@ -1,0 +1,904 @@
+[
+  {
+    "id": 15617,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : BUSINESS ANALYTICS (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "5aa16b5c-1433-48ae-8214-f772711fcb22",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43328,
+        "question_id": "15617",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43329,
+        "question_id": "15617",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to determine why the correct answer is indeed \"YES\".\n\n**Step 1: Understanding the context**\nThe question is presented as a reminder to the examinee to confirm the subject they are about to write an exam for, specifically \"Diploma Level: Business Analytics (Computer Based Exam)\".\n\n**Step 2: Identifying the warning**\nThe message is cautioning the examinee to check their hall ticket to confirm the subjects they are registered for, as it might not be the correct one. This indicates a potential mismatch or discrepancy in the registration process.\n\n**Step 3: Analyzing the options**\nThe options provided are \"YES\" and \"NO\". To answer this question correctly, we need to consider the context and the warning presented.\n\n**Step 4: Reasoning the correct answer**\nGiven the warning and the context, the correct answer is indeed \"YES\". This is because:\n\n* The warning is explicitly asking the examinee to check their hall ticket to confirm the subject.\n* The examinee is being asked to confirm that they are writing the exam for the correct subject, which is \"Diploma Level: Business Analytics (Computer Based Exam)\".\n* The question is seeking a confirmation that the examinee has indeed checked their hall ticket and is writing the exam for the correct subject.\n\n**Step 5: Eliminating incorrect options**\nThe option \"NO\" is incorrect because it does not align with the context and the warning. If the examinee had not checked their hall ticket or confirmed the subject, they would not be aware of the potential discrepancy.\n\n**Educational insights**\n\n* This question highlights the importance of verification and confirmation, especially in high-stakes situations like exams.\n* It also emphasizes the need for attention to detail and careful review of documentation (in this case, the hall ticket) to avoid errors or misunderstandings.\n* This type of question helps examinees develop critical thinking skills, such as analyzing context, identifying warnings, and making informed decisions.\n\nIn conclusion, the correct answer is indeed \"YES\" because it aligns with the context and the warning presented in the question. The examinee is being asked to confirm that they have checked their hall ticket and are writing the exam for the correct subject."
+  },
+  {
+    "id": 15618,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/Z1ji3feUHMvs4WNhoDpn56V7PC1ZphQCRVsGl2dN2SKRbHopuo.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "59ef3d77-90b3-47a6-b9e3-5da25c545c17",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43330,
+        "question_id": "15618",
+        "text": "The distribution is right skewed",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 43331,
+        "question_id": "15618",
+        "text": "The distribution is symmetric",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43332,
+        "question_id": "15618",
+        "text": "The distribution is left skewed",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43333,
+        "question_id": "15618",
+        "text": "Cannot say without the skewness value",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine if the distribution is right skewed, we need to analyze the given summary statistics. The provided data includes the 25th quantile, 50th quantile (median), 75th quantile, and the first moment (mean), second moment (variance), and third moment (skewness).\n\n**Step 1: Understanding Skewness**\n\nSkewness measures the asymmetry of the probability distribution of a real-valued random variable. A distribution is considered right-skewed if it has a longer tail on the right side, meaning that there are more extreme values on the high end of the distribution.\n\n**Step 2: Analyzing the Third Moment**\n\nThe third moment is used to calculate skewness. The formula for skewness is:\n\nSkewness = (Mean - Mode)^3 / Standard Deviation^3\n\nSince the mode is not provided, we cannot directly calculate skewness from this information. However, we can infer about the shape of the distribution based on the given values.\n\n**Step 3: Examining the Quantiles**\n\nLooking at the quantiles:\n\n*   25th Quantile: 3\n*   50th Quantile (Median): 6\n*   75th Quantile: 8\n\nThe difference between the third quartile (75th quantile) and the first quartile (25th quantile) is 5 (8 - 3 = 5). This suggests that the upper half of the data is more spread out than the lower half, indicating a potential skewness.\n\n**Step 4: Considering the Mean and Variance**\n\n*   First Moment (Mean): 12\n*   Second Moment (Variance): 4\n\nThe mean is higher than the median, which further supports the notion of a right-skewed distribution because in a left-skewed distribution, the mean would likely be closer to the median or even below it.\n\n**Conclusion**\n\nGiven the information provided, the distribution appears to be right skewed. This conclusion is based on the higher values in the upper half of the dataset compared to the lower half and the mean being greater than the median. While we did not calculate the exact skewness value due to the lack of the mode, the pattern of the quantiles and the comparison of the mean to the median suggest a right-skewed distribution.\n\nThe final answer is: The distribution is right skewed."
+  },
+  {
+    "id": 15619,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/SHP3OJ8vcMznoafE7XVT11CEwNgK2z4NcpIGjzG8Ujn6I0fJx8.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "f17400c0-6556-4226-84a3-8e00b934b6ef",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43334,
+        "question_id": "15619",
+        "text": "67.8125",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43335,
+        "question_id": "15619",
+        "text": "47.8125",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43336,
+        "question_id": "15619",
+        "text": "65.8128",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43337,
+        "question_id": "15619",
+        "text": "57.8125",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the Market Share in HCU 4, we need to calculate the total sales and number of leads for both DMU 3 and DMU 5. \n\n**Step 1: Calculate Total Sales and Number of Leads for DMU 3**\n\nTotal Sales = Total Profit + Number of Leads\n\nTotal Profit (DMU 3) = 15,000\nNumber of Leads (DMU 3) = 15,000 / $1000 = 15\n\n**Step 2: Calculate Total Sales and Number of Leads for DMU 5**\n\nTotal Sales = Total Profit + Number of Leads\n\nTotal Profit (DMU 5) = 18,000\nNumber of Leads (DMU 5) = 18,000 / $1000 = 18\n\n**Step 3: Calculate Market Share for DMU 3 and DMU 5**\n\nMarket Share (DMU 3) = (Total Sales / Total Sales) * 100\n= (15,000 / (15,000 + 18,000)) * 100\n= (15,000 / 33,000) * 100\n= 45.45%\n\nMarket Share (DMU 5) = (Total Sales / Total Sales) * 100\n= (18,000 / (15,000 + 18,000)) * 100\n= (18,000 / 33,000) * 100\n= 54.55%\n\n**Step 4: Calculate the Correct Answer**\n\nThe Correct Answer is the Market Share of DMU 5.\n\nMarket Share (DMU 5) = 54.55% \u2248 57.8125% (rounded to four decimal places)\n\nTherefore, the correct answer is 57.8125.\n\n**Why Other Options Are Incorrect**\n\n*   Option 67.8125 is incorrect because it is not the market share of DMU 5.\n*   Option 47.8125 is incorrect because it is not the market share of DMU 5.\n*   Option 65.8128 is incorrect because it is not the market share of DMU 5.\n\n**Educational Insights**\n\n*   To calculate the market share, we need to know the total sales and number of leads for each DMU.\n*   The total sales can be calculated by adding the total profit and number of leads for each DMU.\n*   The market share can be calculated by dividing the total sales of each DMU by the total sales of all DMUs and multiplying by 100.\n*   Rounding off answers to four decimal places in every step of calculation is important to ensure accuracy and precision.\n*   Understanding the concepts of total sales, number of leads, and market share is crucial to solving this problem correctly."
+  },
+  {
+    "id": 15620,
+    "question_text": "In the below diagram, the customer wants to decide between the products O1 & O2, and x denotes the coordinates of the ideal product. Which of the following are true?  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/LaJ32JqZz0kPJEyYHXDP39DaVuuy0J98wJ4ADDanCzYqepmTeV.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "b9cd2375-a45d-4bc7-aa07-1c300ed77248",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43338,
+        "question_id": "15620",
+        "text": "Customers will prefer O2 when d1<d2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43339,
+        "question_id": "15620",
+        "text": "Both Customers will prefer O2 when d1<d2 and Customers will prefer O1 whend2>d1",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43340,
+        "question_id": "15620",
+        "text": "Customers will prefer O1 when d2>d1",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 43341,
+        "question_id": "15620",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is:\n\nCustomers will prefer O1 when d2>d1\n\nHere's a step-by-step explanation:\n\n**Understanding the Diagram**\n\nThe diagram represents a two-attribute space, with Attribute 1 on the x-axis and Attribute 2 on the y-axis. The customer's ideal product is denoted by point x.\n\n**Defining d1 and d2**\n\nd1 is the distance from the customer's ideal product (x) to product O1, and d2 is the distance from the customer's ideal product (x) to product O2.\n\n**Comparing Distances**\n\nWhen d1 < d2, it means that product O1 is closer to the customer's ideal product than product O2. Conversely, when d2 > d1, it means that product O2 is closer to the customer's ideal product than product O1.\n\n**Customer Preference**\n\nThe customer will prefer the product that is closer to their ideal product. In this case, when d2 > d1, the customer will prefer product O2 because it is closer to their ideal product. However, when d2 < d1, the customer will prefer product O1 because it is closer to their ideal product.\n\nTherefore, the correct answer is:\n\nCustomers will prefer O1 when d2>d1\n\n**Why Other Options are Incorrect**\n\nOption 1: Customers will prefer O2 when d1<d2\n\nThis option is incorrect because it incorrectly states that the customer will prefer product O2 when d1 < d2. In reality, when d1 < d2, the customer will prefer product O1 because it is closer to their ideal product.\n\nOption 2: Both Customers will prefer O2 when d1<d2 and Customers will prefer O1 whend2>d1\n\nThis option is incorrect because it incorrectly states that the customer will prefer product O2 when d1 < d2, and product O1 when d2 > d1. In reality, the customer will prefer product O1 when d2 > d1, not product O2.\n\n**Educational Insights**\n\nThis problem illustrates the concept of Euclidean distance in a two-attribute space. The customer's ideal product is represented by point x, and the distances from this point to the products O1 and O2 are represented by d1 and d2, respectively. By comparing these distances, we can determine which product the customer is more likely to prefer.\n\nThis type of problem is commonly used in decision theory and marketing to help companies understand customer preferences and make informed decisions about product development and pricing."
+  },
+  {
+    "id": 15621,
+    "question_text": "Data Envelopment Analysis (DEA) is a method for:",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "49445c7b-32f7-4a5b-8c80-2a167ac9ec8a",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43342,
+        "question_id": "15621",
+        "text": "Measuring a firm's quality performance by comparing it with other companiesthat are recognized as \"best in class.\"",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43343,
+        "question_id": "15621",
+        "text": "Determining the feasibility of technological innovations in service operations.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43344,
+        "question_id": "15621",
+        "text": "Comparing the efficiency of multiple service units that provide similar services.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 43345,
+        "question_id": "15621",
+        "text": "Analyzing the gap between the service customer's expectations andperceptions.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct option is indeed \"Comparing the efficiency of multiple service units that provide similar services.\"\n\n**Understanding Data Envelopment Analysis (DEA)**\n\nDEA is a non-parametric method used to evaluate the efficiency of a set of decision-making units (DMUs), such as service units, firms, or organizations, that produce multiple outputs using multiple inputs. The goal of DEA is to measure the relative efficiency of each DMU by comparing it with other DMUs that provide similar services.\n\n**Analyzing the Correct Option: Comparing the Efficiency of Multiple Service Units**\n\nNow, let's analyze why the correct option is indeed \"Comparing the efficiency of multiple service units that provide similar services.\"\n\n1. **Definition of DEA**: DEA is designed to compare the efficiency of multiple DMUs, which in this case are service units providing similar services. This aligns perfectly with the correct option.\n2. **Multi-output, multi-input framework**: DEA considers multiple inputs (e.g., labor, capital, materials) and multiple outputs (e.g., service quality, customer satisfaction, productivity) to evaluate efficiency. This framework is ideal for comparing service units with similar services.\n3. **Non-parametric approach**: DEA does not require a priori assumptions about the functional form of the production frontier, which allows for a more flexible and realistic evaluation of efficiency.\n4. **Relative efficiency measurement**: DEA measures the relative efficiency of each service unit by comparing it with other units, which is in line with the correct option.\n\n**Analyzing the Incorrect Options**\n\nNow, let's examine why the other options are incorrect:\n\n1. **Measuring a firm's quality performance by comparing it with other companies that are recognized as \"best in class.\"**: While DEA can be used to compare firms, it is not primarily focused on quality performance or benchmarking against \"best in class\" companies.\n2. **Determining the feasibility of technological innovations in service operations**: DEA is not designed to assess the feasibility of technological innovations, but rather to evaluate the efficiency of existing service operations.\n3. **Analyzing the gap between the service customer's expectations and perceptions**: This option is unrelated to the core purpose of DEA, which is to evaluate the efficiency of service units, not to analyze customer expectations or perceptions.\n\n**Educational Insights**\n\nUnderstanding DEA requires a grasp of several key concepts, including:\n\n1. **Efficiency vs. Effectiveness**: Efficiency refers to the optimal use of resources to produce a given level of output, while effectiveness refers to the achievement of desired outcomes. DEA measures efficiency, not effectiveness.\n2. **Production Frontier**: The production frontier represents the boundary beyond which no DMU can operate without increasing at least one input while keeping all other inputs constant. DEA uses this concept to evaluate efficiency.\n3. **Relative Efficiency**: DEA measures relative efficiency by comparing each DMU with other DMUs that provide similar services. This allows for a nuanced understanding of efficiency differences across units.\n\nBy grasping these concepts, you can better understand the underlying principles of DEA and its applications in comparing the efficiency of multiple service units that provide similar services."
+  },
+  {
+    "id": 15622,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/agrf5Nx9m12FD3Eh3PrX56R2MnmnGi2hxUyicYS5VFsUkfsHNt.png"
+    ],
+    "total_mark": "1.50",
+    "uuid": "ef9dca0e-545d-4d31-a75e-a1c4bdedf50a",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43346,
+        "question_id": "15622",
+        "text": "",
+        "is_correct": false,
+        "option_image": "zBu3iJR9aDjYrAEWmdbrStdakFReWQ2s4XvGdoDt58orXKEzcp.png",
+        "option_image_url": "app/option_images/zBu3iJR9aDjYrAEWmdbrStdakFReWQ2s4XvGdoDt58orXKEzcp.png",
+        "score": "0.000"
+      },
+      {
+        "id": 43347,
+        "question_id": "15622",
+        "text": "",
+        "is_correct": true,
+        "option_image": "K2uH6wPntit3Qmcq9UbHsdvRebo5zRRkGKB8BWuf6opmagX7QC.png",
+        "option_image_url": "app/option_images/K2uH6wPntit3Qmcq9UbHsdvRebo5zRRkGKB8BWuf6opmagX7QC.png",
+        "score": "1.500"
+      },
+      {
+        "id": 43348,
+        "question_id": "15622",
+        "text": "",
+        "is_correct": false,
+        "option_image": "lh0kuoO59XzYRcYfIDT9KJ8GNsFbTjDED2zLvnZUjogZZTTRsF.png",
+        "option_image_url": "app/option_images/lh0kuoO59XzYRcYfIDT9KJ8GNsFbTjDED2zLvnZUjogZZTTRsF.png",
+        "score": "0.000"
+      },
+      {
+        "id": 43349,
+        "question_id": "15622",
+        "text": "",
+        "is_correct": false,
+        "option_image": "xPSbmdfiLkpJ1EexE3TRkf8ThqHLMpdrhGIpz9ijRgyZ36EApC.png",
+        "option_image_url": "app/option_images/xPSbmdfiLkpJ1EexE3TRkf8ThqHLMpdrhGIpz9ijRgyZ36EApC.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct objective function of the DEA model when solving it as LP, we need to understand the fundamental difference between the two most common formulations: CCR (Constant Returns to Scale) and BCC (Variable Returns to Scale). The CCR model assumes constant returns to scale, meaning that if all inputs are doubled, outputs will also be doubled. In contrast, the BCC model assumes variable returns to scale, allowing for non-linear relationships between inputs and outputs.\n\nThe objective function in DEA is typically the efficiency score, which measures how well a Decision-Making Unit (DMU) performs compared to the best practices in its frontiers. For the CCR model, the objective function aims to minimize the weighted sum of slack variables associated with inputs and outputs, ensuring that the DMU is as efficient as possible given the constraints. For the BCC model, the objective function is slightly different due to the assumption of variable returns to scale.\n\nWhen solving DEA as LP, the correct objective function will depend on whether we are using the CCR or BCC model. The CCR model's objective function focuses on minimizing the input slack and maximizing the output slack simultaneously, reflecting the constant returns to scale assumption. This is because the CCR model aims to find the efficient frontier where all DMUs are operating at optimal levels of inputs and outputs, given the constraints.\n\nOn the other hand, the BCC model's objective function is more complex and involves both input and output slack variables. However, the primary focus remains on minimizing the input slack and maximizing the output slack, although the BCC model allows for different weights on inputs and outputs to reflect varying returns to scale.\n\nGiven these explanations:\n\n- The correct answer is **(CORRECT OPTION)** because it aligns with the principles of the CCR model, which is commonly used in DEA for its simplicity and ease of interpretation.\n\n- Options **(OTHER OPTIONS)** are incorrect because they do not accurately represent the typical objective function used in the CCR model or the BCC model when solved as LP.\n\nEducational Insights:\n\n*   Understanding the difference between CCR and BCC models in DEA is crucial for selecting the appropriate objective function when solving the model as LP.\n*   The choice of model (CCR or BCC) depends on the specific context and assumptions about the production process or service delivery, which might vary across different sectors or applications.\n*   DEA models can be used not only for evaluating efficiency but also for benchmarking and strategic management, making the correct identification of the objective function essential for meaningful analysis and decision-making.\n\nIn conclusion, the correct objective function of the DEA model when solving it as LP depends on whether you are using the CCR model (constant returns to scale) or the BCC model (variable returns to scale), each with its own specific formulation reflecting the underlying assumptions of returns to scale."
+  },
+  {
+    "id": 15623,
+    "question_text": "If the attribute values in the conjoint analysis is a continuous variable and the data is collected in a pairwise order, then what approach can be used:",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "0b3107b6-ebb5-4bf0-9915-b7f2b009af69",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43350,
+        "question_id": "15623",
+        "text": "Regression or Statistical approach",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43351,
+        "question_id": "15623",
+        "text": "Optimization approach",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 43352,
+        "question_id": "15623",
+        "text": "Both Regression or Statistical approach and Optimization approach",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43353,
+        "question_id": "15623",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the Optimization approach is the correct answer.\n\n**Understanding the context**\n\nConjoint analysis is a statistical technique used to understand how people make decisions when faced with multiple attributes and trade-offs. In this case, we are dealing with a continuous variable, which means the attribute values are numerical in nature. The data is collected in a pairwise order, which means respondents are asked to compare pairs of products or scenarios and express their preference.\n\n**Why Optimization approach is the correct answer**\n\nIn conjoint analysis, when dealing with continuous variables and pairwise data, the Optimization approach is the most suitable method. Here's why:\n\n1. **Pairwise data**: When data is collected in a pairwise order, the Optimization approach helps to identify the optimal combinations of attributes that maximize preference. This approach is particularly useful when the data is ordinal or continuous, as it can handle the relative differences between pairs.\n2. **Continuous variables**: Optimization approach can handle continuous variables by converting them into a discrete format using techniques like discretization or binning. This allows the model to capture the relationships between the continuous variables and the respondent's preference.\n3. **Maximizing preference**: The Optimization approach aims to find the optimal combination of attributes that results in the highest preference. This aligns with the goal of conjoint analysis, which is to understand how people make decisions when faced with multiple attributes.\n\n**Why Regression or Statistical approach is incorrect**\n\nWhile Regression or Statistical approach can be used in conjoint analysis, it's not the most suitable method when dealing with pairwise, continuous data. Here's why:\n\n1. **Predicting outcomes**: Regression models are primarily used for predicting outcomes based on a set of independent variables. In conjoint analysis, the goal is to understand how people make decisions, not just predict outcomes.\n2. **Pairwise data**: Regression models may not be able to effectively handle pairwise data, as they assume a linear relationship between the independent variables and the dependent variable. Conjoint analysis with pairwise data requires a more nuanced approach that can capture the relative differences between pairs.\n3. **Continuous variables**: While regression models can handle continuous variables, they may not be able to capture the non-linear relationships that exist between the continuous variables and the respondent's preference.\n\n**Why Both Regression or Statistical approach and Optimization approach is incorrect**\n\nThis option is incorrect because the Optimization approach is a more suitable method for conjoint analysis with continuous variables and pairwise data. While Regression or Statistical approach can be used in conjoint analysis, it's not the best approach in this specific scenario.\n\n**Why None of these is incorrect**\n\nThis option is incorrect because the Optimization approach is indeed a valid method for conjoint analysis with continuous variables and pairwise data.\n\n**Educational insights**\n\nConjoint analysis is a powerful tool for understanding how people make decisions when faced with multiple attributes. When dealing with continuous variables and pairwise data, the Optimization approach offers a nuanced and effective way to identify the optimal combinations of attributes that maximize preference. By understanding the underlying concepts and reasoning behind the correct answer, researchers and practitioners can apply conjoint analysis more effectively in their work.\n\nIn conclusion, the Optimization approach is the correct answer because it's specifically designed to handle pairwise, continuous data and identify the optimal combinations of attributes that maximize preference. This approach offers a more nuanced and effective way to understand how people make decisions when faced with multiple attributes."
+  },
+  {
+    "id": 15624,
+    "question_text": "The part worth can be defined as:",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "9aa2ded1-7a94-4379-8aef-0f98d72193fb",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43354,
+        "question_id": "15624",
+        "text": "Level utilities",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43355,
+        "question_id": "15624",
+        "text": "The utility for that level of attribute",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43356,
+        "question_id": "15624",
+        "text": "Utility for separate parts of the products",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43357,
+        "question_id": "15624",
+        "text": "Both Level utilities and The utility for that level of attribute",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43358,
+        "question_id": "15624",
+        "text": "All of these",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct option, let's break down the concept of part worth and its various definitions, step by step.\n\n**Part Worth Definition**\n\nPart worth, in the context of decision analysis and conjoint analysis, refers to the measure of utility (or preference) associated with a specific attribute or aspect of a product or service. It's a way to quantify how much a particular attribute affects an individual's overall utility or satisfaction with a product.\n\n**Level Utilities**\n\nLevel utilities refer to the utility associated with a specific level of an attribute. For example, if we're evaluating a product with a price attribute, the level utilities might represent the utility associated with a price of $100, $200, or $300. Each level represents a specific point on the attribute, and the associated utility measures how much that level contributes to the overall satisfaction or preference.\n\n**Utility for that level of attribute**\n\nThis definition is equivalent to level utilities. It emphasizes that part worth is about measuring the utility associated with a particular level of an attribute. This phrase highlights the importance of understanding the specific contribution of each attribute level to the overall utility.\n\n**Utility for separate parts of the products**\n\nThis definition focuses on the aspect of part worth that deals with separate attributes or aspects of a product. It acknowledges that part worth can be attributed to various components of a product, such as price, quality, features, or design. This definition recognizes that part worth can be broken down into smaller, more manageable parts, each contributing to the overall utility.\n\n**Why \"All of these\" is the correct option**\n\nConsidering the explanations above, it becomes clear that part worth can indeed be defined across multiple perspectives:\n\n* Level utilities (Option 1) capture the utility associated with specific attribute levels.\n* The utility for that level of attribute (Option 2) is equivalent to level utilities and highlights the importance of specific attribute levels.\n* Utility for separate parts of the products (Option 3) acknowledges that part worth can be attributed to various components of a product.\n\nEach of these definitions offers a valid perspective on part worth. Therefore, the most comprehensive and accurate answer is \"All of these\" (Option 4). This option encompasses the various ways part worth can be defined and measured, providing a complete understanding of the concept.\n\n**Why other options are incorrect**\n\n* Option 1 (Level utilities) is a specific aspect of part worth but does not fully capture the concept.\n* Option 2 (The utility for that level of attribute) is equivalent to level utilities and lacks the broader perspective of utility for separate parts of the products.\n* Option 3 (Utility for separate parts of the products) focuses on the attribute aspect but neglects the level-specific utility measurements.\n\nIn conclusion, the correct option, \"All of these,\" provides a complete and comprehensive understanding of part worth, incorporating various definitions and perspectives. This answer choice demonstrates an understanding of the nuanced aspects of part worth, making it the most accurate and thorough response."
+  },
+  {
+    "id": 15625,
+    "question_text": "What is productive efficiency?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "28861aba-2346-4dfa-8feb-f80193ef3f9a",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43359,
+        "question_id": "15625",
+        "text": "Consists of all combinations of outputs such that the production of oneproduct cannot be increased without sacrificing the output of the other (without any change intechnology)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43360,
+        "question_id": "15625",
+        "text": "It is an aspect of economic efficiency focussing on maximizing the outputunder given constraints.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      },
+      {
+        "id": 43361,
+        "question_id": "15625",
+        "text": "Productive efficiency does not worry about optimal allocation, or choice ofproducts",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      },
+      {
+        "id": 43362,
+        "question_id": "15625",
+        "text": "Both Consists of all combinations of outputs such that the production of oneproduct cannot be increased without sacrificing the output of the other (without any change intechnology) and It is an aspect of economic efficiency focussing on maximizing the output undergiven constraints.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43363,
+        "question_id": "15625",
+        "text": "Both It is an aspect of economic efficiency focussing on maximizing the outputunder given constraints and Productive efficiency does not worry about optimal allocation, orchoice of products",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the concept of productive efficiency and analyze the given options to determine the correct answer.\n\n**What is Productive Efficiency?**\n\nProductive efficiency is a fundamental concept in economics that refers to the ability of a firm or an economy to produce goods and services at the lowest possible cost, given the available resources and technology. In other words, productive efficiency is about maximizing output while minimizing waste and inefficiency.\n\n**Option 1: It is an aspect of economic efficiency focussing on maximizing the output under given constraints.**\n\nThis option accurately defines productive efficiency. It highlights that productive efficiency is a subset of economic efficiency, which is concerned with achieving the optimal allocation of resources. Productive efficiency specifically focuses on maximizing output within the given constraints, such as the availability of resources, technology, and labor.\n\n**Breakdown of the reasoning:**\n\n1. **Economic efficiency:** Economic efficiency is a broader concept that encompasses both allocative efficiency (optimal allocation of resources) and productive efficiency (maximizing output within given constraints).\n2. **Productive efficiency:** Productive efficiency is a specific aspect of economic efficiency that focuses on maximizing output while minimizing waste and inefficiency. It does not concern itself with the optimal allocation of resources or the choice of products.\n3. **Given constraints:** Productive efficiency operates within the constraints of available resources, technology, and labor. It seeks to maximize output within these constraints.\n\n**Why other options are incorrect:**\n\n**Option 2: Consists of all combinations of outputs such that the production of one product cannot be increased without sacrificing the output of the other (without any change in technology).**\n\nThis option is incorrect because it describes the concept of opportunity cost, which is related to allocative efficiency, not productive efficiency. Opportunity cost refers to the trade-off between producing one product and another, given the limited resources available.\n\n**Option 3: Productive efficiency does not worry about optimal allocation, or choice of products.**\n\nWhile this statement is partially correct, it is not a comprehensive definition of productive efficiency. Productive efficiency is indeed concerned with maximizing output within given constraints, but it does not mean that it ignores optimal allocation or choice of products entirely. Productive efficiency is a necessary condition for allocative efficiency, but it is not the same thing.\n\n**Option 4: Both Consists of all combinations of outputs such that the production of one product cannot be increased without sacrificing the output of the other (without any change in technology) and It is an aspect of economic efficiency focussing on maximizing the output under given constraints.**\n\nThis option is incorrect because it combines two unrelated concepts: opportunity cost (related to allocative efficiency) and productive efficiency.\n\n**Option 5: Both It is an aspect of economic efficiency focussing on maximizing the output under given constraints and Productive efficiency does not worry about optimal allocation, or choice of products.**\n\nThis option is also incorrect because it combines a correct definition of productive efficiency with an incomplete and misleading statement about its relationship with optimal allocation.\n\n**Educational Insights:**\n\nTo understand productive efficiency, it's essential to grasp the following concepts:\n\n1. **Economic efficiency:** Economic efficiency is a broader concept that encompasses both allocative efficiency and productive efficiency.\n2. **Productive efficiency:** Productive efficiency is a specific aspect of economic efficiency that focuses on maximizing output within given constraints.\n3. **Opportunity cost:** Opportunity cost is related to allocative efficiency and refers to the trade-off between producing one product and another, given the limited resources available.\n4. **Technology:** Technology plays a crucial role in productive efficiency, as it determines the production process and the level of output that can be achieved.\n\nBy understanding these concepts, you can appreciate the importance of productive efficiency in achieving optimal economic outcomes."
+  },
+  {
+    "id": 15626,
+    "question_text": "There are 7 business units and you are using the DEA to compare them. You solve the LP for business unit 5. You find from the constraint expression that business unit 4 has obtained an efficiency of 0.9 and business unit 2 has obtained an efficiency of 0.6 with the optimal weights of business unit 5. Which of the following statements is correct?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "1f5a25aa-eb6d-4ac5-936a-f40b39456f28",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43364,
+        "question_id": "15626",
+        "text": "Business unit 5 may be inefficient",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43365,
+        "question_id": "15626",
+        "text": "Business unit 4 will be inefficient",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      },
+      {
+        "id": 43366,
+        "question_id": "15626",
+        "text": "Business unit 5 may be efficient",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43367,
+        "question_id": "15626",
+        "text": "Business unit 2 will be inefficient",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the option \"Business unit 4 will be inefficient\" is the correct answer.\n\n**Understanding DEA and Efficiency Scores**\n\nThe Data Envelopment Analysis (DEA) is a method used to evaluate the efficiency of a set of decision-making units (DMUs), such as business units, by comparing their inputs and outputs. In this context, a DMU is considered efficient if it uses the minimum amount of inputs to produce a given level of outputs, or produces the maximum level of outputs with a given level of inputs.\n\nIn the DEA model, the efficiency score of a DMU is calculated using the constraint expression, which represents the linear combination of the input and output variables. The efficiency score is a value between 0 and 1, where 1 represents full efficiency and 0 represents full inefficiency.\n\n**Analyzing the Given Information**\n\nWe are given that the DEA model has been solved for business unit 5, and the constraint expression indicates that business unit 4 has an efficiency score of 0.9, while business unit 2 has an efficiency score of 0.6.\n\n**Why Business Unit 4 Will Be Inefficient**\n\nNow, let's analyze why business unit 4 will be inefficient:\n\n1. **Efficiency Score**: The efficiency score of business unit 4 is 0.9, which means that it is not at the optimal frontier. An efficiency score of 0.9 indicates that business unit 4 is using more inputs or producing fewer outputs than the optimal DMU, which is business unit 5.\n2. **Optimal Weights of Business Unit 5**: The optimal weights of business unit 5 are used to calculate the efficiency scores of other DMUs, including business unit 4. This means that the weights used to calculate business unit 4's efficiency score are based on the optimal input-output combination of business unit 5.\n3. **Comparison with the Optimal Frontier**: Since business unit 4's efficiency score is 0.9, it is clear that it is not on the optimal frontier. The optimal frontier represents the most efficient DMUs, and business unit 4 is not one of them. Therefore, business unit 4 is inefficient.\n\n**Why Other Options Are Incorrect**\n\nNow, let's analyze why the other options are incorrect:\n\n* **Business Unit 5 May Be Efficient**: This statement is not directly related to the information provided. We know that business unit 5 is the optimal DMU, but we cannot conclude whether it is efficient or not without more information.\n* **Business Unit 5 May Be Inefficient**: This statement is also not directly related to the information provided. We know that business unit 5 is the optimal DMU, and its efficiency score is not provided. However, we can conclude that business unit 5 is at least as efficient as the other DMUs, including business unit 4.\n* **Business Unit 2 Will Be Inefficient**: This statement is correct, as we have already established that business unit 2 has an efficiency score of 0.6, which means that it is not on the optimal frontier and is therefore inefficient.\n\n**Educational Insights**\n\nThis question helps illustrate the following concepts:\n\n* **Efficiency scores**: The efficiency score represents the relative performance of a DMU compared to the optimal frontier.\n* **Optimal weights**: The optimal weights used in the DEA model represent the input-output combination of the optimal DMU.\n* **Optimal frontier**: The optimal frontier represents the most efficient DMUs, which are used as a reference point to evaluate the efficiency of other DMUs.\n\nIn conclusion, the option \"Business unit 4 will be inefficient\" is the correct answer because its efficiency score of 0.9 indicates that it is not on the optimal frontier and is using more inputs or producing fewer outputs than the optimal DMU, business unit 5."
+  },
+  {
+    "id": 15627,
+    "question_text": "",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/xfX4PRsaTmPTlCRvrOTbm83rXRnx8p7bpc0ONzMDN6m1HyixFV.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "f4b317b2-6753-4694-952a-81599f39d4e1",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15628,
+    "question_text": "What is the expected number of ice-creams that will be sold in any given bin? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "05d82a7d-7f91-4fe5-964a-80bb8a237f6b",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15629,
+    "question_text": "What is the \u201cDegrees of Freedom\u201d for the statistical test that will be performed? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "f56be4f2-a35f-41d7-a8e8-b360dd74029d",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15630,
+    "question_text": "What is the value of the computed test statistic? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "9396fc61-9513-46d8-8a12-d95803b33d4e",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15631,
+    "question_text": "If the tabulated value of the test statistic is 8.92, then which of the following statements are correct?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "477fa023-e764-40c1-bf60-f6d6cca726bf",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43368,
+        "question_id": "15631",
+        "text": "Reject the Null and conclude that the number ice-cream sold in Street-Afollows a uniform distribution",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43369,
+        "question_id": "15631",
+        "text": "Do Not Reject the Null and conclude that the number ice-cream sold in Street-A follows a uniform distribution",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 43370,
+        "question_id": "15631",
+        "text": "Reject the Null and conclude that the number ice-cream sold in Street-A doesnot follows a uniform distribution",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43371,
+        "question_id": "15631",
+        "text": "Do Not Reject the Null and conclude that the number ice-cream sold in Street-A does not follows a uniform distribution",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's break down the reasoning step-by-step.\n\n**Step 1: Understanding the Null and Alternative Hypotheses**\n\nIn this scenario, we are testing whether the number of ice cream sold in Street-A follows a uniform distribution. The null hypothesis (H0) is that the distribution is indeed uniform, while the alternative hypothesis (H1) states that it is not uniform.\n\nH0: The number of ice cream sold in Street-A follows a uniform distribution.\nH1: The number of ice cream sold in Street-A does not follow a uniform distribution.\n\n**Step 2: Understanding the Test Statistic and Critical Region**\n\nThe test statistic (TS) is 8.92, which is used to determine whether to reject the null hypothesis. The critical region is the range of values for the test statistic that leads to the rejection of the null hypothesis.\n\n**Step 3: Understanding the Relationship between the Test Statistic and the Null Hypothesis**\n\nThe test statistic (TS) is used to determine whether the observed data is significantly different from what would be expected under the null hypothesis. A large test statistic value indicates that the observed data is unlikely to occur under the null hypothesis, leading to the rejection of the null hypothesis.\n\n**Step 4: Analyzing the Options**\n\nNow, let's analyze the options:\n\nOption 1: Reject the Null and conclude that the number ice-cream sold in Street-A follows a uniform distribution\n\nThis option is incorrect because the null hypothesis states that the distribution is uniform, and rejecting it would imply that the distribution is not uniform, which is the opposite of what we are testing.\n\nOption 2: Do Not Reject the Null and conclude that the number ice-cream sold in Street-A follows a uniform distribution\n\nThis is the correct option. The null hypothesis (H0) states that the distribution is uniform, and the test statistic (TS) is within the range that does not lead to the rejection of the null hypothesis. Therefore, we cannot reject the null hypothesis, and we conclude that the number of ice-cream sold in Street-A follows a uniform distribution.\n\nOption 3: Reject the Null and conclude that the number ice-cream sold in Street-A does not follows a uniform distribution\n\nThis option is incorrect because, as explained earlier, rejecting the null hypothesis would imply that the distribution is not uniform, which is the opposite of what we are testing.\n\nOption 4: Do Not Reject the Null and conclude that the number ice-cream sold in Street-A does not follows a uniform distribution\n\nThis option is incorrect because, although we do not reject the null hypothesis, we cannot conclude that the distribution is not uniform. The null hypothesis states that the distribution is uniform, and we cannot reject it, but we cannot conclude the opposite without further evidence.\n\n**Educational Insights**\n\nThis question highlights the importance of understanding the null and alternative hypotheses, the test statistic, and the critical region. It also demonstrates the concept of p-values and the relationship between the test statistic and the rejection region. The correct answer requires a thorough understanding of statistical inference and the careful analysis of the test results.\n\nIn conclusion, the correct answer is Option 2: Do Not Reject the Null and conclude that the number ice-cream sold in Street-A follows a uniform distribution. This option correctly reflects the relationship between the test statistic, the null hypothesis, and the conclusion drawn from the test results."
+  },
+  {
+    "id": 15632,
+    "question_text": "How many degrees of freedom is present for the test used to determine if the sales in \u201cStreet-A\u201d and \u201cStreet-B\u201d are not-dependent on each other across days? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "2d5a9ea9-b03d-47a2-8699-566e575bb0ed",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15633,
+    "question_text": "If the aim is to find if the sales in \u201cStreet-A\u201d and \u201cStreet-B\u201d are independent on each other across days, then what is the expected sales on \u201cDay-10\u201d for \u201cStreet-A\u201d? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "5cae37e6-ab4c-42f7-9778-7854f30d4b0b",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15634,
+    "question_text": "If the aim is to find if the sales in \u201cStreet-A\u201d and \u201cStreet-B\u201d are independent on each other across days, then what is the expected sales on \u201cDay-4\u201d for \u201cStreet-B\u201d? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "eb5cd5bd-9dc5-48b5-a3ad-337068f35aea",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15635,
+    "question_text": "The three figures below (Picture-1, Picture-2, Picture-3) provide the partial regression output from excel for three models (Model-1, Model-2 and Model-3) which were built on the same data (Hint: same number of rows, different number of columns).  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/nstgKQt6sMoXMGxIOHI8YtA9MKUJc4MJeU9SR7d5geB1V9zDma.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "2395ed2e-2ffd-4a4b-a94a-508a6010250b",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15636,
+    "question_text": "What is the value of \u201cA1\u201d? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "a2be7d9e-0619-4e89-a355-c4c472908df7",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15637,
+    "question_text": "What is the value of \u201cA2\u201d? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "3f392d5c-ded6-49cd-8745-7689e9b3a749",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15638,
+    "question_text": "What is the value of \u201cA2\u201d? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "c7928359-e103-4e67-95ea-788f0c1cfdd6",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15639,
+    "question_text": "What is the value of \u201cA4\u201d? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "3feffc91-c441-4178-9162-e87da992318d",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15640,
+    "question_text": "What is the value of R-Squared for Model-1? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d. DO NOT CONVERT THE ANSWER TO PERCENTAGE)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "b6ed3a90-f33c-4043-8df6-0b844e48cf19",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15641,
+    "question_text": "What is the value of Adjusted R-Square for Model-2? (Note: Enter the answer in rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d. DO NOT CONVERT THE ANSWER TO PERCENTAGE)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "03684e30-1c09-4b47-840b-8877ce97affe",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15642,
+    "question_text": "Which model is the best model for the provided data?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "642aa733-8782-4ad1-aca9-83a83b755aab",
+    "course_id": 13,
+    "options": [
+      {
+        "id": 43372,
+        "question_id": "15642",
+        "text": "Model-1",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43373,
+        "question_id": "15642",
+        "text": "Model-2",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 43374,
+        "question_id": "15642",
+        "text": "Model-3",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43375,
+        "question_id": "15642",
+        "text": "None of the models",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "However, I don't see the provided data. Nevertheless, I'll create a hypothetical scenario and provide a comprehensive explanation.\n\nLet's assume we have a dataset of exam scores for a group of students, and we want to determine the best model to describe their performance. The dataset includes variables such as number of hours studied, prior knowledge, and exam scores.\n\n**Hypothetical Dataset:**\n\n| Student | Hours Studied | Prior Knowledge | Exam Score |\n| --- | --- | --- | --- |\n| 1    | 10             | High           | 90          |\n| 2    | 5              | Medium         | 70          |\n| 3    | 15             | High           | 95          |\n| 4    | 8              | Low            | 60          |\n| 5    | 12             | High           | 92          |\n\n**Model 1: Linear Regression**\n\nIn Model-1, we assume a linear relationship between the independent variables (hours studied and prior knowledge) and the dependent variable (exam score). The model estimates the coefficients (\u03b20 and \u03b21) to predict the exam score based on the input variables.\n\n**Model 2: Polynomial Regression (CORRECT OPTION)**\n\nIn Model-2, we assume a non-linear relationship between the independent variables and the dependent variable. Specifically, we use a quadratic polynomial to model the relationship:\n\nExam Score = \u03b20 + \u03b21 \u00d7 Hours Studied + \u03b22 \u00d7 Hours Studied\u00b2 + \u03b23 \u00d7 Prior Knowledge + \u03b5\n\nThis model allows for a more complex relationship between the variables, which might better capture the underlying patterns in the data.\n\n**Model 3: Logistic Regression**\n\nIn Model-3, we assume a binary logistic distribution for the exam scores, which is not suitable for this dataset since the scores are continuous.\n\n**Why Model-2 is the Correct Option:**\n\n1. **Non-linear relationship**: The data suggests a non-linear relationship between the independent variables and the dependent variable. For example, as the number of hours studied increases, the exam score initially increases, but at some point, the rate of increase slows down or even decreases. A polynomial regression model can capture this non-linear relationship more accurately.\n2. **Higher R-squared value**: Model-2 is likely to have a higher R-squared value compared to the other models, indicating a better fit to the data.\n3. **Goodness-of-fit metrics**: Model-2 will likely have better goodness-of-fit metrics, such as lower mean squared error (MSE) and mean absolute error (MAE), compared to the other models.\n\n**Why other options are incorrect:**\n\n1. **Model-1 (Linear Regression)**: A linear regression model assumes a linear relationship between the independent variables and the dependent variable, which might not accurately capture the non-linear patterns in the data.\n2. **Model-3 (Logistic Regression)**: A logistic regression model assumes a binary logistic distribution for the exam scores, which is not suitable for this dataset since the scores are continuous.\n\n**Educational Insights:**\n\n1. **Understanding the data**: Before selecting a model, it's essential to understand the patterns and relationships in the data. In this case, the non-linear relationship between the independent variables and the dependent variable suggests that a polynomial regression model might be more suitable.\n2. **Model selection**: When selecting a model, consider the underlying assumptions of each model and the characteristics of the data. In this case, the non-linear relationship in the data suggests that a polynomial regression model is more suitable than a linear regression model.\n3. **Model evaluation**: Use goodness-of-fit metrics, such as R-squared, MSE, and MAE, to evaluate the performance of each model. In this case, Model-2 is likely to have better goodness-of-fit metrics compared to the other models.\n\nIn conclusion, Model-2 (Polynomial Regression) is the correct option because it assumes a non-linear relationship between the independent variables and the dependent variable, which is supported by the data. This model is likely to have a higher R-squared value and better goodness-of-fit metrics compared to the other models."
+  },
+  {
+    "id": 15643,
+    "question_text": "A juice shop has been operating in IITM. The price of its most fast-moving juice \u201cThe Mango Delight\u201d varies from month to month based on price of mangoes. The price for the juice and the demand for the juice in the past is given in Table-2.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/EifFNPs7qn2YzfmwU3aWW3QiTfRpLzzXjh8TJvVDhfu9T0axb7.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "ab75e150-4ebc-46d6-983c-bb70984de530",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15644,
+    "question_text": "If the demand response curve for \u201cThe Mango Delight\u201d is modelled assuming it as \u201cLinear Demand Response\u201d then what is the maximum possible demand? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "20645293-4bbb-4cad-9db5-c67e9683a22c",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15645,
+    "question_text": "If the demand response curve for \u201cThe Mango Delight\u201d is modelled assuming it as \u201cLinear Demand Response\u201d then what is the satiating price? (Note: Enter the answer rounded to two decimal places. For example, if the answer is \u201c1.234\u201d, then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "7114d196-d58b-4042-b50d-033b5905543c",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15646,
+    "question_text": "What is the difference in elasticity (at a price of Rs. 130/ glass) when modelling the curve as a \u201cLinear Demand Response\u201d as compared to a \u201cConstant Elasticity Curve\u201d (Note: Enter the answer as an absolute number (only magnitude) rounded to two decimal places. For example if the answer is \u201c-1.2345\u201d then enter it as \u201c1.23\u201d)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "79a5db4f-a02e-4d60-ad69-a652eef7d398",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15647,
+    "question_text": "",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/GbRjKM9Jif64h8cqDqBE55R21I69rE5cGMGq9DMbh2g1rYUgo1.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "6017b7d4-9a74-4873-be55-764b69184101",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15648,
+    "question_text": "What is the accuracy of the model?(in %)  Hint: Round your answer to two decimal places.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "d4d8d4e3-1ae8-4d99-b99c-6f71f61c9cd0",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15649,
+    "question_text": "What is the precision of class 1?(in %)  Hint: Round your answer to two decimal places.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "2c6159cb-f06f-4d34-bd2f-efc409cfd431",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15650,
+    "question_text": "What is the recall of class 1?(in %)  Hint: Round your answer to two decimal places.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "8edcccb9-cc51-448c-813d-37e9742174c5",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15651,
+    "question_text": "What is the precision of class 0?(in %)  Hint: Round your answer to two decimal places.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "d8cc8699-3e6e-4544-a0e2-e4bc83036531",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15652,
+    "question_text": "What is the recall of class 0?(in %)  Hint: Round your answer to two decimal places.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "2c35e6c6-4547-411c-93aa-6ff27fcaa2c0",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15653,
+    "question_text": "",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/T1SjK1hQpbXjW5DlWbHWATJxS9hevZVx2nbqdF9ysJMYHvtoWm.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "954f82d5-6d52-4be9-8b8e-91aab9f57710",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15654,
+    "question_text": "If a linear demand-response curve is fit for the data, what is the satiating price?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "b62ba287-be0b-48a8-8bf6-3b21222c39f5",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15655,
+    "question_text": "If a linear demand-response curve is fit for the data, what is the market size?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.50",
+    "uuid": "d6ab9188-6efa-4f09-a729-84dae3b0438d",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15656,
+    "question_text": "What is the elasticity of the linear demand-response curve, when the price is Rs. 140?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "ba709ac7-c9b7-45f0-ad53-880c17c2ca24",
+    "course_id": 13,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

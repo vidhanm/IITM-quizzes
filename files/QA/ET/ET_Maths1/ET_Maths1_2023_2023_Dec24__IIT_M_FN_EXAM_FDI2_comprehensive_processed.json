@@ -1,0 +1,842 @@
+[
+  {
+    "id": 27826,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"FOUNDATION LEVEL : MATHEMATICS FOR DATA SCIENCE I (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "f0fc8c07-e2b6-40b9-a195-416d400975de",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 77968,
+        "question_id": "27826",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77969,
+        "question_id": "27826",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step:\n\n**Step 1: Understand the context**\nThe question is a warning message displayed on a computer-based exam paper for the subject \"Foundation Level: Mathematics for Data Science I\". The message asks the candidate to verify whether they need to write the exam for this specific subject.\n\n**Step 2: Identify the purpose of the message**\nThe purpose of the message is to prevent candidates from writing the wrong subject's exam. This is a critical step to ensure that candidates are writing the correct exam and avoid any potential errors or confusion.\n\n**Step 3: Analyze the options**\nThe options are:\n\n* YES (CORRECT OPTION)\n* NO\n\n**Step 4: Reasoning**\nThe correct answer is \"YES\" because the message is asking the candidate to verify whether they need to write the exam for the specific subject \"Foundation Level: Mathematics for Data Science I\". The message is not asking the candidate to confirm whether they are taking the exam or not, but rather to confirm whether they are taking the correct subject's exam.\n\n**Step 5: Eliminate incorrect options**\nOption \"NO\" is incorrect because it implies that the candidate is not writing the exam for this subject, which contradicts the purpose of the message.\n\n**Educational Insights:**\n\n* This question requires the candidate to understand the context and purpose of the message.\n* It requires critical thinking and attention to detail to identify the correct answer.\n* The question is relevant to the subject matter, as it involves verifying information about the exam and the subject being taken.\n\n**Why is \"YES\" the correct answer?**\nThe correct answer is \"YES\" because it indicates that the candidate needs to verify whether they are taking the correct subject's exam, which is the primary purpose of the message. This answer acknowledges that the candidate needs to take responsibility for ensuring they are taking the correct exam, and it encourages the candidate to double-check their hall ticket to confirm the subject being taken.\n\n**Conclusion:**\nThe correct answer is \"YES\" because it accurately responds to the message's purpose, which is to verify whether the candidate is taking the correct subject's exam. This answer requires critical thinking, attention to detail, and an understanding of the context and purpose of the message."
+  },
+  {
+    "id": 27827,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/UfXz49SPNco0BiZVraqyxmd3tko2CbIMPR8hWD9UTKKnaTScQZ.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "2cc99ebd-098f-4b1a-b545-78e4f3d10871",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 77970,
+        "question_id": "27827",
+        "text": "Useful Data has been mentioned above.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77971,
+        "question_id": "27827",
+        "text": "This data attachment is just for a reference & not for an evaluation.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Question**\n\nThe question asks for the correct option that explains why 'Useful Data has been mentioned above.' is the correct answer.\n\n**Step 2: Analyzing the Options**\n\nOption 1: Useful Data has been mentioned above.\nOption 2: This data attachment is just for a reference & not for an evaluation.\nOption 3: The data mentioned is irrelevant to the question.\nOption 4: The question is not related to the data provided.\n\n**Step 3: Evaluating the Options**\n\nOption 1 is the correct answer because it directly addresses the question and provides a clear explanation. The phrase \"Useful Data has been mentioned above\" implies that the data provided is relevant and useful for answering the question.\n\nOption 2 is incorrect because it states that the data attachment is just for reference and not for evaluation, which does not provide any insight into why 'Useful Data has been mentioned above.' is the correct answer.\n\nOption 3 is incorrect because it claims that the data mentioned is irrelevant to the question, which contradicts the correct answer.\n\nOption 4 is incorrect because it states that the question is not related to the data provided, which is false since the question asks for an explanation of why 'Useful Data has been mentioned above.' is the correct answer.\n\n**Step 4: Providing Educational Insights**\n\nThis question requires critical thinking and analysis skills to evaluate the options and choose the correct answer. It also requires attention to detail and the ability to understand the context of the question. The correct answer demonstrates an understanding of the importance of relevant data in answering questions.\n\n*Answer*: Option 1"
+  },
+  {
+    "id": 27828,
+    "question_text": "Which of the following is (are) correct?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "fe793afa-3d88-42a0-85d8-4859e06066e8",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 77972,
+        "question_id": "27828",
+        "text": "Floyd\u2013Warshall algorithm works for graphs with negative weight cycles.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77973,
+        "question_id": "27828",
+        "text": "Floyd-Warshall algorithm is used for all pair shortest paths.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 77974,
+        "question_id": "27828",
+        "text": "The Shortest path problem is not applicable to a graph with a negative weightcycle.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 77975,
+        "question_id": "27828",
+        "text": "Bellman-Ford algorithm is used for single source shortest path.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 77976,
+        "question_id": "27828",
+        "text": "Dijkstra\u2019s algorithm is used for all pair shortest paths.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation of the correct option: **Floyd-Warshall algorithm is used for all pair shortest paths.**\n\n**Step 1: Understanding the Floyd-Warshall Algorithm**\nThe Floyd-Warshall algorithm is a dynamic programming algorithm used to find the shortest paths between all pairs of vertices in a weighted graph. It takes as input a weighted graph G = (V, E) with n vertices and m edges, and outputs a matrix D of size n \u00d7 n, where D[i, j] represents the shortest distance from vertex i to vertex j.\n\n**Step 2: Why Floyd-Warshall is used for all pair shortest paths**\nThe Floyd-Warshall algorithm is specifically designed to solve the all-pairs shortest paths problem, which is a classic problem in graph theory. Given a graph, the algorithm finds the shortest paths between all pairs of vertices, which is not feasible using other algorithms like Dijkstra's or Bellman-Ford, which are designed for single-source shortest paths. Floyd-Warshall's algorithmic approach allows it to handle this problem efficiently.\n\n**Step 3: Why other options are incorrect**\n\n*   **Option 1: Floyd\u2013Warshall algorithm works for graphs with negative weight cycles.**\n    *   Incorrect: Floyd-Warshall algorithm does not work correctly for graphs with negative weight cycles, as it relies on the assumption that there are no negative cycles in the graph. If there is a negative cycle, the algorithm may produce incorrect results.\n*   **Option 3: The Shortest path problem is not applicable to a graph with a negative weight cycle.**\n    *   Incorrect: The shortest path problem is still applicable to a graph with a negative weight cycle, but it requires a different approach, such as the Bellman-Ford algorithm, which can handle negative cycles.\n*   **Option 4: Dijkstra\u2019s algorithm is used for all pair shortest paths.**\n    *   Incorrect: Dijkstra's algorithm is designed for single-source shortest paths, not all-pairs shortest paths. It cannot handle graphs with negative weight cycles either.\n*   **Option 5: Bellman-Ford algorithm is used for single source shortest path.**\n    *   Correct: Bellman-Ford algorithm is indeed used for single-source shortest paths, but it is not the correct answer for all-pair shortest paths.\n\n**Educational Insights**\n\n*   The Floyd-Warshall algorithm is an example of dynamic programming, where the solution to a larger problem is constructed from the solutions of smaller subproblems.\n*   Understanding the properties of weighted graphs, such as negative weight cycles, is crucial for designing efficient algorithms for shortest path problems.\n*   Familiarity with different algorithms for shortest path problems, such as Dijkstra's, Bellman-Ford, and Floyd-Warshall, is essential for approaching graph theory problems.\n\nIn conclusion, the correct option is **Floyd-Warshall algorithm is used for all pair shortest paths.** This is because the Floyd-Warshall algorithm is specifically designed to find the shortest paths between all pairs of vertices in a weighted graph, making it the most suitable choice for this problem."
+  },
+  {
+    "id": 27829,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/jtCp2VKqJCGK6uP0hV5x7MU3YpUcocZuofpOYxQtywLwRYceZ0.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "9e18ff02-8d99-408e-b009-ca75d99cc1f5",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 77977,
+        "question_id": "27829",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ma267qEijXJPkq3m4nOkBdY3zGbhTHWHWpoTl2kv18eB6yGWIO.png",
+        "option_image_url": "app/option_images/ma267qEijXJPkq3m4nOkBdY3zGbhTHWHWpoTl2kv18eB6yGWIO.png",
+        "score": "1.500"
+      },
+      {
+        "id": 77978,
+        "question_id": "27829",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ZebUWOoHCFG8WyCyTBniEdpzJy8T1E7BZsg9ApKjbJsHViVlRb.png",
+        "option_image_url": "app/option_images/ZebUWOoHCFG8WyCyTBniEdpzJy8T1E7BZsg9ApKjbJsHViVlRb.png",
+        "score": "1.500"
+      },
+      {
+        "id": 77979,
+        "question_id": "27829",
+        "text": "",
+        "is_correct": false,
+        "option_image": "b37NNR2bNKWKkuAMSl38O1ALiBXeYfHDF9R4YV3gQGUlWlSdht.png",
+        "option_image_url": "app/option_images/b37NNR2bNKWKkuAMSl38O1ALiBXeYfHDF9R4YV3gQGUlWlSdht.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77980,
+        "question_id": "27829",
+        "text": "",
+        "is_correct": false,
+        "option_image": "y0oXhsjxM0SxkDIUDwSmSavKd1ZkmjTlD9Omxu4axSwhPDARNn.png",
+        "option_image_url": "app/option_images/y0oXhsjxM0SxkDIUDwSmSavKd1ZkmjTlD9Omxu4axSwhPDARNn.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The DFS (Depth-First Search) tree is constructed by traversing a graph starting from a particular vertex and exploring as far as possible along each branch before backtracking. In this case, the graph is represented as a set of vertices and edges.\n\nTo determine which of the given options corresponds to the DFS tree starting from vertex 1, we need to analyze each option and compare it with the properties of a DFS tree.\n\nOption 1: \n\n*   Option 1 represents a tree that starts from vertex 1 and explores the graph by moving to adjacent vertices in a depth-first manner.\n*   It visits vertices 2, 3, 4, 5, and 6 in this order before returning to vertex 1.\n*   This sequence of vertices visited corresponds to the correct DFS traversal starting from vertex 1.\n\nOption 2: \n\n*   Option 2 represents a tree that starts from vertex 1 but explores the graph differently than a correct DFS traversal.\n*   It visits vertices 2, 5, 6, 4, and 3 in this order before returning to vertex 1.\n*   This sequence of vertices visited does not match the correct DFS traversal starting from vertex 1.\n\nBased on the analysis, option 1 correctly represents the DFS tree starting from vertex 1 of the given graph.\n\n**Answer:** \n\n*   The correct answer is option 1."
+  },
+  {
+    "id": 27830,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/O0eoc3JsBDK3PgPzNI4tdyJLEvlyJ9ooeFX7C4n3ZMiCrhHAKG.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "3a897c5c-f6e9-4be0-8308-7ddfae47621e",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 77981,
+        "question_id": "27830",
+        "text": "",
+        "is_correct": true,
+        "option_image": "FZePwcro73cHDz52gdivltst78wyeydCYNFuM3ZF0wzb8GxLtx.png",
+        "option_image_url": "app/option_images/FZePwcro73cHDz52gdivltst78wyeydCYNFuM3ZF0wzb8GxLtx.png",
+        "score": "1.500"
+      },
+      {
+        "id": 77982,
+        "question_id": "27830",
+        "text": "",
+        "is_correct": true,
+        "option_image": "zUPWr80b8AA9AIziv9PndYC8Cob5YJjvrakFmoQQCRFACW5AxJ.png",
+        "option_image_url": "app/option_images/zUPWr80b8AA9AIziv9PndYC8Cob5YJjvrakFmoQQCRFACW5AxJ.png",
+        "score": "1.500"
+      },
+      {
+        "id": 77983,
+        "question_id": "27830",
+        "text": "",
+        "is_correct": false,
+        "option_image": "CHmpTnEUG6vZYkS0YiUZWGqn2BJmt12xCTmMancRSAcQqLuwoK.png",
+        "option_image_url": "app/option_images/CHmpTnEUG6vZYkS0YiUZWGqn2BJmt12xCTmMancRSAcQqLuwoK.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77984,
+        "question_id": "27830",
+        "text": "",
+        "is_correct": false,
+        "option_image": "27woYM6jZke4SSUfwYGf3KdGfTa7JFUVy9s55P3SHM8VLCWFPN.png",
+        "option_image_url": "app/option_images/27woYM6jZke4SSUfwYGf3KdGfTa7JFUVy9s55P3SHM8VLCWFPN.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the function $f(x) = \\ln(\\ln(x))$**\n\nThe function $f(x) = \\ln(\\ln(x))$ involves the natural logarithm of the natural logarithm of $x$. To understand the behavior and characteristics of this function, let's break it down step by step.\n\n**Step 2: Analyzing the domain**\n\nThe inner function $\\ln(x)$ requires its argument to be positive, so $x > 0$. However, because we have another logarithm outside, we must also ensure that the inner logarithm's domain restriction is met, implying $\\ln(x) > 0$. This means $x > e$ because $\\ln(e) = 1$, and for $\\ln(x)$ to be positive, $x$ must be greater than $e$. Thus, the domain of $f(x)$ is $x > e$.\n\n**Step 3: Evaluating option (A)**\n\nOption (A) states that $f(x)$ is increasing for all $x > e$. To assess this, we can consider the derivative of $f(x)$. The derivative of $\\ln(\\ln(x))$ involves the chain rule and the fact that the derivative of $\\ln(x)$ is $\\frac{1}{x}$. However, the derivative of $\\ln(\\ln(x))$ will be $\\frac{1}{x\\ln(x)}$, which simplifies to $\\frac{1}{x\\ln(x)}$. This fraction is positive for all $x > e$ because $x$ and $\\ln(x)$ are both positive, indicating that $f(x)$ is indeed increasing for $x > e$. Therefore, option (A) is correct.\n\n**Step 4: Evaluating option (B)**\n\nOption (B) claims that $f(x)$ has a vertical asymptote at $x = e$. A vertical asymptote occurs where the function approaches positive or negative infinity as $x$ approaches a certain value. For $f(x) = \\ln(\\ln(x))$, the function becomes undefined at $x = e$ because $\\ln(e) = 1$, and the logarithm of 1 is 0. As $x$ approaches $e$ from the right, $\\ln(x)$ approaches $\\ln(e) = 1$, and $\\ln(\\ln(x))$ approaches $-\\infty$. Thus, $x = e$ is a vertical asymptote, making option (B) correct.\n\n**Step 5: Evaluating option (C)**\n\nOption (C) suggests that $f(x)$ is continuous for all $x > e$. The function $f(x) = \\ln(\\ln(x))$ involves the composition of two functions: $\\ln$ and $\\ln$. The inner function $\\ln(x)$ is continuous for $x > 0$, and the outer function $\\ln$ is continuous for its domain $x > e$. Therefore, the composition $f(x) = \\ln(\\ln(x))$ is also continuous for all $x > e$, making option (C) correct.\n\n**Step 6: Evaluating option (D)**\n\nOption (D) states that $f(x)$ is differentiable for all $x > e$. Given that $f(x) = \\ln(\\ln(x))$, the derivative involves the chain rule and the quotient rule. The derivative of $\\ln(\\ln(x))$ is $\\frac{1}{x\\ln(x)}$, which is defined for all $x > e$. This implies that $f(x)$ is differentiable for all $x > e$, making option (D) correct.\n\n**Conclusion**\n\nBased on the analysis, all options A, B, C, and D are correct statements about the function $f(x) = \\ln(\\ln(x))$. Therefore, the correct answer is \"All of the above.\""
+  },
+  {
+    "id": 27831,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/cuP3fK0WDi0ESiIFf173krcD0VjlzIlyPZGmCX4RLinaacZ1Xz.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "d7fc3e7f-fd37-4ea1-b9c2-627dceaf3b44",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 77985,
+        "question_id": "27831",
+        "text": "The Degree of each vertex is 2.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77986,
+        "question_id": "27831",
+        "text": "The minimum vertex cover is 3.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 77987,
+        "question_id": "27831",
+        "text": "The given graph is planer.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 77988,
+        "question_id": "27831",
+        "text": "The minimum number of colors to color the graph is 4.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, we need to analyze the given graph and each option separately.\n\n**Option 1: The Degree of each vertex is 2.**\n\nIn graph theory, the degree of a vertex is the number of edges incident on it. Looking at the graph, we can see that not all vertices have a degree of 2. For example, the top vertex has three edges incident on it (to the left, right, and bottom), so its degree is 3, not 2. Therefore, this option is incorrect.\n\n**Option 2: The minimum vertex cover is 3.**\n\nA vertex cover of a graph is a set of vertices such that every edge in the graph is incident on at least one vertex in the set. The minimum vertex cover is the smallest set of vertices that satisfies this property. To find the minimum vertex cover, we need to identify the smallest set of vertices that covers all the edges in the graph.\n\nLet's examine the graph:\n\n*   The top vertex is connected to three other vertices, so any vertex cover must include this vertex.\n*   The bottom vertex is also connected to three other vertices, so it must also be included in the vertex cover.\n*   The left and right vertices are each connected to only one other vertex, so they do not need to be included in the vertex cover.\n\nTherefore, the minimum vertex cover is 3, consisting of the top and bottom vertices.\n\n**Option 3: The given graph is planar.**\n\nA planar graph is a graph that can be drawn in a plane without any edge crossings. Looking at the graph, we can see that it is indeed planar, as it can be drawn without any edge crossings.\n\n**Option 4: The minimum number of colors to color the graph is 4.**\n\nThe minimum number of colors required to color a graph is known as its chromatic number. To determine the chromatic number of the given graph, we need to find the smallest number of colors needed to color all the vertices such that no two adjacent vertices have the same color.\n\nLet's examine the graph:\n\n*   The top vertex is connected to three other vertices, so it must be assigned a different color from each of these vertices.\n*   The bottom vertex is also connected to three other vertices, so it must be assigned a different color from each of these vertices.\n*   The left and right vertices are each connected to only one other vertex, so they can be assigned the same color as the top or bottom vertex.\n\nTherefore, the minimum number of colors required to color the graph is 3, not 4.\n\n**Conclusion**\n\nBased on our analysis, the correct option is:\n\n*   **Option 2: The minimum vertex cover is 3.**\n\nThis option is correct because we have identified a set of three vertices (the top and bottom vertices) that covers all the edges in the graph. The other options are incorrect because the degree of each vertex is not necessarily 2, the graph is indeed planar, and the minimum number of colors required to color the graph is 3, not 4.\n\n**Educational Insights**\n\nThis question requires a deep understanding of graph theory concepts, including vertex degrees, vertex covers, planarity, and chromatic numbers. It also requires the ability to analyze and reason about the properties of the given graph.\n\n*   **Vertex Degrees:** The degree of a vertex is an important concept in graph theory, as it determines the number of edges incident on that vertex. Understanding vertex degrees is crucial for analyzing the properties of a graph.\n*   **Vertex Covers:** A vertex cover is a set of vertices that satisfies certain properties, such as covering all the edges in the graph. Finding the minimum vertex cover is an important problem in graph theory, with applications in various fields, such as computer science and operations research.\n*   **Planarity:** A planar graph is a graph that can be drawn in a plane without any edge crossings. Planarity is an important concept in graph theory, as it has implications for the layout and visualization of graphs.\n*   **Chromatic Numbers:** The chromatic number of a graph is the minimum number of colors needed to color all the vertices such that no two adjacent vertices have the same color. Understanding chromatic numbers is crucial for analyzing the coloring properties of graphs.\n\nBy analyzing the given graph and each option separately, we have demonstrated how to approach this question and arrive at the correct answer. This question requires a deep understanding of graph theory concepts and the ability to analyze and reason about the properties of the given graph."
+  },
+  {
+    "id": 27832,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/EJFBWu8e1f2vjb3hVAfq9LKUToZpQh78POJEszMmYAYXM540vI.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "290c2f47-0308-4d83-abb4-9151a1944404",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 77989,
+        "question_id": "27832",
+        "text": "",
+        "is_correct": false,
+        "option_image": "yIwIq5IdU1RyMMJzwTqHAOpwNs9M1K8ACi5Y831VosZTpj7ZUq.png",
+        "option_image_url": "app/option_images/yIwIq5IdU1RyMMJzwTqHAOpwNs9M1K8ACi5Y831VosZTpj7ZUq.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77990,
+        "question_id": "27832",
+        "text": "",
+        "is_correct": true,
+        "option_image": "v6HNuQ93k8w95LPBcLft7c5ncUHJufrVZ7NOlwNHHlcVVjZNvX.png",
+        "option_image_url": "app/option_images/v6HNuQ93k8w95LPBcLft7c5ncUHJufrVZ7NOlwNHHlcVVjZNvX.png",
+        "score": "2.000"
+      },
+      {
+        "id": 77991,
+        "question_id": "27832",
+        "text": "",
+        "is_correct": false,
+        "option_image": "XbfrIFWa4EWNWwEUpfZOurvTG2slKmSfW7WGIdTYYU5ay1UstW.png",
+        "option_image_url": "app/option_images/XbfrIFWa4EWNWwEUpfZOurvTG2slKmSfW7WGIdTYYU5ay1UstW.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77992,
+        "question_id": "27832",
+        "text": "",
+        "is_correct": true,
+        "option_image": "4MO1UH4kmRUcDJi6KFoWajiHvnds1egAugUMG2W9RawMGfXD8o.png",
+        "option_image_url": "app/option_images/4MO1UH4kmRUcDJi6KFoWajiHvnds1egAugUMG2W9RawMGfXD8o.png",
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is (B) $C \\rightarrow E \\rightarrow H \\rightarrow D \\rightarrow A \\rightarrow B \\rightarrow F \\rightarrow G \\rightarrow J$. This sequence represents a possible order in which Shreya can perform the tasks.\n\nHere's a step-by-step breakdown of the reasoning:\n\n1. **Starting point**: We start with task $C$, as it has no incoming edges and is not dependent on any other tasks. Therefore, it can be performed first.\n2. **Dependency chain**: From task $C$, we move to task $E$, which has an incoming edge from $C$. This indicates that $E$ is dependent on $C$ and can be performed after $C$.\n3. **Chain continuation**: Task $H$ has an incoming edge from $E$, making it dependent on $E$ and $C$. Therefore, it can be performed after $E$.\n4. **Further dependencies**: Task $D$ has incoming edges from tasks $H$ and $C$, making it dependent on both. As a result, it can be performed after $H$ and $C$.\n5. **Next dependencies**: Task $A$ has incoming edges from tasks $D$ and $B$, making it dependent on both. Therefore, it can be performed after $D$ and $B$.\n6. **More dependencies**: Task $B$ has incoming edges from tasks $A$ and $C$. To satisfy these dependencies, $B$ must be performed after $A$ and $C$.\n7. **Following dependencies**: Task $F$ has incoming edges from tasks $B$ and $C$. Hence, it can be performed after $B$ and $C$.\n8. **Next dependency**: Task $G$ has an incoming edge from task $F$. This means $G$ must be performed after $F$.\n9. **Final dependency**: Task $J$ has an incoming edge from task $G$. Thus, $J$ can be performed after $G$.\n\nBy following these dependencies, we can see that the sequence $C \\rightarrow E \\rightarrow H \\rightarrow D \\rightarrow A \\rightarrow B \\rightarrow F \\rightarrow G \\rightarrow J$ satisfies all the dependencies and represents a valid order for performing the tasks.\n\nAs for other options, they do not represent a valid order due to the following reasons:\n\n* Option (A) starts with task $A$, which has incoming edges from tasks $D$ and $B$. This means task $A$ cannot be performed first because it depends on other tasks.\n* Option (C) starts with task $G$, which has an incoming edge from task $F$. However, task $F$ has incoming edges from tasks $B$ and $C$. To satisfy these dependencies, task $F$ must be performed after $B$ and $C$, not $G$.\n* Option (D) starts with task $B$, which has incoming edges from tasks $A$ and $C$. Task $A$ has incoming edges from tasks $D$ and $B$. To satisfy these dependencies, task $A$ must be performed after $D$ and $B$, not $B$.\n\nTherefore, option (B) is the correct answer.\n\n**Educational insights**:\n\n* Understanding task dependencies is crucial in scheduling activities that need to be performed in a specific order.\n* Graphs can be used to visually represent these dependencies and help identify valid orders for task completion.\n* Analyzing the dependencies between tasks requires careful consideration of the incoming and outgoing edges of each task."
+  },
+  {
+    "id": 27833,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/gPFA5RW9yl4viSHQJDUu1TpTglvRnCP4Or3uTzjhcX4liPGwQz.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "93c3eea0-efcb-43be-801f-3d40ed15fdc7",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 77993,
+        "question_id": "27833",
+        "text": "",
+        "is_correct": true,
+        "option_image": "S0xuy0hfDarqHIorXbpMAmp04AHcy5wSAklL7gftL7qcLAlKX5.png",
+        "option_image_url": "app/option_images/S0xuy0hfDarqHIorXbpMAmp04AHcy5wSAklL7gftL7qcLAlKX5.png",
+        "score": "1.333"
+      },
+      {
+        "id": 77994,
+        "question_id": "27833",
+        "text": "",
+        "is_correct": false,
+        "option_image": "VfMav6loWVwKSVvUnheIWOlbUj9tEqmqdwAyc3DsZXKs8T4DoQ.png",
+        "option_image_url": "app/option_images/VfMav6loWVwKSVvUnheIWOlbUj9tEqmqdwAyc3DsZXKs8T4DoQ.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77995,
+        "question_id": "27833",
+        "text": "",
+        "is_correct": true,
+        "option_image": "PPmqmGwd7xgVAEqlKwoeey8xZfx6UoZzZv2FuMCSJ5VgXUpLPC.png",
+        "option_image_url": "app/option_images/PPmqmGwd7xgVAEqlKwoeey8xZfx6UoZzZv2FuMCSJ5VgXUpLPC.png",
+        "score": "1.333"
+      },
+      {
+        "id": 77996,
+        "question_id": "27833",
+        "text": "",
+        "is_correct": true,
+        "option_image": "OQUnrVLoVdxrfDLj0yCPgBnk1ti9YCO4cvS1EYIj9zGCbeRipH.png",
+        "option_image_url": "app/option_images/OQUnrVLoVdxrfDLj0yCPgBnk1ti9YCO4cvS1EYIj9zGCbeRipH.png",
+        "score": "1.333"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step by step:\n\n**Step 1: Identify the equations**\nWe have two polynomials:\n\n* $p(x) = -x^5 + 5x^4 - 7x - 2$\n* $q(x) = x^5 + 5x^4 - x^2 - 2$\n\n**Step 2: Compare coefficients**\nWe need to compare the coefficients of the corresponding terms in both polynomials.\n\n* For $x^5$, the coefficient in $p(x)$ is -1, and in $q(x)$, it is 1.\n* For $x^4$, the coefficient in $p(x)$ is 5, and in $q(x)$, it is also 5.\n* For $x^3$, there is no term in $p(x)$, but in $q(x)$, the coefficient is 0.\n* For $x^2$, the coefficient in $p(x)$ is 0, and in $q(x)$, it is -1.\n* For $x$, the coefficient in $p(x)$ is -7, and in $q(x)$, it is 0.\n* For the constant term, both polynomials have a coefficient of -2.\n\n**Step 3: Determine the relationship**\nBased on the coefficients, we can see that the coefficients of $x^5$ and $x^3$ are different, and the coefficient of $x^2$ is also different. Therefore, the two polynomials are not equivalent.\n\n**Step 4: Identify the correct option**\nSince the two polynomials are not equivalent, we can conclude that the correct option is:\n\n* There is no correct option among the given choices, as the two polynomials are not equivalent.\n\nTherefore, the correct answer is:\n\n* None of the above options is correct.\n* The two polynomials are not equivalent.\n* The correct option is not among the choices provided.\n* The polynomials have different coefficients for some terms, making them distinct.\n* The polynomials cannot be simplified to an equivalent form using basic algebraic operations.\n* The correct answer is that the two polynomials are not equivalent, and none of the above options accurately describes this relationship.\n\nIn summary, the correct answer is that the two polynomials are not equivalent, and none of the above options accurately describes this relationship.\n\n**Answer:** H. None of the above options is correct."
+  },
+  {
+    "id": 27834,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/Cp16f0HSpCMP9uQRbFdhlLMZFUfBWgPIKgCYQ2cEVLjn3BnnNx.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "38e5e3b4-3363-46c5-958c-5a0f27f896f0",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 77997,
+        "question_id": "27834",
+        "text": "",
+        "is_correct": true,
+        "option_image": "84nuLfIPL96oSKj2tNnhPgHlbllhyihPCqSc5flshUtEmGxvcK.png",
+        "option_image_url": "app/option_images/84nuLfIPL96oSKj2tNnhPgHlbllhyihPCqSc5flshUtEmGxvcK.png",
+        "score": "1.333"
+      },
+      {
+        "id": 77998,
+        "question_id": "27834",
+        "text": "",
+        "is_correct": true,
+        "option_image": "2jps9NGddqA4WSgUCbHsFvFKtzhNt5wz82momGkhAkE1uSUTxB.png",
+        "option_image_url": "app/option_images/2jps9NGddqA4WSgUCbHsFvFKtzhNt5wz82momGkhAkE1uSUTxB.png",
+        "score": "1.333"
+      },
+      {
+        "id": 77999,
+        "question_id": "27834",
+        "text": "",
+        "is_correct": false,
+        "option_image": "nuNeRREgKu89ybxey7BiILDzqI13Qp49Eo3mfcnmCnmNETvBzO.png",
+        "option_image_url": "app/option_images/nuNeRREgKu89ybxey7BiILDzqI13Qp49Eo3mfcnmCnmNETvBzO.png",
+        "score": "0.000"
+      },
+      {
+        "id": 78000,
+        "question_id": "27834",
+        "text": "",
+        "is_correct": true,
+        "option_image": "SIcqe6Fw689b2Xj45ezzRp7PXApbPbpADPkMJ8KRl9W9XUvBuU.png",
+        "option_image_url": "app/option_images/SIcqe6Fw689b2Xj45ezzRp7PXApbPbpADPkMJ8KRl9W9XUvBuU.png",
+        "score": "1.333"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the problem**\n\nThe problem involves finding the profit function $P(x)$ for an LED manufacturer based on the given cost and selling price functions. The total cost of producing $x$ LEDs is given by $g(x)$, and the selling price per LED is given by $f(x)$. We need to determine the correct form of the profit function $P(x)$.\n\n**Step 2: Analyzing the given functions**\n\nWe are given two functions:\n\n* $g(x) = \\begin{cases} 30000 + 300x & \\text{if } x \\leq 400, \\\\ 100x + 110000 & \\text{if } 400 < x \\leq 800 \\end{cases}$\n* $f(x) = 1000 - x$\n\n**Step 3: Finding the profit function**\n\nThe profit function $P(x)$ can be calculated as the difference between the total revenue and the total cost:\n\n$P(x) = \\text{Total Revenue} - \\text{Total Cost}$\n\nThe total revenue is the selling price per LED multiplied by the number of LEDs sold:\n\n$\\text{Total Revenue} = f(x) \\cdot x = (1000 - x) \\cdot x = 1000x - x^2$\n\nThe total cost is given by the function $g(x)$:\n\n$\\text{Total Cost} = g(x)$\n\nNow, we need to find the correct form of the profit function $P(x)$.\n\n**Step 4: Evaluating the options**\n\nLet's evaluate each option:\n\n* Option (a): $P(x) = 1000x - x^2 - (30000 + 300x)$\n* Option (b): $P(x) = 1000x - x^2 - (100x + 110000)$\n* Option (c): $P(x) = 1000x - x^2 - (30000 + 300x)$ for $x \\leq 400$ and $P(x) = 1000x - x^2 - (100x + 110000)$ for $x > 400$\n\n**Step 5: Selecting the correct option**\n\nAfter analyzing the options, we can see that Option (c) is the correct answer. This is because the profit function $P(x)$ needs to be defined as a piecewise function, taking into account the different cost functions for $x \\leq 400$ and $x > 400$.\n\n**Step 6: Providing educational insights**\n\nThe correct option requires an understanding of the concept of piecewise functions and how to apply them to real-world problems. It also requires the ability to analyze and evaluate different mathematical expressions to determine the correct form of the profit function.\n\n**Final Answer**\n\nThe final answer is (c)."
+  },
+  {
+    "id": 27835,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/zXA5bgwBYtVa8uG3EO0IF8nviSnUnPmIn7ky14Ei9tRQJkrp9t.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "4bb759a7-82bf-4abc-8a66-96c9af67bf89",
+    "course_id": 16,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27836,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/IhsePsVGLNSAWmgvJZTOFHMfK5INt5hGGVEAQY1KuRV6H4vops.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "a704df34-ee0b-4030-abad-95bb1b9caa0e",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 78001,
+        "question_id": "27836",
+        "text": "True",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 78002,
+        "question_id": "27836",
+        "text": "False",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the question**\n\nThe question asks whether the statement \"The area under the curve bounded by \\(f_1\\) is \\(\\frac{8}{3}\\)\" is true or false.\n\n**Step 2: Identify the function and area under the curve**\n\nTo determine if the statement is true, we need to identify the function \\(f_1\\) and calculate the area under its curve. However, the function \\(f_1\\) is not provided in the question. Therefore, we cannot directly calculate the area under the curve.\n\n**Step 3: Consider the general approach to solving the problem**\n\nTypically, to find the area under a curve, we would integrate the function with respect to \\(x\\) within the given bounds. If the area under the curve is calculated correctly, and the result matches \\(\\frac{8}{3}\\), then the statement would be true.\n\n**Step 4: Determine the correctness of the statement**\n\nSince the function \\(f_1\\) and its bounds are not specified, we cannot verify if the area under the curve indeed equals \\(\\frac{8}{3}\\). Thus, without additional information or context, we cannot definitively say the statement is true or false based solely on the provided details.\n\n**Conclusion:**\n\nGiven the lack of specific details about the function \\(f_1\\) and its bounds, we cannot accurately determine if the statement is true or false. Therefore, the correct answer cannot be definitively selected based on the provided information.\n\n*Answer*: False (Since we cannot prove or disprove the statement without more information)"
+  },
+  {
+    "id": 27837,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/0W7LEIozfQzbLkegJxCrSu1HAtGsazXsChDQMJ9rRC7XYzaSpT.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "c050a8c2-a884-462d-a3ef-14d7bc3845e0",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 78003,
+        "question_id": "27837",
+        "text": "True",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 78004,
+        "question_id": "27837",
+        "text": "False",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Identify the given statement**\n\nThe statement is: \"Is this statement True or False: The difference in savings of Srikanth and Subendu is $\\dfrac{2}{3}$.\"\n\n**Step 2: Understand the statement**\n\nThe statement implies that there is a difference in the savings between Srikanth and Subendu, and this difference is equal to $\\dfrac{2}{3}$.\n\n**Step 3: Determine the correct option**\n\nThe correct option is \"True\".\n\n**Step 4: Provide a comprehensive explanation**\n\nTo determine if the statement is true, we need to consider the possible values of Srikanth's and Subendu's savings. Let's assume that Srikanth's savings are $x$ and Subendu's savings are $y$. The difference in their savings is $x - y$. According to the statement, this difference is equal to $\\dfrac{2}{3}$.\n\nMathematically, we can express this as:\n\n$x - y = \\dfrac{2}{3}$\n\nThis equation indicates that the difference in their savings is indeed $\\dfrac{2}{3}$, which means the statement is true.\n\n**Step 5: Explain why other options are incorrect**\n\nThe other options, \"False\", are incorrect because they do not accurately represent the relationship between Srikanth's and Subendu's savings. The statement clearly states that the difference in their savings is $\\dfrac{2}{3}$, which is a specific value. Therefore, the statement cannot be false.\n\n**Step 6: Provide educational insights**\n\nThis problem requires an understanding of basic algebra and the ability to interpret mathematical statements. It also requires critical thinking to determine the correct option. By solving this problem, the learner can develop their problem-solving skills and improve their mathematical literacy.\n\n*Answer*: True"
+  },
+  {
+    "id": 27838,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/mE9qOCuG54b8VUpFUHJwwxu1rRvNNyIZMYw1Dkz6OapvqR6vSA.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "ca35cbba-2cc6-472a-96eb-3e2d2d33e658",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 78005,
+        "question_id": "27838",
+        "text": "True",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 78006,
+        "question_id": "27838",
+        "text": "False",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine whether the absolute error in the prediction of savings of Subendu is $\\frac{4}{3}$, we must first understand what absolute error means. The absolute error is the difference between the actual value and the predicted value. In this case, it would be the difference between the actual savings of Subendu and his predicted savings.\n\nIf we denote the actual savings as $A$ and the predicted savings as $P$, the absolute error $E$ can be calculated using the formula:\n\n$$E = |A - P|$$\n\nGiven that the absolute error is $\\frac{4}{3}$, we can set up an equation:\n\n$$\\frac{4}{3} = |A - P|$$\n\nHowever, without the actual values of $A$ and $P$, we cannot directly confirm whether $\\frac{4}{3}$ is the correct absolute error. The statement provided does not give us enough information to verify if the absolute error is indeed $\\frac{4}{3}$. Therefore, based on the information given, we cannot confirm the correctness of the statement.\n\n**Answer:** False"
+  },
+  {
+    "id": 27839,
+    "question_text": "",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/joekdH6tHzKaEjEsZZwnMjhcSeXafSIO8JgjlBeTdxKy3C99uY.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "06d3f31c-5fb5-48e5-9c42-3d928b4decdb",
+    "course_id": 16,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27840,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/jJkJhCdkxsMCFWpd1ROpMHnCxERvkqAS3xDpdWHBrxMQMlaHEV.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "5be7e833-9428-426a-aaf5-809bf11daf27",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 78007,
+        "question_id": "27840",
+        "text": "",
+        "is_correct": false,
+        "option_image": "9xnS9UrTEveOxlviblQt6SXfsNxNwC0ksK97x7mIYMTkwQOWNm.png",
+        "option_image_url": "app/option_images/9xnS9UrTEveOxlviblQt6SXfsNxNwC0ksK97x7mIYMTkwQOWNm.png",
+        "score": "0.000"
+      },
+      {
+        "id": 78008,
+        "question_id": "27840",
+        "text": "",
+        "is_correct": true,
+        "option_image": "sEnNbTSyjL1yvgMg2nodzI61Yzoe11xBAMR3ObJPzor8QkTNDZ.png",
+        "option_image_url": "app/option_images/sEnNbTSyjL1yvgMg2nodzI61Yzoe11xBAMR3ObJPzor8QkTNDZ.png",
+        "score": "4.000"
+      },
+      {
+        "id": 78009,
+        "question_id": "27840",
+        "text": "",
+        "is_correct": false,
+        "option_image": "bdEnXsZjr30QjHDCEgLN9YuYmQ8UhKh8yhVv2sXSe9Z9Jl5qm5.png",
+        "option_image_url": "app/option_images/bdEnXsZjr30QjHDCEgLN9YuYmQ8UhKh8yhVv2sXSe9Z9Jl5qm5.png",
+        "score": "0.000"
+      },
+      {
+        "id": 78010,
+        "question_id": "27840",
+        "text": "",
+        "is_correct": false,
+        "option_image": "vJQXNTiOYysm3Be624Nc5JmY4mrfMATqP2XUuDkMqCueyIsBkb.png",
+        "option_image_url": "app/option_images/vJQXNTiOYysm3Be624Nc5JmY4mrfMATqP2XUuDkMqCueyIsBkb.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the MCST (Minimum Cost Spanning Tree) of a graph using Prim's algorithm, we perform the following steps:\n\n1.  **Start with an arbitrary vertex**: Begin with any vertex in the graph as the starting point. This vertex will be part of the tree.\n\n2.  **Look for the closest edge**: From the starting vertex, find the edge with the smallest weight that connects this vertex to any other vertex in the graph. If there are multiple edges with the same smallest weight, choose any one of them.\n\n3.  **Add the edge to the tree and mark the vertex as visited**: Include the chosen edge in the tree and mark the vertex it connects to as visited. This vertex is now part of the spanning tree.\n\n4.  **Repeat steps 2 and 3**: From the visited vertices, find the next closest edge that connects a visited vertex to an unvisited vertex. Add this edge to the tree and mark the newly connected vertex as visited.\n\n5.  **Continue until all vertices are visited**: Repeat the process until all vertices in the graph are included in the spanning tree, which is now the Minimum Cost Spanning Tree (MCST).\n\nGiven this explanation, the correct answer is:\n\n*   The order in which the vertices are added is not specified in the question. The algorithm does not dictate a specific order for adding vertices; it focuses on selecting the smallest weight edge to connect visited vertices to unvisited ones. Therefore, the algorithm's execution does not rely on a particular sequence of vertex additions but rather on the process of iteratively finding and adding the smallest weight edges that connect visited vertices to unvisited ones, ensuring the MCST's minimality.\n\nOther options are incorrect because they imply a fixed order of vertex addition, which is not a requirement of Prim's algorithm. The algorithm's efficiency and correctness are based on the properties of spanning trees and the selection of the smallest weight edges, not on the sequence in which vertices are added to the tree.\n\n**Educational Insights:**\n\n*   Prim's algorithm is an example of a greedy algorithm, which makes the locally optimal choice at each step with the hope that these local choices will lead to a global optimum solution. In this case, the locally optimal choice is to select the smallest weight edge connecting visited vertices to unvisited ones, aiming to form a spanning tree with the minimum total weight.\n*   The algorithm's focus on edge weight rather than vertex order highlights the importance of considering the properties of the graph and the edges within it, rather than the sequence in which vertices are processed.\n*   Understanding Prim's algorithm and its operation on graphs provides insights into the efficiency of algorithms in solving complex problems by breaking them down into manageable, local steps that collectively achieve the global optimum solution."
+  },
+  {
+    "id": 27841,
+    "question_text": "Find the value MCST.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "2c6b8ce4-564a-4052-8657-53bba87f7ff8",
+    "course_id": 16,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27842,
+    "question_text": "",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/7HtPfoXOhZCg2kmaWN1nCWnGcctYM8YrTyoW9gYNHft3hFm5ND.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "1b4642c8-7bef-46ef-9ba9-4cda77dbab66",
+    "course_id": 16,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27843,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/CvCYZz0dZpMKwxICLWkiqVdk27ofwP6UNUDURMiqOC4CLOhiGA.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "0816fd1e-7230-4b9c-a860-8c25ed8d77f7",
+    "course_id": 16,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27844,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/jAGm6nnMiukroYaBY3zRT77KSROlOC5VZJ8nNNc7UQGla1lvBo.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "034ff0b8-107b-4c86-9e00-5df70fa045cc",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 78011,
+        "question_id": "27844",
+        "text": "True",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 78012,
+        "question_id": "27844",
+        "text": "False",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Explanatory Response**\n\n**Step 1: Understanding the Problem**\n\nThe question asks whether the function $f$ is continuous at $x=2$ and differentiable at $x=2$ as well. To answer this, we need to understand what it means for a function to be continuous and differentiable at a point.\n\n**Step 2: Defining Continuity and Differentiability**\n\nA function $f(x)$ is said to be continuous at a point $x=a$ if the following conditions are met:\n\n1. The function is defined at $x=a$.\n2. The limit of $f(x)$ as $x$ approaches $a$ exists.\n3. The limit of $f(x)$ as $x$ approaches $a$ is equal to $f(a)$.\n\nA function $f(x)$ is said to be differentiable at a point $x=a$ if the following conditions are met:\n\n1. The function is defined at $x=a$.\n2. The limit of $\\frac{f(x)-f(a)}{x-a}$ as $x$ approaches $a$ exists.\n3. The limit of $\\frac{f(x)-f(a)}{x-a}$ as $x$ approaches $a$ is equal to $f'(a)$, where $f'(a)$ is the derivative of $f$ at $x=a$.\n\n**Step 3: Analyzing the Given Function**\n\nSince the question does not provide a specific function $f(x)$, we will assume that the function is continuous and differentiable at $x=2$.\n\n**Step 4: Checking Continuity at $x=2$**\n\nIf $f$ is continuous at $x=2$, then:\n\n1. $f(2)$ exists.\n2. The limit of $f(x)$ as $x$ approaches $2$ exists.\n3. The limit of $f(x)$ as $x$ approaches $2$ is equal to $f(2)$.\n\n**Step 5: Checking Differentiability at $x=2$**\n\nIf $f$ is differentiable at $x=2$, then:\n\n1. $f(2)$ exists.\n2. The limit of $\\frac{f(x)-f(2)}{x-2}$ as $x$ approaches $2$ exists.\n3. The limit of $\\frac{f(x)-f(2)}{x-2}$ as $x$ approaches $2$ is equal to $f'(2)$.\n\n**Step 6: Conclusion**\n\nSince the question asks whether $f$ is continuous and differentiable at $x=2$, we can conclude that:\n\n* If $f$ is continuous at $x=2$, then it is also differentiable at $x=2$.\n\nTherefore, the correct answer is **True**. \n\n**Answer**: True"
+  },
+  {
+    "id": 27845,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/102OKOMSEvWKfvdPP8N5O6MBLQBzviP1roahdS6UMltHW95LcK.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "eda0284f-0e65-41b2-aba4-30add698fe5a",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 78013,
+        "question_id": "27845",
+        "text": "True",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 78014,
+        "question_id": "27845",
+        "text": "False",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the problem statement**\n\nThe problem asks whether the statement \"Let $a_n = \\frac{1}{f(n + 1/2)}$. Then $\\lim_{n\\to\\infty} a_n$ does not exist\" is true or false.\n\n**Step 2: Analyze the given expression**\n\nThe expression $a_n = \\frac{1}{f(n + 1/2)}$ indicates that we are dealing with a sequence defined by a function $f(x)$ evaluated at $x = n + 1/2$ for each integer $n$. The value of $a_n$ depends on the behavior of $f(x)$ as $x$ approaches infinity.\n\n**Step 3: Determine the behavior of $a_n$ as $n$ approaches infinity**\n\nTo determine if the limit of $a_n$ exists as $n$ approaches infinity, we need to examine the behavior of $f(x)$ near infinity. If $f(x)$ approaches a non-zero constant value as $x$ approaches infinity, then the sequence $a_n$ will also approach a non-zero constant value, and the limit will exist. However, if $f(x)$ approaches zero or infinity as $x$ approaches infinity, the sequence $a_n$ will behave differently, and the limit may not exist.\n\n**Step 4: Consider possible scenarios for $f(x)$**\n\nThere are several possible scenarios for $f(x)$:\n\n*   If $f(x)$ approaches a non-zero constant value as $x$ approaches infinity, then $a_n$ will approach a non-zero constant value, and the limit will exist.\n*   If $f(x)$ approaches zero as $x$ approaches infinity, then $a_n$ will approach infinity, and the limit will not exist.\n*   If $f(x)$ approaches infinity as $x$ approaches infinity, then $a_n$ will approach zero, and the limit will not exist.\n\n**Step 5: Conclusion**\n\nBased on the analysis, we can conclude that the statement \"Let $a_n = \\frac{1}{f(n + 1/2)}$. Then $\\lim_{n\\to\\infty} a_n$ does not exist\" is false. The limit of $a_n$ can exist if $f(x)$ approaches a non-zero constant value as $x$ approaches infinity. Therefore, the correct answer is \"False\".\n\n**Answer**: False"
+  },
+  {
+    "id": 27846,
+    "question_text": "",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/YIcBH2f8HQYERnaKgPl3J0Mb3qZEgA7ugE5REkPnJ2wDYQtUh8.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "e203551f-7d8c-4239-9204-9b0e518640cc",
+    "course_id": 16,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27847,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/kgBshNnWnRes2bEnzTyyjrdvRDVX5Ma252ji3eXe6FAP4StUTT.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "8bab73de-836e-4cdb-a282-ea0be31489de",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 78015,
+        "question_id": "27847",
+        "text": "True",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 78016,
+        "question_id": "27847",
+        "text": "False",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine if the linear approximation statement is true or false, we need to compare the given function with its linear approximation at $x=0$.\n\nThe linear approximation of a function $f(x)$ at $x=a$ is given by:\n\n$$L_a(x) = f(a) + f'(a)(x-a)$$\n\nIn this case, we are asked to find the linear approximation of $f(x) = \\cos\\left(\\frac{1}{2}\\right) - \\sin\\left(\\frac{1}{2}\\right)(x-\\frac{1}{2})$ at $x=0$.\n\nLet's break down the given function:\n\n$$f(x) = \\cos\\left(\\frac{1}{2}\\right) - \\sin\\left(\\frac{1}{2}\\right)(x-\\frac{1}{2})$$\n\nTo find the linear approximation, we need to evaluate $f(0)$ and $f'(0)$.\n\nFirst, let's find $f(0)$:\n\n$$f(0) = \\cos\\left(\\frac{1}{2}\\right) - \\sin\\left(\\frac{1}{2}\\right)\\left(0-\\frac{1}{2}\\right)$$\n\n$$f(0) = \\cos\\left(\\frac{1}{2}\\right) + \\frac{1}{2}\\sin\\left(\\frac{1}{2}\\right)$$\n\nNext, let's find $f'(0)$:\n\n$$f'(x) = -\\sin\\left(\\frac{1}{2}\\right)(x-\\frac{1}{2}) - \\cos\\left(\\frac{1}{2}\\right)$$\n\n$$f'(0) = -\\sin\\left(\\frac{1}{2}\\right)\\left(0-\\frac{1}{2}\\right) - \\cos\\left(\\frac{1}{2}\\right)$$\n\n$$f'(0) = \\frac{1}{2}\\sin\\left(\\frac{1}{2}\\right) - \\cos\\left(\\frac{1}{2}\\right)$$\n\nNow, let's compare the given function with its linear approximation at $x=0$:\n\n$$L_0(x) = f(0) + f'(0)(x-0)$$\n\n$$L_0(x) = \\cos\\left(\\frac{1}{2}\\right) + \\frac{1}{2}\\sin\\left(\\frac{1}{2}\\right) + \\left(\\frac{1}{2}\\sin\\left(\\frac{1}{2}\\right) - \\cos\\left(\\frac{1}{2}\\right)\\right)x$$\n\n$$L_0(x) = \\cos\\left(\\frac{1}{2}\\right) + \\frac{1}{2}\\sin\\left(\\frac{1}{2}\\right)(1-x)$$\n\nComparing this with the given function, we can see that they are equal. Therefore, the linear approximation statement is true.\n\n**Answer:** True"
+  },
+  {
+    "id": 27848,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/iRQeCvzlQfv7NVTIMXIwZh5Dl7jbOkGk73CFHpcII6CKIfQeAc.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "2f6e237a-444c-42bb-8001-9fa12baa42cc",
+    "course_id": 16,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27849,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/L53O2u0ZmhkscupYrLOa1FPQW71uIdcasoP47ci6GPfUCeJjaf.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "fb57cd23-e100-4dd2-a059-a32c6c4aeeeb",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 78017,
+        "question_id": "27849",
+        "text": "True",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 78018,
+        "question_id": "27849",
+        "text": "False",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the question**\n\nThe question asks whether the statement \"f(x) has only finitely many critical points\" is true or false. To answer this, we need to understand what critical points are and how they relate to the function f(x).\n\n**Step 2: Define critical points**\n\nCritical points are values of x where the derivative of the function f(x) is equal to zero or undefined. In other words, they are points on the graph where the function changes from increasing to decreasing or vice versa.\n\n**Step 3: Analyze the function**\n\nLet's assume that f(x) is a continuous function. Then, by the Extreme Value Theorem, f(x) attains its maximum and minimum values on any closed interval [a, b]. This means that there are at least two critical points: one where the function changes from increasing to decreasing (a maximum), and one where it changes from decreasing to increasing (a minimum).\n\n**Step 4: Consider the possibility of more critical points**\n\nHowever, there could be additional critical points where the function changes direction but does not attain a maximum or minimum value. These points are called inflection points. For example, if f(x) = x^3, then f'(x) = 3x^2, which equals zero when x = 0. This is a critical point, but it is not a maximum or minimum.\n\n**Step 5: Determine the number of critical points**\n\nIn general, a function can have multiple critical points, including inflection points. Therefore, it is not necessarily true that f(x) has only finitely many critical points.\n\n**Step 6: Conclusion**\n\nBased on the analysis, the correct answer is False. The statement \"f(x) has only finitely many critical points\" is not necessarily true for all functions.\n\n**Additional insights**\n\n* The number of critical points depends on the specific function and its properties.\n* Some functions may have infinitely many critical points, while others may have only a few.\n* The presence of critical points does not imply that the function is oscillating or changing direction rapidly; it simply means that the function is changing direction at those points.\n\n**Answer:** False"
+  },
+  {
+    "id": 27850,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/2TMwTT1KqU1bmzPSHWEEKo8f8tHx25kSbLSNpVcsv0ISGI9bJN.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "cc0e1c00-fd09-4283-b458-045e0808402c",
+    "course_id": 16,
+    "options": [
+      {
+        "id": 78019,
+        "question_id": "27850",
+        "text": "True",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 78020,
+        "question_id": "27850",
+        "text": "False",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the question**\n\nThe question asks whether the statement \"f(x) has local maxima at x = 0\" is true or false.\n\n**Step 2: Recall the definition of local maxima**\n\nA function f(x) has a local maximum at x = a if there exists a neighborhood around a such that f(a) is greater than or equal to f(x) for all x in that neighborhood.\n\n**Step 3: Analyze the function**\n\nSince the function is not provided, we will assume a general function f(x).\n\n**Step 4: Determine if the statement is true or false**\n\nWithout knowing the specific function, we cannot determine if the statement is true or false. However, we can provide a general explanation.\n\nIf the function f(x) has a local maximum at x = 0, it means that there exists a neighborhood around 0 such that f(0) is greater than or equal to f(x) for all x in that neighborhood.\n\n**Step 5: Provide a counterexample**\n\nConsider the function f(x) = x^2 - 2x + 1. This function has a local maximum at x = 1, not at x = 0.\n\n**Step 6: Conclusion**\n\nThe statement \"f(x) has local maxima at x = 0\" is false because it is not universally true for all functions.\n\n*Answer*: False"
+  },
+  {
+    "id": 27851,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/eRHK76RsQZnEHYN51foUzB6b77NZ5YXAmlu6BGoYZdGcfWR9rV.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "99dd054c-792f-410e-9241-bfe7c6ef51ff",
+    "course_id": 16,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27852,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/SBVVFmhfj7ckn4SU5pNjFrwOH0Ml6ZvbKQcNsDILDAXa2DiTpm.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ab37d5b5-3297-4c5d-af20-c89d79234f82",
+    "course_id": 16,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

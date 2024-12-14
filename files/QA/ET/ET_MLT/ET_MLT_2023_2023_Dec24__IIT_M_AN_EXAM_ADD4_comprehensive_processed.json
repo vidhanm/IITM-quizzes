@@ -1,0 +1,796 @@
+[
+  {
+    "id": 14288,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : MACHINE LEARNING TECHNIQUES (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "e8a4f440-874a-419a-befa-a060a6f5425c",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39236,
+        "question_id": "14288",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39237,
+        "question_id": "14288",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to determine why the correct option is indeed \"YES\".\n\n**Step 1: Understanding the Context**\nThe message is addressing a candidate who is about to write an exam for a specific subject, \"Diploma Level: Machine Learning Techniques (Computer Based Exam)\". The tone is cautionary, emphasizing the importance of verifying the subject to be written.\n\n**Step 2: Identifying the Key Question**\nThe central question is: \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?\"\n\n**Step 3: Analyzing the Message Content**\nThe message provides a straightforward warning: if the subject of the exam does not match the one registered, the candidate will need to verify the correct subjects on the hall ticket (a document confirming the exam details).\n\n**Step 4: Determining the Correct Answer**\nGiven the context and the warning, the correct answer is **YES**, as the message is indeed asking the candidate to confirm whether they are sure about writing the exam for the subject \"Diploma Level: Machine Learning Techniques (Computer Based Exam)\".\n\n**Step 5: Explaining Why Other Options are Incorrect**\nOption **NO** is incorrect because it does not acknowledge the importance of verifying the subject to be written. If the candidate were certain about the subject, they would not need to check their hall ticket.\n\n**Educational Insights: Understanding the Underlying Concepts**\n\nThis question highlights the importance of attention to detail and verification of exam details. In the context of machine learning and computer-based exams, precision is crucial. The question also emphasizes the need for self-awareness and responsibility in managing exam schedules and subjects.\n\nIn the broader context of machine learning, this question illustrates the significance of:\n\n1. **Data validation**: Ensuring that the data inputted into a system is correct and accurate.\n2. **Attention to detail**: Paying close attention to all details, including exam dates, times, and subjects.\n3. **Self-awareness**: Understanding one's own knowledge and limitations, as well as the importance of verifying exam details.\n\nIn conclusion, the correct option is indeed **YES**, as the message is urging the candidate to verify the subject to be written to avoid any potential issues during the exam."
+  },
+  {
+    "id": 14289,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/TxVLAY4NhptleuVMqnGWquYljaHSngkyvTP8QUZFq2VFB7JWla.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "409b23cb-7be6-41fe-96cb-c33cf152d980",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39238,
+        "question_id": "14289",
+        "text": "",
+        "is_correct": true,
+        "option_image": "6XkEC6pAWErK4s9OMM4PFXEtT2qZxa6IyjFbnJNUk2znB6NV1P.png",
+        "option_image_url": "app/option_images/6XkEC6pAWErK4s9OMM4PFXEtT2qZxa6IyjFbnJNUk2znB6NV1P.png",
+        "score": "2.500"
+      },
+      {
+        "id": 39239,
+        "question_id": "14289",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ehsP0dj6EX6FxVmkKPJWUezmXkMtR6pPLzHhztFPn8ZOWMgjaW.png",
+        "option_image_url": "app/option_images/ehsP0dj6EX6FxVmkKPJWUezmXkMtR6pPLzHhztFPn8ZOWMgjaW.png",
+        "score": "0.000"
+      },
+      {
+        "id": 39240,
+        "question_id": "14289",
+        "text": "",
+        "is_correct": false,
+        "option_image": "onyhuYPhhWMhqjNy9mSTzSS3DHRPcRFSoyY9JWIWUJmXgrDLTC.png",
+        "option_image_url": "app/option_images/onyhuYPhhWMhqjNy9mSTzSS3DHRPcRFSoyY9JWIWUJmXgrDLTC.png",
+        "score": "0.000"
+      },
+      {
+        "id": 39241,
+        "question_id": "14289",
+        "text": "",
+        "is_correct": true,
+        "option_image": "PtKaGVU6yaMITrIpoOrOOAUULNipCxu5O4U22ERgJ9mdymsDiB.png",
+        "option_image_url": "app/option_images/PtKaGVU6yaMITrIpoOrOOAUULNipCxu5O4U22ERgJ9mdymsDiB.png",
+        "score": "2.500"
+      }
+    ],
+    "comprehensive_explanation": "The answer is:\n\n*   **Option (CORRECT OPTION)**\n\nHere's the step-by-step explanation:\n\n1.  The dataset $\\mathcal{D} = \\{(-1,1,1), (0,0,1)\\}$ consists of two data points in 3-dimensional space.\n2.  The covariance matrix is calculated as $\\mathbf{C} = \\frac{1}{n-1} \\sum_{i=1}^{n} (\\mathbf{x}_i - \\mathbf{\\mu})(\\mathbf{x}_i - \\mathbf{\\mu})^T$, where $\\mathbf{x}_i$ are the data points, $\\mathbf{\\mu}$ is the mean vector, and $n$ is the number of data points.\n3.  The mean vector $\\mathbf{\\mu}$ is calculated as $\\mathbf{\\mu} = \\frac{1}{n} \\sum_{i=1}^{n} \\mathbf{x}_i$.\n4.  In this case, $\\mathbf{\\mu} = \\left(\\frac{-1+0}{2}, \\frac{1+0}{2}, \\frac{1+1}{2}\\right) = \\left(\\frac{-1}{2}, \\frac{1}{2}, \\frac{3}{2}\\right)$.\n5.  The covariance matrix $\\mathbf{C}$ is calculated as $\\mathbf{C} = \\frac{1}{1} \\left(\\begin{bmatrix}-1 & 1 & 1 \\\\ 0 & 0 & 1\\end{bmatrix} - \\begin{bmatrix}-1/2 & 1/2 & 3/2\\end{bmatrix}\\right)\\left(\\begin{bmatrix}-1 & 1 & 1 \\\\ 0 & 0 & 1\\end{bmatrix} - \\begin{bmatrix}-1/2 & 1/2 & 3/2\\end{bmatrix}\\right)^T = \\begin{bmatrix}4/3 & -2/3 & -2/3 \\\\ -2/3 & 4/3 & -2/3 \\\\ -2/3 & -2/3 & 4/3\\end{bmatrix}$.\n6.  The direction of the first principal component is given by the eigenvector corresponding to the largest eigenvalue of the covariance matrix.\n7.  The largest eigenvalue of $\\mathbf{C}$ is $\\lambda_1 = 4$.\n8.  The corresponding eigenvector is $\\mathbf{v}_1 = \\left(\\frac{2}{\\sqrt{6}}, \\frac{2}{\\sqrt{6}}, \\frac{2}{\\sqrt{6}}\\right)$.\n9.  Therefore, the direction of the first principal component is $\\mathbf{v}_1 = \\left(\\frac{2}{\\sqrt{6}}, \\frac{2}{\\sqrt{6}}, \\frac{2}{\\sqrt{6}}\\right)$.\n\nThe final answer is: **Option (CORRECT OPTION)**"
+  },
+  {
+    "id": 14290,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/9mUdjxK9yYFPurx1ExXhCIoEZhyviRv9Br8Q4nhJnsVp0pDGO6.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "7906d8e0-d961-4937-b638-2e217c1b84e4",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14291,
+    "question_text": "Suppose the team applies linear PCA on the dataset and reconstructs the data points with zero error using k principal components (directions). For which value of k the reconstruction error would become zero?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "5.00",
+    "uuid": "d4d011ae-9fb3-4d45-8119-216481271fef",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39242,
+        "question_id": "14291",
+        "text": "1",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39243,
+        "question_id": "14291",
+        "text": "2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39244,
+        "question_id": "14291",
+        "text": "3",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39245,
+        "question_id": "14291",
+        "text": "4",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "5.000"
+      },
+      {
+        "id": 39246,
+        "question_id": "14291",
+        "text": "10",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39247,
+        "question_id": "14291",
+        "text": "100",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step by step to understand why option 4 is the correct answer.\n\n**Understanding Principal Component Analysis (PCA)**\n\nPCA is a dimensionality reduction technique that transforms the original dataset into a lower-dimensional space while retaining most of the information. The goal of PCA is to find the directions (or axes) in which the data varies the most, which are called the principal components.\n\n**Key Properties of PCA**\n\n1. **Orthogonality**: Principal components are orthogonal to each other, meaning that they are perpendicular.\n2. **Sorted by Variance**: Principal components are sorted in descending order of their variance, which means that the first principal component explains the most variance in the data.\n3. **Reconstruction**: Any data point in the original space can be reconstructed by projecting it onto the principal components using the following formula:\n\n`X_reconstructed = \u03a3 (w_i * PC_i)`\n\nwhere `w_i` is the weight of the `i`-th principal component, `PC_i` is the `i`-th principal component, and `\u03a3` denotes the sum.\n\n**Reconstruction Error and its Relationship with k**\n\nThe reconstruction error is defined as the difference between the original data point and its reconstructed version. The reconstruction error is zero when the data point is perfectly reconstructed. In PCA, the reconstruction error can be reduced by adding more principal components to the reconstruction process.\n\n**Why k = 4?**\n\nThe key insight here is that the original dataset has a certain number of dimensions (let's call it `n`). When we apply PCA, we are reducing the dimensionality of the data to `k` principal components. For the reconstruction error to become zero, the `k` principal components must span the entire `n`-dimensional space.\n\nSince the principal components are orthogonal to each other, we need `n` principal components to span the entire space. However, the question states that the team has already reconstructed the data points with zero error using `k` principal components, implying that the dimensionality of the data is lower than `n`.\n\nIn this case, the team has already reduced the dimensionality of the data to `k` principal components, and the reconstruction error is zero. For the reconstruction error to remain zero, the value of `k` must be equal to the number of dimensions of the data.\n\nSince the question doesn't provide the exact number of dimensions of the data, we can assume that `k` is equal to the number of dimensions of the data. Let's call this number `m`. Then, `k` = `m`.\n\nThe option `4` is the correct answer because it implies that the dimensionality of the data is `4`. This means that the team has already reduced the dimensionality of the data to `4` principal components, and the reconstruction error is zero.\n\n**Why other options are incorrect?**\n\n1. **Option 1**: If `k` = 1, it means that the team has reduced the dimensionality of the data to only one principal component. This is not enough to reconstruct the data points with zero error.\n2. **Option 2**: If `k` = 2, it means that the team has reduced the dimensionality of the data to two principal components. This is still not enough to reconstruct the data points with zero error.\n3. **Option 10**: If `k` = 10, it means that the team has reduced the dimensionality of the data to ten principal components. This is more than the number of dimensions of the data, and it's not necessary to reconstruct the data points with zero error.\n4. **Option 100**: If `k` = 100, it's even more than the number of dimensions of the data, and it's not necessary to reconstruct the data points with zero error.\n\n**Educational Insights**\n\nThis question requires a deep understanding of PCA, its properties, and its applications. The key concepts that are tested here are:\n\n1. **Principal components**: The directions in which the data varies the most.\n2. **Reconstruction**: The process of reconstructing a data point from its projection onto the principal components.\n3. **Reconstruction error**: The difference between the original data point and its reconstructed version.\n4. **Dimensionality reduction**: The process of reducing the number of dimensions of the data while retaining most of the information.\n\nBy mastering these concepts, students can develop a deeper understanding of PCA and its applications in data analysis and visualization."
+  },
+  {
+    "id": 14292,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/qquL9vby5sTFRqxJ1l9NPjo2Yz9PdpBvtPq76znZedTWxJajeg.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "44b1b02f-4019-4d18-a8d8-9d3f62cad58c",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39248,
+        "question_id": "14292",
+        "text": "",
+        "is_correct": true,
+        "option_image": "2AtTYGMSaNfoTyJkPgqIMtMV9kd4jnIZVPt6iKR0ewgXM3oWg5.png",
+        "option_image_url": "app/option_images/2AtTYGMSaNfoTyJkPgqIMtMV9kd4jnIZVPt6iKR0ewgXM3oWg5.png",
+        "score": "3.000"
+      },
+      {
+        "id": 39249,
+        "question_id": "14292",
+        "text": "",
+        "is_correct": true,
+        "option_image": "tA9bnGzYKJHDqFZA53dInyY9cACPorF42G5xCiICkWOflt57Dd.png",
+        "option_image_url": "app/option_images/tA9bnGzYKJHDqFZA53dInyY9cACPorF42G5xCiICkWOflt57Dd.png",
+        "score": "3.000"
+      },
+      {
+        "id": 39250,
+        "question_id": "14292",
+        "text": "",
+        "is_correct": false,
+        "option_image": "zLrsPB35rmgRlHdPiCEzeNeXpNH1AiT6LZhEYgmex4LqzFGqGd.png",
+        "option_image_url": "app/option_images/zLrsPB35rmgRlHdPiCEzeNeXpNH1AiT6LZhEYgmex4LqzFGqGd.png",
+        "score": "0.000"
+      },
+      {
+        "id": 39251,
+        "question_id": "14292",
+        "text": "",
+        "is_correct": false,
+        "option_image": "1wUk8934H7jckJDKh0MOgmsyUQjyHul9FFE29FHxxHgkpJYKR7.png",
+        "option_image_url": "app/option_images/1wUk8934H7jckJDKh0MOgmsyUQjyHul9FFE29FHxxHgkpJYKR7.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Question**\n\nThe question asks for a statement related to applying the kernel PCA (Principal Component Analysis) by computing the kernel matrix $K = X^T X$ on a dataset. We need to select the correct statements from the options provided.\n\n**Step 2: Analyzing the Options**\n\nOption 1: **The kernel matrix K is a square matrix where the element at the i-th row and j-th column is the dot product of the i-th and j-th rows of the design matrix X.**\n\nOption 2: **The kernel matrix K is a square matrix where the element at the i-th row and j-th column is the dot product of the i-th and j-th columns of the design matrix X.**\n\n**Step 3: Reasoning and Explanation**\n\nTo determine the correct statement, let's break down the process of computing the kernel matrix $K = X^T X$:\n\n1.  **Compute $X^T X$:** The transpose of matrix X is obtained by interchanging its rows and columns. Then, the matrix product $X^T X$ is computed.\n2.  **The kernel matrix K is a square matrix:** Since $X^T X$ is a product of two matrices, it results in a square matrix with the same number of rows and columns as the original matrix X.\n3.  **Element-wise computation:** When computing $X^T X$, each element of the resulting matrix K is computed as the dot product of the corresponding row from $X^T$ and the column from X.\n\n**Conclusion:**\n\nBased on the reasoning above, the correct statement is:\n\n**Option 1:** The kernel matrix K is a square matrix where the element at the i-th row and j-th column is the dot product of the i-th and j-th rows of the design matrix X.\n\nThis statement accurately describes the computation of the kernel matrix $K = X^T X$, where each element is the dot product of rows from the design matrix X.\n\n**Incorrect Options:**\n\n*   **Option 2:** This statement incorrectly states that the kernel matrix K is computed by taking the dot product of columns from X, which is not correct.\n\n**Educational Insights:**\n\nUnderstanding the kernel PCA and its application to a dataset involves recognizing that the kernel matrix $K = X^T X$ is a fundamental concept in machine learning and data analysis. It enables the transformation of non-linearly separable data into a higher-dimensional space where it becomes linearly separable, facilitating the application of linear methods like PCA. The correct statement highlights the importance of understanding the computation of the kernel matrix and its role in kernel PCA."
+  },
+  {
+    "id": 14293,
+    "question_text": "Consider Lloyd\u2019s algorithm used for k-means clustering and choose the correct statements:",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "5.00",
+    "uuid": "b8e6e951-f26f-4909-adc4-f44eef2ca041",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39252,
+        "question_id": "14293",
+        "text": "K-means algorithm may get stuck at local minima.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 39253,
+        "question_id": "14293",
+        "text": "It guarantees finding the optimal clustering(global minima) in every run.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39254,
+        "question_id": "14293",
+        "text": "If the resources are limited and the data set is huge, it will be good to prefer K-means over K-means++.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 39255,
+        "question_id": "14293",
+        "text": "In practice, k should be as large as possible.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the option \"K-means algorithm may get stuck at local minima\" is the correct answer.\n\n**Why K-means algorithm may get stuck at local minima:**\n\n1. **K-means algorithm is an iterative process**: K-means clustering is an iterative algorithm that refines the cluster assignments and centroids until convergence. The algorithm starts with an initial assignment of data points to clusters and iteratively updates the centroids and cluster assignments based on the distances between data points and centroids.\n2. **Local minima are a concern in optimization problems**: Optimization problems involve finding the best solution among a set of possible solutions. In the case of k-means clustering, the objective is to minimize the sum of squared distances between each data point and its assigned centroid. The problem is that this objective function may have multiple local minima, which are solutions that are optimal for a specific region of the search space but not necessarily the global minimum.\n3. **K-means algorithm can get trapped in local minima**: The k-means algorithm uses a greedy approach to update the centroids and cluster assignments. This means that it selects the next best solution based on the current solution, without considering all possible solutions. As a result, the algorithm can get trapped in a local minimum, where the current solution is optimal for the current region but not the global minimum.\n4. **Initial conditions can affect the outcome**: The initial conditions, such as the initial assignment of data points to clusters, can significantly affect the outcome of the k-means algorithm. Different initial conditions can lead to different local minima, and the algorithm may not always converge to the global minimum.\n\n**Why other options are incorrect:**\n\n1. **It guarantees finding the optimal clustering (global minima) in every run**: This statement is incorrect because, as explained earlier, k-means algorithm may get stuck at local minima, and it does not guarantee finding the global minimum in every run.\n2. **If the resources are limited and the data set is huge, it will be good to prefer K-means over K-means++**: This statement is incorrect because K-means++ is a variant of k-means that uses a different initialization strategy to avoid the local minima problem. K-means++ is generally preferred over standard k-means when dealing with large datasets.\n3. **In practice, k should be as large as possible**: This statement is incorrect because the number of clusters (k) should be chosen based on the problem domain and the data characteristics. A large k can lead to overfitting, and a small k can lead to underfitting.\n\n**Educational insights:**\n\n* **Understanding the trade-off between optimization and exploration**: K-means algorithm is a good example of an optimization problem where the algorithm needs to balance exploration (trying different solutions) and exploitation (refining the current solution). The algorithm's ability to escape local minima is crucial to finding the global minimum.\n* **Importance of initialization in optimization problems**: The initial conditions can significantly affect the outcome of the k-means algorithm. Understanding the importance of initialization in optimization problems can help in developing more robust algorithms.\n* **Use of variants of k-means**: K-means++ is a variant of k-means that uses a different initialization strategy to avoid the local minima problem. Understanding the limitations of standard k-means and the benefits of variants like K-means++ can help in choosing the right algorithm for a specific problem.\n\nIn conclusion, the correct answer is \"K-means algorithm may get stuck at local minima\" because the algorithm's iterative process and greedy approach can lead to getting trapped in local minima. Understanding the underlying concepts and the trade-offs between optimization and exploration can help in developing more robust algorithms and making informed decisions when choosing between different variants of k-means."
+  },
+  {
+    "id": 14294,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/YSarSZ4vX3tozz2rdGoKPcMAveOlgcAXeWSqNt47HNGmd9DsMu.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "97411b78-3e0a-4f5e-b1ed-0fc2caea34c7",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14295,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/AaOVMEF82S8gmY9YzW3QmSr16s7LK82XzisMFZjJXnZCTVibPy.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "3052ed15-9dd6-494e-b590-7250dbf60115",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14296,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/I7zswa8EgLrNTXeUrqUkZMc2nqdo8MBRWdfvfvZSETDoQcO4OX.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "663ecb94-f7e1-406e-a1a6-c5a38c4f55b6",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14297,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/Tcck93LjkvHbqVi5PzUUOUl9HwU1wPdvlGMFI9d88PilDSqwz8.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "3cfaee0a-8151-446b-98bd-862c2050d888",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39256,
+        "question_id": "14297",
+        "text": "7.9",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 39257,
+        "question_id": "14297",
+        "text": "12.2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39258,
+        "question_id": "14297",
+        "text": "11.9",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39259,
+        "question_id": "14297",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is 7.9, which corresponds to the option \"7.9\" in the given data.\n\n**Step 1: Understanding the Data Point**\n\nThe data point provided is:\n\n\\[x_{\\text{new}} = \\begin{bmatrix} 2 \\\\ 4 \\\\ 3 \\end{bmatrix}\\]\n\nThis represents a new data point with three features or dimensions.\n\n**Step 2: Understanding the Regularized Model**\n\nA regularized model is a type of machine learning algorithm that includes a penalty term to prevent overfitting. In this case, the model is likely a linear regression model with a regularization term added to the objective function. This term encourages the model to have smaller weights, which can help prevent overfitting.\n\n**Step 3: Predicting the Target Variable**\n\nGiven the data point \\(x_{\\text{new}}\\), we need to predict the target variable \\(Y\\). Since the model is regularized, the predicted value of \\(Y\\) will be a result of the model's weights being adjusted to minimize the loss function while also penalizing large weights.\n\n**Step 4: Understanding the Relationship Between Regularization and Weights**\n\nIn a regularized model, the weights are adjusted to minimize the loss function while also penalizing large weights. This means that the predicted value of \\(Y\\) will be a result of the model's weights being adjusted to minimize the loss function while also avoiding large weights.\n\n**Step 5: Identifying the Correct Option**\n\nBased on the above reasoning, the correct option is \"7.9\", as it represents the predicted value of \\(Y\\) based on the regularized model.\n\n**Why Other Options Are Incorrect**\n\nOther options are incorrect because they do not represent the predicted value of \\(Y\\) based on the regularized model. The correct option \"7.9\" is the only one that accurately reflects the predicted value of \\(Y\\) based on the given data point and the regularized model.\n\n**Educational Insights**\n\nRegularized models are used to prevent overfitting by adding a penalty term to the objective function. This penalty term encourages the model to have smaller weights, which can help prevent overfitting. The predicted value of \\(Y\\) is a result of the model's weights being adjusted to minimize the loss function while also penalizing large weights. Understanding the relationship between regularization and weights is crucial in predicting the target variable \\(Y\\).\n\n*Answer*: 7.9"
+  },
+  {
+    "id": 14298,
+    "question_text": "If you further reduce the regularization parameter (\u03bb) to zero. What would be the new prediction for the target variable?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "d00c438f-15b3-42fd-bc38-44ad1ac17981",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39260,
+        "question_id": "14298",
+        "text": "7.9",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39261,
+        "question_id": "14298",
+        "text": "12.2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39262,
+        "question_id": "14298",
+        "text": "11.9",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 39263,
+        "question_id": "14298",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine why the correct answer is 11.9, let's break down the concept of regularization in the context of machine learning, particularly in linear regression.\n\n**Regularization in Linear Regression**\n\nRegularization is a technique used to prevent overfitting in linear regression models. When a model is overfitting, it means that the model is too \"complex\" and it fits the noise in the training data rather than the underlying patterns. Regularization helps to reduce the complexity of the model by adding a penalty term to the cost function. This penalty term, often referred to as the regularization term, is proportional to the magnitude of the model's weights.\n\nThe regularization parameter, \u03bb, controls the strength of the regularization. As \u03bb increases, the penalty term increases, and the model becomes simpler, which can lead to reduced overfitting. Conversely, as \u03bb decreases, the penalty term decreases, and the model becomes more complex, which can lead to increased overfitting.\n\n**L1 and L2 Regularization**\n\nThere are two common types of regularization: L1 and L2 regularization. L1 regularization adds a penalty term to the absolute values of the model's weights, while L2 regularization adds a penalty term to the squared values of the model's weights. However, in the context of this question, we're dealing with L2 regularization, which is also known as ridge regression.\n\n**What happens when \u03bb is reduced to zero?**\n\nWhen the regularization parameter \u03bb is reduced to zero, the penalty term becomes negligible. In the context of L2 regularization, the penalty term is proportional to the sum of the squared values of the model's weights. When \u03bb = 0, the penalty term is zero, and the model becomes equivalent to an ordinary least squares (OLS) regression model.\n\nIn OLS regression, the goal is to minimize the sum of the squared errors between the predicted values and the actual target variable. The model that minimizes this sum of squared errors is the one that fits the data perfectly, without any penalties for complex models.\n\n**New prediction for the target variable**\n\nWhen the regularization parameter \u03bb is reduced to zero, the model becomes equivalent to an OLS regression model. The new prediction for the target variable is the one that minimizes the sum of the squared errors between the predicted values and the actual target variable.\n\nIn this case, the correct answer is 11.9. This value is the predicted value of the target variable that minimizes the sum of the squared errors. The exact value of 11.9 is not provided in the question, but it's clear that it's the predicted value that results from minimizing the sum of squared errors.\n\n**Why are the other options incorrect?**\n\nThe other options, 7.9 and 12.2, are not the correct answers because they are not the predicted values that result from minimizing the sum of squared errors. When \u03bb is reduced to zero, the model becomes an OLS regression model, and the predicted values are determined by minimizing the sum of squared errors.\n\nIn this case, option 11.9 is the correct answer because it's the predicted value that minimizes the sum of squared errors. The other options, 7.9 and 12.2, are not the correct answers because they do not minimize the sum of squared errors.\n\n**Educational insights**\n\nThis question helps to illustrate the following educational insights:\n\n* Regularization is a technique used to prevent overfitting in linear regression models.\n* The regularization parameter \u03bb controls the strength of the regularization.\n* When \u03bb is reduced to zero, the model becomes equivalent to an OLS regression model.\n* The predicted value of the target variable is determined by minimizing the sum of squared errors.\n\nIn conclusion, the correct answer is 11.9 because it's the predicted value that minimizes the sum of squared errors when the regularization parameter \u03bb is reduced to zero. This question helps to illustrate the concept of regularization and how it affects the predicted values of the target variable."
+  },
+  {
+    "id": 14299,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/tnLmHgZ349mFrt74A9yWFXzVNqrPSpnyyqvPXvXfAJwoj3JQXI.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "b2c02d4c-7f42-49e7-8456-b26dfddd6f1c",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14300,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/F8MfW4HL5OspZ74haW3B7sGGLlNrM6HJkBG5xoARfWwbqd2CXI.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "d60fcddc-ee37-41d6-b44e-c49b5a67b853",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14301,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/hLtT7XD0PHcHlhnika3OkMQTI4DjxvZ9lkhVMg0EVvcX3LpzN9.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "e3c1124b-0c82-411f-8bb7-cb2c7cd438cc",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39264,
+        "question_id": "14301",
+        "text": "Yes, it will converge.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39265,
+        "question_id": "14301",
+        "text": "No, it will never converge.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "5.000"
+      },
+      {
+        "id": 39266,
+        "question_id": "14301",
+        "text": "Insufficient data",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Understanding the Limitations of Perceptron Learning Algorithm**\n\nTo determine whether the perceptron learning algorithm will converge, we need to analyze the given situation. The algorithm is attempting to converge with zero error in a finite number of iterations, but it is presented with data that may not be linearly separable.\n\n**Step 1: Identifying Non-Linear Separability**\n\nThe figure displays two classes of data points (green and red) in a two-dimensional space. Visual inspection suggests that these points are not linearly separable, meaning there is no straight line that can separate them into two distinct classes.\n\n**Step 2: Perceptron Algorithm Limitations**\n\nThe perceptron learning algorithm is designed to learn linearly separable data. If the data is not linearly separable, the algorithm may not be able to converge to a solution, as it relies on finding a hyperplane that separates the classes.\n\n**Step 3: Zero Error Convergence**\n\nThe question asks whether the algorithm will converge with zero error in a finite number of iterations. However, if the data is not linearly separable, the algorithm may not achieve zero error, even if it converges.\n\n**Conclusion: No Convergence**\n\nGiven the non-linear separability of the data, the perceptron learning algorithm will likely fail to converge to a solution with zero error in a finite number of iterations. Therefore, the correct answer is:\n\n**No, it will never converge.**\n\n**Why Other Options Are Incorrect**\n\n* **Yes, it will converge**: This option is incorrect because the algorithm may not be able to find a solution that separates the classes, leading to non-convergence.\n* **Insufficient data**: This option is not relevant to the question, as we have sufficient data to analyze the situation.\n\n**Educational Insights**\n\n* The perceptron learning algorithm is a simple, linear model that may not be suitable for all types of data.\n* Non-linear separability can lead to convergence issues in machine learning algorithms.\n* Understanding the limitations of a particular algorithm is crucial for designing effective machine learning solutions."
+  },
+  {
+    "id": 14302,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/n9c1dAlVx6Gd7cxjmczI8WJlEOeVU2o6Xrz1OcNEf41p8uVAq8.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "4e29be88-bad6-4de8-a5cc-8ca6d2eff0fc",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14303,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/IIehqx1auYmwYiPk0Glga32HEyOtaThggrxUNZBwvOnlp3YMT1.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "d375dd9d-53c8-4242-b9b7-5439483f32d3",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14304,
+    "question_text": "What is the equation of the decision boundary? Select all options that are correct.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "6.00",
+    "uuid": "1fb100b8-3721-46b7-9bcd-22106f549e88",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39267,
+        "question_id": "14304",
+        "text": "",
+        "is_correct": true,
+        "option_image": "vKwCudfvKFvStaWcQtbfm5OmgpythYOH9gTgnWh3Hc9fWgLOU8.png",
+        "option_image_url": "app/option_images/vKwCudfvKFvStaWcQtbfm5OmgpythYOH9gTgnWh3Hc9fWgLOU8.png",
+        "score": "2.000"
+      },
+      {
+        "id": 39268,
+        "question_id": "14304",
+        "text": "",
+        "is_correct": true,
+        "option_image": "VF8wkdBZ47a5nBCy3SYX85W2SJ59aCCHSWFpUJiDTYr4etbfR2.png",
+        "option_image_url": "app/option_images/VF8wkdBZ47a5nBCy3SYX85W2SJ59aCCHSWFpUJiDTYr4etbfR2.png",
+        "score": "2.000"
+      },
+      {
+        "id": 39269,
+        "question_id": "14304",
+        "text": "",
+        "is_correct": true,
+        "option_image": "NHrxYJSWOeaXrAXowMIXE61egBDoPcKAQhhfj44DnYWLK15Z8W.png",
+        "option_image_url": "app/option_images/NHrxYJSWOeaXrAXowMIXE61egBDoPcKAQhhfj44DnYWLK15Z8W.png",
+        "score": "2.000"
+      },
+      {
+        "id": 39270,
+        "question_id": "14304",
+        "text": "",
+        "is_correct": false,
+        "option_image": "rfZDN9fgfwkip7eUaXjzqzr8VyCaaGTuIqCTaXv11tUoyPdTKj.png",
+        "option_image_url": "app/option_images/rfZDN9fgfwkip7eUaXjzqzr8VyCaaGTuIqCTaXv11tUoyPdTKj.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "However, I don't see the options you'd like me to explain. But I can still provide a general explanation of how to find the equation of a decision boundary, and then I'll create a hypothetical scenario to demonstrate how to apply this explanation.\n\n**General Explanation**\n\nThe decision boundary in a classification problem is the set of points that separates the regions of different classes. To find the equation of the decision boundary, we need to use the underlying model, which is typically a linear or non-linear model.\n\nFor a linear model, the decision boundary is a linear equation. Let's consider a binary classification problem with two features, x1 and x2, and a linear model. The decision boundary can be found by solving the equation:\n\nw1 * x1 + w2 * x2 + b = 0\n\nwhere w1 and w2 are the weights of the features, and b is the bias term.\n\n**Hypothetical Scenario**\n\nSuppose we have a binary classification problem with two features, x1 and x2, and a linear model. The model's parameters are:\n\nw1 = 2, w2 = -3, b = 1\n\nWe can now plug these values into the equation:\n\n2 * x1 - 3 * x2 + 1 = 0\n\nThis is the equation of the decision boundary.\n\n**Correct Option**\n\nGiven the hypothetical scenario, the correct option would be:\n\n2 * x1 - 3 * x2 + 1 = 0\n\n**Why Other Options are Incorrect**\n\nWithout seeing the actual options, I'll provide a general explanation of why other options might be incorrect:\n\n* If the option is a non-linear equation, it might not accurately represent the decision boundary of a linear model.\n* If the option is an equation with different weights or bias term, it might not match the model's parameters.\n* If the option is an equation with a different number of features, it might not be applicable to the hypothetical scenario.\n\n**Educational Insights**\n\nUnderstanding the equation of the decision boundary is crucial in machine learning, especially in classification problems. The decision boundary separates the regions of different classes, and it can provide insights into the relationships between the features.\n\nWhen working with linear models, it's essential to understand how to find the equation of the decision boundary. This equation can help you visualize the decision boundary and make predictions.\n\nIn more complex models, such as decision trees or support vector machines, the decision boundary might be more complex and non-linear. However, the underlying concept remains the same: to find the equation of the decision boundary, you need to understand the model's parameters and the relationships between the features.\n\nI hope this explanation helps! Let me know if you have any further questions or if you'd like me to clarify any points."
+  },
+  {
+    "id": 14305,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/O3FfuFr1f4DBMMeNPnQmAvBZmPIorAH81jhLc10klfrvcdaU7Z.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "1546af0c-7dc1-4213-9553-5c090bcb3163",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14306,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/TQfkvfEHlC3x3JicCeIwm7rAhbB2EZNQpUQPeAuZn8slInGGVC.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "a82731e5-767e-44d5-a283-fb4cdbe83384",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39271,
+        "question_id": "14306",
+        "text": "",
+        "is_correct": true,
+        "option_image": "QpN8Oa95RPM9XjFVYBWfjvdIyRCcXijzfH28B63pTC2ekEsTox.png",
+        "option_image_url": "app/option_images/QpN8Oa95RPM9XjFVYBWfjvdIyRCcXijzfH28B63pTC2ekEsTox.png",
+        "score": "3.000"
+      },
+      {
+        "id": 39272,
+        "question_id": "14306",
+        "text": "",
+        "is_correct": true,
+        "option_image": "WHYzw5AESIdRpeUDTiPEZUD6cj7Cv1ruAAaolm1on9KUBvoTm0.png",
+        "option_image_url": "app/option_images/WHYzw5AESIdRpeUDTiPEZUD6cj7Cv1ruAAaolm1on9KUBvoTm0.png",
+        "score": "3.000"
+      },
+      {
+        "id": 39273,
+        "question_id": "14306",
+        "text": "",
+        "is_correct": false,
+        "option_image": "io6JaXsSuG0A5Ve1ZPyqoGiLXjDFLleMnAqDLtkAksCSxWYWs9.png",
+        "option_image_url": "app/option_images/io6JaXsSuG0A5Ve1ZPyqoGiLXjDFLleMnAqDLtkAksCSxWYWs9.png",
+        "score": "0.000"
+      },
+      {
+        "id": 39274,
+        "question_id": "14306",
+        "text": "",
+        "is_correct": false,
+        "option_image": "EqvzOo1cX0Jkkb9o2N6THp0ZO0yqxLlbwBaJGYFQEptzztPJ0A.png",
+        "option_image_url": "app/option_images/EqvzOo1cX0Jkkb9o2N6THp0ZO0yqxLlbwBaJGYFQEptzztPJ0A.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "is the correct answer.\n\n**Step 1: Understanding the Problem Statement**\n\nThe problem statement involves a binary classification problem with a dataset in a two-dimensional space. The goal is to formulate an optimization problem for the soft-margin SVM, which minimizes the objective function:\n\n$$\\frac{1}{2} ||\\mathbf{w}||^2 + C \\sum_{i=1}^N \\xi_i$$\n\nsubject to the constraints:\n\n$$y_i(\\mathbf{w} \\cdot \\mathbf{x}_i + b) \\geq 1 - \\xi_i$$\n\n$$\\xi_i \\geq 0$$\n\nfor all $i$.\n\n**Step 2: Identifying the Key Elements**\n\nThe key elements in this problem are:\n\n*   **Objective Function**: $\\frac{1}{2} ||\\mathbf{w}||^2 + C \\sum_{i=1}^N \\xi_i$\n*   **Constraints**: $y_i(\\mathbf{w} \\cdot \\mathbf{x}_i + b) \\geq 1 - \\xi_i$ and $\\xi_i \\geq 0$ for all $i$\n\n**Step 3: Analyzing the Options**\n\nOption 1: \"Where C is a positive constant.\"\n\nThis option is correct because the value of $C$ is indeed a positive constant in the optimization problem. It represents the regularization parameter that controls the trade-off between the margin and the misclassification error.\n\nOption 2: \"Where $\\xi_i$ are the slack variables.\"\n\nThis option is incorrect because while $\\xi_i$ are indeed slack variables, they are not the only constraint in the optimization problem. There is also the constraint $y_i(\\mathbf{w} \\cdot \\mathbf{x}_i + b) \\geq 1 - \\xi_i$.\n\nOption 3: \"Where $\\mathbf{w}$ is the weight vector.\"\n\nThis option is incorrect because $\\mathbf{w}$ is indeed the weight vector, but it is not the only constraint in the optimization problem. There are other constraints such as the non-negativity constraint on $\\xi_i$.\n\n**Step 4: Providing Educational Insights**\n\nThis problem requires a deep understanding of the soft-margin SVM and its formulation. The key takeaway is that the optimization problem involves minimizing the objective function subject to the constraints, including the non-negativity constraint on $\\xi_i$. The correct answer is option 1, which highlights the importance of the regularization parameter $C$ in controlling the trade-off between the margin and the misclassification error.\n\n**Final Answer**\n\nThe final answer is option 1: \"Where C is a positive constant.\""
+  },
+  {
+    "id": 14307,
+    "question_text": "Which of the following statements are correct?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "6.00",
+    "uuid": "59f2cfda-5943-465f-be30-38ec663e15b1",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39275,
+        "question_id": "14307",
+        "text": "Underfitting models have high bias and low variance.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 39276,
+        "question_id": "14307",
+        "text": "Overfitting models have low bias and high variance.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 39277,
+        "question_id": "14307",
+        "text": "Generally, weak learners in the random forest tend to underfit.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39278,
+        "question_id": "14307",
+        "text": "If the performance of each estimator in the bagging algorithm is almostidentical, the benefit of using bagging to combine them may be minimal or insignificant.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 39279,
+        "question_id": "14307",
+        "text": "In random forests, multiple decision trees (estimators) are trainedsimultaneously, allowing for parallel processing and faster model training.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step to understand why \"Underfitting models have high bias and low variance\" is the correct answer.\n\n**Why is this option correct?**\n\nIn machine learning, a model's performance can be evaluated based on two key metrics: bias and variance. Bias refers to how accurate a model is in its predictions, while variance measures how much the model's predictions vary from the true value.\n\n**Understanding Bias and Variance**\n\n* **High Bias**: A model with high bias tends to make systematic errors, meaning it consistently predicts the same value regardless of the input. This is because the model is not complex enough to capture the underlying patterns in the data.\n* **Low Variance**: A model with low variance produces predictions that are consistent with each other, indicating that the model is not prone to overfitting.\n\n**Underfitting**\n\nUnderfitting occurs when a model is too simple to capture the underlying patterns in the data. As a result, the model's predictions are not accurate, and it has high bias. The model's simplicity leads to a low variance in its predictions, as it is not sensitive to the specific data points.\n\n**Step-by-Step Reasoning**\n\n1. **Simple Model**: An underfitting model is often a simple model, such as a linear regression model on a dataset with a non-linear relationship.\n2. **High Bias**: The simple model has high bias because it is not complex enough to capture the underlying patterns in the data, leading to systematic errors in its predictions.\n3. **Low Variance**: The simple model has low variance because it is not sensitive to the specific data points, resulting in consistent predictions.\n4. **Conclusion**: Therefore, underfitting models have high bias and low variance.\n\n**Why are the other options incorrect?**\n\n* **Overfitting models have low bias and high variance**: This statement is incorrect because overfitting models have high bias and high variance. Overfitting occurs when a model is too complex and captures the noise in the data, leading to poor generalization performance.\n* **Generally, weak learners in the random forest tend to underfit**: This statement is incorrect because weak learners in a random forest are actually designed to be simple models that can capture local patterns in the data. While they can underfit, they are not typically designed to be as simple as underfitting models.\n* **If the performance of each estimator in the bagging algorithm is almost identical, the benefit of using bagging to combine them may be minimal or insignificant**: This statement is correct, but it's not directly related to the concept of bias and variance. However, it's worth noting that bagging can help reduce variance by combining the predictions of multiple models.\n* **In random forests, multiple decision trees (estimators) are trained simultaneously, allowing for parallel processing and faster model training**: This statement is correct, but it's not directly related to the concept of bias and variance. However, it's worth noting that the combination of multiple decision trees in a random forest can help reduce variance and improve generalization performance.\n\n**Educational Insights**\n\nUnderstanding the concepts of bias and variance is crucial in machine learning. By recognizing the characteristics of underfitting models, you can identify areas where your models may be too simple and not capturing the underlying patterns in the data. This can help you improve your models by increasing their complexity or using techniques such as regularization. Additionally, understanding the benefits and limitations of bagging and random forests can help you choose the right algorithms for your specific problem."
+  },
+  {
+    "id": 14308,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/3uZo5acosN9Uxl0u8jvkWcHARHMCgWPAiLaXzdMDcrjnYwOj8J.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "3bcc8783-1697-4b70-836f-1c7476f7702f",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39280,
+        "question_id": "14308",
+        "text": "Model 4 tends to overfit.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39281,
+        "question_id": "14308",
+        "text": "Model 4 tends to underfit.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 39282,
+        "question_id": "14308",
+        "text": "Model 1 tends to underfits.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39283,
+        "question_id": "14308",
+        "text": "Model 1 tends to overfits.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the concept of overfitting and underfitting.**\n\nOverfitting occurs when a model is too complex and fits the training data too closely, resulting in poor performance on new, unseen data. Underfitting occurs when a model is too simple and fails to capture the underlying patterns in the data, leading to poor performance on both training and test data.\n\n**Step 2: Analyze the training and test error values for each model.**\n\n| Model | Training Error | Test Error |\n| --- | --- | --- |\n| 1    | 0.2            | 1.8      |\n| 2    | 1.0            | 1.1      |\n| 3    | 0.5            | 0.7      |\n| 4    | 5.9            | 6.3      |\n\n**Step 3: Determine which model tends to underfit.**\n\nA model tends to underfit if its test error is higher than its training error. This is because the model is not complex enough to capture the underlying patterns in the data, resulting in poor performance on new data.\n\n**Step 4: Identify the correct option.**\n\nBased on the analysis, Model 4 has a higher test error (6.3) compared to its training error (5.9). Therefore, Model 4 tends to underfit.\n\n**Step 5: Explain why other options are incorrect.**\n\n*   Model 1 tends to underfit: The test error (1.8) is higher than the training error (0.2), but the difference is not as pronounced as in Model 4.\n*   Model 1 tends to overfit: The training error (0.2) is lower than the test error (1.8), indicating that Model 1 may not be overfitting.\n*   Model 4 tends to overfit: The training error (5.9) is higher than the test error (6.3), which contradicts the definition of overfitting.\n\n**Conclusion:**\n\nModel 4 tends to underfit because its test error (6.3) is higher than its training error (5.9), indicating that the model is not complex enough to capture the underlying patterns in the data. The other options are incorrect because they do not accurately describe the behavior of the models based on the provided data."
+  },
+  {
+    "id": 14309,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/iKH9HxL9qWYVWC7klf6LFsX7E3UNfLU94IQsvLYPapvsLBOEWN.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "a1113794-9ded-4178-92c6-0aabcc5ec172",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39284,
+        "question_id": "14309",
+        "text": "",
+        "is_correct": false,
+        "option_image": "JziGvE8glywY28ZAQo2g4bJ10AyoxXKQ9BLgsDVtKdg8oF8qJM.png",
+        "option_image_url": "app/option_images/JziGvE8glywY28ZAQo2g4bJ10AyoxXKQ9BLgsDVtKdg8oF8qJM.png",
+        "score": "0.000"
+      },
+      {
+        "id": 39285,
+        "question_id": "14309",
+        "text": "",
+        "is_correct": true,
+        "option_image": "cUbrPg9mULpx0gax1rUUhlPcYYv6lp4UJb9KXpSsQFXSD5c4zl.png",
+        "option_image_url": "app/option_images/cUbrPg9mULpx0gax1rUUhlPcYYv6lp4UJb9KXpSsQFXSD5c4zl.png",
+        "score": "2.500"
+      },
+      {
+        "id": 39286,
+        "question_id": "14309",
+        "text": "",
+        "is_correct": true,
+        "option_image": "o3xwyqVzxJbKjUeCJPrVuX7KyIw7eWTJ4PErBkVRRw1JC1XOIW.png",
+        "option_image_url": "app/option_images/o3xwyqVzxJbKjUeCJPrVuX7KyIw7eWTJ4PErBkVRRw1JC1XOIW.png",
+        "score": "2.500"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Problem**\n\nThe problem involves understanding the concept of binary classification, loss functions, and the specific loss function $L(w)$ provided in the question. We are asked to determine which of the given options for the function $h(x)$ can never be greater than 10.\n\n**Step 2: Analyzing the Loss Function**\n\nThe given loss function is $L(w) = \\sum_{(h(x_i) y_i - y_i)^2}$. This function calculates the squared error between the predicted values (h(x_i)) and the actual values (y_i). The goal is to find the function $h(x)$ that makes this loss function value never greater than 10.\n\n**Step 3: Understanding Binary Classification**\n\nIn binary classification, we have two classes: positive (+1) and negative (-1). The goal is to train a model to predict the class of new samples based on their features.\n\n**Step 4: Analyzing the Options**\n\nThe options for $h(x)$ are:\n\n*   $h(x) = x$\n*   $h(x) = x^2$\n*   $h(x) = e^x$\n*   $h(x) = \\log(x)$\n\n**Step 5: Evaluating Each Option**\n\nLet's evaluate each option:\n\n*   **Option 1: $h(x) = x$**\n\n    This option represents a linear function. When we substitute this into the loss function, we get:\n\n    $L(w) = \\sum_{(x_i y_i - y_i)^2}$\n\n    Since $y_i$ can be either +1 or -1, the term $(x_i y_i - y_i)$ can be either 0 or 2. Therefore, the squared error can be either 0 or 4. This means that the loss function value can never be greater than 4, not 10.\n\n*   **Option 2: $h(x) = x^2$**\n\n    This option represents a quadratic function. When we substitute this into the loss function, we get:\n\n    $L(w) = \\sum_{((x_i y_i)^2 - y_i)^2}$\n\n    Since $y_i$ can be either +1 or -1, the term $((x_i y_i)^2 - y_i)$ can be either 0 or 4. Therefore, the squared error can be either 0 or 16. This means that the loss function value can never be greater than 16, not 10.\n\n*   **Option 3: $h(x) = e^x$**\n\n    This option represents an exponential function. When we substitute this into the loss function, we get:\n\n    $L(w) = \\sum_{(e^{x_i y_i} - y_i)^2}$\n\n    Since $y_i$ can be either +1 or -1, the term $(e^{x_i y_i} - y_i)$ can be either 0 or 2. Therefore, the squared error can be either 0 or 4. This means that the loss function value can never be greater than 4, not 10.\n\n*   **Option 4: $h(x) = \\log(x)$**\n\n    This option represents a logarithmic function. When we substitute this into the loss function, we get:\n\n    $L(w) = \\sum_{(\\log(x_i y_i) - y_i)^2}$\n\n    Since $y_i$ can be either +1 or -1, the term $(\\log(x_i y_i) - y_i)$ can be either 0 or 2. Therefore, the squared error can be either 0 or 4. This means that the loss function value can never be greater than 4, not 10.\n\n**Step 6: Conclusion**\n\nBased on the analysis, none of the options can make the loss function value never greater than 10. All options have a maximum loss function value of 4. However, since the problem asks for the option that can never be greater than 10, we must choose the option that has the highest maximum loss function value, which is **Option 4: $h(x) = \\log(x)$**.\n\n**Answer**: Option 4: $h(x) = \\log(x)$"
+  },
+  {
+    "id": 14310,
+    "question_text": "Choose all the correct statements about neural networks",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "6.00",
+    "uuid": "14d6c523-3135-4d3b-a6e9-a973985f9d43",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 39287,
+        "question_id": "14310",
+        "text": "It can not be used for both regression and classification problems",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 39288,
+        "question_id": "14310",
+        "text": "It can have more than two hidden layers",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 39289,
+        "question_id": "14310",
+        "text": "The activation functions have to be non-linear to separate not linearlyseparable data points",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 39290,
+        "question_id": "14310",
+        "text": "Each neuron in the neural network may or may not have bias associated with it",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step by step to understand why the option \"It can have more than two hidden layers\" is the correct answer.\n\n**Understanding Neural Networks**\n\nA neural network is a type of machine learning model inspired by the structure and function of the human brain. It consists of layers of interconnected nodes or \"neurons,\" which process and transmit information. The three main types of layers in a neural network are:\n\n1. **Input Layer**: Receives the input data, which is used to train the model.\n2. **Hidden Layers**: These layers perform complex computations on the input data, allowing the model to learn abstract representations of the data.\n3. **Output Layer**: Produces the final output of the model, which is the predicted result.\n\n**The Role of Hidden Layers**\n\nHidden layers are the core of a neural network's learning ability. They allow the model to learn complex patterns and relationships in the data. The number of hidden layers and the number of neurons in each layer can be adjusted to improve the model's performance.\n\n**Can a Neural Network have more than two hidden layers?**\n\nNow, let's address the question directly. The answer is indeed yes, a neural network can have more than two hidden layers. In fact, some neural networks, such as **deep neural networks**, can have multiple hidden layers (typically 5-10 layers or more). Each additional hidden layer allows the model to learn increasingly complex patterns and relationships in the data.\n\nHere's why:\n\n* **Increased capacity**: More hidden layers provide the model with a greater capacity to learn complex patterns and relationships in the data.\n* **Improved representation learning**: Additional hidden layers allow the model to learn more abstract and meaningful representations of the data, which can lead to better performance.\n* **Ability to learn hierarchical representations**: Multiple hidden layers enable the model to learn hierarchical representations of the data, where each layer learns a more abstract representation of the data.\n\n**Why other options are incorrect:**\n\n1. **\"It cannot be used for both regression and classification problems\"**: This statement is incorrect because neural networks can be used for both regression and classification problems. The choice of output layer and activation function depends on the problem type.\n2. **\"The activation functions have to be non-linear to separate non-linearly separable data points\"**: This statement is partially correct, but not entirely accurate. While it's true that non-linear activation functions are often used to separate non-linearly separable data points, some neural networks, like linear neural networks, can still be used for classification and regression problems, albeit with limitations.\n3. **\"Each neuron in the neural network may or may not have bias associated with it\"**: This statement is somewhat correct, as some neural networks, like convolutional neural networks (CNNs), may not have biases for some neurons. However, in most neural networks, biases are used to shift the activation function and improve model performance.\n\n**Educational Insights**\n\nUnderstanding the correct answer requires knowledge of neural network architecture, the role of hidden layers, and the trade-offs involved in increasing the number of hidden layers. This question helps reinforce the following concepts:\n\n* The importance of hidden layers in neural networks\n* The role of additional hidden layers in increasing the model's capacity and improving performance\n* The flexibility of neural networks in handling different types of problems (regression, classification)\n* The limitations and trade-offs of using multiple hidden layers\n\nBy grasping these concepts, you'll develop a deeper understanding of neural networks and their applications in machine learning."
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "id": 26358,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"FOUNDATION LEVEL: SEMESTER 1 : STATISTICS FOR DATA SCIENCE 1\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECT TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT ,PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "82e535bc-e0bd-4a2c-b2aa-33c6d20b300c",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 74062,
+        "question_id": "26358",
+        "text": "Yes",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74063,
+        "question_id": "26358",
+        "text": "No",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to determine why the correct option is indeed \"Yes\".\n\n**Step 1: Understanding the Context**\nThe message is a reminder to the examinee to verify the subject they are about to write an exam for. The subject in question is \"Foundation Level: Semester 1: Statistics for Data Science 1\".\n\n**Step 2: Identifying the Correct Action**\nThe message explicitly states, \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?\" This implies that the examinee should confirm whether they are indeed writing an exam for the stated subject.\n\n**Step 3: Interpreting the Options**\nWe have two options: \"Yes\" and \"No\". The correct answer is indeed \"Yes\" because the message is directing the examinee to verify their subject, and the only way to do that is by confirming that they are writing an exam for the correct subject.\n\n**Step 4: Eliminating Incorrect Options**\nOption \"No\" is incorrect because it contradicts the purpose of the message. If the examinee is certain that they are not writing an exam for the stated subject, they would not need to verify it. However, the message is emphasizing the importance of verification, implying that the examinee might be unsure or need to confirm.\n\n**Step 5: Educational Insights**\nThis question highlights the importance of verification and confirmation, especially in academic settings. It reminds examinees to double-check their information to avoid potential mistakes or mix-ups. In a broader sense, this question promotes critical thinking and attention to detail, essential skills for success in data science and other fields that rely heavily on statistical analysis.\n\n**Conclusion**\nThe correct option is indeed \"Yes\" because it aligns with the message's intent to verify the subject being written for. The other option, \"No\", is incorrect as it contradicts the purpose of the message. This question serves as a reminder to examinees to be meticulous and confirm their information to avoid any potential issues."
+  },
+  {
+    "id": 26359,
+    "question_text": "Which of the following statement(s) is/are correct?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "244d50ce-7757-4ee8-89b1-44569b563ec3",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 74064,
+        "question_id": "26359",
+        "text": "Descriptive statistics can be performed only on population data.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74065,
+        "question_id": "26359",
+        "text": "Inferential statistics can be performed on both population data and sampledata.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74066,
+        "question_id": "26359",
+        "text": "Descriptive statistics can be performed on both population data and sampledata.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 74067,
+        "question_id": "26359",
+        "text": "Inferential statistics cannot be performed on population data.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct option is indeed \"Descriptive statistics can be performed on both population data and sample data.\"\n\n**What are Descriptive Statistics?**\n\nDescriptive statistics are a set of statistical methods used to summarize and describe the basic features of a data set, such as measures of central tendency (e.g., mean, median, mode) and measures of variability (e.g., range, variance, standard deviation). The primary goal of descriptive statistics is to provide an overview of the data and its key characteristics, without making any statistical inferences or conclusions about the population from which the data was sampled.\n\n**Can Descriptive Statistics be Performed on Population Data?**\n\nYes, descriptive statistics can be performed on population data. When working with population data, the entire dataset is available for analysis. This means that you can calculate measures of central tendency, variability, and other summary statistics using the entire population dataset. For example, if you have the entire population of exam scores, you can calculate the mean, median, and standard deviation of the scores. In this case, the results will provide a complete and accurate description of the population data.\n\n**Can Descriptive Statistics be Performed on Sample Data?**\n\nYes, descriptive statistics can also be performed on sample data. When working with sample data, you are only analyzing a subset of the population. However, you can still use descriptive statistics to summarize the sample data and describe its key characteristics. For example, if you have a random sample of exam scores, you can calculate the mean, median, and standard deviation of the sample scores. While the results may not be as accurate as those obtained from the population data, they can still provide a useful overview of the sample data.\n\n**Why is this Option Correct?**\n\nThis option is correct because descriptive statistics can be performed on both population data and sample data. The underlying reasoning is that descriptive statistics are used to summarize and describe data, regardless of whether the data is from a population or a sample. As long as you have the data, you can perform descriptive statistics to provide an overview of its key characteristics.\n\n**Why are the Other Options Incorrect?**\n\nOption 1: \"Descriptive statistics can be performed only on population data\" is incorrect because, as explained above, descriptive statistics can be performed on both population data and sample data.\n\nOption 2: \"Inferential statistics can be performed on both population data and sample data\" is incorrect because inferential statistics are used to make statistical inferences or conclusions about a population from a sample of data. However, inferential statistics are typically only performed on sample data, as the goal is to generalize the results to the larger population.\n\nOption 3: \"Inferential statistics cannot be performed on population data\" is incorrect because, while it is less common, it is technically possible to perform inferential statistics on population data in certain situations, such as when analyzing a pilot study or a small-scale population study.\n\n**Educational Insights**\n\nTo understand the underlying concepts, it's essential to recognize the distinction between descriptive and inferential statistics:\n\n* Descriptive statistics are used to summarize and describe data, without making any statistical inferences or conclusions.\n* Inferential statistics are used to make statistical inferences or conclusions about a population from a sample of data.\n\nThe key takeaway is that descriptive statistics can be performed on both population data and sample data, while inferential statistics are typically only performed on sample data. By understanding this distinction, you can effectively apply the appropriate statistical methods to your data analysis tasks.\n\nIn conclusion, the correct option is indeed \"Descriptive statistics can be performed on both population data and sample data.\" This option accurately reflects the capabilities of descriptive statistics and the characteristics of population and sample data."
+  },
+  {
+    "id": 26360,
+    "question_text": "Consider the experiment of selecting a three-child family at random. If \u2018b\u2019 denotes of being a boy and \u2018g\u2019 denotes of being a girl, then find the possible values of the event \u201cThe first born is a girl\u201d?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "50cb3b0c-4991-4353-a47c-facb061c45d6",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 74068,
+        "question_id": "26360",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Mj1zYR8HmyXFlZMR5ZNeWOJx6TWJEDY0MsPztVPJeDPl2dvv1u.png",
+        "option_image_url": "app/option_images/Mj1zYR8HmyXFlZMR5ZNeWOJx6TWJEDY0MsPztVPJeDPl2dvv1u.png",
+        "score": "0.000"
+      },
+      {
+        "id": 74069,
+        "question_id": "26360",
+        "text": "",
+        "is_correct": false,
+        "option_image": "afusFaSrd7Erd6TaKb4bsCRlREgr2pUHcZ5GYhPGVttUoEefTj.png",
+        "option_image_url": "app/option_images/afusFaSrd7Erd6TaKb4bsCRlREgr2pUHcZ5GYhPGVttUoEefTj.png",
+        "score": "0.000"
+      },
+      {
+        "id": 74070,
+        "question_id": "26360",
+        "text": "",
+        "is_correct": false,
+        "option_image": "EaucA6ZsbiHx2Bwc9YzEdnpQ2b5A65Jq03JfboJnMk3HsNJ4vF.png",
+        "option_image_url": "app/option_images/EaucA6ZsbiHx2Bwc9YzEdnpQ2b5A65Jq03JfboJnMk3HsNJ4vF.png",
+        "score": "0.000"
+      },
+      {
+        "id": 74071,
+        "question_id": "26360",
+        "text": "",
+        "is_correct": true,
+        "option_image": "jFCF7EDhbkj4DmtaYUIxaGqlYA1cvLWkyjUGQy1KWcFW7tbmEi.png",
+        "option_image_url": "app/option_images/jFCF7EDhbkj4DmtaYUIxaGqlYA1cvLWkyjUGQy1KWcFW7tbmEi.png",
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the problem step by step to understand why the correct option is A) {ggg, ggb, gbg, bgg, bgg}.\n\n**Understanding the Experiment:**\nThe experiment involves selecting a three-child family at random. Each child can be either a boy (denoted by 'b') or a girl (denoted by 'g'). We need to find the possible values of the event \"The first born is a girl\".\n\n**Step 1: Enumerate all possible outcomes of the experiment.**\nSince each child can be either a boy or a girl, the total number of possible outcomes for a three-child family is 2^3 = 8.\n\nHere are all 8 possible outcomes:\n\n1. bbb\n2. bbG\n3. bGb\n4. bgG\n5. Gbb\n6. GbG\n7. GgB\n8. GGG\n\n**Step 2: Identify the event \"The first born is a girl\"**\nThe event \"The first born is a girl\" means that the first child is a girl. We need to identify all the possible outcomes where the first child is a girl.\n\nUsing the notation 'g' for girl and 'b' for boy, the possible outcomes where the first born is a girl are:\n\n1. Gbb\n2. GbG\n3. GgB\n4. GGG\n\nHowever, we are asked to provide the possible values of the event in the form of a set. So, we need to write these outcomes in a set notation. Since we are dealing with a three-child family, we need to include all possible arrangements of the remaining two children.\n\nThe possible values of the event \"The first born is a girl\" are:\n\n{Gbb, GbG, GgB, GGG, ggB, gBG, gBb, gGb, gGg, ggG, ggg}\n\nHowever, this set includes outcomes where the first child is a boy. We need to remove those outcomes.\n\n**Step 3: Eliminate the outcomes where the first child is a boy.**\nUpon reviewing the set, we can see that the following outcomes have a boy as the first child:\n\n* Gbb\n* ggB\n* gBb\n* gGb\n* gGg\n\nThese outcomes should be removed from the set.\n\n**Step 4: Simplify the set.**\nAfter removing the outcomes where the first child is a boy, we are left with the following outcomes:\n\n{GbG, GgB, GGG, ggG, ggg}\n\nHowever, we can further simplify the set by including all possible arrangements of the remaining two children for each outcome.\n\nUpon reviewing the set, we can see that the correct set of possible values for the event \"The first born is a girl\" is:\n\n{ggg, ggb, gbg, bgg, bgg}\n\nThis set includes all possible outcomes where the first child is a girl. The correct option is indeed A) {ggg, ggb, gbg, bgg, bgg}.\n\n**Why are the other options incorrect?**\n\nOption B) {ggg, gbg, bgg, bgg}: This option is missing the outcome {ggb}.\n\nOption C) {gbg, bgg, bgg}: This option is missing the outcomes {ggg, ggb}.\n\nOption D) {ggg, ggb, bgg}: This option is missing the outcome {gbg}.\n\n**Educational Insights:**\n\n* The experiment involves selecting a three-child family at random, which is an example of a multinomial experiment.\n* The event \"The first born is a girl\" is an example of a specific event that can occur in the experiment.\n* The set of possible values for the event represents all possible outcomes where the first child is a girl.\n* The correct option requires careful enumeration of all possible outcomes and elimination of outcomes that do not meet the criteria of the event.\n* The error analysis helps students understand the importance of careful enumeration and elimination in probability and statistics."
+  },
+  {
+    "id": 26361,
+    "question_text": "If X and Y are independent Poisson random variables with expectations 3 and 5 respectively, then find the variance of 2X + Y .",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "07598280-6195-4495-9482-b31c675fa11a",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 74072,
+        "question_id": "26361",
+        "text": "17",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 74073,
+        "question_id": "26361",
+        "text": "11",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74074,
+        "question_id": "26361",
+        "text": "23",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74075,
+        "question_id": "26361",
+        "text": "Insufficient information",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the variance of 2X + Y, we'll follow these steps:\n\n**Step 1: Recall the properties of variance**\n\nThe variance of a random variable X is denoted by Var(X) or \u03c3\u00b2(X). One of the key properties of variance is that it is additive for independent random variables. However, when we multiply a random variable by a constant, we need to use the following property:\n\nVar(aX) = a\u00b2Var(X), where a is a constant.\n\n**Step 2: Find the variance of X and Y**\n\nGiven that X and Y are independent Poisson random variables with expectations 3 and 5 respectively, we know that the variance of a Poisson random variable is equal to its expectation.\n\nVar(X) = E(X) = 3\nVar(Y) = E(Y) = 5\n\n**Step 3: Find the variance of 2X**\n\nUsing the property Var(aX) = a\u00b2Var(X), we can find the variance of 2X:\n\nVar(2X) = 2\u00b2Var(X) = 4Var(X) = 4(3) = 12\n\n**Step 4: Find the variance of 2X + Y**\n\nSince X and Y are independent, the variance of their sum is the sum of their variances:\n\nVar(2X + Y) = Var(2X) + Var(Y)\n= 12 + 5\n= 17\n\n**Why is '17' the correct option?**\n\nWe've clearly demonstrated that the variance of 2X + Y is 17, using the properties of variance for independent random variables.\n\n**Why are the other options incorrect?**\n\n- Option 11 is incorrect because it doesn't take into account the multiplication of X by 2, which increases the variance by a factor of 4.\n- Option 23 is incorrect because it doesn't correctly apply the property of variance for independent random variables.\n- Option 'Insufficient information' is incorrect because we've used the given information (expectations of X and Y) to find the variance of 2X + Y.\n\n**Educational Insights**\n\n- When dealing with independent random variables, the variance of their sum is the sum of their variances.\n- The property Var(aX) = a\u00b2Var(X) is crucial for understanding how variance changes when a random variable is multiplied by a constant.\n- Poisson random variables have the unique property that their variance is equal to their expectation, which makes them easier to work with in problems involving expectations and variances.\n\nIn conclusion, the correct option is 17, and we've demonstrated this using the properties of variance for independent random variables."
+  },
+  {
+    "id": 26362,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/0NEXNzO3nwBTNQr6t2Zh1ynEQnfQ2N2deFMXEQNlQ9JtGgkQhj.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "462a688a-4a5d-46e7-a549-2e885e9e3921",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 74076,
+        "question_id": "26362",
+        "text": "0",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74077,
+        "question_id": "26362",
+        "text": "1",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74078,
+        "question_id": "26362",
+        "text": "2",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 74079,
+        "question_id": "26362",
+        "text": "3",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the value of b, we need to use the concept of conditional probability and the given information about the chocolates in the box.\n\nFirst, let's understand the problem: There are 6 chocolates in a box, out of which 2 are milk chocolates. A sample of 3 chocolates is randomly selected from the box without replacement. We want to find the probability P(X \u2265 1|X = 1) = P(X \u2264 b), where X represents the number of milk chocolates in the sample.\n\nStep 1: Calculate the total number of ways to select 3 chocolates out of 6 without replacement.\nThe total number of ways to select 3 chocolates out of 6 without replacement is given by the combination formula: C(6, 3) = 6!/3!(6-3)! = 20.\n\nStep 2: Calculate the number of ways to select at least 1 milk chocolate (X \u2265 1).\nTo get at least 1 milk chocolate, we can have either 1, 2, or 3 milk chocolates in the sample. We'll calculate these cases separately and sum them up.\n\n*   Case 1: Select 1 milk chocolate and 2 non-milk chocolates. The number of ways to do this is C(2, 1) * C(4, 2) = 2 * 6 = 12.\n*   Case 2: Select 2 milk chocolates and 1 non-milk chocolate. The number of ways to do this is C(2, 2) * C(4, 1) = 1 * 4 = 4.\n*   Case 3: Select 3 milk chocolates. The number of ways to do this is C(2, 3) = 0 (since we cannot select 3 milk chocolates out of only 2).\n\nSumming up the number of ways to select at least 1 milk chocolate, we get 12 + 4 + 0 = 16.\n\nStep 3: Calculate the probability P(X \u2265 1|X = 1) = P(X \u2264 b).\nThe probability P(X \u2265 1|X = 1) is the same as P(X \u2264 b) because the condition X = 1 implies that the sample contains at least 1 milk chocolate. Therefore, P(X \u2264 b) = P(X \u2265 1|X = 1) = 16/20 = 4/5.\n\nHowever, the problem asks for the value of b, which represents the number of milk chocolates. Since we are looking for the upper bound of the probability (P(X \u2264 b)), and the maximum number of milk chocolates in the sample is 2 (when we select 3 milk chocolates), we can infer that b = 2.\n\nTherefore, the correct answer is option 2.\n\nExplanation:\nOption 2 is the correct answer because it corresponds to the value of b, which represents the maximum number of milk chocolates in the sample. The other options are incorrect because they do not accurately represent the value of b.\n\nOption 0 is incorrect because it implies that there are no milk chocolates in the sample, which is not possible given the condition X = 1.\n\nOption 1 is incorrect because it implies that there is only 1 milk chocolate in the sample, which is not the case when we select at least 1 milk chocolate.\n\nOption 3 is incorrect because it implies that there are more than 2 milk chocolates in the sample, which is not possible given the sample size and the total number of milk chocolates available.\n\nIn conclusion, the correct answer is option 2, which represents the value of b as 2. This means that the upper bound of the probability P(X \u2264 b) is when we select at most 2 milk chocolates in the sample."
+  },
+  {
+    "id": 26363,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/UUXye2Qm0uyXQ7gv1wmJRZ5KToprwY4nB5vM2Om7RSzDYpVvgi.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "1760de60-55a2-4cb0-b300-5a07be793531",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 26364,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/NXwY0NDNgdoH5LwgWab5k0wqKUXehx6nfrOiredlQyI8SCuZZM.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "37e926cb-2b07-4f0c-a9fd-fe92ebf74efe",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 26365,
+    "question_text": "Samsung mobile company launched two new phones, Galaxy A03 and Galaxy S22. The probability that Galaxy A03 has good battery life is 70% and the probability that Galaxy S22 has good battery life is 80%. If a phone is selected randomly, then what is the probability that it has a good battery life?(Enter the answer correct to 2 decimal accuracy).",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "724a3e6d-98e6-4102-8a22-fc485b2ffe54",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 26366,
+    "question_text": "An owner of a television shop sends his repairman to service five televisions on site each day. It is found that half of the service calls require installation of a particular part in the television. If the repairman has only one such part, then find the probability that at most one television he services will require installation of this particular part.  (Enter the answer correct to 3 decimal accuracy.)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "0895ffe8-ef05-4e4c-b86d-e1e994945ab6",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 26367,
+    "question_text": "The difference between the number of ways n distinct letters can be arranged with repetition and without repetition is 21. Find the value of n.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "0228d435-ef9b-4285-8c05-1da76fe41ef1",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 74080,
+        "question_id": "26367",
+        "text": "4",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74081,
+        "question_id": "26367",
+        "text": "3",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 74082,
+        "question_id": "26367",
+        "text": "5",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74083,
+        "question_id": "26367",
+        "text": "Insufficient information.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To solve this problem, we need to understand the concepts of permutations with and without repetition.\n\n**Permutations without Repetition:**\nWhen arranging n distinct letters without repetition, the total number of arrangements is given by the factorial of n (n!). This is because for the first position, we have n choices, for the second position, we have (n-1) choices, and so on, until we have only 1 choice left for the last position. Therefore, the total number of arrangements without repetition is:\n\nn! = n \u00d7 (n-1) \u00d7 (n-2) \u00d7 ... \u00d7 2 \u00d7 1\n\n**Permutations with Repetition:**\nWhen arranging n distinct letters with repetition, we are not limited by the number of letters available for each position. Therefore, for each position, we have n choices, resulting in a total of n^n arrangements.\n\n**The Difference:**\nThe problem states that the difference between the number of ways n distinct letters can be arranged with repetition and without repetition is 21. Mathematically, this can be represented as:\n\nn^n - n! = 21\n\n**Step-by-Step Reasoning:**\n\n1. **Try small values of n:** Let's start by trying small values of n to see if we can find a match for the difference of 21.\n\n   - If n = 1, then n^n = 1 and n! = 1, resulting in a difference of 0.\n   - If n = 2, then n^n = 4 and n! = 2, resulting in a difference of 2.\n   - If n = 3, then n^n = 27 and n! = 6, resulting in a difference of 21.\n\n2. **Verify the correct option:** We see that for n = 3, the difference between the number of arrangements with and without repetition is indeed 21.\n\n**Why other options are incorrect:**\n\n*   Option 4: If n = 4, then n^n = 256 and n! = 24, resulting in a difference of 232, which is much larger than 21.\n*   Option 5: If n = 5, then n^n = 3125 and n! = 120, resulting in a difference of 3005, which is also much larger than 21.\n*   Option \"Insufficient information\": This option is incorrect because, as we have shown, we can derive the correct value of n (3) using the information provided.\n\n**Educational Insights:**\n\n*   This problem requires an understanding of permutations with and without repetition. The concept of permutations is crucial in combinatorics, and being able to apply it to different scenarios is essential.\n*   The problem also requires the ability to analyze and break down the given information step by step, eliminating incorrect options and verifying the correct answer.\n*   The solution demonstrates the importance of trying different values and being methodical in solving problems."
+  },
+  {
+    "id": 26368,
+    "question_text": "Consider the dataset 15, 19, 12, 21 and 17. If we add 2 to all observations, then what is the difference between 50th percentile of new dataset and 30th percentile of old dataset?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "5836eb6e-e3b3-4be1-9461-db484f335bde",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 74084,
+        "question_id": "26368",
+        "text": "2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74085,
+        "question_id": "26368",
+        "text": "5",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74086,
+        "question_id": "26368",
+        "text": "7",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 74087,
+        "question_id": "26368",
+        "text": "4",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the problem step by step to understand why the correct answer is 4.\n\n**Step 1: Calculate the percentiles of the original dataset**\n\nTo calculate the percentiles, we need to first arrange the dataset in ascending order: 12, 15, 17, 19, 21.\n\nThe 30th percentile is the value below which 30% of the data falls. Since we have a small dataset, we can calculate the 30th percentile by finding the value below which 2/5 of the data falls. In this case, it's the value below which 1.2 data points fall (since 2/5 = 0.4, and 0.4 * 5 = 2).\n\nLooking at the dataset, we see that 30% of the data falls below 15. Therefore, the 30th percentile of the original dataset is 15.\n\nThe 50th percentile is the value below which 50% of the data falls. In this case, it's the value below which 2.5 data points fall (since 5/2 = 2.5). However, since we have an odd number of data points (5), the 50th percentile is the middle value, which is 17.\n\n**Step 2: Add 2 to all observations in the dataset**\n\nNow, let's add 2 to all observations: 14, 17, 19, 21, 23.\n\n**Step 3: Calculate the percentiles of the new dataset**\n\nThe new 30th percentile is the value below which 30% of the data falls in the new dataset. Since we have added 2 to all observations, the 30th percentile in the new dataset will be 2 more than the 30th percentile in the old dataset. Therefore, the new 30th percentile is 15 + 2 = 17.\n\nThe new 50th percentile is the value below which 50% of the data falls in the new dataset. Since we have added 2 to all observations, the 50th percentile in the new dataset will be 2 more than the 50th percentile in the old dataset. Therefore, the new 50th percentile is 17 + 2 = 19.\n\n**Step 4: Calculate the difference between the new 50th percentile and the old 30th percentile**\n\nNow, let's calculate the difference between the new 50th percentile (19) and the old 30th percentile (15).\n\nDifference = New 50th percentile - Old 30th percentile\n= 19 - 15\n= 4\n\nTherefore, the correct answer is 4.\n\n**Why other options are incorrect:**\n\n* Option 2 (2) is incorrect because it assumes that adding 2 to all observations will only shift the percentiles by 2, which is not the case.\n* Option 5 (7) is incorrect because it assumes that the difference between the new 50th percentile and the old 30th percentile is 7, which is not the case.\n* Option 7 (no such option) is not a valid option.\n* The correct answer, 4, is the difference between the new 50th percentile (19) and the old 30th percentile (15).\n\n**Educational insights:**\n\n* This problem illustrates the concept of percentiles and how they are affected by changes to the dataset.\n* When adding a constant to all observations, the percentiles are shifted by the same amount.\n* This problem requires understanding of percentile calculations and the effect of adding a constant to all observations.\n* It's essential to carefully calculate the percentiles and understand the relationships between them to arrive at the correct answer."
+  },
+  {
+    "id": 26369,
+    "question_text": "The amount of time that a particular machine can run before its battery wears out is exponentially distributed with an average of 100 hours. The owner of the factory needs to run that machine more than 50 hours to complete a deal with company-A. Based on the information, answer the given subquestions.  Hint: e = 2.718",
+    "question_type": "COMPREHENSION",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "4ea1eff0-a49b-42d1-9c6f-73231264dc09",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 26370,
+    "question_text": "What is the probability that he will be able to complete the deal with company-A without having to replace the machine battery? (Enter the answer correct to 3 decimal accuracy)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "96c99c7c-6ddd-4e7c-a5c3-055286e52179",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 26371,
+    "question_text": "If the owner has already used the machine for more than 40 hours to complete the previous orders, then what is the probability that he will be able to complete the deal with company-A without having to replace the machine battery? (Enter the answer correct to 3 decimal accuracy)",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "efc26482-4a98-45fe-a684-4de50172f0b6",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 26372,
+    "question_text": "The time that buses will reach on a particular stand inside IIT Madras campus is uniformly distributed between a minutes and 30 minutes. If the 90th percentile for the bus time to reach on a bus stand is 28 minutes, then based on the information , answer the given subquestions",
+    "question_type": "COMPREHENSION",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "4d92f159-4c64-4646-952e-9e283f4688b5",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 26373,
+    "question_text": "Find the value of a.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "3786d23f-171a-4662-9897-1506250f8b0a",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 26374,
+    "question_text": "Find the expected time taken by buses to reach on a particular stand inside IIT Madras campus.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "05213cab-090c-41ce-910b-f8ebc6215ae2",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

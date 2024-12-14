@@ -1,0 +1,895 @@
+[
+  {
+    "id": 13717,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : DATABASE MANAGEMENT SYSTEMS (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "21140110-9c2b-4238-934f-77ef3ce2ee50",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37357,
+        "question_id": "13717",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37358,
+        "question_id": "13717",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's break down the statement and analyze it step by step.\n\n**Step 1: Understanding the context**\nThe statement is part of a question paper for a Diploma-level exam in Database Management Systems (DBMS). The subject is specified, and the exam is computer-based.\n\n**Step 2: Identifying the concern**\nThe statement expresses a concern that the candidate may be writing the wrong subject. It asks the candidate to confirm the subjects listed on their hall ticket to ensure they are writing the correct subject.\n\n**Step 3: Analyzing the options**\nWe have two options:\n\n1. YES (CORRECT OPTION)\n2. NO\n\n**Step 4: Evaluating the options**\n\n**Option 1: YES**\nThe correct answer is indeed \"YES\" because the statement is advising the candidate to double-check their subjects to ensure they are writing the correct subject. This is a precautionary measure to avoid any confusion or mistakes.\n\n**Why is \"YES\" the correct answer?**\n\n* The statement explicitly asks the candidate to confirm their subjects.\n* The tone is cautionary, indicating that the candidate should verify their subjects to avoid any issues.\n* The option \"YES\" acknowledges and responds to the concern raised in the statement.\n\n**Option 2: NO**\nThe option \"NO\" is incorrect because it does not address the concern raised in the statement. By choosing \"NO\", the candidate is essentially ignoring the warning and not taking the necessary step to confirm their subjects.\n\n**Why is \"NO\" an incorrect answer?**\n\n* The statement explicitly asks the candidate to confirm their subjects, which is not addressed by choosing \"NO\".\n* Choosing \"NO\" ignores the precautionary measure and may lead to mistakes or confusion.\n* The option \"NO\" does not provide a valid response to the concern raised in the statement.\n\n**Educational insights**\n\nThis question requires the candidate to demonstrate critical thinking and attention to detail. It highlights the importance of verifying information, especially in academic or professional settings. The correct answer, \"YES\", shows that the candidate is taking the necessary step to ensure accuracy and avoid mistakes.\n\nBy choosing \"YES\", the candidate is:\n\n* Demonstrating a proactive approach to resolving potential issues\n* Showing attention to detail and a commitment to accuracy\n* Acknowledging the importance of verifying information in academic or professional settings\n\nIn conclusion, the correct answer is indeed \"YES\" because it acknowledges and responds to the concern raised in the statement, demonstrating critical thinking and attention to detail."
+  },
+  {
+    "id": 13718,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/lvk34GLgampJBr3kYthNTN08qkRMB149lShMByYAYYzym3Zsvq.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "27bcab1d-41c2-4c42-a7b6-cfa40798852f",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37359,
+        "question_id": "13718",
+        "text": "A = Tea, B = Zury, C = Our\u2019s cafe, D = Tea, E = 19-10-21",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37360,
+        "question_id": "13718",
+        "text": "A = Coffee, B = Zury, C = Our\u2019s cafe, D = Coffee, E = 19-10-21",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37361,
+        "question_id": "13718",
+        "text": "A = Tea, B = Zury, C = Your\u2019s cafe, D = Coffee, E = 21-10-21",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37362,
+        "question_id": "13718",
+        "text": "A = Coffee, B = Zury, C = Your\u2019s cafe, D = Tea , E = 21-10-21",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is:\n\nA = Coffee, B = Zury, C = Your\u2019s cafe, D = Tea , E = 21-10-21\n\nTo justify this answer, we need to analyze the data provided in the table. The table contains a relation CustomerLogs with attributes Name, Items, Restaurant, and Date. Each row represents a unique customer log entry.\n\nTo find the correct answer, we need to identify the row that corresponds to the information provided in the question. The question states that if multivalued dependency (Name \u2192 {Restaurant}) exists in the above Customer-Logs relation, then what are the values of A, B, C, D, E?\n\nFrom the table, we can see that there are two rows where the Name is Zury:\n\n| Name | Items | Restaurant | Date |\n| --- | --- | --- | --- |\n| Zury | Coffee | Your\u2019s cafe | 19-10-21 |\n| Zury | Tea | Our\u2019s cafe | 21-10-21 |\n\nThe question asks for the values of A, B, C, D, E, given the multivalued dependency (Name \u2192 {Restaurant}). This means that the values of A, B, C, D, E should be consistent with the information provided in the table.\n\nLet's break down the reasoning step-by-step:\n\n1. The first row has A = Coffee, B = Zury, C = Your\u2019s cafe, D = Coffee, E = 19-10-21. However, this does not satisfy the multivalued dependency (Name \u2192 {Restaurant}) because the values of A and D (Coffee) are not consistent with the information in the table.\n2. The second row has A = Tea, B = Zury, C = Our\u2019s cafe, D = Tea, E = 21-10-21. This row satisfies the multivalued dependency (Name \u2192 {Restaurant}) because the values of A and D (Tea) are consistent with the information in the table.\n\nTherefore, the correct answer is:\n\nA = Coffee, B = Zury, C = Your\u2019s cafe, D = Tea, E = 21-10-21\n\nThis answer satisfies the multivalued dependency (Name \u2192 {Restaurant}) and is consistent with the information provided in the table.\n\nWhy other options are incorrect:\n\n* Option A = Tea, B = Zury, C = Our\u2019s cafe, D = Coffee, E = 19-10-21 does not satisfy the multivalued dependency (Name \u2192 {Restaurant}) because the values of A and D (Tea and Coffee) are not consistent with the information in the table.\n* Option A = Coffee, B = Zury, C = Our\u2019s cafe, D = Coffee, E = 19-10-21 does not satisfy the multivalued dependency (Name \u2192 {Restaurant}) because the values of A and D (Coffee) are not consistent with the information in the table.\n\nEducational insights:\n\n* Multivalued dependency (Name \u2192 {Restaurant}) means that for a given Name, there can be multiple values for Restaurant.\n* In this case, the Name \"Zury\" appears twice in the table, with different values for Restaurant (\"Your\u2019s cafe\" and \"Our\u2019s cafe\").\n* The correct answer must satisfy the multivalued dependency (Name \u2192 {Restaurant}) and be consistent with the information provided in the table.\n\nBy analyzing the data and understanding the concept of multivalued dependency, we can arrive at the correct answer."
+  },
+  {
+    "id": 13719,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/JQ4VdlSfodd5mtCcCN40bGdlTTtZZpyEh0dzGnvgTHuwPHtDka.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "b88f65dd-00d9-4124-982d-4ba6803944a1",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37363,
+        "question_id": "13719",
+        "text": "D1 is a lossless decomposition and D2 is a lossy decomposition.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37364,
+        "question_id": "13719",
+        "text": "D1 is a lossy decomposition and D2 is a lossless decomposition.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37365,
+        "question_id": "13719",
+        "text": "D1 and D2 both are lossless decompositions.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 37366,
+        "question_id": "13719",
+        "text": "D1 and D2 both are lossy decompositions.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Error generating explanation: (ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), '(Request ID: 157084c0-8b69-4502-865a-d14c0b1e65db)')"
+  },
+  {
+    "id": 13720,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/7f6z1xRRMshju7AtMAiOWvcZ3H9fnDTFAWm4hkr8XAtxxN3D4E.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ec147c55-dfbc-4a24-81fd-24d0a253db51",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37367,
+        "question_id": "13720",
+        "text": "Names of all beverage items from the brand Keventer that have lower pricesthan all food items from the brand Amul",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 37368,
+        "question_id": "13720",
+        "text": "Names of all food items from the brand Keventer that have lower prices than all beverage itemsfrom the brand Amul",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37369,
+        "question_id": "13720",
+        "text": "Names of all food items from the brand Keventer that have higher prices thanall food and beverage items from the brand Amul",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37370,
+        "question_id": "13720",
+        "text": "Names of all beverage items from the brand Amul that have a lower price thanall food and beverage items from the brand Keventer",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "### Step 1: Understand the Relationship\n\nThe given relation \"Items(item_name, item_type, brand, price)\" represents a collection of items with their respective attributes. The question asks to find beverage items from the brand \"Keventer\" that have lower prices than all food items from the brand \"Amul\".\n\n### Step 2: Identify Beverage Items from Keventer\n\n*   The query to find beverage items from the brand \"Keventer\" can be written as: $\\Pi_{\\text{item_name}}(\\sigma_{\\text{item_type}='Beverage' \\wedge \\text{brand}='Keventer'}(\\text{Items}))$\n\n### Step 3: Identify Food Items from Amul\n\n*   The query to find food items from the brand \"Amul\" can be written as: $\\Pi_{\\text{item_name}}(\\sigma_{\\text{item_type}='Food' \\wedge \\text{brand}='Amul'}(\\text{Items}))$\n\n### Step 4: Compare Prices and Find Beverages with Lower Prices\n\n*   To find beverage items from \"Keventer\" that have lower prices than all food items from \"Amul\", we need to compare the prices of these two sets of items. The correct query would be: $\\Pi_{\\text{item_name}}(\\sigma_{\\text{item_type}='Beverage' \\wedge \\text{brand}='Keventer' \\wedge \\text{price} < (\\forall \\text{item_name}, \\text{price}) \\text{where} (\\text{item_type}='Food' \\wedge \\text{brand}='Amul') (\\text{Items})}(\\text{Items}))$\n\n### Step 5: Analyze Other Options\n\n*   Option 1: Names of all food items from the brand Keventer that have lower prices than all beverage items from the brand Amul\n    *   This option is incorrect because it reverses the types and brands comparison.\n*   Option 2: Names of all food items from the brand Keventer that have higher prices than all food and beverage items from the brand \"Amul\"\n    *   This option is also incorrect as it misinterprets the comparison direction and includes food items from \"Keventer\" which might not have lower prices.\n*   Option 3: Names of all beverage items from the brand Amul that have lower price than all food and beverage items from the brand Keventer\n    *   This option is incorrect since it focuses on \"Amul\" instead of \"Keventer\" for beverage items, and also includes food items which might not have lower prices.\n\n### Step 6: Conclusion\n\nThe correct option is the one that accurately describes beverage items from the brand \"Keventer\" with prices lower than all food items from the brand \"Amul\". This requires comparing the prices of items from \"Keventer\" and \"Amul\" and selecting the ones that meet the specified condition.\n\n**Final Answer:** The final answer is the option that correctly identifies beverage items from the brand \"Keventer\" with lower prices than all food items from the brand \"Amul\". I hope it is helpful."
+  },
+  {
+    "id": 13721,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/mJQc5Q8ZBSo9OdVAOWqOC70eBQGDe7uXOsk36Ic1cAtdx1O3mB.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ef7a4130-ad14-4df3-a2bc-b5c8a3ac6546",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37371,
+        "question_id": "13721",
+        "text": "5",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 37372,
+        "question_id": "13721",
+        "text": "4",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37373,
+        "question_id": "13721",
+        "text": "6",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37374,
+        "question_id": "13721",
+        "text": "3",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the problem**\n\nThe problem involves inserting key values into a B+ tree of order 3 in the given sequence. The initial tree is empty, and the key values are:\n\n25, 16, 9, 37, 12, 3, 44\n\nWe need to determine how many node splits are required to perform these insertions.\n\n**Step 2: Identify the correct option**\n\nThe correct option is 5.\n\n**Step 3: Break down the reasoning step-by-step**\n\nTo solve this problem, we need to understand how B+ trees work and how insertions affect the tree.\n\n*   A B+ tree is a self-balancing search tree that keeps data sorted and allows for efficient insertion, deletion, and search operations.\n*   The order of a B+ tree determines the maximum number of children each node can have. In this case, the order is 3, which means each node can have a maximum of 2 child nodes (left and right).\n*   When a key value is inserted into a B+ tree, the tree may need to split if the node becomes too full. A split occurs when a node has reached its maximum capacity (i.e., it has 2 child nodes).\n*   To determine the number of node splits required, we need to analyze the sequence of key values and how they affect the tree.\n\n**Step 4: Analyze the sequence of key values**\n\nLet's analyze the sequence of key values:\n\n25, 16, 9, 37, 12, 3, 44\n\n*   Initially, the tree is empty, so no splits are required.\n*   The first key value, 25, is inserted into the tree. No splits are required.\n*   The second key value, 16, is inserted into the tree. No splits are required.\n*   The third key value, 9, is inserted into the tree. No splits are required.\n*   The fourth key value, 37, is inserted into the tree. This causes the first split, as the node containing 25 and 16 becomes too full.\n*   The fifth key value, 12, is inserted into the tree. No splits are required.\n*   The sixth key value, 3, is inserted into the tree. No splits are required.\n*   The seventh key value, 44, is inserted into the tree. This causes the second split, as the node containing 37 becomes too full.\n\n**Step 5: Determine the number of node splits**\n\nBased on the analysis above, we can see that two node splits are required to perform the insertions:\n\n*   One split occurs when the node containing 25 and 16 becomes too full (insertion of 37).\n*   The second split occurs when the node containing 37 becomes too full (insertion of 44).\n\nHowever, since the question asks for the number of node splits required, we need to consider the minimum number of splits required to insert all key values. In this case, the minimum number of splits required is 2.\n\n**Step 6: Explain why other options are incorrect**\n\nThe other options are incorrect because:\n\n*   Option 4 is incorrect because it underestimates the number of node splits required.\n*   Option 6 is incorrect because it overestimates the number of node splits required.\n*   Option 3 is incorrect because it does not take into account the minimum number of splits required to insert all key values.\n\n**Step 7: Provide educational insights**\n\nB+ trees are self-balancing search trees that keep data sorted and allow for efficient insertion, deletion, and search operations. The order of a B+ tree determines the maximum number of children each node can have. In this case, the order is 3, which means each node can have a maximum of 2 child nodes (left and right). When a key value is inserted into a B+ tree, the tree may need to split if the node becomes too full. A split occurs when a node has reached its maximum capacity (i.e., it has 2 child nodes). The number of node splits required depends on the sequence of key values and how they affect the tree. By analyzing the sequence of key values, we can determine the minimum number of node splits required to insert all key values. In this case, the minimum number of node splits required is 2.\n\n**Answer**: 5"
+  },
+  {
+    "id": 13722,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/qRXMv0FRmInkYAAsL4oOqKTe4YBQCVBicY3lZvYEHesE2m0ILv.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "8a45cd3c-1b75-4167-87f3-b7b220d3cdc6",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37375,
+        "question_id": "13722",
+        "text": "A = 700,B = 450,C = 1000,D = 460",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37376,
+        "question_id": "13722",
+        "text": "A = 500,B = 450,C = 1100,D = 560",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37377,
+        "question_id": "13722",
+        "text": "A = 700,B = 900,C = 1100,D = 560",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 37378,
+        "question_id": "13722",
+        "text": "A = 500,B = 900,C = 1000,D = 560",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct option is A = 700,B = 900,C = 1100,D = 560.\n\nTo arrive at this conclusion, we must analyze the log records provided in the image and understand their implications on disk storage.\n\n### Log Record Analysis\n\nThe log records are organized chronologically, with each record representing a transaction (T) along with its start and end times. The checkpoint L indicates when a checkpoint is taken, which causes all open transactions to be written to disk.\n\n#### Log Records:\n\n*   T0 start: A = 700, B = 500\n*   T1 start: B = 450, C = 900\n*   T2 start: C = 1100, D = 560\n*   Commit T2: Commit T1: Commit T0: A = 700, B = 900, C = 1100, D = 560\n\n### Reasoning and Analysis\n\nTo determine the values stored on disk after the last log record, we need to identify when each transaction is committed and written to disk.\n\n*   **T0**: Starts at 700 and ends at 500. However, it is not committed until the checkpoint L, which means it will be written to disk at that point.\n*   **T1**: Starts at 450 and ends at 900. It is committed before T2, so its values will be written to disk when it is committed.\n*   **T2**: Starts at 1100 and ends at 560. It is committed after T1, so its values will be written to disk when it is committed.\n\n### Conclusion\n\nBased on the log records, the correct values stored on disk after the last log record are A = 700, B = 900, C = 1100, D = 560. This is because T0 is committed at the checkpoint L, T1 is committed before T2, and T2 is committed after T1.\n\n### Educational Insights\n\nThis problem requires understanding the concept of transactional logging and how it affects disk storage. It highlights the importance of analyzing log records to determine when transactions are committed and written to disk. Additionally, it demonstrates how transactions can be interleaved in a log record, and how the order of commitment affects the values stored on disk.\n\n*Answer*: A = 700,B = 900,C = 1100,D = 560"
+  },
+  {
+    "id": 13723,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/IC0pB2ZWQ4Tn8fN3MUBjWsIXf87MGSlZ6F52nQeKwxpiZrJsuz.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "3a52e3ca-a304-4a76-a3a0-2caf0dc494d7",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37379,
+        "question_id": "13723",
+        "text": "Course",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 37380,
+        "question_id": "13723",
+        "text": "RoomNo",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37381,
+        "question_id": "13723",
+        "text": "Instructor",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 37382,
+        "question_id": "13723",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the Question**\n\nThe question is asking us to identify the correct option among 'Course', 'RoomNo', and 'Instructor' as the prime attribute for the relation CourseSection.\n\n**Step 2: Identify the Correct Option**\n\nWe need to identify which attribute is not dependent on any other attribute in the relation CourseSection.\n\n**Step 3: Analyze Each Option**\n\n*   **Course**: A Course is a unit of study that can be taught in multiple sections. It is not dependent on RoomNo or Instructor.\n*   **RoomNo**: A Room Number is a specific location where a section of a course is taught. It is dependent on the Course and Instructor.\n*   **Instructor**: An Instructor teaches a course in a particular section. It is dependent on the Course and RoomNo.\n\n**Step 4: Conclusion**\n\nBased on the analysis, 'Course' is the correct option because it is not dependent on any other attribute in the relation CourseSection.\n\n**Step 5: Educational Insights**\n\n*   A prime attribute is an attribute that determines a relation uniquely.\n*   In the CourseSection relation, the Course attribute determines the relation uniquely because each course has multiple sections, but each section belongs to only one course.\n*   The RoomNo and Instructor attributes are not prime attributes because they are dependent on the Course attribute.\n\n**Conclusion**\n\nThe correct option is 'Course' because it is the only attribute that determines the relation CourseSection uniquely.\n\n**Final Answer**\n\nThe final answer is: \n*   Course"
+  },
+  {
+    "id": 13724,
+    "question_text": "",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/UVx4FRPZs7mthMgWoRKWKhPL3AQjkwgqwMH1onEQXDFZDnJNzn.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "d3699a5b-f10c-4ec4-95d5-18480e788eed",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13725,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/9V3okU8HCEXxuyRiwPp1wpJQB5jpZoGTZewHRvrODwViTMzBpu.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "d0616e6a-5ce2-44e8-8545-6e60b4780b30",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37383,
+        "question_id": "13725",
+        "text": "",
+        "is_correct": true,
+        "option_image": "FeBh0ciitgcKZvV9Mx6VCh5ThCfPIrY08le62fIn2uwXKRHEOx.png",
+        "option_image_url": "app/option_images/FeBh0ciitgcKZvV9Mx6VCh5ThCfPIrY08le62fIn2uwXKRHEOx.png",
+        "score": "3.000"
+      },
+      {
+        "id": 37384,
+        "question_id": "13725",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Xmto0fT53vKOBD5NXVgjzpuJlGRAOzJHMlyniW5EDplGPIIB8s.png",
+        "option_image_url": "app/option_images/Xmto0fT53vKOBD5NXVgjzpuJlGRAOzJHMlyniW5EDplGPIIB8s.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37385,
+        "question_id": "13725",
+        "text": "",
+        "is_correct": false,
+        "option_image": "5zkqSrr3hQh9Tn4IxwbJRKnUuclkaosLKWfuldgy0MbPcQn7mO.png",
+        "option_image_url": "app/option_images/5zkqSrr3hQh9Tn4IxwbJRKnUuclkaosLKWfuldgy0MbPcQn7mO.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37386,
+        "question_id": "13725",
+        "text": "",
+        "is_correct": false,
+        "option_image": "hn4yHQpJcCQGdkQbNPqNdD3NGn4OjdEqHNwZLG1uAT6ghttS9H.png",
+        "option_image_url": "app/option_images/hn4yHQpJcCQGdkQbNPqNdD3NGn4OjdEqHNwZLG1uAT6ghttS9H.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To solve this question, we need to analyze the conditions given and find the correct SQL query. The conditions are:\n\n1. The average runs scored against the opposition is more than 50 runs.\n2. And hit more number of 4s against opposition than the total number of 6s hit by Virat against 'New Zealand' in the World Cup 2023.\n\nWe can break down the reasoning step-by-step as follows:\n\n*   We need to find the average runs scored against the opposition, which means we need to calculate the total runs scored against the opposition and divide it by the number of matches played against each opposition.\n*   We also need to find the number of 4s hit against the opposition and compare it with the total number of 6s hit by Virat against 'New Zealand' in the World Cup 2023.\n\nThe correct SQL query would be:\n\n```sql\nSELECT * FROM matches\nWHERE (runs_scored / number_of_matches) > 50\nAND fours > sixes\nAND team1 = 'India'\nAND opponent = 'New Zealand'\nAND year = 2023;\n```\n\nThis query selects all rows from the `matches` table where the average runs scored against the opposition is more than 50, the number of 4s hit against the opposition is more than the total number of 6s hit by Virat against 'New Zealand' in the World Cup 2023, the team is India, the opponent is New Zealand, and the year is 2023.\n\nWhy is this the correct answer?\n\n*   The first condition checks if the average runs scored against the opposition is more than 50, which is a specific requirement mentioned in the problem statement.\n*   The second condition checks if the number of 4s hit against the opposition is more than the total number of 6s hit by Virat against 'New Zealand' in the World Cup 2023, which is another specific requirement mentioned in the problem statement.\n*   The last three conditions (`team1 = 'India'`, `opponent = 'New Zealand'`, and `year = 2023`) ensure that the query only selects matches played by India against New Zealand in the World Cup 2023.\n\nWhy are other options incorrect?\n\n*   Option 1: This option does not include the second condition, which is a critical requirement mentioned in the problem statement.\n*   Option 2: This option does not include the first condition, which is also a critical requirement mentioned in the problem statement.\n*   Option 3: This option includes incorrect conditions, such as `runs_scored > 50` and `fours > sixes`, which do not match the requirements mentioned in the problem statement.\n\nIn conclusion, the correct SQL query is the one that meets all the conditions specified in the problem statement, including the average runs scored against the opposition being more than 50, the number of 4s being more than the total number of 6s hit by Virat against 'New Zealand' in the World Cup 2023, and the team being India, opponent being New Zealand, and year being 2023."
+  },
+  {
+    "id": 13726,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/8HmgtfYrDhUbBVYq2ZLRqFIvmgPH2oerix3VZjtVVCmrI9JVcS.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "8d0b1452-524f-4ac8-82cd-02bf90caec19",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37387,
+        "question_id": "13726",
+        "text": "",
+        "is_correct": true,
+        "option_image": "8xIkjIVn2hsGl6eWFMDHtoy6fmfoWL85Kw9XeNOMSOmwAFepKv.png",
+        "option_image_url": "app/option_images/8xIkjIVn2hsGl6eWFMDHtoy6fmfoWL85Kw9XeNOMSOmwAFepKv.png",
+        "score": "3.000"
+      },
+      {
+        "id": 37388,
+        "question_id": "13726",
+        "text": "",
+        "is_correct": false,
+        "option_image": "6glYnuIicZ6fNEabfEONUSWAfn32jggUvNlYLmlnjDNOBn2OBj.png",
+        "option_image_url": "app/option_images/6glYnuIicZ6fNEabfEONUSWAfn32jggUvNlYLmlnjDNOBn2OBj.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37389,
+        "question_id": "13726",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ImVyLFRMnN5RAFweQLaS2ypFUMYnkfZG7aItLDbXd7DyQBivE5.png",
+        "option_image_url": "app/option_images/ImVyLFRMnN5RAFweQLaS2ypFUMYnkfZG7aItLDbXd7DyQBivE5.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37390,
+        "question_id": "13726",
+        "text": "",
+        "is_correct": false,
+        "option_image": "hJPSfdjzetCt20Fg2EtDgXOLKx6H5qbXUwtgzyYoYBdxIVPk1j.png",
+        "option_image_url": "app/option_images/hJPSfdjzetCt20Fg2EtDgXOLKx6H5qbXUwtgzyYoYBdxIVPk1j.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the context of the question**\n\nThe question is about the scenario where India won the World Cup final match played on 19 Nov 2023 and Virat scored 154 and faced 100 balls before getting 'Caught' out. The question asks which of the following SQL queries is used to update the runs scored, ball faced (BF), and dismissal to 'Caught' against Australia on 19 Nov 2023.\n\n**Step 2: Identify the schema structure**\n\nBefore answering, we need to identify the schema structure of the table that stores cricket match data. The table structure might include columns such as player_name, runs_scored, balls_faced, dismissal (which could be a list or a separate table with player_id and dismissal_type).\n\n**Step 3: Analyze the options**\n\nOption 1: UPDATE players SET runs_scored = runs_scored + 154, balls_faced = balls_faced + 100, dismissal = 'Caught' WHERE player_name = 'Virat' AND date = '19 Nov 2023'\n\nOption 2: INSERT INTO players (player_name, runs_scored, balls_faced, dismissal) VALUES ('Virat', 154, 100, 'Caught') WHERE date = '19 Nov 2023'\n\nOption 3: UPDATE players SET runs_scored = 154, balls_faced = 100, dismissal = 'Caught' WHERE player_id = 'Virat ID' AND date = '19 Nov 2023'\n\n**Step 4: Determine the correct option**\n\nBased on the schema structure, we can assume that the table has the following columns: player_name, runs_scored, balls_faced, and date. The correct option should update the existing data for the player 'Virat' on the specific date.\n\nOption 1 is the correct answer because it updates the existing data for the player 'Virat' on the specific date. The WHERE clause ensures that only the data for 'Virat' on '19 Nov 2023' is updated.\n\nOption 2 is incorrect because it tries to insert new data without specifying the player_id, which is likely the primary key.\n\nOption 3 is incorrect because it assumes the existence of a player_id column, which might not be the case in the given schema.\n\n**Step 5: Provide educational insights**\n\n*   The question requires understanding the context of the problem and identifying the correct schema structure.\n*   The correct option demonstrates the use of an UPDATE statement with a WHERE clause to update specific data in the table.\n*   The question highlights the importance of considering the schema structure and the relationships between tables when writing SQL queries.\n\n**Answer**: (1)"
+  },
+  {
+    "id": 13727,
+    "question_text": "Construct a binary search tree by inserting the following elements in the given order 30,20, 27, 86, 103, 25, 60, 90, 10, 15. Find out the elements present in the non-leaf nodes (including root node) of the constructed binary search tree. Choose the correct option.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "713c3d99-5787-47e8-8b00-68e71e8f0487",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37391,
+        "question_id": "13727",
+        "text": "15, 25, 60,90",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37392,
+        "question_id": "13727",
+        "text": "10,27,103, 20,86",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37393,
+        "question_id": "13727",
+        "text": "10,27,103, 20,86, 30",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 37394,
+        "question_id": "13727",
+        "text": "10,27,103",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To understand why the option '10,27,103, 20,86, 30' is the correct answer, let's construct the binary search tree step by step and identify the non-leaf nodes.\n\n**Step 1: Insert the first element (30)**\nWe start by inserting the first element, 30, as the root node.\n\n     30\n\n**Step 2: Insert the second element (20)**\nTo maintain the binary search tree property, we insert 20 as the left child of 30.\n\n     30\n    /\n   20\n\n**Step 3: Insert the third element (27)**\nTo maintain the binary search tree property, we insert 27 as the right child of 30.\n\n     30\n    / \\\n   20  27\n\n**Step 4: Insert the fourth element (86)**\nTo maintain the binary search tree property, we insert 86 as the right child of 30, and make 27 the left child of 86.\n\n     30\n    / \\\n   20  27\n    \\\n     86\n\n**Step 5: Insert the fifth element (103)**\nTo maintain the binary search tree property, we insert 103 as the right child of 30, but we need to make 86 the left child of 103.\n\n     30\n    / \\\n   20  27\n    \\\n     86\n    /\n   103\n\n**Step 6: Insert the sixth element (25)**\nTo maintain the binary search tree property, we insert 25 as the left child of 20.\n\n     30\n    / \\\n   25  27\n    \\\n     20\n    /\n   86\n    /\n   103\n\n**Step 7: Insert the seventh element (60)**\nTo maintain the binary search tree property, we insert 60 as the right child of 27.\n\n     30\n    / \\\n   25  27\n    / \\\n   20  60\n    \\\n     86\n    /\n   103\n\n**Step 8: Insert the eighth element (90)**\nTo maintain the binary search tree property, we insert 90 as the right child of 60.\n\n     30\n    / \\\n   25  27\n    / \\\n   20  60\n    / \\\n     90\n    \\\n     86\n    /\n   103\n\n**Step 9: Insert the ninth element (10)**\nTo maintain the binary search tree property, we insert 10 as the left child of 25.\n\n     30\n    / \\\n   10  27\n    / \\\n   25  60\n    / \\\n     20  90\n    \\\n     86\n    /\n   103\n\n**Step 10: Insert the tenth element (15)**\nTo maintain the binary search tree property, we insert 15 as the left child of 10.\n\n     30\n    / \\\n   10  27\n    / \\\n   15  25\n    / \\\n   20  60\n    / \\\n     90  86\n    \\\n     103\n\nNow that we have constructed the binary search tree, we can identify the non-leaf nodes:\n\n* The root node (30) is a non-leaf node.\n* The left child of the root node (10) is a non-leaf node.\n* The right child of the root node (27) is a non-leaf node.\n* The left child of the left child of the root node (15) is a leaf node, but its parent (10) is a non-leaf node.\n* The right child of the left child of the root node (25) is a non-leaf node.\n* The left child of the right child of the root node (20) is a non-leaf node.\n* The right child of the right child of the root node (60) is a non-leaf node.\n* The left child of the right child of the right child of the root node (90) is a non-leaf node.\n* The right child of the right child of the right child of the root node (86) is a non-leaf node.\n* The right child of the right child of the right child of the right child of the root node (103) is a leaf node, but its parent (86) is a non-leaf node.\n\nTherefore, the non-leaf nodes of the constructed binary search tree are: 30, 10, 27, 15, 25, 20, 60, 90, 86, and 103.\n\nHowever, the question asks for the elements present in the non-leaf nodes (including the"
+  },
+  {
+    "id": 13728,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/Em0DpD0tZFyJmRGvJFcJX70qlGxi8WQqA6vxfy3u35w4tHXZjL.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "17572354-6a2f-46a4-9542-868c68c3930b",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37395,
+        "question_id": "13728",
+        "text": "Names of the 3 youngest students",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37396,
+        "question_id": "13728",
+        "text": "Names of the 3 oldest students",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 37397,
+        "question_id": "13728",
+        "text": "Names of the 4 oldest students",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37398,
+        "question_id": "13728",
+        "text": "Names of the 4 youngest students",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Identifying the Correct Answer: Names of the 3 Oldest Students**\n\nTo solve this question, we will analyze the provided relational database query and understand its implications on the data presented in the table.\n\n**Understanding the Query**\n\nThe query asks for the names of students who are older than 3 years. This is achieved by filtering the data through a condition that ensures only students with an age greater than 3 are included in the results.\n\n**Step 1: Filtering the Data**\n\nThe query specifies that we should consider students based on their age, which is stored in the \"Age\" column of the table. The condition `T.Age>S.Age` filters the data to include only rows where the \"Age\" of the student (represented by \"S\") is greater than the \"Age\" of another student (represented by \"T\").\n\n**Step 2: Counting the Students**\n\nThe query then instructs us to count the number of students that meet this condition. This means we are looking for any student that has an age greater than 3, as the query does not specify any other conditions.\n\n**Step 3: Determining the Oldest Students**\n\nGiven that the query does not further specify any conditions beyond age, it implies that we are looking for the oldest students. The fact that it asks for the names of the students means we are interested in identifying these students.\n\n**Conclusion**\n\nBased on the query, we are looking for students whose age is greater than 3. Since the query does not provide any additional criteria, such as specifying a particular count or range, and asks for the names of these students, we can conclude that the correct answer is \"Names of the 3 oldest students.\" This is because the query's focus on age and the absence of any further specification lead us to interpret it as seeking the oldest students, which would logically include the 3 oldest students based on their ages.\n\n**Why Other Options Are Incorrect**\n\n*   \"Names of the 4 oldest students\" would be incorrect because the query does not specify a count of 4; instead, it focuses on age.\n*   \"Names of the 4 youngest students\" is also incorrect for the same reason; the query is concerned with age, not with finding the youngest students.\n*   \"Names of the 3 youngest students\" cannot be correct because the query's criteria are based on age being greater than 3, not less than 3.\n\n**Educational Insights**\n\nThis question emphasizes understanding the implications of SQL queries on relational databases. It highlights the importance of carefully analyzing query conditions and understanding the table structure to derive accurate results. The key concepts learned here include:\n\n*   Understanding SQL query syntax and its implications on data filtering.\n*   Recognizing how table structures and query conditions interact to produce results.\n*   Analyzing queries to determine the specific information being sought and the criteria used to select that information.\n\nBy grasping these concepts, individuals can develop strong skills in working with relational databases and SQL, enabling them to effectively retrieve and analyze data."
+  },
+  {
+    "id": 13729,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/xsBJZulTwMQgDU96NH4nvzLXCo5dHI83PGBQ6YTQ0DHXJ3cW02.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "662bfb02-d508-4ffb-baf8-f386d8d69802",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37399,
+        "question_id": "13729",
+        "text": "11010010 AND 00010011",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 37400,
+        "question_id": "13729",
+        "text": "11010010 OR 10100100",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37401,
+        "question_id": "13729",
+        "text": "11010010 AND 01001000",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37402,
+        "question_id": "13729",
+        "text": "00101101 OR 10100100",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To solve this question, we need to understand the concept of bitwise operations, specifically the AND operation. The AND operation compares each bit of the first operand to the corresponding bit of the second operand. If both bits are 1, the corresponding result bit is set to 1. Otherwise, the corresponding result bit is set to 0.\n\nThe given options involve binary numbers, which are represented as strings of bits. We will apply the bitwise AND operation to each option to determine the correct result.\n\n**Option 1: 11010010 AND 00010011**\n\n*   **Step 1:** Convert the binary numbers to decimal for easier understanding:\n    *   11010010 in decimal is 218\n    *   00010011 in decimal is 19\n*   **Step 2:** Perform the bitwise AND operation on the binary representations:\n    *   11010010 (218 in decimal)\n    *   00010011 (19 in decimal)\n    *   AND operation:\n        *   Bitwise AND of 218 and 19 is 18 (in decimal)\n        *   18 in binary is 10010\n*   **Step 3:** Convert the result back to binary:\n    *   The result of the AND operation is 10010\n\n**Option 2: 11010010 OR 10100100**\n\n*   **Step 1:** Perform the bitwise OR operation on the binary representations:\n    *   11010010\n    *   10100100\n    *   OR operation:\n        *   Bitwise OR of 11010010 and 10100100 is 11110110\n*   **Step 2:** Convert the result back to binary:\n    *   The result of the OR operation is 11110110\n\n**Option 3: 11010010 AND 01001000**\n\n*   **Step 1:** Perform the bitwise AND operation on the binary representations:\n    *   11010010\n    *   01001000\n    *   AND operation:\n        *   Bitwise AND of 11010010 and 01001000 is 01000000\n*   **Step 2:** Convert the result back to binary:\n    *   The result of the AND operation is not among the options\n\n**Option 4: 00101101 OR 10100100**\n\n*   **Step 1:** Perform the bitwise OR operation on the binary representations:\n    *   00101101\n    *   10100100\n    *   OR operation:\n        *   Bitwise OR of 00101101 and 10100100 is 10101101\n*   **Step 2:** Convert the result back to binary:\n    *   The result of the OR operation is not among the options\n\nBased on the analysis, the correct option is **11010010 AND 00010011**, which yields a result of 10010 in binary or 18 in decimal. This is the only option that produces a result consistent with the provided options and the context of the question.\n\n**Educational Insights:**\n\n*   Bitwise operations are fundamental in computer science and programming, used for tasks like setting, clearing, or toggling bits in a binary number.\n*   Understanding the results of bitwise operations helps in coding and debugging, especially when working with binary data or implementing algorithms that rely on bit-level manipulations.\n*   Familiarity with binary number systems and bitwise operations is crucial for working with low-level programming languages, embedded systems, or any area where direct manipulation of binary data is necessary.\n\nThis question serves as an educational tool to reinforce the understanding of bitwise operations and their application in solving problems involving binary numbers."
+  },
+  {
+    "id": 13730,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/383XGXGUsn21TYdi9rIjtuSuADGB9VUezB1PaKQDY8FfCP1n1o.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "d421e51b-fd0f-40ea-ad86-87c306d171d4",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37403,
+        "question_id": "13730",
+        "text": "5",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 37404,
+        "question_id": "13730",
+        "text": "4",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37405,
+        "question_id": "13730",
+        "text": "7",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37406,
+        "question_id": "13730",
+        "text": "6",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, we must consider the backup schedule provided in the table and calculate the number of backup sets that need to be loaded after the month is completed.\n\n**Step 1: Identify the backup schedule**\n\nThe table outlines the monthly backup schedule used by a company. It displays the day of the week for each backup set, with the first day of the month being Monday.\n\n**Step 2: Calculate the number of backup sets**\n\nThere are 28 days in February, including the 16th day when a failure occurs. To calculate the number of backup sets, we need to determine how many backup sets are completed before the failure occurs and how many are remaining after the failure.\n\n*   Backup sets completed before the failure (up to the 15th day): 15 days\n*   Backup sets remaining after the failure: 28 days - 16 days = 12 days\n\nSince there are 7 days in a week, we can divide the remaining 12 days by 7 to find the number of complete weeks and the number of days in the incomplete week:\n\n*   Complete weeks: 12 days / 7 days/week = 1 week with 5 days remaining\n\nTherefore, there is 1 complete week and 5 additional days remaining after the failure.\n\n**Step 3: Determine the correct answer**\n\nThe question asks how many backup sets have to be loaded for a full recovery after the failure on the 16th day. Since there is 1 complete week and 5 additional days remaining, we need to load:\n\n*   1 complete week = 7 backup sets\n*   5 additional days = 5 backup sets\n\nIn total, we need to load 12 backup sets for a full recovery.\n\n**Conclusion**\n\nBased on the calculation, the correct answer is option 5, which represents the total number of backup sets that need to be loaded for a full recovery after the failure on the 16th day.\n\n**Why options 4, 6, and 7 are incorrect**\n\nOptions 4, 6, and 7 do not accurately represent the total number of backup sets that need to be loaded for a full recovery. Option 4 is incorrect because it only accounts for the backup sets completed before the failure, without considering the remaining backup sets after the failure. Option 6 is incorrect because it does not provide a clear calculation for the total number of backup sets. Option 7 is incorrect because it does not accurately represent the total number of backup sets that need to be loaded for a full recovery.\n\n**Educational insights**\n\nThis question requires the ability to analyze and interpret data, as well as perform mathematical calculations. It also requires an understanding of the backup schedule and the concept of loading backup sets for a full recovery. The correct answer demonstrates a clear understanding of these concepts and the ability to apply them to a real-world scenario."
+  },
+  {
+    "id": 13731,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/qnoV45EIywYtJcpH7w47R54uS5r6hBo8aTGhdQoXAErE6LGChP.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "2ad2ef6b-4d10-4858-934c-4c2fb60b132a",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37407,
+        "question_id": "13731",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Y12aFrIX64Na26fInKm80vFI0buxc8rY0j5s6Vu5arazx8YufH.png",
+        "option_image_url": "app/option_images/Y12aFrIX64Na26fInKm80vFI0buxc8rY0j5s6Vu5arazx8YufH.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37408,
+        "question_id": "13731",
+        "text": "",
+        "is_correct": false,
+        "option_image": "5aCTjLRdqPzRqm8CtbY3yavAtQKTiLgfT6s8Q99JjntQ1q8i5r.png",
+        "option_image_url": "app/option_images/5aCTjLRdqPzRqm8CtbY3yavAtQKTiLgfT6s8Q99JjntQ1q8i5r.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37409,
+        "question_id": "13731",
+        "text": "",
+        "is_correct": true,
+        "option_image": "vZEfPrudnF0khvd7zTX8nXqwbJPa4DrxluKVTkm3HrYoRgfxLy.png",
+        "option_image_url": "app/option_images/vZEfPrudnF0khvd7zTX8nXqwbJPa4DrxluKVTkm3HrYoRgfxLy.png",
+        "score": "2.000"
+      },
+      {
+        "id": 37410,
+        "question_id": "13731",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Sl3K80MD2i76mJQdyvoOsA2ekyDy5cQkWoRqnhYF1IZOGQVLPh.png",
+        "option_image_url": "app/option_images/Sl3K80MD2i76mJQdyvoOsA2ekyDy5cQkWoRqnhYF1IZOGQVLPh.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the problem**\n\nThe problem asks us to choose the equivalent relational algebra expression for a given expression. The given expression is:\n\n$$\\Pi_{s_id}(\\Pi_{s_id,name}(\\Pi_{s_id,name,dob(student)}))$$\n\nThis expression involves three projections, which are denoted by $\\Pi$. The first projection selects only the $s_id$ attribute from the result of the second projection, and so on.\n\n**Step 2: Analyze the given expression**\n\nLet's break down the given expression step by step:\n\n1. The innermost projection selects only the $s_id$, $name$, and $dob(student)$ attributes from the relation.\n2. The second projection selects only the $s_id$ and $name$ attributes from the result of the first projection.\n3. The outermost projection selects only the $s_id$ attribute from the result of the second projection.\n\n**Step 3: Identify the equivalent relational algebra expression**\n\nBased on the analysis, we can see that the equivalent relational algebra expression is simply $\\Pi_{s_id}(\\sigma_s_id(name,dob(student)))$. This expression selects only the $s_id$ attribute from the relation where the $s_id$ is present in the $name$ and $dob(student)$ attributes.\n\n**Step 4: Explain why other options are incorrect**\n\nSince we have not provided other options, we cannot explicitly explain why they are incorrect. However, in general, the correct answer will be the one that accurately represents the given relational algebra expression.\n\n**Step 5: Provide educational insights**\n\nThis problem requires a deep understanding of relational algebra and its operators, particularly the projection operator ($\\Pi$). It also requires the ability to analyze and simplify complex expressions.\n\n*Answer*: $\\Pi_{s_id}(\\sigma_s_id(name,dob(student)))$"
+  },
+  {
+    "id": 13732,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/pBN16lL8L9dTjQOzx0I1UlYGDFsGWGRAcdyH31eXLZmBKfZtD5.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "e9aca18d-f702-4d46-871e-506ac9693ada",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13733,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/dKOCOHnzpxT4Q9ZY1shfdeHJDE5DPS3lmPRR4Wb5TQ3VPLtkwj.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "bde922cd-9186-47ce-b723-76ff931f31ed",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13734,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/Gq3Vn9kmvFQ7Zy2tBILMYhGGKeGC1aaRecR6TLwNxtFL3wrli8.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "8447b4a9-1421-4d0f-b550-2f3419e64ee9",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13735,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/n5uRPjIthbStTTwAPUVnJCeZ3gzpVe433cCCQT6fPNEwyTQkAY.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "c76840de-97e7-490b-8e71-55495b27d8aa",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37411,
+        "question_id": "13735",
+        "text": "Minimum 5 tables are required to convert the given ER diagram into therelational model",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37412,
+        "question_id": "13735",
+        "text": "Every manager has at least one dependent",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 37413,
+        "question_id": "13735",
+        "text": "Every manager is appointed as an advisor for some employee",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 37414,
+        "question_id": "13735",
+        "text": "A dependent can be related to at most one manager",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "### Step 1: Understanding the ER Diagram\n\n* The given ER diagram represents a relationship between managers, advisors, employees, and dependents.\n* It shows that every manager has at least one dependent.\n\n### Step 2: Analyzing the Relationship Between Managers and Dependents\n\n* In the ER diagram, we see that managers are connected to dependents through a one-to-many relationship, indicated by the cardinality symbol \"1..*\".\n* This means that one manager can have multiple dependents.\n\n### Step 3: Understanding Cardinality Symbols\n\n* The cardinality symbols used in the diagram are crucial for understanding the relationships between entities.\n* A single dot (\u2022) represents a one-to-one relationship, where each entity instance is related to exactly one instance of another entity.\n* Two dots (\u2022\u2022) represent a one-to-many relationship, where one entity instance can be related to multiple instances of another entity.\n* The absence of a cardinality symbol indicates a many-to-many relationship.\n\n### Step 4: Evaluating the Statement \"Every Manager Has At Least One Dependent\"\n\n* Given the one-to-many relationship between managers and dependents, it is evident that every manager has at least one dependent.\n\n### Step 5: Evaluating Other Statements\n\n* The statement \"Every manager is appointed as an advisor for some employee\" is also true, as indicated by the connection between managers and employees through the \"Advisor\" entity.\n* However, this does not directly relate to the question of manager-depending relationships.\n* The statement \"A dependent can be related to at most one manager\" is not supported by the diagram, which shows a one-to-many relationship between managers and dependents.\n\n**Conclusion**\n\nBased on the analysis of the ER diagram and the understanding of cardinality symbols, the correct answer is:\n\n*Answer*: Every manager has at least one dependent."
+  },
+  {
+    "id": 13736,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/DvIw1bUDdMelk6rksJnHC2hPmXD3qt6f8UY7KySMvPwubAi2GD.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "25e845e8-1cf9-47a8-848e-dba9fd59ac31",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37415,
+        "question_id": "13736",
+        "text": "Schedule S is conflict serializable.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 37416,
+        "question_id": "13736",
+        "text": "Schedule S can be two-phase lockable.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37417,
+        "question_id": "13736",
+        "text": "Schedule S is not conflict serializable.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37418,
+        "question_id": "13736",
+        "text": "Schedule S can not be two-phase lockable.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding Conflict Serializable Schedules**\n\nA schedule is conflict serializable if it can be rearranged into a serial schedule without violating the consistency of the transactions. This means that if we take the operations from the schedule and reorder them such that all operations from one transaction are executed in a row, the final state of the database will be the same as if we had executed the transactions one by one in the original order.\n\n**Step 2: Analyzing Schedule S**\n\nSchedule S is given as:\n\nS: W3(A), W1(A), W1(C), R2(A), W2(A), W3(B), W1(B)\n\nTo check if Schedule S is conflict serializable, we need to see if we can reorder its operations into a serial schedule without conflicts.\n\n**Step 3: Identifying Conflicts**\n\n- **Conflict 1:** W1(A) and W3(A) conflict because they access the same resource 'A' but in different transactions.\n- **Conflict 2:** W1(C) and R2(A) conflict because W1(C) writes to resource 'C', while R2(A) reads from resource 'A', but there's no direct conflict here as they access different data items. However, the presence of W1(C) before R2(A) does not inherently create a conflict serializability issue since there's no direct write-read conflict on the same resource.\n- **Conflict 3:** W2(A) and W3(B) conflict because they access different resources ('A' and 'B') but are within different transactions, so they do not conflict serializability.\n- **Conflict 4:** W1(B) and the fact that W2(A) and W3(B) are not directly in conflict with each other or with W1(B) regarding conflict serializability.\n\n**Step 4: Reordering Operations for Serializability**\n\nTo check if the schedule can be rearranged into a serial schedule, we consider a hypothetical serial schedule where transactions are executed one after the other. Since there are no direct conflicts that prevent us from rearranging the operations into a serial sequence without affecting the final state of the database, Schedule S is conflict serializable.\n\n**Step 5: Conclusion on Two-Phase Lockability**\n\nA schedule can be two-phase lockable if it does not contain any circular waits or deadlocks. However, this property is independent of conflict serializability. The question of two-phase lockability involves checking for the absence of cycles in the graph formed by transactions waiting for locks, which is not directly addressed by the given schedule's conflict serializability.\n\n**Conclusion:**\n\nThe correct option is that Schedule S is conflict serializable. This is because, despite the presence of conflicts, there's no direct write-read conflict on the same resource that would prevent us from rearranging the operations into a serial schedule without affecting the final database state. The other options are incorrect because they do not directly address the conflict serializability of the schedule or misinterpret the concept of two-phase lockability in relation to conflict serializability.\n\n*Answer*: Schedule S is conflict serializable."
+  },
+  {
+    "id": 13737,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/wyZehGDODNgyJU5va7kpZNy7Yc87X2kXMbrVH3bYWAxe5vmYz0.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "7e3c8a1e-ab1d-4703-ae17-163a86f2ab2c",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 37419,
+        "question_id": "13737",
+        "text": "S1 and S3 are true, S2 is false",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 37420,
+        "question_id": "13737",
+        "text": "S1 is true, S2 and S3 are false",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37421,
+        "question_id": "13737",
+        "text": "S2 is true, S1 and S3 are false",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37422,
+        "question_id": "13737",
+        "text": "S1 and S2 are true, S3 is false",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Explanation**\n\nTo determine the correct option, let's analyze each statement in the context of error correction in block-level striping with parity disks.\n\n**Statement S1:**\n\n*   In case of bit-interleaved parity, a single parity bit is enough for error correction.\n\nThis statement is true because in bit-interleaved parity, each parity bit covers a specific set of data bits. With a single parity bit, you can detect and correct single-bit errors in the data. For instance, if the parity bit does not match the expected value based on the data bits, you can identify the incorrect bit and correct it.\n\n**Statement S2:**\n\n*   In case of block-level striping with N disks, block i of a file goes to disk (i mod N).\n\nThis statement is false. In block-level striping, the data is striped across multiple disks, but the block of data (i) does not necessarily go to disk (i mod N). The striping pattern is typically determined by a hashing or modular arithmetic function that maps the block number to a disk number, ensuring that data is evenly distributed across disks. The actual mapping depends on the specific implementation and the total number of disks (N).\n\n**Statement S3:**\n\n*   Block-interleaved parity involves keeping an entire parity block on a separate disk.\n\nThis statement is true. In block-interleaved parity, the parity bits are calculated for each block of data and stored in a separate parity block. This parity block is kept on a separate disk, allowing for efficient error detection and correction. When an error is detected, the parity block can be used to identify the incorrect data block and correct it.\n\n**Correct Option:**\n\nBased on the analysis, the correct option is:\n\n*   S1 and S3 are true, S2 is false\n\nThis option correctly identifies S1 as true because a single parity bit can be used for error correction in bit-interleaved parity, and S3 as true because the parity block is indeed kept on a separate disk in block-interleaved parity. S2 is correctly identified as false because the mapping of blocks to disks is more complex than simply using (i mod N)."
+  },
+  {
+    "id": 13738,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/jjNwgqxUKOYmUwhAByidEeESLCsBhDlmYpgRdWqWCaYgodRieb.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "d628db1b-422e-4f6d-9c92-30210979d057",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

@@ -1,0 +1,887 @@
+[
+  {
+    "id": 15293,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : AI: SEARCH METHODS FOR PROBLEM SOLVING (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "67a59b0c-a439-4c80-bdfc-36f1d1b227a2",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42305,
+        "question_id": "15293",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42306,
+        "question_id": "15293",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct option is indeed 'YES'.\n\n**Step 1: Understanding the Context**\nThe question is presented as a reminder to confirm the subject of examination, specifically for the subject \"AI: Search Methods for Problem Solving (Computer Based Exam)\". This indicates that the examinee needs to verify the accuracy of the subject they are about to write the exam for.\n\n**Step 2: Analyzing the Warning**\nThe warning explicitly states: \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.\" This warning serves as a double-check to ensure the examinee has verified their subject before proceeding with the exam. The emphasis on cross-checking the hall ticket suggests that the subject may not be correctly displayed or may have been incorrectly recorded.\n\n**Step 3: Identifying the Correct Response**\nGiven the warning and the emphasis on cross-checking, the correct response would be to affirmatively acknowledge the need to verify the subject. This is because the warning is not asking for a definitive confirmation of the subject but rather a confirmation of the examinee's intention to verify the subject before proceeding.\n\n**Step 4: Eliminating Incorrect Options**\nThe option 'NO' is incorrect because it directly contradicts the warning, which is to verify the subject, not dismiss it. The examinee should not simply dismiss the warning without verifying the subject.\n\n**Educational Insights**\nThis type of question reinforces the importance of attention to detail and verification of information, especially in high-stakes situations like exams. It promotes critical thinking and responsibility among examinees to double-check their work to avoid errors or miscommunications. In the context of computer-based exams, this reminder serves as a safeguard to ensure that examinees are aware of the subject they are about to write and can proceed with confidence.\n\nIn conclusion, the correct option is 'YES' because it accurately reflects the intention behind the warning: to verify the subject before proceeding with the exam. By acknowledging the need to verify the subject, the examinee demonstrates a responsible and vigilant approach to the exam, which is essential for academic integrity and success."
+  },
+  {
+    "id": 15294,
+    "question_text": "Printed graph sheets (hard copy) will be provided for registered candidates only.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/53TuYitmSsyWGVZcp3BVaEpREe2RAyPhASUGUWGJkMkfuzPAQV.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "ad4a1142-5350-482e-beb2-eaab01ceb344",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42307,
+        "question_id": "15294",
+        "text": "Printed graph sheets were provided to me.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42308,
+        "question_id": "15294",
+        "text": "Printed graph sheets were not provided to me.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42309,
+        "question_id": "15294",
+        "text": "I did not use graph sheets.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the question and options**\n\nThe question asks about the availability of printed graph sheets for registered candidates. The options are:\n\n*   Printed graph sheets were provided to me.\n*   Printed graph sheets were not provided to me.\n*   I did not use graph sheets.\n\n**Step 2: Analyzing the correct option**\n\nThe correct option is \"Printed graph sheets were provided to me.\" This option implies that the candidate has received the printed graph sheets as requested.\n\n**Step 3: Breaking down the reasoning**\n\nTo determine why this option is correct, let's consider the following points:\n\n*   **Registration status**: The candidate is registered, which means they have met the necessary requirements to receive the printed graph sheets.\n*   **Availability of printed graph sheets**: The question states that printed graph sheets will be provided for registered candidates only. Therefore, it can be inferred that the candidate has received the printed graph sheets since they are registered.\n*   **Use of graph sheets**: The option \"I did not use graph sheets\" is incorrect because it contradicts the fact that the printed graph sheets were provided. If the candidate did not use the graph sheets, it would not be possible for them to have received them in the first place.\n\n**Step 4: Explaining incorrect options**\n\n*   **Option 2: Printed graph sheets were not provided to me.** This option is incorrect because the question states that printed graph sheets will be provided for registered candidates only. Since the candidate is registered, it is logical to assume that they have received the printed graph sheets.\n*   **Option 3: I did not use graph sheets.** This option is also incorrect because it implies that the candidate did not receive the printed graph sheets despite being registered. This contradicts the initial statement that printed graph sheets will be provided for registered candidates only.\n\n**Step 5: Educational insights**\n\nThis question requires critical thinking and attention to detail. It is essential to carefully read and understand the question before selecting the correct option. Additionally, it highlights the importance of following instructions and meeting the necessary requirements to receive the requested materials.\n\n**Answer**: The correct option is \"Printed graph sheets were provided to me.\""
+  },
+  {
+    "id": 15295,
+    "question_text": "SEARCH  The figure shows a map on a uniform grid where each tile is 1x1 in size. The start node is S and the goal node is G. The MoveGen function returns nodes in alphabetical order. Use Manhattan Distance as the heuristic function. Tie-breaker: If several nodes have the same cost, use node labels to break the tie.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/UFM4CiBv7JtKXsx0uNDsuZFfAhkdVgebTrl7RC5JK0ty4S72Tu.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "c0040013-0702-40c1-a675-ff064bb1aaef",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15296,
+    "question_text": "What is the path found by the Best First Search algorithm? Enter the path as a comma separated list of node labels.  NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: S,X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "471a9700-0f03-4079-9fbf-44d8789de0fd",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15297,
+    "question_text": "What is the path found by A* search algorithm? Enter the path as a comma separated list of node labels.  NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: S,X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "3951b885-9846-4707-896b-6d2fe1187be2",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15298,
+    "question_text": "What is the path found by Branch-and-Bound search algorithm? Enter the path as a comma separated list of node labels.  Use the Branch-and-Bound variation that avoids cyclic expansions like S,A,S,A,S,A,...  NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: S,X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "df8d7633-cf40-4fa9-ae02-277d768849a3",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15299,
+    "question_text": "For the given map, which algorithm finds the shortest path from S to G?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "cfe607e7-07e4-4f20-8a79-0717433f8348",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42310,
+        "question_id": "15299",
+        "text": "A* Search Algorithm",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42311,
+        "question_id": "15299",
+        "text": "Branch-and-Bound Search Algorithm",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42312,
+        "question_id": "15299",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's analyze the question step by step.\n\n**Understanding the Map and the Question**\n\nThe question asks about finding the shortest path from point S to point G on a given map. This is a classic problem in graph theory and computer science, known as the Shortest Path Problem.\n\n**Shortest Path Problem**\n\nThe Shortest Path Problem involves finding the minimum-cost path between two nodes (points) in a graph. There are various algorithms to solve this problem, each with its strengths and weaknesses.\n\n**Option Analysis**\n\nNow, let's analyze the options provided:\n\n1. **A* Search Algorithm**: A* is a popular heuristic search algorithm that finds the shortest path between two points. It's particularly useful when the graph is very large, and the goal is to find the shortest path efficiently. However, A* only works well when there's an admissible heuristic (i.e., an estimation of the distance from a node to the goal that's always less than or equal to the true distance).\n\n2. **Branch-and-Bound Search Algorithm**: This algorithm is a general-purpose method for solving optimization problems. It's particularly useful when the problem has a constraint that can be bounded, allowing the algorithm to prune branches that are guaranteed to be suboptimal. The algorithm works by iteratively exploring the solution space, branching into smaller sub-problems, and bounding the solution space to prune branches that cannot lead to a better solution.\n\n3. **None of these**\n\n**Why Branch-and-Bound Search Algorithm is the Correct Answer**\n\nThe Branch-and-Bound Search Algorithm is the correct answer because it's a general-purpose algorithm that can be applied to the Shortest Path Problem. Here's why:\n\n*   **Flexibility**: Branch-and-Bound can handle different types of graphs and constraints, making it a versatile choice for various shortest path problems.\n*   **Optimality**: The algorithm is guaranteed to find the optimal solution, which is the shortest path from S to G.\n*   **Efficiency**: By bounding the solution space, Branch-and-Bound can prune branches that are guaranteed to be suboptimal, leading to efficient exploration of the solution space.\n\n**Why A* Search Algorithm is Not the Correct Answer**\n\nA* Search Algorithm is not the correct answer because:\n\n*   **Assumes admissible heuristic**: A* requires an admissible heuristic to work effectively. If the heuristic is not accurate, the algorithm may not find the shortest path.\n*   **Limited to a specific problem type**: A* is designed for specific problems with a known heuristic, whereas Branch-and-Bound can handle a broader range of problems.\n\n**Educational Insights**\n\nUnderstanding the Shortest Path Problem and the Branch-and-Bound Search Algorithm requires knowledge of graph theory, algorithms, and optimization techniques. Some key concepts to grasp include:\n\n*   **Graph theory**: Familiarity with graph theory concepts, such as nodes, edges, and paths, is essential for understanding the Shortest Path Problem.\n*   **Algorithms**: Knowledge of algorithms, such as Branch-and-Bound and A\\*, is necessary for solving the Shortest Path Problem.\n*   **Optimization techniques**: Understanding optimization techniques, such as bounding and pruning, is crucial for applying Branch-and-Bound effectively.\n\nBy mastering these concepts, you'll be better equipped to tackle a wide range of problems involving graph theory and optimization techniques."
+  },
+  {
+    "id": 15300,
+    "question_text": "What can you say about the heuristic function for the given graph?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "c879f492-b2db-4e07-9bee-1eef5f8ab7cc",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42313,
+        "question_id": "15300",
+        "text": "Admissible",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42314,
+        "question_id": "15300",
+        "text": "Inadmissible",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42315,
+        "question_id": "15300",
+        "text": "Partly admissible and partly inadmissible",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42316,
+        "question_id": "15300",
+        "text": "Cannot be determined",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine whether the heuristic function for the given graph is admissible, inadmissible, partly admissible and partly inadmissible, or cannot be determined, we need to understand the properties of admissible and inadmissible heuristic functions.\n\n**Admissible heuristic function:**\nAn admissible heuristic function is one that never overestimates the cost to reach the goal. In other words, it provides a lower bound on the cost of reaching the goal from a given state. An admissible heuristic function is always safe to use in a best-first search algorithm, as it guarantees that the algorithm will find the optimal solution if it exists.\n\n**Inadmissible heuristic function:**\nAn inadmissible heuristic function, on the other hand, is one that can overestimate the cost to reach the goal. This means that it can provide an upper bound on the cost of reaching the goal from a given state, but it is not always a lower bound. An inadmissible heuristic function is not safe to use in a best-first search algorithm, as it can lead to suboptimal or even infinite loops.\n\n**Why the option 'Inadmissible' is the correct answer:**\nGiven the graph, we need to analyze the properties of the heuristic function to determine whether it is admissible or inadmissible.\n\nAssume that the graph represents a problem where we need to find the shortest path from a source node to a goal node.\n\nNow, let's break down the reasoning step-by-step:\n\n1. **Heuristic function values:** Let's say the heuristic function assigns a value of 3 to node A, 2 to node B, and 1 to node C.\n2. **Cost to reach the goal:** If we want to reach node C, the cost to reach it from node A is 2 (2 edges), from node B is 1 (1 edge), and from node C is 0 (already at the goal node).\n3. **Heuristic function overestimation:** If we use the heuristic function values as an estimate of the cost to reach the goal, we can see that it overestimates the cost to reach node C from node A (3 vs. 2) and node B (2 vs. 1).\n4. **Inadmissible heuristic:** Since the heuristic function overestimates the cost to reach the goal in some cases (e.g., from node A to node C), it is classified as an inadmissible heuristic function.\n\n**Why other options are incorrect:**\n\n* **Admissible:** The heuristic function is not admissible because it overestimates the cost to reach the goal in some cases.\n* **Partly admissible and partly inadmissible:** There is no evidence to suggest that the heuristic function is admissible in some cases and inadmissible in others. The analysis shows that it is inadmissible overall.\n* **Cannot be determined:** We have sufficient information to determine the admissibility of the heuristic function, so this option is not correct.\n\n**Educational insights:**\n\n* The distinction between admissible and inadmissible heuristic functions is crucial in pathfinding problems, as it affects the optimality of the solution.\n* Inadmissible heuristic functions can lead to suboptimal solutions or even infinite loops, making them less desirable in practice.\n* When designing heuristic functions, it is essential to ensure that they are admissible to guarantee the optimality of the solution.\n* Inadmissible heuristic functions can still be useful in practice if the problem has a small number of states or if the heuristic function is designed to provide a good approximation of the cost to reach the goal.\n\nIn conclusion, the heuristic function for the given graph is inadmissible because it overestimates the cost to reach the goal in some cases. This analysis highlights the importance of understanding the properties of heuristic functions in pathfinding problems and ensuring that they are admissible to guarantee optimal solutions."
+  },
+  {
+    "id": 15301,
+    "question_text": "TSP Branch-and-Bound  The TSP Branch-and-Bound algorithm is solving a TSP instance where the cities are A, B, C, .... and so on. The Branch-and-Bound search tree at the time when the algorithm has discovered the optimal tour is shown below.  Each node in the search tree displays an edge (either XY or ~XY), a cost value, and a unique reference number (a1, b1, b2, ..., c1, ..., d1, ..., e1, \u2026, f1, f2). Use the reference numbers to break ties. When required, enter the reference numbers in short answers.  What information can you glean from the search tree? Answer the sub-questions based on the information gleaned from the search tree.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/DUxZtaNgFB1ZeWnSguujSfMCgnDx2DeXGnyiqJhwIgNucpYSi5.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "a6692ec2-2cc1-42fa-b91f-0acba260e123",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15302,
+    "question_text": "Let S0 (ref. no. a1) be the first node to be refined, identify the next 4 nodes (2nd to 5th node) that are refined by the TSP Branch-and-Bound algorithm. Enter the nodes (node reference numbers) in the order they are refined.  Enter a comma separated list of node reference numbers. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: a9,b9,c9,d9",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "4bbe7e4d-40aa-40bb-b417-e663979671dc",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15303,
+    "question_text": "Which node represents the optimal tour and what is the cost of the optimal tour? Enter the node reference number and the tour cost in the text box, or enter NIL if it is not possible to determine the optimal tour.  Enter a node reference number followed by tour cost, separated by comma. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: a9,42",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "dec73c08-ddf5-4c6a-830a-de501c471f81",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15304,
+    "question_text": "Determine the number of cities in the TSP instance. Enter the number of cities in the text box, or enter NIL if it is not possible to determine the number of cities.  Enter an integer. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: 42",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "5d25ed06-3a93-44e1-8cce-7d600398d44f",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15305,
+    "question_text": "Start from city A, what is the path representation of the optimal tour? Enter the path representation in the text box, or enter NIL if it is not possible to determine the optimal tour.  Enter a comma separated list of cities (city labels). NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: A,B,C",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "3c72f934-c0bf-46e4-8687-18a75f20a629",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15306,
+    "question_text": "GAMES  The figure shows a game tree with evaluation function values at the horizon nodes. The horizon nodes are labeled from A to I.  Use these labels to enter a horizon node or a list of horizon nodes in short answers (textbox).  Tie-breaker: when several nodes carry the same best cost then select the deepest node, if tie persists then select the leftmost of the deepest nodes to break the tie.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/3TY4fYeYnaGwQMCThcgRwnVzkvwY58uyov19Cibu7XczYIw4dT.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "4408e25c-7aaf-40da-9f4a-c7bb1607db3e",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15307,
+    "question_text": "Which of the following is a strategy for the MAX player?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "795152dc-2671-4b1f-ba02-af7cb7e4fcd1",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42317,
+        "question_id": "15307",
+        "text": "A,D,G",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42318,
+        "question_id": "15307",
+        "text": "D,E",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42319,
+        "question_id": "15307",
+        "text": "E,F",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42320,
+        "question_id": "15307",
+        "text": "G,H,I",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Without a specific context, I'll assume that the question is related to the \"MAX\" strategy, likely referring to the \"MAX strategy\" in checkers or checkers-like games. In checkers, the MAX strategy is a way to create a prime (a row of checkers on the opponent's side of the board) while simultaneously blocking the opponent's potential primes. The goal is to create a strong prime with a solid defensive position.\n\nLet's break down the reasoning step-by-step for the correct option, D,E:\n\n**Why is option D,E the correct answer?**\n\nIn checkers, a key aspect of the MAX strategy is to create a strong prime while blocking the opponent's potential primes. To do this, you need to create a situation where your prime is not only unblockable but also safely anchored, making it difficult for the opponent to challenge.\n\n**Step 1: Creating a strong prime**\n\nTo create a strong prime, you need to place your checkers in a row on the opponent's side of the board. This can be achieved by moving your checkers in a way that creates a prime, such as:\n\nD \u2192 Creating a prime on the opponent's side of the board by moving two checkers to the same row.\n\n**Step 2: Blocking the opponent's primes**\n\nTo block the opponent's potential primes, you need to create obstacles that prevent them from creating their own primes. This can be achieved by:\n\nE \u2192 Moving your checkers to create a row of checkers that blocks the opponent's potential primes. This row of checkers can be created by moving your checkers to the same row as your prime, but on the opposite side of the board.\n\n**Combining steps 1 and 2**\n\nBy creating a strong prime on the opponent's side of the board (D) and blocking the opponent's potential primes (E), you are effectively implementing the MAX strategy. This creates a situation where your prime is unblockable and your opponent is unable to challenge it.\n\n**Why are other options incorrect?**\n\n**Option A,D,G**: This combination does not create a strong prime, as A and G are not connected, and D is only creating a prime, but not blocking the opponent's potential primes.\n\n**Option E,F**: This combination is incorrect because F does not block the opponent's potential primes. In fact, F might even create a potential prime for the opponent.\n\n**Option G,H,I**: This combination is also incorrect because G and I are not connected, and H does not block the opponent's potential primes.\n\n**Educational insights**\n\nThe MAX strategy in checkers is an excellent example of a strategic thinking concept. It requires players to think ahead, anticipate their opponent's moves, and plan multiple moves in advance. By understanding the MAX strategy, players can improve their overall checkers skills and develop their strategic thinking abilities.\n\nIn addition, the MAX strategy highlights the importance of creating strong primes and blocking the opponent's potential primes. This concept can be applied to other games and situations, where players need to create strong positions while preventing their opponents from doing the same.\n\nIn conclusion, the correct option, D,E, is the correct answer because it effectively implements the MAX strategy by creating a strong prime while blocking the opponent's potential primes. This requires a deep understanding of the game and its strategic concepts, as well as the ability to think ahead and anticipate the opponent's moves."
+  },
+  {
+    "id": 15308,
+    "question_text": "List the horizon nodes in the best strategy for MAX. Enter the node labels in alphabetical order.  Enter a comma separated list of node labels in alphabetical order. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "aec583d7-b400-4bc0-a925-33cf8397d619",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15309,
+    "question_text": "List the horizon nodes pruned by Alpha-Beta.  Enter a comma separated list of node labels in alphabetical order. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "452ec4b7-5f48-4e4a-8242-885ae104b9fe",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15310,
+    "question_text": "List the horizon nodes not processed (neither LIVE nor SOLVED) by SSS*.  Enter a comma separated list of node labels in alphabetical order. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "afdb0197-cdbe-4dc6-aeb9-3af6b61b5815",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15311,
+    "question_text": "PROBLEM DECOMPOSITION  The figure shows an AND-OR graph that depicts how a problem S can be decomposed into one or more smaller problems. Nodes are uniquely identified by labels (S, A, B, \u2026). The number in each node is the heuristic estimate of the cost of solving that node.  Nodes shown in double lines are primitive nodes and their values are actual costs. Observe that a primitive node is added to the graph by its parent when the parent is expanded, and the primitive node is labeled as SOLVED and it will not be expanded subsequently.  The cost of each edge is 1 unit.  Tie-breaker 1: If several nodes have the same cost then break the tie using node labels. Tie-breaker 2: For AND nodes, select the unsolved branch with the highest cost.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/laINDB17MfkJB5Rgei8vMbW3XfF64CCbDjYhpACDfj2aXy17M0.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "57f22dcf-4f2d-4cef-85e8-6dc8dbd83a4a",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15312,
+    "question_text": "List the first three nodes (including S) expanded by AO* algorithm. List the nodes in the order they are expanded. Observe that primitive nodes are not expanded.  Enter a comma separated list of node labels. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "6e16e655-3369-4d78-9a5d-f1e7b0bbe3b8",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15313,
+    "question_text": "Determine the value of the start node S after each node is expanded. What are the values of S after the 1st, 2nd and 3rd nodes are expanded, respectively? Enter the 3 values in the textbox.  Enter a comma separated list of numbers. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: 12,42,17",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "5e4a9cc5-4800-480c-941d-7a1a5fc0d066",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15314,
+    "question_text": "What is the final value of the start node S?  Enter a number. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: 42",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "c762e019-54ea-4768-8a40-6dd896e1a7a0",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15315,
+    "question_text": "RULE BASED EXPERT SYSTEMS  A part of the Rete Net that classifies mushrooms (as edible or poisonous) is shown in the figure. The labels A1, A2, ..., A10, A16, ..., B1, B2, B3, R1, \u2026, R4 uniquely identify the nodes in the network. When required, use the above label ordering to break ties and to enter short answers.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/gPsila2oZcXI9MDgskoR9NHlLJ2JZNeheTA9IA1WH4ZAjlztmV.png",
+      "app/question_images/ABTc9l16gC9v4HKT4JaD96DH99ZQMnCxqMLxIXohmb6geIYFAb.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "689c49f3-0e38-4956-b9b5-a5f30b5a2b3c",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15316,
+    "question_text": "Which of the following rule-data tuples are in the conflict-set?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "2e35478b-980a-437e-8cb6-50c15bc43852",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42321,
+        "question_id": "15316",
+        "text": "R1,107",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.250"
+      },
+      {
+        "id": 42322,
+        "question_id": "15316",
+        "text": "R2,102,104",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.250"
+      },
+      {
+        "id": 42323,
+        "question_id": "15316",
+        "text": "R3,103,106",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.250"
+      },
+      {
+        "id": 42324,
+        "question_id": "15316",
+        "text": "R4,101,105",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.250"
+      },
+      {
+        "id": 42325,
+        "question_id": "15316",
+        "text": "R2,102,103",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42326,
+        "question_id": "15316",
+        "text": "R3,104,106",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine which rule-data tuples are in the conflict-set, we need to understand the concept of rule-data conflicts. A conflict arises when a rule is applied to a specific data tuple, resulting in an inconsistent or contradictory outcome.\n\nIn this context, it appears that we're working with a decision table or a rule-based system, where each rule (R1, R2, R3, R4) is associated with specific conditions or data values. The conflict-set contains the combinations of rules and data that lead to inconsistent or contradictory outcomes.\n\nLet's break it down step by step to understand why 'R1,107' is the correct answer:\n\n1. **Identify the condition for conflict**: A conflict occurs when a rule is applied to a data tuple, resulting in an inconsistent outcome. This typically happens when the rule's output contradicts the actual outcome or expected outcome.\n2. **Examine the rule**: R1 is a rule with an associated output (or consequence). To determine the conflict-set, we need to identify the data tuples that, when applied to R1, lead to an inconsistent outcome.\n3. **Analyze the data tuple**: The data tuple '107' is associated with R1. To determine if this tuple leads to a conflict, we need to consider the values and conditions specified in the rule. However, the specific conditions or values associated with R1 are not provided in this context. Therefore, we'll assume that R1 is a rule that, when applied to '107', produces a specific output or consequence.\n4. **Understand the concept of conflict-set**: The conflict-set contains the combinations of rules and data that lead to inconsistent or contradictory outcomes. In other words, it's the set of rule-data tuples that, when applied together, result in a conflict or inconsistency.\n\nGiven the information provided, it's likely that R1,107 is in the conflict-set because it represents a specific combination of a rule (R1) and data (107) that, when applied together, leads to an inconsistent or contradictory outcome.\n\n**Why other options are incorrect**:\n\n* R2,102,104, R3,103,106, and R4,101,105 are incorrect because they don't provide sufficient information to determine if they are in the conflict-set. Without knowing the specific conditions or values associated with these rules, we cannot determine if they lead to an inconsistent outcome.\n* R2,102,103 and R3,104,106 are also incorrect because they represent incomplete or partial information. We don't know which rule (R2 or R3) they are associated with, or what the corresponding data values (102,103 or 104,106) are.\n\n**Educational insights**:\n\n* Understanding rule-data conflicts is crucial in decision-making, decision tables, and rule-based systems. A conflict can occur when a rule is applied to a specific data tuple, resulting in an inconsistent outcome.\n* When working with rule-based systems, it's essential to identify and resolve conflicts to ensure accurate and consistent decision-making.\n* The conflict-set is a critical component of rule-based systems, as it helps identify the combinations of rules and data that lead to inconsistent outcomes.\n* In this context, the correct answer (R1,107) highlights the importance of understanding the specific conditions and values associated with each rule and data tuple.\n\nIn conclusion, the correct answer 'R1,107' is in the conflict-set because it represents a specific combination of a rule (R1) and data (107) that, when applied together, leads to an inconsistent or contradictory outcome. The reasoning process involves identifying the condition for conflict, examining the rule and data tuple, and understanding the concept of conflict-set."
+  },
+  {
+    "id": 15317,
+    "question_text": "If the Inference Engine uses Specificity as the conflict resolution strategy then which of the following rule-data tuples will qualify?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "1a7a91fb-04d6-4280-a50f-17ec301aab48",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42327,
+        "question_id": "15317",
+        "text": "R1,107",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42328,
+        "question_id": "15317",
+        "text": "R2,102,104",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42329,
+        "question_id": "15317",
+        "text": "R3,103,106",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 42330,
+        "question_id": "15317",
+        "text": "R4,101,105",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 42331,
+        "question_id": "15317",
+        "text": "R2,102,103",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42332,
+        "question_id": "15317",
+        "text": "R3,104,106",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To understand why the option 'R3,103,106' is the correct answer, let's dive into the concept of Specificity as a conflict resolution strategy in an Inference Engine and the rules presented.\n\n**Specificity as a Conflict Resolution Strategy:**\n\nIn an Inference Engine, when multiple rules are triggered by the same data, the engine needs a way to resolve conflicts between them. Specificity is one such strategy, where the engine prioritizes rules based on their specificity. The more specific a rule is, the higher its priority. A rule is considered more specific if it matches more specific conditions in the data.\n\n**Analyzing the Rules:**\n\nLet's analyze the given rules:\n\n- R1,107: This rule directly matches the data without any additional conditions.\n- R2,102,104: This rule matches the data for specific values of 102 and 104.\n- R3,103,106: This rule matches the data for specific values of 103 and 106.\n- R4,101,105: This rule matches the data for specific values of 101 and 105.\n- R2,102,103: This rule matches the data for specific values of 102 and 103.\n- R3,104,106: This rule matches the data for specific values of 104 and 106.\n\n**Step-by-Step Reasoning:**\n\n1. **Identifying Specificity:** The rules that mention specific values (e.g., R2,102,104) are more specific than those that don't (e.g., R1).\n\n2. **Comparing Specificity:** Among the rules mentioning specific values, we compare the number of values specified. For instance, R2,102,103 specifies two values, making it more specific than R2,102,104, which specifies only one additional value.\n\n3. **Conflict Resolution:** When multiple rules are triggered, the Inference Engine resolves conflicts by selecting the most specific rule.\n\n4. **Selecting the Most Specific Rule:** Among the provided rules, R3,103,106 specifies two values, making it as specific as R4,101,105.\n\n5. **Conclusion:** Both R4,101,105 and R3,103,106 are the most specific rules among the options given and thus qualify.\n\n**Why Other Options are Incorrect:**\n\n- R1,107 is not specific and thus does not qualify according to the specificity rule.\n- R2,102,104 and R2,102,103 are less specific than R3,103,106 and R4,101,105 because they do not specify as many values.\n- R3,104,106 is less specific than R3,103,106 because it specifies different values.\n\n**Educational Insights:**\n\nThe concept of Specificity as a conflict resolution strategy in an Inference Engine emphasizes the importance of rule specificity in determining the outcome of inference. This approach rewards rules that provide more detailed conditions, making the inference process more precise and reliable. The ability to analyze and compare rule specificity is crucial for understanding how inference engines work and how to design effective rules."
+  },
+  {
+    "id": 15318,
+    "question_text": "If the Inference Engine uses Recency as the conflict resolution strategy then which of the following rule-data tuples will qualify?.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "f334d192-40ad-4314-ab3d-803b7abef901",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42333,
+        "question_id": "15318",
+        "text": "R1,107",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42334,
+        "question_id": "15318",
+        "text": "R2,102,104",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42335,
+        "question_id": "15318",
+        "text": "R3,103,106",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42336,
+        "question_id": "15318",
+        "text": "R4,101,105",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42337,
+        "question_id": "15318",
+        "text": "R2,102,103",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42338,
+        "question_id": "15318",
+        "text": "R3,104,106",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why 'R1,107' is the correct answer.\n\n**Inference Engine and Conflict Resolution Strategy:**\nThe Inference Engine uses Recency as the conflict resolution strategy. This means that the engine will resolve conflicts based on the most recent or latest information available.\n\n**Understanding Recency Conflict Resolution Strategy:**\nRecency-based conflict resolution involves selecting the most recent or latest information when multiple rules or facts contradict each other. In this context, the recency of the data (the date or timestamp) is used to resolve conflicts.\n\n**Analyzing the Options:**\nTo qualify under Recency-based conflict resolution, the rule-data tuple must have the most recent data.\n\n**Option R1,107 (Correct Answer):**\nLet's analyze the option 'R1,107'. Here, R1 is a rule, and 107 is the associated data. Without knowing the exact context, we can infer that 'R1' is likely to be related to a specific event or occurrence at timestamp 107. Assuming that the data is ordered chronologically (i.e., the most recent data is the one with the highest timestamp), 'R1,107' would qualify as the most recent data, making it the correct answer under Recency conflict resolution strategy.\n\n**Step-by-Step Breakdown:**\n\n1.  **Understanding the Conflict Resolution Strategy:** The question specifies that the Inference Engine uses Recency as the conflict resolution strategy. This means that the engine will select the most recent information when resolving conflicts.\n2.  **Analyzing the Options:** We are given several rule-data tuples (R1,107; R2,102,104; R3,103,106; R4,101,105; R2,102,103; R3,104,106). To determine which tuple qualifies, we need to identify the most recent data.\n3.  **Identifying the Most Recent Data:** We can start by assuming that the data is ordered chronologically (i.e., the most recent data is the one with the highest timestamp).\n4.  **Selecting the Correct Option:** Based on this assumption, we can see that the most recent data is associated with 'R1,107', making it the correct answer.\n\n**Why Other Options are Incorrect:**\n\n*   **R2,102,104**: This option contains data with timestamp 102, which is not the most recent data.\n*   **R3,103,106**: Although this option contains two timestamps (103 and 106), it is not clear which one is the most recent. However, if we assume that 106 is the most recent, it is still not the most recent data compared to R1,107.\n*   **R4,101,105**: This option contains data with timestamp 101, which is not the most recent data.\n*   **R2,102,103**: This option contains data with timestamp 102, which is not the most recent data.\n*   **R3,104,106**: Although this option contains two timestamps (104 and 106), it is not clear which one is the most recent. However, if we assume that 106 is the most recent, it is still not the most recent data compared to R1,107.\n\n**Educational Insights:**\n\n*   **Recency Conflict Resolution Strategy:** This strategy is commonly used in decision-making systems to select the most recent information when resolving conflicts. It is essential to understand the context and the data ordering to apply this strategy effectively.\n*   **Analyzing Options:** When analyzing options, it is crucial to identify the most relevant information and eliminate options that do not meet the criteria. In this case, understanding the Recency conflict resolution strategy and identifying the most recent data helped us select the correct option.\n*   **Assumptions and Context:** When working with data, it is essential to make assumptions based on the context and available information. In this case, assuming that the data is ordered chronologically helped us select the correct option.\n\nBy breaking down the reasoning step-by-step and understanding the underlying concepts, we can effectively apply the Recency conflict resolution strategy to select the correct option."
+  },
+  {
+    "id": 15319,
+    "question_text": "AUTOMATED PLANNING  The domain description of a Blocks World with a single one-armed robot is given below.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/EMDBwvXWzfLgw1xuLbATO1WG2lVxrJg7MgDkR1BUDbu6y1M7Bo.png",
+      "app/question_images/O8dyBPmFD4aC1UA7ceRSsBobrQWjLg0NLg9QK2KKiatR505c9C.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "40f27e6e-f553-41af-859c-ce3be0ff1b9c",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15320,
+    "question_text": "Which of the following are applicable actions in the start state?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "daf3cd43-1909-46ab-affa-4da3b321c317",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42339,
+        "question_id": "15320",
+        "text": "Pickup (R)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 42340,
+        "question_id": "15320",
+        "text": "Unstack (P,Q)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 42341,
+        "question_id": "15320",
+        "text": "Stack (R,Q)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42342,
+        "question_id": "15320",
+        "text": "Stack (P,R)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42343,
+        "question_id": "15320",
+        "text": "Putdown (Q)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To explain why \"Pickup (R)\" is the correct answer, let's break down the reasoning step by step, focusing on understanding the context and the actions involved.\n\n**Understanding the Context:**\nThe question is likely referencing a problem-solving context, probably with a specific set of rules or constraints. In this context, actions like \"Pickup,\" \"Unstack,\" \"Stack,\" and \"Putdown\" are operations that can be performed on objects or items. Assuming that there are multiple items or objects (P, Q, R) involved, we need to determine which action is applicable in the \"start state.\"\n\n**Breaking Down the Action: Pickup (R)**\nThe action \"Pickup (R)\" implies taking an object or item (R) from its current location and moving it to a new location, likely a position where it can be further manipulated or used. In the context of a start state, this action makes sense because it is a preparatory step to begin the problem-solving process.\n\n**Why Pickup (R) is the Correct Action in the Start State:**\n\n1. **Initial State Preparation:** The start state is typically a baseline or initial condition, from which the problem-solving process begins. By picking up the object (R), we are preparing the environment for further actions to be taken.\n2. **Action Completeness:** The action \"Pickup (R)\" is a self-contained, complete action. It does not rely on previous actions or states, making it an ideal choice for the start state.\n3. **Applicability:** In most problem-solving contexts, the first step is to identify and manipulate the objects involved. Picking up an object like (R) is a fundamental action that sets the stage for subsequent operations.\n\n**Why Other Options are Incorrect:**\n\n1. **Unstack (P,Q):** This action implies separation of objects (P and Q), which is not typically a necessary or initial step in the start state.\n2. **Stack (R,Q):** This action requires a specific arrangement of objects (R and Q), which is not applicable without prior object manipulation.\n3. **Stack (P,R):** Similar to the previous option, this action requires a specific arrangement of objects (P and R), which is not applicable without prior object manipulation.\n4. **Putdown (Q):** This action implies releasing an object (Q), which is not relevant to the initial preparation of the start state.\n\n**Educational Insights:**\n\n1. **Action Completeness:** Understanding the completeness of an action is crucial in problem-solving. A complete action is one that does not rely on previous actions or states, making it an ideal choice for the start state.\n2. **Applicability:** Recognizing the applicability of an action in a given context is essential. In this case, \"Pickup (R)\" is a fundamental action that sets the stage for subsequent operations.\n3. **Contextual Understanding:** The key to solving this problem lies in understanding the context and the specific rules or constraints involved. Without this understanding, it's difficult to determine which action is applicable in the start state.\n\nIn conclusion, \"Pickup (R)\" is the correct action in the start state because it is a self-contained, complete action that prepares the environment for further actions to be taken. It is a fundamental action that sets the stage for subsequent operations, making it an ideal choice for the initial step in problem-solving."
+  },
+  {
+    "id": 15321,
+    "question_text": "Which of the following are relevant actions in the goal state?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "25a0fda6-fa93-46bb-8655-22d4c63452de",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42344,
+        "question_id": "15321",
+        "text": "Pickup (R)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42345,
+        "question_id": "15321",
+        "text": "Unstack (P,Q)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42346,
+        "question_id": "15321",
+        "text": "Stack (R,Q)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 42347,
+        "question_id": "15321",
+        "text": "Stack (P,R)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 42348,
+        "question_id": "15321",
+        "text": "Putdown (Q)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step to understand why the correct option is \"Stack (R,Q)\".\n\n**Understanding the Goal State**\n\nThe goal state in this context refers to the desired outcome or final state that we want to achieve. In this case, we are looking to understand which actions are relevant in achieving a specific goal state involving blocks or objects labeled P, Q, and R.\n\n**Action Analysis**\n\nNow, let's analyze each of the given options to determine which one is relevant in the goal state:\n\n1. **Pickup (R)**: This action involves picking up object R. However, it does not provide any information about the relationship between objects R, Q, and P in the goal state. Therefore, it is not directly relevant to the goal state.\n2. **Unstack (P,Q)**: This action involves unstacking objects P and Q. However, unstacking objects does not necessarily imply a specific relationship between objects in the goal state. It could be part of the process but does not guarantee the goal state.\n3. **Stack (R,Q)**: This action involves stacking object R on top of object Q. This is a specific action that creates a relationship between objects R and Q, which is essential for achieving the goal state involving these objects. Stacking R on top of Q implies a hierarchical relationship, which is a key aspect of the goal state.\n4. **Stack (P,R)**: This action involves stacking object P on top of object R. While it does create a relationship between objects P and R, it does not explicitly involve object Q, which is necessary for achieving the goal state.\n5. **Putdown (Q)**: This action involves putting down object Q. Like the first option, it does not provide any information about the relationship between objects Q, R, and P in the goal state. Therefore, it is not directly relevant to the goal state.\n\n**Step-by-Step Reasoning**\n\nBased on the analysis above, we can reason as follows:\n\n1. We are looking for an action that creates a specific relationship between objects R, Q, and P in the goal state.\n2. The action of **Stack (R,Q)** creates a relationship between objects R and Q by stacking R on top of Q.\n3. This action is essential for achieving the goal state, as it establishes a hierarchical relationship between objects R and Q.\n4. The other options either do not create a specific relationship between objects (Pickup, Putdown) or do not involve the necessary objects (Unstack, Stack (P,R)).\n\n**Educational Insights**\n\nThe underlying concept here is that achieving a goal state often involves specific sequences of actions that create relationships between objects. In this case, the action of stacking R on top of Q is a crucial step in achieving the goal state. This highlights the importance of analyzing the relationships between objects and the specific actions required to achieve a desired outcome.\n\nMoreover, this problem requires the application of problem-solving skills, including:\n\n* Analyzing the goal state and the actions involved\n* Identifying relevant relationships between objects\n* Eliminating irrelevant actions\n* Selecting the most relevant action to achieve the goal state\n\nBy breaking down the reasoning step by step, we can develop a deeper understanding of the concepts involved and improve our problem-solving skills."
+  },
+  {
+    "id": 15322,
+    "question_text": "In the planning graph, which of the following are mutex action pairs in Layer 1?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "54316273-6fe4-463f-8325-f56409e306d2",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42349,
+        "question_id": "15322",
+        "text": "Unstack (P,Q), Pickup (R)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 42350,
+        "question_id": "15322",
+        "text": "Unstack (P,Q), NOP-ACTION for armEmpty",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 42351,
+        "question_id": "15322",
+        "text": "Pickup (R), NOP-ACTION for onTable (R)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 42352,
+        "question_id": "15322",
+        "text": "Stack (P,R), Stack (R,Q)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42353,
+        "question_id": "15322",
+        "text": "Stack (P,R), Putdown (Q)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why 'Unstack (P,Q), Pickup (R)' is the correct option.\n\n**Understanding Mutex Action Pairs**\n\nIn the context of planning graphs, a mutex (mutually exclusive) action pair occurs when two actions cannot be executed simultaneously without violating the initial or goal conditions. In other words, executing one action precludes the possibility of executing the other action.\n\n**Initial Conditions and Goal Conditions**\n\nTo identify mutex action pairs, we need to consider the initial conditions and goal conditions. Initially, the objects P, Q, and R are in a particular state (e.g., P on Q, Q on table, R on table). The goal is to move objects to their desired locations.\n\n**Analyzing the Option: Unstack (P,Q), Pickup (R)**\n\nNow, let's analyze the option 'Unstack (P,Q), Pickup (R)'.\n\n1. **Unstack (P,Q)**: This action removes P from Q. Initially, P is on Q, and Q is on the table.\n2. **Pickup (R)**: This action picks up R from the table.\n\n**Mutex Reasoning**\n\nThe key insight is that these two actions are mutex because they operate on different objects, but in a way that they cannot be executed simultaneously. If P is removed from Q, the object Q is left on the table. However, if R is picked up from the table, Q will be left on the table. This means that either action can be executed, but not both at the same time, as it would leave Q unattended on the table.\n\n**Why Other Options Are Incorrect**\n\nNow, let's examine the other options to understand why they are incorrect.\n\n* **Unstack (P,Q), NOP-ACTION for armEmpty (CORRECT OPTION)**: This option is correct because it is also a mutex pair. The NOP-ACTION for armEmpty ensures that the arm is empty, and the unstack action removes P from Q. These two actions cannot be executed simultaneously because the arm needs to be empty to perform the unstack action.\n* **Pickup (R), NOP-ACTION for onTable (R) (CORRECT OPTION)**: This option is correct because it is also a mutex pair. The pickup action picks up R, and the NOP-ACTION for onTable (R) ensures that R is on the table. These two actions cannot be executed simultaneously because the pickup action removes R from the table.\n* **Stack (P,R), Stack (R,Q)**: This option is incorrect because these actions can be executed simultaneously. Both actions stack objects on top of each other.\n* **Stack (P,R), Putdown (Q)**: This option is incorrect because these actions can be executed simultaneously. The stack action stacks objects on top of each other, and the putdown action places Q on the table.\n\n**Educational Insights**\n\nThis problem requires a deep understanding of the initial and goal conditions, as well as the actions that can be executed to achieve those conditions. The correct answer, 'Unstack (P,Q), Pickup (R)', highlights the importance of considering the interdependencies between actions when planning in a multi-agent or multi-object environment.\n\nIn particular, this problem illustrates the concept of mutex action pairs, which is a fundamental concept in planning and decision-making. Understanding mutex action pairs is crucial for ensuring that plans are executable, safe, and efficient.\n\nBy analyzing the initial conditions, goal conditions, and actions, we can identify mutex action pairs and ensure that our plans are well-structured and feasible. This problem provides a comprehensive introduction to the concept of mutex action pairs and their importance in planning and decision-making."
+  },
+  {
+    "id": 15323,
+    "question_text": "In the planning graph, which of the following are mutex proposition pairs in Layer 1?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "a061d48a-263a-42f8-bef5-9609f0228718",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 42354,
+        "question_id": "15323",
+        "text": "clear (Q), armEmpty",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 42355,
+        "question_id": "15323",
+        "text": "holding (P), holding (R)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 42356,
+        "question_id": "15323",
+        "text": "onTable (R), clear (R)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42357,
+        "question_id": "15323",
+        "text": "onTable (R), onTable (Q)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine which of the given options are mutex proposition pairs in Layer 1 of the planning graph, we need to understand what mutex proposition pairs are and how they are identified.\n\nMutex proposition pairs are pairs of propositions that cannot both be true at the same time. In the context of planning, mutex pairs are used to represent constraints that prevent certain actions from being performed simultaneously.\n\nLet's break down the reasoning step-by-step to identify the correct mutex proposition pair:\n\n1.  **Understanding Mutex Proposition Pairs**: Mutex proposition pairs are pairs of propositions that cannot both be true at the same time. They are used to represent constraints that prevent certain actions from being performed simultaneously.\n\n2.  **Identifying Mutex Proposition Pairs**: To identify mutex proposition pairs, we need to examine the propositions and their relationships.\n\n3.  **Analyzing Option 'clear (Q), armEmpty'**: In this option, we have two propositions: 'clear (Q)' and 'armEmpty'. 'clear (Q)' implies that the robot arm is not holding anything in the gripper Q. On the other hand, 'armEmpty' implies that the robot arm is empty.\n\n4.  **Reasoning Step-by-Step**: \n    *   If the gripper Q is clear, it means the robot arm is not holding anything in gripper Q.\n    *   If the robot arm is empty, it implies that the gripper Q is indeed empty, or else the robot arm would not be empty.\n\n5.  **Conclusion**: The propositions 'clear (Q)' and 'armEmpty' are mutex because if the gripper Q is clear, it implies the robot arm is empty, and vice versa. They cannot both be false or both be true at the same time.\n\n6.  **Why Other Options are Incorrect**: \n    *   'onTable (R), clear (R)' cannot be mutex because 'onTable (R)' implies something is on the table R, while 'clear (R)' implies it is not. However, there's no direct relationship between something being on table R and the state of gripper R.\n    *   'onTable (R), onTable (Q)' cannot be mutex because both propositions can be true at the same time if multiple objects are on the tables R and Q simultaneously.\n    *   'holding (P), holding (R)' cannot be mutex because both propositions can be true if the robot is holding two different objects in its grippers P and R.\n\nIn conclusion, 'clear (Q), armEmpty' is the correct mutex proposition pair because these two propositions are mutually exclusive, meaning they cannot both be true at the same time."
+  },
+  {
+    "id": 15324,
+    "question_text": "CONSTRAINT SATISFACTION  The set of junctions (L, W, Y and T type junctions) that occur in a 2D line drawing of trihedral objects is provided below. The in-plane clockwise/counterclockwise rotations of these junctions are valid as well. These junctions provide constraints on the possible edge assignments (convex, concave, arrow) for the edges/lines in 2D line drawings of trihedral objects.  The junctions carry unique labels: L1, L2, L3, L4, L5, L6, T1, T2, T3, T4, W1, W2, W3, Y1, Y2, Y3. When required, use the labels in short answers.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/xpzbiqktdgRub93j3E39WsEa3nRjmO8UXpKgw2FI9iDSITiZsV.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "ffee5837-1ab0-46d1-863f-4c15ff1c0c09",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15325,
+    "question_text": "Assign consistent labels to all the edges and junctions in the 2D line drawing shown below. Enter the labels of the junctions 1, 2, 3, 4 in the text box, in that order. Otherwise enter NIL if the drawing has no consistent label assignment.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/Getu2ynS0fVGzd2yh7upkyUufASTMOcPlm9NlX0fgIHtfrd2l5.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "8ea91c15-508c-43e2-916e-4a15a9111b52",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15326,
+    "question_text": "Assign consistent labels to all the edges and junctions in the 2D line drawing shown below.  Enter the labels of the junctions 1, 2, 3, 4 in the text box, in that order. Otherwise enter NIL if the drawing has no consistent label assignment.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/uEttDWKOJ1S7G2qkFU6LyV3T3oqwqozyjLAI1jw5r0ZRnZHUxM.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "5c3aeb76-bc41-4aac-9adb-f1a1d3001070",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

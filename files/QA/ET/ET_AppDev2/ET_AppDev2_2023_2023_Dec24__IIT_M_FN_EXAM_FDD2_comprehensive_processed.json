@@ -1,0 +1,1674 @@
+[
+  {
+    "id": 15498,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : MODERN APPLICATION DEVELOPMENT II (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "cf8715f4-06d2-4494-99ee-ef062b176c6b",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42909,
+        "question_id": "15498",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42910,
+        "question_id": "15498",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct option, let's break down the information provided and analyze it step by step:\n\n1. **Understanding the Context**: The message is from an examination setting, specifically for a Diploma Level course in Modern Application Development II, with a computer-based examination. The purpose of the message is to verify the subject being examined.\n\n2. **The Question**: The question asks if the individual is sure they are writing the exam for the correct subject, specifically Modern Application Development II. The message cautions against confusion and advises checking the hall ticket to confirm the subjects registered.\n\n3. **The Options**: The options provided are \"YES\" and \"NO\".\n\n4. **Analyzing the Options**:\n    - **YES**: This option suggests acknowledging that the individual needs to write the exam for the subject as indicated, which is Modern Application Development II. Given the context and the importance of confirming the subject, this appears to be the most prudent option.\n    - **NO**: This option suggests that the individual is not sure or does not need to write the exam for Modern Application Development II. However, without further context or information indicating a mistake in the hall ticket or a change in the registered subjects, this option seems less likely to be the correct answer.\n\n5. **Reasoning Step-by-Step**:\n    - **Step 1**: Recognize the importance of verifying the subject to avoid confusion or potential errors.\n    - **Step 2**: Acknowledge the caution provided, emphasizing the need to double-check the subject on the hall ticket.\n    - **Step 3**: Given the context, the most reasonable and responsible action would be to confirm the subject as indicated, unless there was specific information indicating otherwise.\n\n6. **Educational Insights**: This scenario highlights the importance of attention to detail, especially in formal examinations. It also underscores the value of institutional checks and balances (such as double-checking the hall ticket) to ensure that the right candidates are assessed for the correct subjects.\n\n7. **Conclusion**: Based on the analysis and the reasoning provided, the most appropriate option is **YES**. This response acknowledges the need to verify the subject and follows the institutional advice to check the hall ticket."
+  },
+  {
+    "id": 15499,
+    "question_text": "Which of the following statements is/are correct.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "9523ca05-73f4-4168-8a28-ea3d4c980fb9",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42911,
+        "question_id": "15499",
+        "text": "SMTP is a mail delivery protocol.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42912,
+        "question_id": "15499",
+        "text": "SMTP is a protocol to retrieve email from an email server.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42913,
+        "question_id": "15499",
+        "text": "IMAP is a mail delivery protocol.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42914,
+        "question_id": "15499",
+        "text": "IMAP is a protocol to retrieve email from an email server.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the correct option and explain why it's the right choice.\n\n**Option:** SMTP is a mail delivery protocol.\n\n**Why it's correct:**\n\n1. **SMTP stands for Simple Mail Transfer Protocol:** SMTP is a standardized protocol used for sending and receiving emails between servers. Its primary function is to transfer emails from one server to another, ensuring that messages are delivered to their intended recipients.\n2. **SMTP is designed for mail delivery:** SMTP is specifically designed to facilitate the transfer of emails between email servers. It enables the exchange of emails between mail servers, allowing messages to reach their final destination.\n3. **SMTP is a store-and-forward protocol:** When an email is sent using SMTP, the mail server stores the message temporarily until it can forward it to the next mail server in the destination path. This process continues until the message reaches the recipient's mail server.\n4. **SMTP is not responsible for mail retrieval:** Unlike IMAP (Internet Message Access Protocol), SMTP does not provide a direct means for users to retrieve emails from an email server. Instead, it focuses on delivering emails between servers.\n\n**Incorrect options:**\n\n1. **SMTP is a protocol to retrieve email from an email server:** As explained earlier, SMTP is primarily responsible for email delivery, not retrieval. This option is incorrect because SMTP does not provide a direct means for users to access or retrieve emails from an email server.\n2. **IMAP is a mail delivery protocol:** IMAP is actually a protocol used for retrieving emails from an email server. It allows users to access and manage their email accounts remotely, but it's not a mail delivery protocol. IMAP is designed to provide a more interactive experience, enabling users to search, sort, and manage their emails on the server.\n\n**Educational insights:**\n\n1. **Understanding the role of SMTP:** SMTP plays a crucial role in the email ecosystem, enabling the transfer of emails between mail servers. Its primary function is to ensure that emails are delivered to their intended recipients.\n2. **Distinguishing between SMTP and IMAP:** SMTP and IMAP serve different purposes. SMTP focuses on email delivery, while IMAP is responsible for email retrieval and management. Understanding the differences between these protocols is essential for configuring email clients and managing email accounts effectively.\n3. **The importance of protocol roles:** Familiarizing yourself with the roles and responsibilities of various email protocols (such as SMTP, IMAP, POP3, and others) can help you troubleshoot issues and optimize email services. It's essential to understand how each protocol contributes to the overall email experience.\n\nIn summary, the correct option \"SMTP is a mail delivery protocol\" is accurate because SMTP is specifically designed for transferring emails between servers, ensuring that messages are delivered to their intended recipients. The other options are incorrect because they misrepresent the primary function of SMTP or confuse it with another protocol, IMAP."
+  },
+  {
+    "id": 15500,
+    "question_text": "Which of the following is/are correct regarding CDN.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "8444020b-3415-4d59-a652-c80447383224",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42915,
+        "question_id": "15500",
+        "text": "CDN is an acronym for Content Delivery Network.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 42916,
+        "question_id": "15500",
+        "text": "CDN is a group of servers that helps in fast delivery of web contents.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 42917,
+        "question_id": "15500",
+        "text": "Web content is generally delivered from the closest server to the client in thenetwork.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.667"
+      },
+      {
+        "id": 42918,
+        "question_id": "15500",
+        "text": "None of these.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Option 1: CDN is an acronym for Content Delivery Network.**\n\nThis option is indeed correct, as the term \"CDN\" indeed stands for \"Content Delivery Network.\" A Content Delivery Network (CDN) is a system of distributed servers that work together to provide fast, reliable, and efficient delivery of web content, such as images, videos, and other files. The name \"Content Delivery Network\" accurately reflects the primary function of a CDN: delivering content to users across the globe.\n\n**Why is this option correct?**\n\n1. **Definition**: The definition of CDN is indeed \"Content Delivery Network.\" This name clearly indicates that the primary purpose of a CDN is to deliver content to users.\n2. **Acronym meaning**: In computing and networking, acronyms are often used to represent longer names or phrases. In this case, \"CDN\" is a widely accepted acronym for \"Content Delivery Network.\"\n3. **Industry recognition**: The term \"CDN\" is widely recognized and used within the industry to refer to this type of network.\n\n**Option 2: CDN is a group of servers that helps in fast delivery of web contents.**\n\nThis option is also correct, but it's a bit more specific than the first option. While the first option defines what a CDN is, this option explains what a CDN does. A CDN is indeed a group of servers, typically distributed across multiple locations, that work together to deliver web content quickly and efficiently.\n\n**Why is this option correct?**\n\n1. **Functionality**: A CDN's primary function is to deliver web content quickly and efficiently. By distributing servers across multiple locations, a CDN can reduce latency and improve content delivery times.\n2. **Architecture**: A CDN typically consists of a network of servers, often referred to as \"edge servers\" or \"caching servers,\" that are distributed across multiple locations, such as data centers, content delivery nodes, or even mobile devices.\n\n**Option 3: Web content is generally delivered from the closest server to the client in the network.**\n\nThis option is also correct and is closely related to the second option. When a user requests web content, the CDN's edge servers will typically deliver the content from the closest server to the client, reducing latency and improving delivery times.\n\n**Why is this option correct?**\n\n1. **Geographic proximity**: By delivering content from the closest server, the CDN can reduce latency and improve delivery times.\n2. **Content caching**: Edge servers often cache frequently requested content, which can reduce the need for content to be fetched from a more distant server.\n\n**Why are the other options incorrect?**\n\n- Option (D) \"None of these\" is incorrect, as at least one of the options (Option 1) is indeed correct.\n- There is no \"Option 4\" provided, so we don't need to address that one.\n\n**Educational insights**\n\nUnderstanding the concepts behind CDNs requires a grasp of networking fundamentals, including:\n\n* **Distributed systems**: CDNs are an example of a distributed system, where multiple servers work together to achieve a common goal.\n* **Content delivery**: CDNs are specifically designed to deliver web content quickly and efficiently.\n* **Geographic proximity**: The closer the server to the client, the faster the content can be delivered.\n* **Content caching**: Edge servers often cache frequently requested content to reduce the need for content to be fetched from a more distant server.\n\nBy grasping these concepts, you'll be better equipped to understand how CDNs work and why they're an essential component of modern web applications."
+  },
+  {
+    "id": 15501,
+    "question_text": "Which of the following statement(s) is/are false regarding javascript language?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "336df2b2-4901-44cd-91c1-22062c526305",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42919,
+        "question_id": "15501",
+        "text": "Replit.com is an example of a javascript engine.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42920,
+        "question_id": "15501",
+        "text": "The language supports the concept of first class functions.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42921,
+        "question_id": "15501",
+        "text": "The language does not allow the implementation of user defined higher orderfunctions.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42922,
+        "question_id": "15501",
+        "text": "The language can be used for DOM manipulation.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Why \"Replit.com is an example of a javascript engine\" is the correct answer:**\n\nA JavaScript engine is a software component that executes JavaScript code. It's the part of the browser or Node.js that takes your JavaScript code and runs it on the computer's processor. Examples of JavaScript engines include V8 (used by Google Chrome and Node.js), SpiderMonkey (used by Mozilla Firefox), and JavaScriptCore (used by Safari).\n\nReplit.com is an online code editor and IDE that allows users to write and run code in various programming languages, including JavaScript. When you create a new Replit project and write JavaScript code, Replit's underlying infrastructure uses a JavaScript engine to execute your code. This means that Replit.com itself is not a JavaScript engine, but it does rely on a JavaScript engine to run your JavaScript code.\n\nIn other words, Replit.com is an example of a **platform or service** that utilizes a JavaScript engine to execute JavaScript code, rather than being a JavaScript engine itself.\n\n**Step-by-step reasoning:**\n\n1. A JavaScript engine is a software component that executes JavaScript code.\n2. Replit.com is an online code editor and IDE that allows users to write and run code in various programming languages, including JavaScript.\n3. When you write JavaScript code in Replit, Replit uses a JavaScript engine to execute your code.\n4. Therefore, Replit.com is an example of a platform or service that utilizes a JavaScript engine, not an example of a JavaScript engine itself.\n\n**Why the other options are incorrect:**\n\n* **\"The language supports the concept of first-class functions.\"** is true. In JavaScript, functions are first-class citizens, meaning they can be passed as arguments to other functions, returned from functions, and stored in data structures. This is a fundamental feature of JavaScript.\n* **\"The language does not allow the implementation of user-defined higher-order functions.\"** is also true. While JavaScript does support first-class functions, it does not prevent you from defining your own higher-order functions (functions that take other functions as arguments or return functions as output).\n* **\"The language can be used for DOM manipulation.\"** is true. JavaScript is widely used for DOM (Document Object Model) manipulation, which is a crucial aspect of web development. You can use JavaScript to dynamically update the content and structure of web pages.\n\n**Educational insights:**\n\n* Understanding the distinction between a JavaScript engine and a platform or service that uses a JavaScript engine is essential for grasping the inner workings of web development and programming.\n* Recognizing the capabilities and limitations of JavaScript is crucial for effective programming and problem-solving.\n* First-class functions and higher-order functions are fundamental concepts in functional programming, which is a key aspect of JavaScript and other programming languages.\n\nIn conclusion, while Replit.com relies on a JavaScript engine to execute JavaScript code, it is not itself a JavaScript engine. The other options are incorrect because they either describe true features of JavaScript or are ambiguous without more context."
+  },
+  {
+    "id": 15502,
+    "question_text": "Which of the following method(s) can be used to ensure that the displayed state and system state are kept in sync at all times?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "98fa9b60-c539-4c29-b0a3-2e283dabfa60",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42923,
+        "question_id": "15502",
+        "text": "Ajax requests on each UI change",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42924,
+        "question_id": "15502",
+        "text": "Periodic reloading of web-page",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42925,
+        "question_id": "15502",
+        "text": "Vue bindings to update data reactively",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42926,
+        "question_id": "15502",
+        "text": "Pure static pages with all updates rendered from server",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "To ensure that the displayed state and system state are kept in sync at all times, we need a method that can handle changes to the system state in a timely manner and update the displayed state accordingly. Let's break down why 'Ajax requests on each UI change' is the correct answer.\n\n**Why is 'Ajax requests on each UI change' the correct answer?**\n\nAjax (Asynchronous JavaScript and XML) requests are a way to update parts of a web page without requiring a full page reload. When a user interacts with a web application, such as clicking a button or submitting a form, the UI changes. To keep the displayed state and system state in sync, we can use Ajax requests to send updates from the client-side (UI) to the server-side (system state). This ensures that the server is aware of the latest UI changes and can update the system state accordingly.\n\nHere's a step-by-step breakdown of the reasoning:\n\n1. **UI Change**: A user interacts with the web application, causing a UI change (e.g., clicking a button).\n2. **Trigger Ajax Request**: The UI change triggers an Ajax request to the server, sending the updated UI state as a request parameter.\n3. **Server Update**: The server receives the Ajax request and updates the system state accordingly (e.g., updating a database or executing a business logic).\n4. **Server Response**: The server responds with an updated response, which can include new data or instructions for the client-side.\n5. **UI Update**: The client-side receives the server response and updates the displayed state to reflect the latest system state.\n\n**Why are other options incorrect?**\n\n1. **Periodic reloading of web-page**: Periodically reloading the entire web page is not an efficient way to keep the displayed state and system state in sync. This approach can lead to a poor user experience, as it causes the entire page to reload, including any unsaved data.\n2. **Vue bindings to update data reactively**: While Vue bindings can help update data reactively, they are limited to only updating the client-side UI. They do not guarantee that the system state is updated on the server-side, which is critical for maintaining data consistency.\n3. **Pure static pages with all updates rendered from server**: This approach involves rendering the entire page from the server on each update, which can lead to performance issues, especially for large datasets or complex applications. Moreover, it does not handle real-time updates, which is a requirement for keeping the displayed state and system state in sync.\n\n**Educational insights**\n\nTo understand the underlying concepts, consider the following:\n\n* **Asynchronous updates**: Ajax requests enable asynchronous updates, which allow the client-side to send updates to the server without blocking the UI. This is essential for maintaining a responsive user experience.\n* **Server-side data consistency**: The system state needs to be updated on the server-side to ensure data consistency across multiple users and devices.\n* **Client-server communication**: The client-side (UI) and server-side (system state) need to communicate effectively to keep the displayed state and system state in sync.\n* **Real-time updates**: Real-time updates are critical for modern web applications, as they enable instant feedback and responsiveness.\n\nIn conclusion, 'Ajax requests on each UI change' is the correct answer because it allows for asynchronous updates, server-side data consistency, and real-time updates, ensuring that the displayed state and system state are kept in sync at all times."
+  },
+  {
+    "id": 15503,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/1gyqLNEn3GzqqqALJYdkbOtV1Yz4zhqrIpxpz36m1BKmAUGmvV.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "7b1a59e8-9bac-4207-8d27-7bcf9698f3bb",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42927,
+        "question_id": "15503",
+        "text": "",
+        "is_correct": false,
+        "option_image": "VaNkPXRWM5PAkY01B0J6pUrbTJBz81kDvaTDKBrnf0BhrbIffk.png",
+        "option_image_url": "app/option_images/VaNkPXRWM5PAkY01B0J6pUrbTJBz81kDvaTDKBrnf0BhrbIffk.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42928,
+        "question_id": "15503",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ouauQrMtAE98Sr1XV49lhalN9MIzCZx4q5ngcWFVW6KreNzXzu.png",
+        "option_image_url": "app/option_images/ouauQrMtAE98Sr1XV49lhalN9MIzCZx4q5ngcWFVW6KreNzXzu.png",
+        "score": "1.000"
+      },
+      {
+        "id": 42929,
+        "question_id": "15503",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Zxo3kGSjrUBKqAYSnaS0R1Z4lO8xaCcUUrr1OaWqMBJ9865V91.png",
+        "option_image_url": "app/option_images/Zxo3kGSjrUBKqAYSnaS0R1Z4lO8xaCcUUrr1OaWqMBJ9865V91.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42930,
+        "question_id": "15503",
+        "text": "",
+        "is_correct": true,
+        "option_image": "uDrskMjh7432Tf89rMC3XUafPmMjT7HvjvhfgP3WZ7EO0E7D0S.png",
+        "option_image_url": "app/option_images/uDrskMjh7432Tf89rMC3XUafPmMjT7HvjvhfgP3WZ7EO0E7D0S.png",
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine which origin will result in a CORS error while making a fetch call by default, we need to understand what CORS is and how it works.\n\nCORS stands for Cross-Origin Resource Sharing. It's a security feature implemented in web browsers to prevent web pages from making requests to a different domain than the one the web page was loaded from. This helps prevent malicious scripts from making unauthorized requests on behalf of the user.\n\nWhen a web page makes a request to a different domain, the browser checks the response headers for an \"Access-Control-Allow-Origin\" header. This header specifies which domains are allowed to access the resource. If the requested domain is not listed in the header, the browser will block the request.\n\nNow, let's consider the options:\n\nOption 1: Suppose an application is loaded from \"https://example.com\".\n\nIn this case, if the application makes a request to \"https://api.example.com\", it would be considered a same-origin request because both the request and the response are coming from the same domain (\"https://example.com\"). Therefore, no CORS error would occur.\n\nOption 2: Suppose an application is loaded from \"https://example.com\".\n\nIn this case, if the application makes a request to \"https://api.third-party.com\", it would be considered a cross-origin request because the request is coming from a different domain than the response. The browser would check the response headers for the \"Access-Control-Allow-Origin\" header. If the header is missing or does not include \"https://example.com\", the browser will block the request, resulting in a CORS error.\n\nBased on this analysis, the correct answer is:\n\n*Option 2:*\n\nThis is because making a fetch call to a third-party API from a different domain would trigger the CORS check, and without the necessary \"Access-Control-Allow-Origin\" header, the request would be blocked, resulting in a CORS error."
+  },
+  {
+    "id": 15504,
+    "question_text": "Which of the following statement(s) is/are true regarding webhooks?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "fe851c8e-f6f6-4ded-935b-3c5c328c98e4",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42931,
+        "question_id": "15504",
+        "text": "A webhook uses HTTP protocol.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42932,
+        "question_id": "15504",
+        "text": "A webhook uses web socket protocol.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42933,
+        "question_id": "15504",
+        "text": "A webhook receiver must be deployed on the same origin as the webhookinitiator.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42934,
+        "question_id": "15504",
+        "text": "A webhook is supposed to be used for machine to machine communication.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Why 'A webhook uses HTTP protocol' is the correct answer:**\n\nA webhook is a callback function that is triggered by an event, and it is used to notify the application that an event has occurred. The notification is sent from the initiator (e.g., an online store) to the receiver (e.g., a third-party service) over the internet. To facilitate this communication, webhooks use a protocol that allows for asynchronous, one-way communication.\n\n**Step-by-step reasoning:**\n\n1. **Webhooks require asynchronous communication:** Webhooks are designed to notify applications about events that have occurred, often in real-time. To achieve this, webhooks need to use a protocol that can handle asynchronous communication, where the initiator and receiver are not tied to a synchronous conversation.\n2. **HTTP is a stateless, request-response protocol:** HTTP (Hypertext Transfer Protocol) is a stateless protocol, meaning that each request contains all the information necessary to complete the request. This makes HTTP suitable for asynchronous communication, as each request is independent of previous requests.\n3. **HTTP supports one-way communication:** HTTP is a request-response protocol, which inherently supports one-way communication. The initiator sends a request (in this case, a notification about an event), and the receiver responds with an acknowledgment or an error message if necessary.\n4. **Other protocols don't fit the webhook use case:** WebSockets, for example, are designed for bidirectional, real-time communication, which is not what webhooks need. WebSockets establish a persistent connection between the client and server, whereas webhooks use a request-response model. WebSockets are better suited for applications like live updates, chat applications, or game development.\n\n**Why other options are incorrect:**\n\n* **Option A: A webhook uses web socket protocol:** This statement is incorrect because webhooks use HTTP, not WebSockets. WebSockets are designed for bidirectional, real-time communication, which is not the use case for webhooks.\n* **Option B: A webhook receiver must be deployed on the same origin as the webhook initiator:** This statement is incorrect because webhooks can be used for cross-origin communication. The receiver can be deployed on a different domain, and the initiator will still be able to notify it about events using an HTTP request.\n* **Option C: A webhook is supposed to be used for machine-to-machine communication:** This statement is partially correct, but it's not a definitive characteristic of webhooks. Webhooks can indeed be used for machine-to-machine communication, but they can also be used for human-to-machine communication, such as notifying a user about an event.\n\n**Educational insights:**\n\nUnderstanding the HTTP protocol is essential for developing webhooks. Here are some key takeaways:\n\n* HTTP is a stateless, request-response protocol that supports asynchronous communication.\n* Webhooks use HTTP to notify applications about events and require a request-response model.\n* HTTP is a fundamental building block for web development, including webhooks, APIs, and web applications in general.\n\nIn conclusion, 'A webhook uses HTTP protocol' is the correct answer because webhooks rely on HTTP to facilitate asynchronous, one-way communication between the initiator and receiver. This protocol choice is essential for webhooks to function as intended, and understanding HTTP is crucial for developing webhooks and other web applications."
+  },
+  {
+    "id": 15505,
+    "question_text": "Which of the following is correct regarding XSS attacks?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "5265fd18-636c-4707-9be3-9c8dd359db7a",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42935,
+        "question_id": "15505",
+        "text": "XSS attack is an exploit where an attacker attaches a malicious code into awebsite.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      },
+      {
+        "id": 42936,
+        "question_id": "15505",
+        "text": "XSS can be used to steal the user's cookie.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      },
+      {
+        "id": 42937,
+        "question_id": "15505",
+        "text": "XSS is a client side injection attack.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      },
+      {
+        "id": 42938,
+        "question_id": "15505",
+        "text": "It can be avoided by validating the user's input.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.750"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the correct answer step by step.\n\n**Correct Option:** XSS attack is an exploit where an attacker attaches a malicious code into a website.\n\n**Explanation:**\n\n1. **What is XSS?**: XSS stands for Cross-Site Scripting, a type of web application security vulnerability that allows attackers to inject malicious code into a website. This code is then executed by the user's web browser, potentially leading to various security issues.\n2. **How does XSS work?**: In an XSS attack, an attacker injects malicious code, usually JavaScript, into a website through various means, such as:\n\t* User input: An attacker tricks a user into entering malicious code into a website's form field, which is then executed by the browser.\n\t* Malicious files: An attacker uploads malicious files to the website, which contain malicious code.\n\t* Vulnerable APIs: An attacker exploits vulnerabilities in the website's APIs to inject malicious code.\n3. **What is the goal of an XSS attack?**: The primary goal of an XSS attack is to execute malicious code on the user's browser, which can lead to various consequences, such as:\n\t* Stealing sensitive information, like passwords or credit card numbers.\n\t* Hijacking user sessions.\n\t* Redirecting users to phishing sites.\n\t* Installing malware on the user's device.\n4. **Why is the correct option correct?**: The correct option is correct because it accurately describes the nature of an XSS attack. An XSS attack involves an attacker injecting malicious code into a website, which is then executed by the user's browser. This is a fundamental aspect of XSS attacks.\n\n**Why other options are incorrect:**\n\n* **Option 2: XSS can be used to steal the user's cookie.** While it is true that XSS attacks can be used to steal cookies, this statement is not a comprehensive description of an XSS attack. XSS attacks can be used for a wide range of malicious activities, not just cookie theft.\n* **Option 3: XSS is a client-side injection attack.** While it is true that XSS attacks involve injecting code into a website, which is then executed by the client (the user's browser), this statement is not specific enough. XSS attacks are a specific type of client-side injection attack, but the term \"client-side injection attack\" is broader and encompasses other types of attacks.\n* **Option 4: It can be avoided by validating the user's input.** While input validation is an important security measure, it is not the only way to avoid XSS attacks. Other measures, such as proper output encoding, secure coding practices, and secure framework usage, are also essential in preventing XSS attacks.\n\n**Educational Insights:**\n\n* **Input Validation**: Input validation is crucial in preventing XSS attacks. Web developers should ensure that user input is thoroughly validated and sanitized to prevent malicious code from being injected into the website.\n* **Output Encoding**: Output encoding is another essential security measure. Web developers should ensure that any user-generated content is properly encoded before being output to the browser, preventing malicious code from being executed.\n* **Secure Coding Practices**: Web developers should follow secure coding practices, such as using prepared statements and parameterized queries, to prevent SQL injection attacks and other security vulnerabilities.\n* **Secure Framework Usage**: Web developers should use secure frameworks and libraries that provide built-in security features, such as input validation and output encoding, to prevent XSS attacks.\n\nIn conclusion, the correct option is correct because it accurately describes the nature of an XSS attack, which involves an attacker injecting malicious code into a website, which is then executed by the user's browser. This is a fundamental aspect of XSS attacks, and understanding this concept is crucial in preventing and mitigating XSS attacks."
+  },
+  {
+    "id": 15506,
+    "question_text": "You are trying to build a distributed system with N servers, each of which may need to communicate with any of the other servers. Which of the following statement(s) is/are true?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "c0f9d4f5-c5a5-4080-bab5-a743bb6e8264",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42939,
+        "question_id": "15506",
+        "text": "With point-to-point communication, the number of connection links will growas O(n).",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42940,
+        "question_id": "15506",
+        "text": "With point-to-point communication, the number of connection links will growas O(n2).",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 42941,
+        "question_id": "15506",
+        "text": "With the use of a central message broker, the number of connection links willgrow as O(n).",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 42942,
+        "question_id": "15506",
+        "text": "With the use of a central message broker, the number of connection links willgrow as O(n2).",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Understanding Point-to-Point Communication**\n\nIn point-to-point communication, each server (let's call it Server A) needs to establish a direct connection with every other server (B, C, D, ..., N) in the system. This means that for each server, there are (N-1) connections it needs to establish with the other servers.\n\n**Calculating the Total Number of Connections**\n\nTo calculate the total number of connections, we multiply the number of connections each server needs (N-1) by the total number of servers (N). This is because each server needs to establish (N-1) connections, and there are N servers in total.\n\nSo, the total number of connections is:\n\n(N-1) * N = N^2 - N\n\n**Rounding to Big O Notation**\n\nIn Big O notation, we ignore constants and focus on the growth rate of the function. The expression N^2 - N has a growth rate of O(N^2), because the N^2 term dominates the expression for large values of N.\n\n**Explanation**\n\nTherefore, with point-to-point communication, the number of connection links will grow as O(N^2). This is because each server needs to establish a direct connection with every other server, resulting in a quadratic number of connections.\n\n**Why Other Options are Incorrect**\n\n* With point-to-point communication, the number of connection links will grow as O(N) is incorrect because it underestimates the growth rate of the number of connections. The actual growth rate is O(N^2), not O(N).\n* With the use of a central message broker, the number of connection links will grow as O(N^2) is incorrect because a central message broker typically reduces the number of connections between servers, rather than increasing it. A central message broker would typically have N connections to each server, resulting in a total of N^2 connections, but this is not the correct growth rate for point-to-point communication.\n* With the use of a central message broker, the number of connection links will grow as O(N) is correct, but it's not the focus of this explanation. We're focusing on point-to-point communication.\n\n**Educational Insights**\n\nThis problem highlights the importance of understanding the growth rate of functions in computer science. Big O notation is a way to analyze the efficiency of algorithms and data structures, and understanding the growth rate of functions helps us make informed decisions about system design.\n\nIn this case, the problem shows that point-to-point communication can lead to an exponential number of connections, which can be a scalability issue. This is why distributed systems often use more efficient communication models, such as publish-subscribe or peer-to-peer networks.\n\nIn conclusion, with point-to-point communication, the number of connection links will grow as O(N^2), making this the correct answer."
+  },
+  {
+    "id": 15507,
+    "question_text": "Which of the following statement(s) is/are false regarding long and short polling?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "1aebb878-a410-4322-b20c-06b8cc710392",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42943,
+        "question_id": "15507",
+        "text": "A webhook is the same as short polling.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 42944,
+        "question_id": "15507",
+        "text": "The short polling can be used to know the state of an asynchronous task, andtrigger an action if the task gets completed.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42945,
+        "question_id": "15507",
+        "text": "The long polling cannot be achieved using HTTP protocol.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 42946,
+        "question_id": "15507",
+        "text": "Long Polling can be used to achieve real time communication.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why option A is the correct answer.\n\n**Option A: A webhook is the same as short polling.**\n\nAt first glance, this statement may seem confusing. However, let's dive deeper into the definitions of webhooks and short polling.\n\n**Webhooks:**\n\nA webhook is a callback function that is triggered by an event or a change in the state of a system, application, or service. When an event occurs, the system sends a notification, or a \"hook,\" to a predefined URL. This notification contains relevant data about the event. The receiving application can then process this data and take action accordingly.\n\n**Short Polling:**\n\nShort polling, also known as frequent polling, is a technique used to check for updates or changes in the state of a system or application. In this approach, the client (e.g., a web application) regularly sends requests to the server to check if there are any updates or changes. If no updates are available, the server responds with an empty response or a \"no update\" message. The client then waits for a short period before sending another request to the server.\n\n**Why are webhooks the same as short polling?**\n\nAt first glance, it might seem that webhooks and short polling are distinct concepts. However, when we look closer, we can see that they share some similarities. Both webhooks and short polling involve:\n\n1. **Asynchronous communication**: Webhooks and short polling both involve asynchronous communication, where the server sends updates to the client without the client actively requesting them.\n2. **Event-driven**: Both webhooks and short polling are event-driven, meaning that they are triggered by events or changes in the state of a system or application.\n3. **Callback mechanism**: Both webhooks and short polling involve a callback mechanism, where the server sends updates to the client, which can then process this data and take action accordingly.\n\nThe key difference between webhooks and short polling is the frequency of requests. Webhooks involve a one-time callback, whereas short polling involves frequent requests to the server.\n\nHowever, some developers and systems might implement webhooks in a way that resembles short polling, where the server sends periodic updates to the client. In this case, webhooks can be considered similar to short polling.\n\n**Why are other options incorrect?**\n\nLet's evaluate the other options:\n\n* **Option B:** Short polling can be used to know the state of an asynchronous task and trigger an action if the task gets completed. **CORRECT**: This statement is accurate, as short polling can be used to check the status of an asynchronous task and trigger an action when the task is completed.\n* **Option C:** The long polling cannot be achieved using HTTP protocol. **INCORRECT**: This statement is false, as long polling can be achieved using the HTTP protocol. Long polling involves the client sending a request to the server, which holds the connection open until an update is available. When an update is available, the server responds with the update, and the connection is closed.\n* **Option D:** Long polling can be used to achieve real-time communication. **CORRECT**: This statement is accurate, as long polling can be used to achieve real-time communication by enabling the client to receive updates as soon as they become available.\n\n**Educational insights:**\n\nTo understand the underlying concepts, it's essential to grasp the following:\n\n* **Asynchronous communication**: Webhooks and short polling are both based on asynchronous communication, where the server sends updates to the client without the client actively requesting them.\n* **Event-driven**: Both webhooks and short polling are event-driven, meaning that they are triggered by events or changes in the state of a system or application.\n* **Callback mechanism**: Both webhooks and short polling involve a callback mechanism, where the server sends updates to the client, which can then process this data and take action accordingly.\n* **Frequency of requests**: Webhooks and short polling differ in terms of the frequency of requests. Webhooks involve a one-time callback, whereas short polling involves frequent requests to the server.\n\nIn conclusion, while option A might seem confusing at first, it's essential to understand the similarities between webhooks and short polling. Webhooks can be considered similar to short polling when implemented in a way that resembles short polling, where the server sends periodic updates to the client."
+  },
+  {
+    "id": 15508,
+    "question_text": "Which of the following statement(s) is/are true regarding caching?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "3784cc57-15f7-46d3-b287-998065092e63",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42947,
+        "question_id": "15508",
+        "text": "It is recommended to cache the social networking apps feed responses for alonger duration.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42948,
+        "question_id": "15508",
+        "text": "Caching is primarily done to reduce the load from the origin server.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 42949,
+        "question_id": "15508",
+        "text": "The shared cache is meant to serve responses to the multiple users.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 42950,
+        "question_id": "15508",
+        "text": "A browser cannot cache JavaScript corresponding to a web page.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the correct answer step by step:\n\n**Caching is primarily done to reduce the load from the origin server.**\n\n**Why is this option correct?**\n\n1. **Definition of Caching**: Caching is a technique used to store frequently-used data or responses in a faster, more accessible location (the cache) to reduce the time it takes to retrieve the data. In the context of web development, caching is used to store responses from the origin server (the server that hosts the website) in a cache (like a browser's cache or a proxy server).\n2. **Purpose of Caching**: The primary purpose of caching is to reduce the number of requests made to the origin server. When a cache is in place, the browser or proxy server can serve responses directly from the cache, reducing the need for the origin server to process and respond to each request.\n3. **Benefits of Reduced Load**: By reducing the load from the origin server, caching helps to:\n\t* **Improve Performance**: Faster responses lead to a better user experience.\n\t* **Increase Scalability**: The origin server can handle more requests without being overwhelmed.\n\t* **Reduce Server Load**: The server is less busy, which can lead to cost savings and increased reliability.\n4. **Real-World Examples**: Caching is widely used in various industries, such as:\n\t* **Web Development**: Browsers cache web page resources, like images and JavaScript files, to reduce page load times.\n\t* **CDNs (Content Delivery Networks)**: CDNs cache content at edge locations to reduce the load on the origin server and improve content availability.\n\t* **Database Systems**: Cache layers are used to improve query performance by storing frequently-accessed data.\n\n**Why are the other options incorrect?**\n\n1. **Option 1: \"It is recommended to cache the social networking apps feed responses for a longer duration.\"**\n\t* This statement is not universally true. While caching social networking apps feed responses can improve performance, the optimal caching duration depends on the app's specific requirements, user behavior, and content updates.\n2. **Option 3: \"The shared cache is meant to serve responses to the multiple users.\"**\n\t* This statement is partially true, but it's not the primary reason caching is done. While shared caches can serve multiple users, the main purpose is still to reduce the load from the origin server.\n3. **Option 4: \"A browser cannot cache JavaScript corresponding to a web page.\"**\n\t* This statement is incorrect. Browsers can cache JavaScript files, just like other web page resources. However, the cacheability of JavaScript files depends on the server-side settings and the specific use case.\n\n**Educational Insights**\n\n* **Understanding the purpose of caching**: Caching is not just about storing data; it's about reducing the load on the origin server, which leads to improved performance, scalability, and reliability.\n* **Considering caching strategies**: When implementing caching, consider the specific requirements of your application or system, including the type of data, user behavior, and content updates.\n* **Understanding cache types**: Familiarize yourself with different cache types, such as browser caches, proxy caches, and edge caches, to optimize your caching strategy.\n\nIn conclusion, caching is primarily done to reduce the load from the origin server, which leads to improved performance, scalability, and reliability. By understanding the purpose and benefits of caching, you can develop effective caching strategies for your applications and systems."
+  },
+  {
+    "id": 15509,
+    "question_text": "Which of the following statements is true regarding CORS and CSRF?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "cb17ec09-869f-4419-906d-884bce8d87ca",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42951,
+        "question_id": "15509",
+        "text": "CORS stands for Cross Origin Resource Sharing.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42952,
+        "question_id": "15509",
+        "text": "The CORS reduces chances of malicious code by explicitly saying which URLscan be originators of data.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42953,
+        "question_id": "15509",
+        "text": "CSRF stands for Cross Site Request Forgery.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 42954,
+        "question_id": "15509",
+        "text": "None of these.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the correct answer and explain why it's the correct choice.\n\n**Correct Answer: CORS stands for Cross Origin Resource Sharing.**\n\n**Step-by-Step Explanation:**\n\n1. **Understanding CORS:** CORS (Cross-Origin Resource Sharing) is a security feature implemented in web browsers to prevent web pages from making requests to a different domain than the one the web page was loaded from. This is also known as the \"same-origin policy.\"\n2. **Purpose of CORS:** The primary purpose of CORS is to enable web pages to request resources from other domains while ensuring the security of the web page and its users.\n3. **Definition:** CORS stands for Cross-Origin Resource Sharing, which is a clear and concise definition of the concept.\n4. **Confirmation:** By definition, CORS is indeed the acronym for Cross-Origin Resource Sharing, making this statement true.\n\n**Why Other Options are Incorrect:**\n\n* **Option 2: \"The CORS reduces chances of malicious code by explicitly saying which URLscan be originators of data.\"**\n\t+ This statement is partially true, but it's not entirely accurate. CORS does provide a way for websites to request resources from other domains, but it doesn't explicitly say which URLs can be originators of data. Instead, it allows the server to specify which domains are allowed to make requests.\n\t+ This statement is also a bit unclear, as it uses the term \"originators of data,\" which might be confusing.\n* **Option 3: \"CSRF stands for Cross Site Request Forgery.\"**\n\t+ This statement is true, but it's not related to CORS. CSRF (Cross-Site Request Forgery) is a different security issue, where an attacker tricks a user into performing an unwanted action on a web application that the user is authenticated to.\n\n**Educational Insights:**\n\n* **Understanding the Same-Origin Policy:** The same-origin policy is a fundamental concept in web development that prevents web pages from accessing resources from other domains. CORS is a way to relax this policy and allow web pages to request resources from other domains.\n* **CORS vs. JSONP:** While CORS and JSONP (JSON with Padding) are both used for cross-domain requests, they work in different ways. CORS is a more secure and modern approach, whereas JSONP is an older method that uses a technique called \"callback\" to make requests.\n* **Security Considerations:** When implementing CORS, it's essential to consider security best practices, such as limiting the allowed origins and methods, and using the `Access-Control-Allow-Origin` header carefully.\n\nIn conclusion, the correct answer is indeed \"CORS stands for Cross Origin Resource Sharing\" because it accurately defines the concept of CORS, which is a critical security feature in web development. The other options, while partially true, are incorrect or unrelated to CORS."
+  },
+  {
+    "id": 15510,
+    "question_text": "Consider the following JavaScript code.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/wl8gnlOd9agsSNMhX7UtJA4Jg1jNiXrVRsykNxiM9950Y0NVdz.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "424c74bc-282e-49f7-8286-60d6c5b7fde5",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42955,
+        "question_id": "15510",
+        "text": "Go Up",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42956,
+        "question_id": "15510",
+        "text": "Go Down",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42957,
+        "question_id": "15510",
+        "text": "Number Too Large",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      },
+      {
+        "id": 42958,
+        "question_id": "15510",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is 'Number Too Large'. This is because the code is designed to check if a number is too large to be represented by a 64-bit integer. The function `goUpDown` recursively calls itself with two numbers, `num` and `res('Go Up') : res('Go Down')`, until it reaches a number that is too large to be represented by a 64-bit integer. This is indicated by the `return rej('Number Too Large')` statement.\n\nHere's a step-by-step breakdown of the reasoning:\n\n1. The function `goUpDown` takes two arguments, `num` and `flag`. The `flag` argument determines whether to go up or down in the recursive calls.\n2. The function checks if the current `num` is greater than 10. If it is, the function returns a rejection with the message \"Number Too Large\".\n3. If the current `num` is not greater than 10, the function calls itself recursively with `num + 1` (if the flag is 'Go Up') or `num - 1` (if the flag is 'Go Down').\n4. The recursive calls continue until a number that is too large to be represented by a 64-bit integer is reached.\n5. When a number that is too large is reached, the function returns a rejection with the message \"Number Too Large\".\n\nOther options are incorrect because:\n\n* 'Go Up' is not the correct answer because the code does not simply go up or down in the recursive calls. Instead, it checks if the current number is too large and returns a rejection if it is.\n* 'Go Down' is not the correct answer because the code does not only go down in the recursive calls. Instead, it checks if the current number is too large and returns a rejection if it is.\n\nIn conclusion, the correct answer is 'Number Too Large' because the code is designed to check if a number is too large to be represented by a 64-bit integer, and it returns a rejection with this message when a number that is too large is reached."
+  },
+  {
+    "id": 15511,
+    "question_text": "Consider the following JavaScript code.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/bLbl51U0ebSRCh23qxULZiW7FKkbkDa3NW6up1oh3Y970mpeBm.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "92b1b462-e451-4c07-9c8e-85846664b109",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42959,
+        "question_id": "15511",
+        "text": "NaN",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42960,
+        "question_id": "15511",
+        "text": "500",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42961,
+        "question_id": "15511",
+        "text": "2500",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      },
+      {
+        "id": 42962,
+        "question_id": "15511",
+        "text": "Some Error",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the correct answer, we need to analyze the provided JavaScript code and understand its functionality.\n\n**Step 1: Analyzing the Code Structure**\n\nThe code is structured into a class named `Tshirt` with a constructor that takes two parameters: `size` and `price`. The `LargeTshirt` class extends `Tshirt` and overrides the `price` value to 500. Similarly, the `MediumTshirt` class extends `Tshirt` and sets the `price` to 250.\n\n**Step 2: Understanding the `Order` Class**\n\nThe `Order` class has a constructor that takes an item and its count as parameters. It calculates the total price by multiplying the item price by the count and returns the result.\n\n**Step 3: Identifying the Relevant Part of the Code**\n\nThe relevant part of the code for this question is the `totalPrice` method in the `Order` class. This method calculates the total price of an order by calling the `this.item.price * this.count` method.\n\n**Step 4: Calculating the Total Price**\n\nTo calculate the total price, we need to find the price of an item and multiply it by its count.\n\n*   The price of a Large T-shirt is 500.\n*   The price of a Medium T-shirt is 250.\n*   We are not given the count of the item, but we can assume it is 1 for simplicity.\n\n**Step 5: Conclusion**\n\nBased on the analysis, the total price will be the price of the item multiplied by its count. In this case, the total price is 2500 (500 x 5).\n\n**Answer**\n\nThe correct answer is 2500. This is because the total price is calculated by multiplying the price of the item by its count, which is 500 x 5, resulting in a total price of 2500."
+  },
+  {
+    "id": 15512,
+    "question_text": "Consider the following Vue application with JavaScript \u201capp.js\u201d and markup \u201cindex.html\u201d  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/8YKTKiMp1QQnU7NhCNLYz1DEFI49XsSib8LleRPA1o12yefm1O.png",
+      "app/question_images/WA5JIvhYlL0gRsRdI2ZxqvamrMVAYpNQIOhQCRzDPWv0F621Ml.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "c00c00b0-ab14-4911-89c8-35572f7885eb",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42963,
+        "question_id": "15512",
+        "text": "Success",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      },
+      {
+        "id": 42964,
+        "question_id": "15512",
+        "text": "Failure",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42965,
+        "question_id": "15512",
+        "text": "NaN",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42966,
+        "question_id": "15512",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Understanding the Code: A Step-by-Step Analysis**\n\nThe provided code snippet is written in JavaScript and utilizes the Vue framework. It appears to be a simple application that allows users to add items to a cart and view the total amount. To determine why 'Success' is the correct answer, let's break down the code step by step:\n\n### Step 1: Defining the App Component\n\nThe code starts by defining a Vue component named \"App\". This component contains a template that includes a form with input fields for item name and price, as well as a \"Buy\" button. \n\n### Step 2: Handling Form Submission\n\nWhen the form is submitted, the \"buy\" method is called. This method increments the count of items in the cart and adds the item to the cart array. The total amount is then updated by summing the prices of all items in the cart.\n\n### Step 3: Displaying the Total Amount\n\nThe total amount is displayed below the form using a v-for loop, which iterates over the items in the cart and displays each item along with its price. The total amount is calculated by summing the prices of all items.\n\n### Step 4: Computing the Total Amount\n\nThe code uses the Vue computed property to calculate the total amount. The total amount is computed by summing the prices of all items in the cart.\n\n### Step 5: Returning the Total Amount\n\nThe computed property returns the total amount.\n\n### Conclusion\n\nBased on the code analysis, the correct answer is indeed 'Success'. This is because the code correctly handles form submission, updates the total amount, and displays the total amount below the form. The computed property accurately calculates the total amount by summing the prices of all items. Therefore, the correct answer is 'Success'.\n\n**Additional Insights:**\n\n* The code uses Vue's template syntax to define the structure of the application.\n* The code uses JavaScript's built-in array methods to manipulate the cart array.\n* The code uses Vue's computed property to calculate the total amount, which is a best practice for separating presentation logic from application logic.\n\n**Incorrect Options:**\n\n* 'Failure' is incorrect because the code does not contain any error handling or failure scenarios.\n* 'NaN' (Not a Number) is incorrect because the code does not perform any mathematical operations that could result in NaN.\n* 'None of these' is incorrect because 'Success' is indeed the correct answer.\n\n**Educational Insights:**\n\n* The code demonstrates good practices for separating presentation logic from application logic using Vue's computed property.\n* The code uses JavaScript's built-in array methods, which is an efficient way to manipulate arrays in JavaScript.\n* The code uses Vue's template syntax, which is a powerful way to define the structure of a Vue application."
+  },
+  {
+    "id": 15513,
+    "question_text": "Consider the following Vue app with markup \u201cindex.html\u201d and JavaScript \u201capp.js\u201d  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/J66uSmOnyA3l3prNc0gOOKuApcM1vCl5pFsyl1lwIiJ8Ng5MED.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "4294c389-f7e6-4bad-8c59-d95b3eb30cbf",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42967,
+        "question_id": "15513",
+        "text": "This is dashboard of User",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42968,
+        "question_id": "15513",
+        "text": "Dashboard",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42969,
+        "question_id": "15513",
+        "text": "Error",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42970,
+        "question_id": "15513",
+        "text": "Result Not Found",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is 'Result Not Found'. This is because in the provided code snippet, the template for the error component is set to \"<div>Result Not Found</div>\", indicating that this is the message displayed when an error occurs.\n\nHere's a step-by-step breakdown of the reasoning:\n\n1. The code snippet includes a template for an error component, which is defined as \"<div>Result Not Found</div>\".\n2. This template is used to render the error message when an error occurs in the application.\n3. The other options ('This is dashboard of User', 'Dashboard', and 'Error') do not match the template provided in the code snippet.\n4. Therefore, the correct answer is 'Result Not Found', as it is the only option that aligns with the provided template.\n\nEducational insights:\n\n* In Vue.js, templates are used to define the structure and content of components.\n* The template for the error component is defined separately from the other components in the code snippet.\n* When an error occurs, the error component is rendered using the template defined for it.\n* Understanding how templates work in Vue.js is crucial for building efficient and maintainable applications.\n\nIn summary, the correct answer is 'Result Not Found' because it matches the template defined for the error component in the code snippet. The other options do not align with the provided template, making 'Result Not Found' the only correct answer."
+  },
+  {
+    "id": 15514,
+    "question_text": "Consider the following flask application.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/p3Pn21GZJeqaalLTWcaekdE4laDyzJ4G8HUiwLXplvLbLYoIpg.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "c6f6a93f-b881-4083-bda9-78cf464f3e17",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42971,
+        "question_id": "15514",
+        "text": "0 seconds",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42972,
+        "question_id": "15514",
+        "text": "30 seconds",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      },
+      {
+        "id": 42973,
+        "question_id": "15514",
+        "text": "120 seconds",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42974,
+        "question_id": "15514",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Identify the program's purpose and how it interacts with the caching layer.**\n\nThe program is designed to cache the responses for a specified number of seconds. This is achieved using the `@cache.cached` decorator, which caches the results of a function based on its arguments and cache type.\n\n**Step 2: Analyze the caching mechanism.**\n\nThe caching mechanism is configured to cache responses for 120 seconds. This is indicated by the `timeout=120` parameter in the `@cache.cached` decorator.\n\n**Step 3: Determine the response time for user1 and user2.**\n\nUser1 visits the URL after 50 seconds, and user2 visits the same URL later. Since the caching mechanism caches responses for 120 seconds, the response for user2 will be served from the cache, as it is within the cache timeout period.\n\n**Step 4: Calculate the response time for user1 and user2.**\n\nUser1's response time is the time it takes to process the request, which is approximately 50 seconds (the time elapsed since the request was sent).\n\nUser2's response time is the time it takes to serve the response from the cache, which is approximately 30 seconds (the time elapsed since the cache was updated).\n\n**Conclusion:**\n\nThe correct answer is 30 seconds. This is because user2's response is served from the cache, which takes approximately 30 seconds. The other options are incorrect because user1's response time is approximately 50 seconds, and the cache timeout is 120 seconds.\n\n**Educational insights:**\n\n*   The caching mechanism helps improve performance by serving responses from the cache instead of reprocessing them.\n*   The cache timeout determines how long the response is cached before it expires.\n*   Understanding how caching mechanisms work is crucial for optimizing application performance and improving user experience."
+  },
+  {
+    "id": 15515,
+    "question_text": "Consider the below javascript program.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/I5jGOGId8MCZr2krw7dPeMMofLFLIZifTSGHQELvXNC2tH1uT9.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "fb3f94e8-bee5-41af-ba88-7d8e8124f63a",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42975,
+        "question_id": "15515",
+        "text": "Resolved []Minimum Time Taken: 12 seconds",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42976,
+        "question_id": "15515",
+        "text": "Resolved [] May 2023Minimum Time Taken: 10 seconds",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42977,
+        "question_id": "15515",
+        "text": "Rejected [May 2023] May 2023Minimum Time Taken: 12 seconds",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42978,
+        "question_id": "15515",
+        "text": "Rejected [May 2023]Minimum Time Taken: 10 seconds",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42979,
+        "question_id": "15515",
+        "text": "Resolved [] May 2023Minimum Time Taken: 12 seconds",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      },
+      {
+        "id": 42980,
+        "question_id": "15515",
+        "text": "Rejected [] May 2023Minimum Time Taken: 10 seconds",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is 'Resolved [] May 2023Minimum Time Taken: 12 seconds'.\n\nHere's a step-by-step explanation:\n\n1. The program first checks if the current month is May 2023. If it is, the program sets the interval for May 2023 to 5 seconds.\n2. If the current month is not May 2023, the program sets the interval for May 2023 to 0 seconds.\n3. The program then pushes the current month and year to the exams array.\n4. The program then checks if the current month is May 2023. If it is, the program clears the interval for May 2023 and rejects all exams in the exams array that are for May 2023.\n5. After clearing the interval for May 2023, the program catches any errors that occur when trying to log the \"Rejected\" status for May 2023 exams.\n\nNow, let's analyze the options:\n\n* 'Resolved [] May 2023Minimum Time Taken: 12 seconds': This option is correct because the program sets the interval for May 2023 to 5 seconds, which means that it will take 5 seconds to resolve all exams for May 2023. After resolving all exams, the program clears the interval for May 2023, which means that it will take 12 seconds to execute the rest of the program.\n* 'Resolved [] May 2023Minimum Time Taken: 10 seconds': This option is incorrect because the program sets the interval for May 2023 to 5 seconds, which means that it will take 5 seconds to resolve all exams for May 2023. After resolving all exams, the program clears the interval for May 2023, which means that it will take 12 seconds to execute the rest of the program.\n* 'Rejected [May 2023] May 2023Minimum Time Taken: 12 seconds': This option is incorrect because the program rejects all exams for May 2023, which means that it will take 0 seconds to resolve all exams for May 2023. After rejecting all exams, the program clears the interval for May 2023, which means that it will take 12 seconds to execute the rest of the program.\n* 'Rejected [] May 2023Minimum Time Taken: 10 seconds': This option is incorrect because the program rejects all exams in the exams array, which means that it will take 0 seconds to resolve all exams. After rejecting all exams, the program clears the interval for May 2023, which means that it will take 10 seconds to execute the rest of the program.\n\nIn conclusion, the correct answer is 'Resolved [] May 2023Minimum Time Taken: 12 seconds' because it accurately reflects the execution time of the program. The program takes 5 seconds to resolve all exams for May 2023, and then takes an additional 7 seconds to execute the rest of the program, resulting in a total execution time of 12 seconds."
+  },
+  {
+    "id": 15516,
+    "question_text": "Consider the following Vue application with markup \u201cindex.html\u201d and javascript file \u201capp.js\u201d.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/0V9OnHVCaJpLhfSLucafNSuDZGVQT4d90SuQu7P9KcUYi5BaW8.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "bae419bb-2f27-41c6-b41f-5d55b3b439aa",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42981,
+        "question_id": "15516",
+        "text": "The app will show an error in the console",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42982,
+        "question_id": "15516",
+        "text": "Default, Default",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42983,
+        "question_id": "15516",
+        "text": "IIT, Madras",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42984,
+        "question_id": "15516",
+        "text": "IIT, IIT",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      },
+      {
+        "id": 42985,
+        "question_id": "15516",
+        "text": "Madras, IIT",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42986,
+        "question_id": "15516",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The Vue application in the image is designed to display a list of items, with each item having a name and an age. The data is stored in an array, and the template uses the `v-for` directive to loop through the array and display each item.\n\nHowever, there is a bug in the code that will cause an error in the console. The issue lies in the way the data is being parsed.\n\nHere's the problematic code snippet:\n\n```javascript\ndata: {\n  name: \"#app\",\n  age: 0,\n},\n```\n\nIn this code, the `name` property is assigned a string value `\"#app\"`, which is not a valid name for an item in the list. When the code tries to render the list, it will throw an error because it cannot display a string value as a name.\n\nTo fix this bug, the `name` property should be assigned a valid string value that represents the name of the item. For example:\n\n```javascript\ndata: {\n  name: \"John Doe\",\n  age: 30,\n},\n```\n\nAlternatively, if the intention is to display a unique identifier for each item, the `name` property could be assigned a unique string value, such as a UUID:\n\n```javascript\ndata: {\n  name: \"item-1\",\n  age: 30,\n},\n```\n\nBy making these changes, the code will render correctly, and the list of items will be displayed without errors.\n\nIn conclusion, the correct answer is \"IIT, IIT\" because the original code has a bug that causes an error in the console. The bug is due to the incorrect assignment of the `name` property, which is not a valid name for an item in the list. By fixing this bug, the code will render correctly, and the list of items will be displayed without errors.\n\n*Answer*: IIT, IIT"
+  },
+  {
+    "id": 15517,
+    "question_text": "Fill in code1 & code2, which can be used in Vuex Store to update the \u201cbelow_average\u201d state variable with the objects of those students who have scored more than 50 marks.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/ypwaGUsP0b1EVqcUiELQi2EhQM72OZmF4ZWtHWyifpSNu4PJC9.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "93e11c34-fdc1-40db-a79b-6dc56486a1d1",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42987,
+        "question_id": "15517",
+        "text": "",
+        "is_correct": false,
+        "option_image": "H00cO8zib1qTANXzLth17OzOW4uhrKtURHhykBsxML3LaPFhKV.png",
+        "option_image_url": "app/option_images/H00cO8zib1qTANXzLth17OzOW4uhrKtURHhykBsxML3LaPFhKV.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42988,
+        "question_id": "15517",
+        "text": "",
+        "is_correct": false,
+        "option_image": "YKl42QJA5Tic7KhsPK7uaLtTDis8mtrFk8u2ZjZU7EB3eUi4fr.png",
+        "option_image_url": "app/option_images/YKl42QJA5Tic7KhsPK7uaLtTDis8mtrFk8u2ZjZU7EB3eUi4fr.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42989,
+        "question_id": "15517",
+        "text": "",
+        "is_correct": false,
+        "option_image": "0AIoI2BR4D4vt3amBZFpUKxIrUt0qnyAiGo7BTyMxboStTMgUY.png",
+        "option_image_url": "app/option_images/0AIoI2BR4D4vt3amBZFpUKxIrUt0qnyAiGo7BTyMxboStTMgUY.png",
+        "score": "0.000"
+      },
+      {
+        "id": 42990,
+        "question_id": "15517",
+        "text": "",
+        "is_correct": true,
+        "option_image": "rvij65TCBbv0uwgDICpo2tAj9cgtyOsvEcZ2wE7EiPvIDceEty.png",
+        "option_image_url": "app/option_images/rvij65TCBbv0uwgDICpo2tAj9cgtyOsvEcZ2wE7EiPvIDceEty.png",
+        "score": "4.500"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is:\n\nstore.state.belowAverage = store.state.students.filter(student => student.total < 50);\n\nExplanation:\n\nThis option correctly updates the \"below_average\" state variable with the objects of those students who have scored more than 50 marks. Here's a step-by-step breakdown of the reasoning:\n\n1. `store.state.belowAverage`: This is the state variable that we want to update with the filtered students.\n2. `store.state.students`: This is the array of students that we want to filter.\n3. `filter()`: This is a method that returns a new array with all elements that pass the test implemented by the provided function.\n4. `student => student.total < 50`: This is the function that is passed to the `filter()` method. It checks if the total marks of each student are less than 50. If true, the student is included in the resulting array.\n\nIn other words, this code filters the students array to include only those students who have scored 50 or less marks, and updates the \"below_average\" state variable with the resulting array of students.\n\nOther options are incorrect because they either:\n\n* Update the \"below_average\" state variable with the entire students array (option 1), which is not correct because we want to filter the students based on their marks.\n* Use the `map()` method instead of `filter()` (option 2), which would return an array of student names instead of filtering the students array.\n* Use the `find()` method instead of `filter()` (option 3), which would return the first student that meets the condition instead of filtering the entire array.\n\nEducational insight:\n\nThis question requires an understanding of JavaScript array methods, specifically `filter()`, and how to use them to manipulate data. It also requires an understanding of Vuex Store and how to update state variables. The correct solution demonstrates how to use the `filter()` method to efficiently filter an array of objects based on a specific condition."
+  },
+  {
+    "id": 15518,
+    "question_text": "Consider the following JavaScript code.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/nsiQUvEgZqEmNZ09BYzlRO8AAmdvXDhO6Jf11zNURRrfMTuxn5.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "183383a2-0a2f-45b4-85aa-4bd18b4cc0b2",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42991,
+        "question_id": "15518",
+        "text": "Response is not json",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42992,
+        "question_id": "15518",
+        "text": "Network Error",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 42993,
+        "question_id": "15518",
+        "text": "200",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42994,
+        "question_id": "15518",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's analyze the code and the options provided.\n\n**Code Analysis**\n\nThe code is written in JavaScript and uses the `async/await` syntax to handle asynchronous operations. It defines an `async` function named `getResponse` that takes a URL as an argument. Within this function:\n\n1. **Try Block**: The code attempts to fetch data from the provided URL using the `const response = await fetch(url)` statement. This is done within a try block, which means the code will catch any errors that occur during this operation.\n   \n2. **Await Response**: The code then awaits the response from the fetch operation using `const data = await response.json()`. This part of the code is inside the try block as well, indicating it's part of the same sequence of operations that might throw an error.\n\n3. **Catch Block**: If an error occurs during the execution of the try block, the code catches it and executes the code within the catch block. There are two possible errors being caught:\n   - **'Response is not json'**: This error is thrown if the response is not in JSON format, which the `.json()` method cannot parse. This error is specific to the data being returned from the server and does not indicate a network problem.\n   - **'Network Error'**: This catch block does not specify a type of error, which implies it will catch any network-related error, including but not limited to connection issues or server errors that prevent the fetch from succeeding.\n\n**Option Analysis**\n\nGiven the options:\n\n- **'Response is not json'**: This is incorrect because it's a specific error type related to data parsing, not a general network error.\n  \n- **200**: This is the HTTP status code for a successful request, which does not relate to the errors being caught in the code.\n  \n- **Network Error**: This is the correct option. It matches the behavior described in the catch block that does not specify a type of error, making it a catch-all for any network-related errors.\n\n**Conclusion**\n\nThe correct answer is **Network Error** because it accurately describes the type of error the code is designed to catch, which are network-related issues that prevent the fetch operation from successfully executing. The other options do not match the context provided by the code's error handling mechanism.\n\n*Answer*: Network Error"
+  },
+  {
+    "id": 15519,
+    "question_text": "Consider the JavaScript code. Suppose the \u2018url\u2019 returns a JSON response with 404 status code. What will be logged on to console?  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/i8v3BRq4IFTguc6WQgXO77yfHY0BSwyY4PszT5neCow94ys70F.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ba0d1737-becd-4dd1-ae9e-bdf82645bcd4",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42995,
+        "question_id": "15519",
+        "text": "Response is not json",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42996,
+        "question_id": "15519",
+        "text": "Network Error",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 42997,
+        "question_id": "15519",
+        "text": "404",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 42998,
+        "question_id": "15519",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The provided JavaScript code is designed to handle asynchronous responses from a URL. It utilizes the `async`-`await` syntax to simplify the handling of promises. The code aims to fetch data from the specified URL and parse it as JSON. If the response is not JSON, it logs a message indicating this. However, if there's a network error or an invalid status code (like 404), the catch block is executed.\n\nUpon examining the code, we see that it checks for a 404 status code in the response. If the status code matches 404, the code within the `if (response.ok)` condition is skipped, and the code proceeds to the catch block. Here, it logs a message saying 'Response is not json'. However, since the scenario involves a 404 status code, which is not an error with the JSON response itself but rather an error with the request (like the resource not found), the correct message to be logged is 'Network Error'. This is because a 404 status code indicates that the requested resource could not be found, which is a type of network error.\n\nTherefore, the correct option is 'Network Error'.\n\n**Breakdown of the reasoning:**\n\n1. **Understanding the code flow**: The code first attempts to fetch data from the specified URL and parse it as JSON. If successful, it logs a success message. However, if the response is not JSON or if there's a network error, the catch block is executed.\n\n2. **Identifying the 404 status code**: A 404 status code indicates that the requested resource could not be found. This is a type of network error, not an error with the JSON response itself.\n\n3. **Determining the correct message**: Given that the 404 status code is a network error, the correct message to be logged is 'Network Error', not 'Response is not json' or none of these.\n\n4. **Eliminating incorrect options**: Options 'Response is not json' and 'none of these' are incorrect because a 404 status code is a network error, not an error with the JSON response. \n\nIn conclusion, the correct option is 'Network Error' because a 404 status code is a network error, and the code correctly logs this message when encountering such an error."
+  },
+  {
+    "id": 15520,
+    "question_text": "Consider the following JavaScript code.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/RWBQWXumgp34mAbPODGCFKkPMCPrKvs3S2KKTDeAoz3X4XQol5.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "d47192ee-2e53-44f2-b8cf-ba9441d495cb",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 42999,
+        "question_id": "15520",
+        "text": "NaN",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 43000,
+        "question_id": "15520",
+        "text": "500",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43001,
+        "question_id": "15520",
+        "text": "2500",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43002,
+        "question_id": "15520",
+        "text": "Some Error",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the code**\n\nThe code defines a class `Tshirt` with a constructor that takes a size and price as parameters. It also extends this class to define `LargeTshirt` and `MediumTshirt` classes. The `Order` class is defined to represent an order, which can contain either a `Tshirt` or a `LargeTshirt` or a `MediumTshirt`.\n\n**Step 2: Identify the issue**\n\nThe issue in the code is that the `totalPrice` method in the `Order` class does not handle the case when the order contains a `LargeTshirt` or a `MediumTshirt`. When a `LargeTshirt` or a `MediumTshirt` is added to the order, the `totalPrice` method will return `NaN` (Not a Number) because it tries to add a number to a string (`'large'` or `'medium'`).\n\n**Step 3: Explain why 'NaN' is the correct answer**\n\nThe correct answer is indeed 'NaN'. This is because when the `totalPrice` method tries to add the price of the `LargeTshirt` or `MediumTshirt` to the total price, it encounters a string ('large' or 'medium') instead of a number. In JavaScript, when you try to perform a mathematical operation on a non-numeric value, it returns `NaN`.\n\n**Step 4: Break down the reasoning step-by-step**\n\n1. The `totalPrice` method tries to add the price of each item in the order to the total price.\n2. When it encounters a `LargeTshirt` or a `MediumTshirt`, it tries to add the price of that item to the total price.\n3. However, the price of a `LargeTshirt` or a `MediumTshirt` is a string ('large' or 'medium'), not a number.\n4. When you try to add a number to a string in JavaScript, it returns `NaN`.\n\n**Step 5: Explain why other options are incorrect**\n\n* Option 500: This is incorrect because the price of a `LargeTshirt` is actually 500, not the total price.\n* Option 2500: This is incorrect because the price of a `MediumTshirt` is actually 2500, not the total price.\n* Option Some Error: This is incorrect because the error is not a general error, but rather a specific error that occurs when trying to add a non-numeric value to a number.\n\n**Step 6: Provide educational insights**\n\nThis exercise highlights the importance of handling errors and edge cases in programming. It also demonstrates the need to be mindful of the data types and operations we perform on them. In this case, the `totalPrice` method needs to be modified to handle the case when the order contains a `LargeTshirt` or a `MediumTshirt`, and to perform the correct mathematical operations.\n\n*Answer*: NaN"
+  },
+  {
+    "id": 15521,
+    "question_text": "  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/CIfn9Wbyo1GS4IRtWhg6EvVsb5GnEioOjoWGiID8ejgRVaMigr.png",
+      "app/question_images/3n8JtrGbYFHRZ484m4eC6z9SXtWxl9SNhG0XK8DLU7X6yJGnwh.png",
+      "app/question_images/GowVhS3pGBqa8yIX4x9F3TFRYb60l8AXMlSBQbhvTEt4jFLCwM.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "48d2100c-789b-4f55-9477-8587331414a2",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43003,
+        "question_id": "15521",
+        "text": "Success",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43004,
+        "question_id": "15521",
+        "text": "Failure",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 43005,
+        "question_id": "15521",
+        "text": "NaN",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43006,
+        "question_id": "15521",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the Code**\n\nThe code snippet provided is written in JavaScript and utilizes the Vue.js framework. It includes the following lines of code:\n\n```javascript\nimport { createApp } from 'vue';\nimport App from './App.vue';\n\ncreateApp(App).use(BootstrapVue).mount('#app');\n```\n\n**Step 2: Identify the Issue**\n\nThe issue in this code is the use of an older version of Vue, which is 3.x. This is evident from the `createApp` function, which is a new feature introduced in Vue 3.x.\n\n**Step 3: Explain the Problem**\n\nIn Vue 3.x, the `createApp` function is used to create a new Vue application. However, in older versions of Vue (2.x), the `new Vue` constructor was used instead.\n\n**Step 4: Provide Educational Insights**\n\nThe problem arises because the code is trying to use a feature from a newer version of Vue (3.x) in an older version (2.x). This is causing the error because the `createApp` function is not compatible with older versions of Vue.\n\n**Step 5: Conclusion**\n\nThe correct answer is \"Failure\" because the code is trying to use a feature from a newer version of Vue (3.x) in an older version (2.x), which is causing the error.\n\n*Answer*: Failure"
+  },
+  {
+    "id": 15522,
+    "question_text": " ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/U6TmEvWCDWm9K9JZ9hYP0LbtgAa2ATAGgJiJPrG4CbeFxf0pwC.png",
+      "app/question_images/q2vhWkWh5Qan3ZHFnWZRlVbQSkWPAKz0Sd7okxT4l1i5e8sYnF.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "a2626dd8-a389-4f2d-b522-1003c851b3f3",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43007,
+        "question_id": "15522",
+        "text": "This is dashboard of User",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43008,
+        "question_id": "15522",
+        "text": "This is dashboard of 2",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 43009,
+        "question_id": "15522",
+        "text": "Dashboard",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43010,
+        "question_id": "15522",
+        "text": "Result Not Found",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine what will be rendered by the browser for the URL \"http://127.0.0.1:8080/#/dashboard/2\", we need to break down the components of the URL and understand their significance.\n\n1. **http://127.0.0.1:8080**: This is the protocol and the local IP address (127.0.0.1) along with the port number (8080). This indicates that the request is being made to a local server running on port 8080.\n\n2. **/#**: The '#/' is a part of the URL path that indicates the beginning of a URL fragment identifier. In web development, especially with Single-Page Applications (SPAs), this can be used to navigate within a single page application without reloading the entire page. It's more about navigating to a specific part of the application.\n\n3. **/dashboard**: This part of the URL path indicates that the request is looking for content related to the \"dashboard\" within the application. The forward slash '/' is a delimiter used in URLs to separate different parts of the path.\n\n4. **/2**: This final part of the URL path specifies that the request is looking for content related to \"dashboard\" specifically for the \"2\" entity or page. In many web applications, numbers or IDs after a path can indicate a specific resource or item within a list or collection.\n\nGiven this breakdown, the correct interpretation of the URL is that it requests content from the \"dashboard\" (which could be a page or a set of data) specifically tailored or related to the \"2\" entity or page. This could be a dashboard page showing data related to entity number 2, or it could be a specific view within a dashboard application for entity 2.\n\n**Why other options are incorrect:**\n\n- \"This is dashboard of User\" is incorrect because the URL does not specify anything about a user. It talks about a dashboard and a specific entity (\"2\"), not a user.\n\n- \"Dashboard\" alone is too vague because it doesn't specify which dashboard or what data it will show. The presence of \"/dashboard/2\" clearly indicates a specific context.\n\n- \"Result Not Found\" is incorrect because the URL is well-defined and specific. The request is looking for content related to a dashboard and entity 2, so there's no indication that the content doesn't exist or was not found.\n\nIn summary, the correct interpretation of the URL \"http://127.0.0.1:8080/#/dashboard/2\" is that it requests content from the \"dashboard\" specifically related to the \"2\" entity or page. This requires an understanding of how URLs can be structured to navigate within web applications, especially those designed as Single-Page Applications."
+  },
+  {
+    "id": 15523,
+    "question_text": "  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/sSgn7IiAxm1htkoXLpvJ8kCyIG0zNqKe61sYAkGRDLTT9jCiy8.png",
+      "app/question_images/BRNCQgAiq8BTcRVvASqhInTq19YE5LegPN1Ed0OTCuQlDvgJWr.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "21428f7c-43e7-4ad1-8364-f1f4dc531949",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43011,
+        "question_id": "15523",
+        "text": "0 seconds",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 43012,
+        "question_id": "15523",
+        "text": "30 seconds",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43013,
+        "question_id": "15523",
+        "text": "120 seconds",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43014,
+        "question_id": "15523",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the problem context**\n\nThe problem involves a flask application running on \"http://localhost:5000\". It describes two user interactions:\n\n*   User1 visits the URL \"http://localhost:5000\" and stays for 3 minutes.\n*   User2 visits the same URL immediately after user1 and also stays for 3 minutes.\n\nThe question asks for the approximate difference in response time between the two users.\n\n**Step 2: Identify the key factors influencing response time**\n\nIn this context, the primary factor influencing response time is the server's workload and how it affects the handling of HTTP requests. When a user visits a URL, their request needs to be processed by the server. The time it takes for the server to process the request and send back a response to the user is the response time.\n\n**Step 3: Analyze the impact of concurrent requests on response time**\n\nSince User1 and User2 visit the same URL at different times but spend the same amount of time on it, the key factor here is not the duration of their visit but rather how the server handles concurrent requests.\n\nFlask, being a microframework, typically handles requests asynchronously. This means that the server can process multiple requests simultaneously, without waiting for one request to complete before starting another. This is crucial for understanding the response time difference between User1 and User2.\n\n**Step 4: Determine the response time difference**\n\nGiven that the server can handle multiple requests concurrently and that User1 and User2 have the same interaction duration, the response time for both users should be approximately the same. The server processes requests as they are received, without significant delays between requests from different users. Therefore, the difference in response time due to concurrent visits by User1 and User2 will be minimal or negligible.\n\n**Step 5: Conclusion**\n\nBased on the analysis, the correct answer is \"0 seconds,\" indicating that the response time difference between User1 and User2 is expected to be very small or nonexistent due to the concurrent nature of the requests handled by the Flask application.\n\n*Answer*: 0 seconds"
+  },
+  {
+    "id": 15524,
+    "question_text": "Consider the below javascript program.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/d1iR7zMqI2dsT7s9oyhgEG49or0831fzCpS8EUzA4TYN1igiLA.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "540041e9-0b74-4add-9f2d-e6f9738cfa43",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43015,
+        "question_id": "15524",
+        "text": "Function Invoked !!2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43016,
+        "question_id": "15524",
+        "text": "Function Invoked !!3",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43017,
+        "question_id": "15524",
+        "text": "Function Invoked !!1",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43018,
+        "question_id": "15524",
+        "text": "Function Invoked !!Error",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 43019,
+        "question_id": "15524",
+        "text": "Error",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The program provided is a JavaScript snippet that utilizes the `console.log` function to invoke the `Function Invoked !!` function. The key elements of this program are:\n\n*   `var first = 1;` and `var second = 2;` are two variables initialized with integer values of 1 and 2, respectively.\n*   `obj1 = { first: 2, second: function some () { console.log(this.first); } };` defines an object `obj1` with two properties: `first` and `second`. The `second` property is a function that logs the value of `this.first` to the console.\n*   `obj2 = { first: 3, second: () => { console.log(\"Function Invoked !!\"); this.second(); } };` defines another object `obj2` with two properties: `first` and `second`. The `second` property is an arrow function that logs the string \"Function Invoked !!\", calls the `second` property of `this` (which is `obj2`) using `this.second()`, and then logs the result.\n\nTo determine which function is invoked, we need to examine the execution flow:\n\n*   When `obj2.second()` is called, it logs \"Function Invoked !!\", calls `this.second()`, and then logs 2 (the value of `obj1.first`).\n*   The question asks which function is invoked. Since `obj2.second()` is called, the main function invoked is `obj2.second()`.\n\n**Analyzing the Options**\n\n*   **Option 1: Function Invoked !!2**: This option suggests that the function `some` in `obj1` is invoked. However, `obj1.some()` is not invoked directly in the program. Instead, `obj1.second()` is called, which logs the value of `obj1.first`. Therefore, this option is incorrect.\n*   **Option 2: Function Invoked !!3**: This option implies that the `second` property of `obj2` is invoked with the value 3. However, the program does not directly invoke `obj2.second()` with the value 3. Instead, it calls `obj2.second()`, which logs \"Function Invoked !!\", calls `this.second()`, and then logs 2 (the value of `obj1.first`). This option is also incorrect.\n*   **Option 3: Function Invoked !!1**: This option suggests that the `second` property of `obj1` is invoked. However, `obj1.second()` is not called directly in the program. Instead, `obj1.second()` is called inside `obj2.second()`, which logs the value of `obj1.first`. Therefore, this option is incorrect.\n*   **Option 4: Function Invoked !!Error (CORRECT OPTION)**: This option states that an error occurs when invoking the function. Since `obj2.second()` calls `this.second()`, which refers to `obj1.second()`, and `obj1.second()` has a `first` property with a value of 2, the program logs 2 to the console. However, there is no error in this execution. This option is incorrect.\n\nThe correct answer is **None of the above**. The program logs \"Function Invoked !!\", calls `this.second()`, and then logs 2 (the value of `obj1.first`). There is no error in this execution. The question itself appears to be incorrect, as it implies that an error occurs when invoking the function, which is not the case.\n\n**Educational Insights**\n\n*   Understanding the execution flow of JavaScript programs is crucial to determining which function is invoked.\n*   The use of `this` in JavaScript can sometimes lead to confusion, as it refers to the current execution context.\n*   Arrow functions in JavaScript do not bind `this` to the global object, unlike traditional functions.\n*   The `console.log` function is used to output values to the console in JavaScript.\n\nBy carefully analyzing the program and understanding the execution flow, we can determine that there is no error in this execution. The question itself appears to be incorrect, and the correct answer is **None of the above**."
+  },
+  {
+    "id": 15525,
+    "question_text": "Consider the following Vue application with markup \u201cindex.html\u201d and javascript file \u201capp.js\u201d.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/sYRXdsxgkQusYxBwP5Mb8GLFB1apZdX7BngsHqfx7SYkNg2Vly.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "c938bbc6-aec3-400f-b72c-236dc8b2f277",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43020,
+        "question_id": "15525",
+        "text": "This is from templateThis is from template",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43021,
+        "question_id": "15525",
+        "text": "This is from Rashmi\u2019s templateThis is from Akshay\u2019s templateThis is from Sumit\u2019s template",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43022,
+        "question_id": "15525",
+        "text": "This is from Rashmi\u2019s templateThis is from Sumit\u2019s template",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 43023,
+        "question_id": "15525",
+        "text": "This is from Rashmi\u2019s templateThis is from Sumit\u2019s templateThis is from Akshay\u2019s template",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43024,
+        "question_id": "15525",
+        "text": "This is from templateThis is from templateThis is from template",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is \"This is from Rashmi's templateThis is from Sumit's template\". This is because in the \"index.html\" file, there are two templates: \"my-comp\" and \"app\". The \"my-comp\" template is used to render the component, and the \"app\" template is used to render the app. \n\nIn the \"app.js\" file, the Vue component is defined with a template that uses the \"my-comp\" template. The component also has a data property called \"user\" that is an array of objects, where each object has a name property. The component uses the \"v-bind\" directive to bind the user data to the component's template. \n\nThe template for the component uses the \"slot\" directive to define a slot with the name \"first\". The slot is used to render the first user in the user array. The template also uses the \"v-bind\" directive to bind the user data to the component's template. \n\nThe correct option is \"This is from Rashmi's templateThis is from Sumit's template\" because it correctly identifies the source of the template for the component. The first part of the template comes from Rashmi's template, and the second part comes from Sumit's template.\n\nThe other options are incorrect because they do not accurately identify the source of the template for the component. Option 1 is incorrect because it does not include the second part of the template, which comes from Sumit's template. Option 2 is incorrect because it includes an extra part of the template that does not exist in the \"index.html\" file. Option 3 is incorrect because it includes an extra part of the template that does not exist in the \"index.html\" file.\n\nTo understand the underlying concepts, it is important to understand how Vue.js works with templates and components. Vue.js uses a template-based syntax to define the structure of a component. The template is used to render the component's HTML, and the component's data is bound to the template using the \"v-bind\" directive. The \"slot\" directive is used to define a slot in the template, which can be used to render content from another template. \n\nIn this case, the template for the component uses the \"slot\" directive to define a slot with the name \"first\". The slot is used to render the first user in the user array. The template also uses the \"v-bind\" directive to bind the user data to the component's template. \n\nOverall, the correct option is \"This is from Rashmi's templateThis is from Sumit's template\" because it correctly identifies the source of the template for the component. The first part of the template comes from Rashmi's template, and the second part comes from Sumit's template. \n\n*Answer*: This is from Rashmi\u2019s templateThis is from Sumit\u2019s template"
+  },
+  {
+    "id": 15526,
+    "question_text": "Consider the below javascript program.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/jRHtAMq0hn1VO3KpeNyem6z1rmBF63jv7OsgBfmMRo3wkgpkZI.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "f77d1d43-3122-4d54-b668-3204129ae14d",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43025,
+        "question_id": "15526",
+        "text": "",
+        "is_correct": false,
+        "option_image": "vrSh3xk9DMpcLT7zeN1mFpUWabH8PWFMph1FoMQ0qoEU0Jk0oq.png",
+        "option_image_url": "app/option_images/vrSh3xk9DMpcLT7zeN1mFpUWabH8PWFMph1FoMQ0qoEU0Jk0oq.png",
+        "score": "0.000"
+      },
+      {
+        "id": 43026,
+        "question_id": "15526",
+        "text": "",
+        "is_correct": false,
+        "option_image": "vFYin32D57OQTg9jMIPzplZH2Ah4YBSDPPMCTz23wmiUHAKBSi.png",
+        "option_image_url": "app/option_images/vFYin32D57OQTg9jMIPzplZH2Ah4YBSDPPMCTz23wmiUHAKBSi.png",
+        "score": "0.000"
+      },
+      {
+        "id": 43027,
+        "question_id": "15526",
+        "text": "",
+        "is_correct": true,
+        "option_image": "AFnGmeqW2wKVLVQWSUsg5oJTkkqF24Jh68IELuf1hmwewCp0pH.png",
+        "option_image_url": "app/option_images/AFnGmeqW2wKVLVQWSUsg5oJTkkqF24Jh68IELuf1hmwewCp0pH.png",
+        "score": "3.000"
+      },
+      {
+        "id": 43028,
+        "question_id": "15526",
+        "text": "",
+        "is_correct": false,
+        "option_image": "tWyyHARslGNKNPGD90ww815eBwjCKBObrX8E2FCyeXvosg7OTC.png",
+        "option_image_url": "app/option_images/tWyyHARslGNKNPGD90ww815eBwjCKBObrX8E2FCyeXvosg7OTC.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "### Step 1: Understanding the program\n\nThe JavaScript program provided is designed to execute a series of nested loops that increment a counter variable `i` and print it to the console. The outer loop iterates from 0 to 3, and the inner loop iterates from 0 to 2000. The program uses the `setTimeout` function to introduce a delay between each execution of the inner loop.\n\n### Step 2: Analyzing the inner loop\n\nThe inner loop runs 2000 times, with each iteration incrementing the value of `i` by 1. This means that the value of `i` will range from 0 to 1999 (since it starts at 0 and ends at 2000).\n\n### Step 3: Understanding the setTimeout function\n\nThe `setTimeout` function is used to create a delay between each execution of the inner loop. The delay is set to `console.log(i)`, which means that the value of `i` will be logged to the console after the delay.\n\n### Step 4: Determining the output\n\nSince the inner loop runs 2000 times, and the `setTimeout` function introduces a delay between each execution, the program will log the values of `i` to the console 2000 times. However, the delay between each execution means that the values will not be logged immediately. Instead, they will be logged after the delay has expired.\n\n### Step 5: Predicting the minimum number of seconds\n\nTo predict the minimum number of seconds required to complete the execution, we need to calculate the total delay time. Since the delay is set to `console.log(i)`, which takes some time to execute, we can assume that the delay is at least 1 second. Therefore, the total delay time is 2000 seconds.\n\n### Conclusion\n\nBased on the analysis, the correct answer is:\n\n*Answer*: 2000\n\nThis answer is correct because the program will log the values of `i` to the console 2000 times, with a delay between each execution. The total delay time is 2000 seconds, which means that the program will take at least 2000 seconds to complete the execution."
+  },
+  {
+    "id": 15527,
+    "question_text": "Suppose an attacker embeds a malicious link in an email or website, causing the victim's browser to unknowingly submit a form that performs an action (e.g., deleting the user\u2019s account) on the target site where the victim is authenticated. Which type of attack is this?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "79bfeb29-9966-4cf7-af90-4d421b67b646",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43029,
+        "question_id": "15527",
+        "text": "Denial Of Service Attack",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43030,
+        "question_id": "15527",
+        "text": "CSRF Attack",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 43031,
+        "question_id": "15527",
+        "text": "Flooding Attack",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43032,
+        "question_id": "15527",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step-by-step to understand why the correct option is indeed CSRF Attack.\n\n**Step 1: Understanding the scenario**\nThe attacker embeds a malicious link in an email or website that causes the victim's browser to submit a form without their knowledge or consent. This form submission performs an action on a target site where the victim is authenticated.\n\n**Step 2: Identifying the characteristics of the attack**\nTo identify the type of attack, we need to examine the characteristics:\n\n* The attack involves a malicious link that causes the victim's browser to submit a form.\n* The form submission performs an action on a target site where the victim is authenticated.\n* The victim is unaware of the form submission.\n\n**Step 3: Analyzing the options**\n\n* **Denial Of Service Attack (DoS)**: A DoS attack involves overwhelming a system with traffic to make it unavailable to users. This does not match our scenario, as the attack does not involve overwhelming the target site with traffic.\n* **Flooding Attack**: A flooding attack is a type of DoS attack that involves sending a large amount of traffic to a system in a short amount of time. This also does not match our scenario.\n* **CSRF Attack (Cross-Site Request Forgery)**: A CSRF attack involves a malicious link that causes a user's browser to submit a form on a different site without their knowledge or consent. This matches our scenario perfectly.\n* **None of these**: Based on the analysis, we can conclude that one of the options is indeed the correct answer.\n\n**Step 4: Explaining why CSRF Attack is the correct answer**\n\nA CSRF attack involves a malicious link that causes a user's browser to submit a form on a different site without their knowledge or consent. This matches our scenario perfectly. In a CSRF attack, the attacker tricks the victim into clicking on a malicious link that causes their browser to submit a form to a target site where the victim is authenticated. The form submission performs an action on the target site, such as deleting the user's account.\n\n**Educational insights**\n\nTo understand the underlying concepts, it's essential to know how CSRF attacks work:\n\n* **Session hijacking**: CSRF attacks often involve session hijacking, where the attacker steals the victim's session cookie and uses it to authenticate with the target site.\n* **Form submission**: CSRF attacks involve causing the victim's browser to submit a form on the target site without their knowledge or consent.\n* **Authentication**: The victim must be authenticated on the target site for the CSRF attack to be successful.\n\n**Why other options are incorrect**\n\n* **Denial Of Service Attack (DoS)** and **Flooding Attack**: These attacks involve overwhelming a system with traffic, which is not relevant to our scenario.\n* **None of these**: Based on the analysis, we can conclude that one of the options is indeed the correct answer, which is CSRF Attack.\n\nIn conclusion, the correct option is indeed CSRF Attack, as it matches the scenario described and fits the characteristics of a CSRF attack. Understanding the underlying concepts and how CSRF attacks work is essential to identifying and preventing these types of attacks."
+  },
+  {
+    "id": 15528,
+    "question_text": "Consider the below javascript program.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/GWiejkkmrSm6Nuu6oHVuBcNcOkgGWvKccq2TxL8zBMBoz6J4iS.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "784aa575-4f41-418d-8474-be14c40d3b66",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43033,
+        "question_id": "15528",
+        "text": "FirstSecondThird2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43034,
+        "question_id": "15528",
+        "text": "FirstError",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43035,
+        "question_id": "15528",
+        "text": "FirstThirdSecondundefined",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43036,
+        "question_id": "15528",
+        "text": "FirstThirdSecond2",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 43037,
+        "question_id": "15528",
+        "text": "The output cannot be predicted",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "### Step 1: Understanding the Problem\n\nThe provided JavaScript code defines an asynchronous function `async function func()` that awaits the promise returned by the `Promise.resolve(2)` function. This promise resolves to the number 2.\n\n### Step 2: Execution Flow\n\n- The first line logs \"Second\" to the console.\n- The function then returns the number 2.\n- The code then enters the `then` block, which is called when the promise resolves.\n- Inside the `then` block, it logs \"Third\" to the console.\n\n### Step 3: Conclusion\n\nGiven the execution flow, the correct output is indeed \"FirstThirdSecond2\".\n\n**Why Other Options Are Incorrect:**\n\n- **FirstSecondThird**: This sequence does not match the actual execution order due to the nature of asynchronous programming. The return statement in the `async` function immediately returns control without waiting for the `then` block to execute.\n- **FirstError**: There's no error handling in the provided code, so this cannot be the output.\n- **FirstThirdSecond2**: This option suggests an execution order that does not align with the asynchronous nature of the code. The return statement before the `then` block means the function returns before the `then` block is executed.\n- **The output cannot be predicted**: This is incorrect because the execution order is deterministic based on how asynchronous functions work in JavaScript.\n\n*Answer*: FirstThirdSecond2"
+  },
+  {
+    "id": 15529,
+    "question_text": "Which of the following is/are valid use(s) of \u201cv-for\u201d directive, assuming \u201cobj\u201d is an object having a number of key value pairs?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "ca5e8198-7f42-4f60-bec0-a173a05b8994",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43038,
+        "question_id": "15529",
+        "text": "v-for = \u201cvalue in obj\u201d",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43039,
+        "question_id": "15529",
+        "text": "v-for = \u201c(value, name) in obj\u201d",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43040,
+        "question_id": "15529",
+        "text": "v-for = \u201c(value, name, index) in obj\u201d",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43041,
+        "question_id": "15529",
+        "text": "All of these.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the correct answer step by step.\n\n**Understanding the v-for directive**\n\nThe `v-for` directive in Vue.js is used for iterating over arrays or objects. It allows us to display a list of items or access properties of an object. The basic syntax is: `v-for=\"item in items\"` where `items` is the array or object being iterated over.\n\n**Option 1: v-for = \u201cvalue in obj\u201d**\n\nThis option is indeed valid. When iterating over an object using `v-for`, Vue.js will yield the key value pair as an array, where the key is the first element and the value is the second element. So, `v-for=\"value in obj\"` will work perfectly fine, as it allows us to access the values of the object.\n\n**Option 2: v-for = \u201c(value, name) in obj\u201d**\n\nThis option is also valid. When using the `in` keyword, we can specify two variables: the value and the key. In this case, `value` refers to the value of the object, and `name` refers to the key. This syntax is often used when we need to access both the value and the key of the object.\n\n**Option 3: v-for = \u201c(value, name, index) in obj\u201d**\n\nThis option is also valid. When using the `in` keyword with two variables, we can also specify a third variable, which is the index. The index is the position of the item in the array or object. This syntax is often used when we need to access the value, key, and index of the object.\n\n**Conclusion: All of these.**\n\nGiven that all three options are valid uses of the `v-for` directive, the correct answer is indeed **All of these.**\n\n**Why other options are incorrect**\n\nNone of the options are incorrect. Each option represents a valid way to use the `v-for` directive when iterating over an object.\n\n**Educational insights**\n\nWhen using the `v-for` directive with objects, it's essential to understand the syntax and how Vue.js handles the iteration. Here are some key takeaways:\n\n* When using `v-for` with objects, Vue.js yields the key value pair as an array.\n* We can access the value, key, and index of the object using different syntaxes.\n* Using the `in` keyword allows us to specify multiple variables, such as value, key, and index.\n* Understanding the underlying syntax and behavior of `v-for` is crucial for effective use in Vue.js applications.\n\nBy following these guidelines and understanding the `v-for` directive, developers can create efficient and effective iteration logic in their Vue.js applications."
+  },
+  {
+    "id": 15530,
+    "question_text": "Which of the following statement(s) is/are true regarding Celery?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "c75c78f0-59f8-41a3-8d75-1e7ebb019aae",
+    "course_id": 10,
+    "options": [
+      {
+        "id": 43042,
+        "question_id": "15530",
+        "text": "A celery system may consist of multiple brokers.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 43043,
+        "question_id": "15530",
+        "text": "Redis must be used as a message broker for Celery.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43044,
+        "question_id": "15530",
+        "text": "The framework does not support periodic scheduling of tasks.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43045,
+        "question_id": "15530",
+        "text": "All of these.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation of the correct option.\n\n**Option A: A celery system may consist of multiple brokers.**\n\nCelery is a distributed task queue that allows you to run tasks asynchronously in the background. One of the key features of Celery is its ability to scale horizontally, which means it can distribute tasks across multiple workers to handle a large volume of tasks.\n\nA key component of Celery is the message broker, which is responsible for receiving and distributing tasks to the workers. The most commonly used message broker with Celery is Redis or RabbitMQ. However, Celery does not require you to use only one message broker; instead, it allows you to use multiple brokers, known as a \"broker cluster\" or \"broker federation\".\n\nHere's why Celery supports multiple brokers:\n\n1. **Scalability**: By using multiple brokers, you can distribute the load across different machines, improving the overall performance and scalability of your Celery system.\n2. **Fault tolerance**: If one broker goes down, the other brokers can continue to receive and distribute tasks, ensuring that your system remains operational.\n3. **Load balancing**: Celery can distribute tasks across multiple brokers, allowing you to take advantage of load balancing techniques to improve responsiveness and throughput.\n\nTo achieve this, Celery provides a feature called the \"broker federation\" or \"broker cluster\", which allows you to configure multiple brokers to work together seamlessly. This means that you can use multiple Redis or RabbitMQ instances, or even different message brokers, to build a scalable and fault-tolerant Celery system.\n\n**Why other options are incorrect:**\n\n* **Option B: Redis must be used as a message broker for Celery.**: This is incorrect because while Redis is a popular choice for Celery, it's not the only option. RabbitMQ, Amazon SQS, and even in-memory brokers are also supported by Celery.\n* **Option C: The framework does not support periodic scheduling of tasks.**: This is incorrect because Celery does support periodic scheduling of tasks through its built-in `beat` component, which allows you to run tasks at regular intervals.\n\n**Educational insights:**\n\n* **Understanding Celery architecture**: To appreciate the benefits of using multiple brokers, it's essential to understand the architecture of Celery, including the role of the message broker, workers, and the Celery client.\n* **Scalability and fault tolerance**: By using multiple brokers, you can improve the scalability and fault tolerance of your Celery system, which is critical for building robust and reliable applications.\n* **Broker federation and load balancing**: The Celery documentation provides detailed information on configuring broker federation and load balancing, which is essential for building a scalable and fault-tolerant Celery system.\n\nIn conclusion, Celery's ability to use multiple brokers is a key feature that allows you to build scalable, fault-tolerant, and high-performance systems. By understanding how Celery works and how to configure multiple brokers, you can unlock the full potential of this powerful framework."
+  }
+]

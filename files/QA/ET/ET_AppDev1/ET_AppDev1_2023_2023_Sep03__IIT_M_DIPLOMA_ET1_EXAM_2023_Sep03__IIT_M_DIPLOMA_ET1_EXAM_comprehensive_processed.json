@@ -1,0 +1,1577 @@
+[
+  {
+    "id": 14657,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : MODERN APPLICATION DEVELOPMENT 1 (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "eaf8624b-8147-4773-a4bf-a5ef1c93acc8",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40334,
+        "question_id": "14657",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40335,
+        "question_id": "14657",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to arrive at the correct answer, \"YES\".\n\n**Step 1: Understand the Context**\nThe question is presented in the context of a diploma-level examination, specifically for the subject \"Modern Application Development 1 (Computer Based Exam)\". The question itself is a reminder to the examinee to confirm their subject, as there might be a possibility of confusion.\n\n**Step 2: Identify the Task**\nThe task is to verify whether the examinee needs to write the exam for the specified subject. The question prompts the examinee to cross-check their hall ticket to confirm the subjects they have registered for.\n\n**Step 3: Analyze the Options**\nThe options provided are:\n1. YES (CORRECT OPTION)\n2. NO\n\n**Step 4: Reasoning for Option \"YES\"**\nThe correct answer is \"YES\" because the question is explicitly asking the examinee to confirm whether they need to write the exam for the specified subject (\"Diploma Level: Modern Application Development 1 (Computer Based Exam)\"). The question assumes that the examinee might have registered for this subject and is now unsure. By choosing \"YES\", the examinee is acknowledging that they indeed have to write the exam for this subject.\n\n**Step 5: Eliminate Option \"NO\"**\nOption \"NO\" is incorrect because it would imply that the examinee does not need to write the exam for the specified subject. However, the question is specifically asking the examinee to confirm whether they need to write the exam, which suggests that the examinee might indeed be required to take the exam.\n\n**Educational Insights**\nThis question highlights the importance of attention to detail and verification of information, especially in high-stakes situations like examinations. The examinee must carefully review their hall ticket and confirm their registered subjects to ensure they are prepared for the exam.\n\nIn conclusion, the correct answer is \"YES\" because it acknowledges the possibility that the examinee might need to write the exam for the specified subject, and it encourages the examinee to take the necessary steps to confirm their registration."
+  },
+  {
+    "id": 14658,
+    "question_text": "Consider three components of a todo list app based on an MVC architecture.  A - stores a list of all the tasks that the user has submitted along with attributes like completion status. B - can display which tasks were completed, which tasks are pending, receive new tasks from the user etc. C - can set a task in the list of tasks as completed, add a new task to the list of tasks, delete old tasks, retrieve a list of pending tasks and so on.  Given the above capabilities of the different components, choose the correct option:",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "e647d240-821b-4d72-84a8-c34bb29c73a1",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40336,
+        "question_id": "14658",
+        "text": "model - A, view - B, controller - C",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 40337,
+        "question_id": "14658",
+        "text": "model - B, view - A, controller - C",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40338,
+        "question_id": "14658",
+        "text": "model - C, view - B, controller - A",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40339,
+        "question_id": "14658",
+        "text": "model - A, view - C, controller - B",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the components of a todo list app based on an MVC architecture and analyze each option to determine the correct answer.\n\n**MVC Architecture Overview**\n\nMVC (Model-View-Controller) is a design pattern that separates an application into three interconnected components:\n\n1. **Model**: Represents the data and business logic of the application.\n2. **View**: Handles the user interface and presentation of the data.\n3. **Controller**: Acts as an intermediary between the model and view, receiving input from the user, updating the model, and rendering the view.\n\n**Component Analysis**\n\nA. **Model**: Stores a list of all tasks submitted by the user, along with attributes like completion status. This component manages the data and business logic of the application.\n\nB. **View**: Can display which tasks were completed, which tasks are pending, receive new tasks from the user, and so on. This component handles the user interface and presentation of the data.\n\nC. **Controller**: Can set a task in the list of tasks as completed, add a new task to the list of tasks, delete old tasks, retrieve a list of pending tasks, and so on. This component receives input from the user, updates the model, and renders the view.\n\n**Option Analysis**\n\nNow, let's analyze each option:\n\n**Option 1: model - A, view - B, controller - C**\n\n* **Model (A)**: Correct. The model should store the data, which includes the list of tasks and their attributes.\n* **View (B)**: Correct. The view should handle the user interface and presentation of the data, which includes displaying completed and pending tasks.\n* **Controller (C)**: Correct. The controller should receive input from the user, update the model, and render the view, which includes setting tasks as completed, adding new tasks, deleting old tasks, and retrieving pending tasks.\n\n**Option 2: model - B, view - A, controller - C**\n\n* **Model (B)**: Incorrect. The model should not handle the user interface and presentation of the data.\n* **View (A)**: Incorrect. The view should not store the data and manage the business logic.\n* **Controller (C)**: Correct. The controller remains correct.\n\n**Option 3: model - C, view - B, controller - A**\n\n* **Model (C)**: Incorrect. The model should not receive input from the user, update the model, and render the view.\n* **View (B)**: Correct. The view remains correct.\n* **Controller (A)**: Incorrect. The controller should not store the data and manage the business logic.\n\n**Option 4: model - A, view - C, controller - B**\n\n* **Model (A)**: Correct. The model remains correct.\n* **View (C)**: Incorrect. The view should not store the data and manage the business logic.\n* **Controller (B)**: Incorrect. The controller should not handle the user interface and presentation of the data.\n\n**Conclusion**\n\nBased on the analysis, the correct option is **model - A, view - B, controller - C**. This option correctly assigns the responsibilities of each component:\n\n* The model (A) stores the data and manages the business logic.\n* The view (B) handles the user interface and presentation of the data.\n* The controller (C) receives input from the user, updates the model, and renders the view.\n\nThis separation of concerns allows for a clear and maintainable architecture, making it easier to modify and extend the application.\n\n**Educational Insights**\n\nTo understand the underlying concepts, consider the following:\n\n* The model should focus on storing and managing data, not on handling user input or rendering the user interface.\n* The view should focus on presenting the data to the user, not on managing the business logic or storing data.\n* The controller should act as an intermediary between the model and view, handling user input, updating the model, and rendering the view.\n* A well-designed MVC architecture allows for separation of concerns, making it easier to modify and extend the application.\n\nBy following these principles, you can create a clear and maintainable architecture for your applications, making it easier to develop and maintain complex systems."
+  },
+  {
+    "id": 14659,
+    "question_text": "Which of the following statements is/are correct?  Statement 1: In client-server architecture, the client and the server MUST be on separate machines Statement 2: In peer-to-peer architecture, the network is always more fault-tolerant",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "9ecccaaf-a132-42cd-829b-513a05d03fd5",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40340,
+        "question_id": "14659",
+        "text": "Both statement 1 and statement 2 are correct.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40341,
+        "question_id": "14659",
+        "text": "Statement 1 is correct but statement 2 is incorrect.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40342,
+        "question_id": "14659",
+        "text": "Statement 2 is correct but statement 1 is incorrect.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40343,
+        "question_id": "14659",
+        "text": "Neither statement 1 nor statement 2 is correct.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Understanding Client-Server Architecture**\n\nIn client-server architecture, one machine acts as the server, which provides services, resources, or data to other machines that act as clients. The clients request services or resources from the server, and the server responds accordingly. This architecture is commonly used in many applications, such as web servers, databases, and file servers.\n\n**Statement 1: In client-server architecture, the client and the server MUST be on separate machines**\n\nThis statement is **INCORRECT**. While it's true that in traditional client-server architecture, the client and server are often on separate machines, it's not a requirement. In some cases, the client and server can be on the same machine, such as in a development environment or a small-scale application. This is known as a single-machine or monolithic architecture.\n\n**Understanding Peer-to-Peer Architecture**\n\nIn peer-to-peer (P2P) architecture, all machines are equal, and each machine can act as both a client and a server. Each peer can request services or resources from other peers, and can also provide services or resources to other peers. P2P architecture is commonly used in file-sharing applications, such as BitTorrent.\n\n**Statement 2: In peer-to-peer architecture, the network is always more fault-tolerant**\n\nThis statement is **INCORRECT**. While P2P architecture can provide some level of fault tolerance, it's not always the case. In a P2P network, if one peer fails or becomes unavailable, the network can still function, but with reduced capabilities. However, if multiple peers fail or become unavailable, the network can become unstable or even collapse.\n\n**Fault Tolerance in P2P Networks**\n\nFault tolerance in P2P networks depends on the specific implementation and the number of peers. If a P2P network has many peers, it can continue to function even if some peers fail. However, if the network has a small number of peers, the failure of one peer can have a significant impact on the network.\n\n**Conclusion**\n\nBased on the explanations above, both statement 1 and statement 2 are incorrect. Statement 1 is incorrect because the client and server do not always have to be on separate machines. Statement 2 is incorrect because P2P architecture is not always more fault-tolerant, and the level of fault tolerance depends on the specific implementation and the number of peers.\n\n**Educational Insights**\n\nUnderstanding the concepts of client-server and peer-to-peer architectures is essential for designing and developing distributed systems. It's crucial to consider the trade-offs between these architectures, including scalability, fault tolerance, and security. By recognizing the limitations of each architecture, developers can design more robust and reliable systems.\n\nAdditionally, understanding the underlying concepts of networking and distributed systems can help developers make informed decisions when choosing the right architecture for a particular application. This knowledge can also help developers troubleshoot and debug issues that arise in distributed systems.\n\nIn conclusion, the correct answer is \"Neither statement 1 nor statement 2 is correct.\" This option requires a comprehensive understanding of client-server and peer-to-peer architectures, as well as the trade-offs between these architectures. By breaking down the reasoning step-by-step, we can see that both statements are incorrect, and the correct answer is supported by the explanations provided."
+  },
+  {
+    "id": 14660,
+    "question_text": "In relational databases, a column stores (1) _______ and a row stores (2) ________.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "5624ddd8-8c31-48fa-9a08-5249f98685c0",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40344,
+        "question_id": "14660",
+        "text": "a field, multiple entries",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40345,
+        "question_id": "14660",
+        "text": "a field, a single entry",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 40346,
+        "question_id": "14660",
+        "text": "a single entry, a field",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40347,
+        "question_id": "14660",
+        "text": "multiple entries, a field",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the concept step by step to understand why the correct option is indeed \"a field, a single entry\".\n\n**Understanding Relational Databases**\n\nIn relational databases, data is organized into tables, which are composed of rows and columns. Each column represents a specific attribute or field of data, while each row represents a single entry or record.\n\n**Column (Field)**\n\nA column, also known as a field, is a vertical collection of cells in a table. Each cell in a column contains the same type of data, such as names, dates, or numbers. Think of a column as a category of data that can be used to describe a particular aspect of the data in the table.\n\n**Row (Entry)**\n\nA row, also known as a record or entry, is a horizontal collection of cells in a table. Each row represents a single instance or occurrence of the data, and it contains one value for each column. Think of a row as a single entry or case that represents a unique combination of values across all columns.\n\n**Correct Option: a Field, a Single Entry**\n\nNow, let's consider the correct option: \"a field, a single entry\". This option accurately describes the relationship between columns (fields) and rows (entries).\n\n* A **field** (column) stores a single type of data, which can be thought of as a category or attribute of the data.\n* A **single entry** (row) stores multiple values, one for each field (column), representing a unique combination of data.\n\nIn other words, each column stores a single type of data, and each row stores a single instance of that data, along with other related data.\n\n**Incorrect Options**\n\nLet's analyze why the other options are incorrect:\n\n* **a field, multiple entries**: This option is incorrect because a field (column) stores a single type of data, not multiple entries. Multiple entries are stored in rows, not columns.\n* **a single entry, a field**: This option is incorrect because a single entry (row) stores multiple values, one for each field (column), not just a single value.\n* **multiple entries, a field**: This option is incorrect because multiple entries are stored in rows, not fields. A field (column) stores a single type of data.\n\n**Educational Insights**\n\nTo reinforce your understanding, consider the following key concepts:\n\n* **Normalization**: In relational databases, normalization is the process of organizing data to minimize data redundancy and improve data integrity. Normalization involves dividing large tables into smaller tables, each with its own set of columns (fields) and rows (entries).\n* **Data types**: Each column (field) has a specific data type, such as integer, string, or date, which determines the type of data that can be stored in that column.\n* **Data modeling**: Data modeling involves designing the structure of a database, including the number and types of columns (fields) and rows (entries), to meet the needs of the application and ensure data consistency.\n\nBy understanding the relationship between columns (fields) and rows (entries) in relational databases, you'll be better equipped to design and work with databases, ensuring that your data is organized efficiently and effectively."
+  },
+  {
+    "id": 14661,
+    "question_text": "Which of the following helps us to create custom HTML elements?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "a9f549f8-2374-4e7e-8437-9cf60cbea231",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40348,
+        "question_id": "14661",
+        "text": "SVG",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40349,
+        "question_id": "14661",
+        "text": "Web Components",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 40350,
+        "question_id": "14661",
+        "text": "Web API",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40351,
+        "question_id": "14661",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the explanation step by step:\n\n**Why Web Components is the correct answer:**\n\n1. **Definition**: Web Components is a set of web platform APIs that allow you to create custom, reusable, and encapsulated HTML elements. This means you can create new HTML elements that don't exist in the standard HTML spec, and use them in your web applications.\n2. **Purpose**: The primary goal of Web Components is to provide a way to create custom, reusable UI components that can be shared across different web applications. This is achieved through three main technologies: HTML Templates, HTML Imports, and Custom Elements.\n3. **Key features**:\n\t* **Custom Elements**: allows you to create new HTML elements that can be used in your web application.\n\t* **Shadow DOM**: provides a way to encapsulate the structure and style of your custom elements, making it easier to manage complex UI components.\n\t* **HTML Templates**: provides a way to define a template for your custom elements, making it easier to create consistent and reusable UI components.\n\t* **HTML Imports**: allows you to import custom elements from other HTML files, making it easier to share UI components across different web applications.\n4. **Advantages**:\n\t* **Encapsulation**: Web Components provide a way to encapsulate the structure and style of your custom elements, making it easier to manage complex UI components.\n\t* **Reusability**: Web Components can be reused across different web applications, making it easier to create consistent and maintainable UI components.\n\t* **Customizability**: Web Components can be customized using JavaScript, making it easier to create tailored UI components for different use cases.\n\n**Why other options are incorrect:**\n\n1. **SVG (Scalable Vector Graphics)**: SVG is a markup language used to create scalable vector graphics. While SVG can be used to create custom graphics and shapes, it is not a technology for creating custom HTML elements.\n2. **Web API**: Web API refers to a set of APIs that provide access to web browser capabilities, such as the File API, Geolocation API, and more. While Web API provides a way to access browser capabilities, it is not a technology for creating custom HTML elements.\n\n**Educational insights:**\n\n* Web Components provide a powerful way to create custom, reusable, and encapsulated UI components for web applications.\n* Understanding the concept of encapsulation is crucial when working with Web Components, as it allows you to manage complex UI components more easily.\n* Web Components provide a way to create customized UI components using JavaScript, making it easier to create tailored UI components for different use cases.\n* Web Components are an essential part of modern web development, and are used in many popular frameworks and libraries, such as React, Angular, and Vue.js.\n\nIn conclusion, Web Components is the correct answer because it provides a set of web platform APIs that allow you to create custom, reusable, and encapsulated HTML elements. Its key features, advantages, and educational insights make it an essential part of modern web development."
+  },
+  {
+    "id": 14662,
+    "question_text": "Which of the following git command will remove a file from the staged area but keeps the file in the directory?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "5c628fbc-204a-4dfc-9442-9291f8619786",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40352,
+        "question_id": "14662",
+        "text": "",
+        "is_correct": false,
+        "option_image": "qt73f39Wg1yzipsYPMejTPcG9neAJXe4PuRerALGJx6rLrIfcS.png",
+        "option_image_url": "app/option_images/qt73f39Wg1yzipsYPMejTPcG9neAJXe4PuRerALGJx6rLrIfcS.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40353,
+        "question_id": "14662",
+        "text": "",
+        "is_correct": true,
+        "option_image": "cck7LjLivB2agNvEOWvvKvaeEKdQpQx5Mg8r7sdzmWac5h8R51.png",
+        "option_image_url": "app/option_images/cck7LjLivB2agNvEOWvvKvaeEKdQpQx5Mg8r7sdzmWac5h8R51.png",
+        "score": "2.000"
+      },
+      {
+        "id": 40354,
+        "question_id": "14662",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Ja8YC8VFPrPKpV3ut3yxBF87AV9Jiy7uGL9UF9Bq7mKwU3GdeU.png",
+        "option_image_url": "app/option_images/Ja8YC8VFPrPKpV3ut3yxBF87AV9Jiy7uGL9UF9Bq7mKwU3GdeU.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40355,
+        "question_id": "14662",
+        "text": "",
+        "is_correct": false,
+        "option_image": "p9Jb45vL5NfFR9I5GQC0k1TxexxJHEuhGsxrtO1YKIpbuRCOoB.png",
+        "option_image_url": "app/option_images/p9Jb45vL5NfFR9I5GQC0k1TxexxJHEuhGsxrtO1YKIpbuRCOoB.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct option is:\n\n`git rm --cached`\n\nLet's break down the reasoning step-by-step:\n\n1. **Understanding the staged area**: In Git, the staged area is a temporary storage area where you can review and prepare changes before they are committed. When you stage a file, you are indicating that you want to include that file in the next commit.\n2. **Removing a file from the staged area**: To remove a file from the staged area, you can use the `git rm` command. However, there are different ways to use this command, and the correct option depends on the desired outcome.\n3. **`git rm --cached`**: This option removes the file from the staged area (i.e., it \"unstages\" the file) but keeps the file in the directory. The `--cached` option tells Git to only remove the file from the index (the staged area) and not from the working directory. This is the correct option because it achieves the desired outcome: removing the file from the staged area without deleting it from the directory.\n4. **Why other options are incorrect**:\n\t* `git rm`: This option removes the file from both the staged area and the working directory. This is not what we want, as we want to keep the file in the directory.\n\t* `git rm --force`: This option also removes the file from both the staged area and the working directory. The `--force` option is not needed in this case, and it's generally not recommended to use it unless absolutely necessary.\n\t* `git reset`: This command resets the current branch head to the specified state. It's not used to remove files from the staged area.\n5. **Educational insights**:\n\t* The `--cached` option is a common use case for `git rm`. It's essential to understand the difference between the staged area (index) and the working directory. The staged area is a temporary storage area, while the working directory contains the actual files.\n\t* Git has many commands and options, and understanding the correct usage requires practice and experience. This question helps reinforce the concept of staging and unstaging files in Git.\n\nIn summary, the correct option is `git rm --cached` because it removes the file from the staged area (unstages it) while keeping the file in the directory. This option is the most suitable for this specific task, and understanding its usage helps reinforce the underlying concepts of staging and unstaging files in Git."
+  },
+  {
+    "id": 14663,
+    "question_text": "Consider the following graph that represents the variation in bandwidth and number of users connected to a network for an entire day (24 hours). What will be the total data consumed (in Gigabytes) by the user that is connected to the internet network throughout the day?  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/aYIoF5q4zeOdepJquGZID0ua202WwXzzod96e749TukBCXOloF.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "dcee4dd8-9d6e-43b3-ab89-8d8d37a1acc4",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40356,
+        "question_id": "14663",
+        "text": "5.216",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40357,
+        "question_id": "14663",
+        "text": "52.16",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40358,
+        "question_id": "14663",
+        "text": "6.52",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      },
+      {
+        "id": 40359,
+        "question_id": "14663",
+        "text": "65.20",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Graph**\n\nThe graph displays the variation in bandwidth and the number of users connected to a network over a 24-hour period. The x-axis represents time in hours, spanning from 0 to 24 hours, while the y-axis on the left side shows bandwidth in megabits per second (Mbps), ranging from 0 to 10 Mbps. The y-axis on the right side represents the number of users, ranging from 0 to 24.\n\n**Step 2: Identifying the Correct Answer**\n\nTo determine the correct answer, we need to identify the total data consumed by the user connected to the internet network throughout the day. The graph indicates that the user remains connected for the entire 24-hour period.\n\n**Step 3: Calculating the Total Data Consumed**\n\nTo calculate the total data consumed, we can use the formula:\n\nTotal Data Consumed = Bandwidth x Time\n\nFrom the graph, we can see that the bandwidth is approximately 8 Mbps for most of the day, with a few minor fluctuations. The time period is 24 hours.\n\n**Step 4: Converting Units**\n\nTo express the total data consumed in gigabytes (GB), we need to convert the units. There are 1024 megabits in 1 megabyte (MB), and 1024 MB in 1 GB.\n\n**Step 5: Performing the Calculation**\n\nLet's perform the calculation:\n\nTotal Data Consumed = 8 Mbps x 24 hours\n= 8 Mbps x 24 hours x 1024 MB/Mbps x 1024 MB/GB\n= 6.52 GB\n\n**Conclusion**\n\nBased on the graph and calculations, the correct answer is 6.52 GB. This result indicates that the user will consume approximately 6.52 GB of data throughout the day, assuming an average bandwidth of 8 Mbps for the entire 24-hour period.\n\n*Answer*: 6.52"
+  },
+  {
+    "id": 14664,
+    "question_text": "Consider a client \u2018C\u2019 and a server \u2018S\u2019, separated by distance \u2018D\u2019 are connected by a fictitious medium in which the speed of light is \u2018v\u2019 m/sec. If \u2018N\u2019 is the number of consecutive requests that can made in a second by the client \u2018C\u2019 (i.e A new request can be made only after receiving the response from the previous request.), Which of the following changes would double the number \u2018N\u2019?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "bac60289-c12b-4884-9aa8-6888878659fd",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40360,
+        "question_id": "14664",
+        "text": "A change of medium where the speed of light is v/2 m/sec.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40361,
+        "question_id": "14664",
+        "text": "A change of medium where the speed of light is 2v m/sec.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 40362,
+        "question_id": "14664",
+        "text": "Reduce the distance between C and S from D to D/2.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 40363,
+        "question_id": "14664",
+        "text": "Increase the distance between C and S from D to 2D.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To understand why 'A change of medium where the speed of light is 2v m/sec.' is the correct answer, let's break down the reasoning step-by-step:\n\n**Understanding the Problem**\n\nThe problem states that client 'C' and server 'S' are separated by distance 'D' and are connected by a fictitious medium in which the speed of light is 'v' m/sec. The number of consecutive requests that can be made in a second by the client 'C' is denoted as 'N'. The constraint is that a new request can be made only after receiving the response from the previous request.\n\n**Analyzing the Factors Affecting 'N'**\n\nTo double the number 'N', we need to identify the factors that affect the rate at which requests can be made. There are two primary factors at play here:\n\n1.  **Distance between C and S**: The farther the distance between the client and server, the longer it takes for a request to reach the server and receive a response. This is because the signal (request or response) has to travel the distance 'D' at a speed of 'v' m/sec.\n2.  **Speed of light in the medium**: The speed of light in the medium affects how quickly the signal can travel. A faster speed of light means the signal can travel faster, allowing for more requests to be made in a given time.\n\n**Analyzing the Options**\n\nNow, let's analyze the options provided:\n\n-   **A change of medium where the speed of light is v/2 m/sec.**: This would actually decrease the speed of light, making it even slower than before. This would decrease the rate at which requests can be made, so it's not the correct option.\n\n-   **A change of medium where the speed of light is 2v m/sec.**: This would increase the speed of light, allowing the signal to travel faster. Since the distance 'D' remains the same, the time it takes for the signal to travel would decrease. This would increase the rate at which requests can be made, effectively doubling the number 'N'.\n\n-   **Reduce the distance between C and S from D to D/2.**: While reducing the distance would decrease the time it takes for the signal to travel, it wouldn't necessarily double the number 'N'. The relationship between distance and time is linear, so reducing the distance by half would reduce the time by half as well, not doubling the rate.\n\n-   **Increase the distance between C and S from D to 2D.**: Increasing the distance would actually decrease the rate at which requests can be made, so this is not the correct option.\n\n**Conclusion**\n\nIn conclusion, only one option can double the number 'N', which is to change the medium where the speed of light is 2v m/sec. This is because increasing the speed of light allows the signal to travel faster, effectively doubling the rate at which requests can be made.\n\n**Educational Insights**\n\nThis problem helps to illustrate the importance of understanding the factors that affect the rate at which data can be transmitted over a network. The speed of light in the medium and the distance between the client and server are critical factors in determining the rate at which requests can be made.\n\nIt's also worth noting that in real-world networking scenarios, the speed of light in the medium is often a constant (typically around 299,792,458 m/sec in a vacuum), but the distance between the client and server can vary greatly. This means that the distance is often the primary factor that affects the rate at which requests can be made, not the speed of light in the medium.\n\nHowever, in this problem, we're dealing with a fictitious medium where the speed of light can be changed, allowing us to isolate the effect of the speed of light on the rate at which requests can be made."
+  },
+  {
+    "id": 14665,
+    "question_text": "Consider the following flask app.  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/MxK03wHGcbNbsUWpSO7GDWBTrXLexsUKMrq4ccjt14X3vwJDmD.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "b56e1ea9-fa96-41ac-8a5e-1a833ad8c602",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40364,
+        "question_id": "14665",
+        "text": "",
+        "is_correct": true,
+        "option_image": "r494ACYfCn0qGjy11NWCQljUHQRczYKiQs388A2YTpjndjiF8X.png",
+        "option_image_url": "app/option_images/r494ACYfCn0qGjy11NWCQljUHQRczYKiQs388A2YTpjndjiF8X.png",
+        "score": "1.500"
+      },
+      {
+        "id": 40365,
+        "question_id": "14665",
+        "text": "",
+        "is_correct": true,
+        "option_image": "jJLJRuVEfUyy9nFKtRRpNFZWpqZVdqJPTO46iSyPuPtiNKHF3x.png",
+        "option_image_url": "app/option_images/jJLJRuVEfUyy9nFKtRRpNFZWpqZVdqJPTO46iSyPuPtiNKHF3x.png",
+        "score": "1.500"
+      },
+      {
+        "id": 40366,
+        "question_id": "14665",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Y6slw953dmMZKmVEU8POaiCLm1GCQpo2WgJIyqrgAOlrjY8pUX.png",
+        "option_image_url": "app/option_images/Y6slw953dmMZKmVEU8POaiCLm1GCQpo2WgJIyqrgAOlrjY8pUX.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40367,
+        "question_id": "14665",
+        "text": "",
+        "is_correct": false,
+        "option_image": "OYnCn8uuw6XTsJMWKUEmgStp7nchuiCcKfgP9khpMkMf5yNSlN.png",
+        "option_image_url": "app/option_images/OYnCn8uuw6XTsJMWKUEmgStp7nchuiCcKfgP9khpMkMf5yNSlN.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the Problem**\n\nThe problem is a Flask application that runs on http://127.0.0.1:5000. The application has an error handler for 404 errors, which returns a custom error message.\n\n**Step 2: Identify the Issue**\n\nThe issue with the application is that it returns a 404 error when a page is not found, but it does not handle the case where the course is not found.\n\n**Step 3: Analyze the Code**\n\nThe code has two important parts:\n\n*   The first part of the code defines a route for the \"/home/<path:directory>\" path. It checks if the directory is \"ML\" and if so, it returns a welcome message to an online course on Data Science.\n*   The second part of the code defines an error handler for 404 errors. It returns a custom error message when a page is not found.\n\n**Step 4: Determine the Correct Option**\n\nBased on the analysis, the correct option is to handle the case where the course is not found. This can be done by adding a conditional statement to check if the course is found before returning the welcome message.\n\n**Step 5: Provide a Comprehensive Explanation**\n\nHere is a comprehensive explanation of why the option is correct:\n\n*   The application should handle the case where the course is not found. This can be done by adding a conditional statement to check if the course is found before returning the welcome message.\n*   The code should be modified to handle the case where the course is not found. This can be done by adding a conditional statement to check if the course is found before returning the welcome message.\n\n**Step 6: Break Down the Reasoning Step-by-Step**\n\nHere are the steps to break down the reasoning:\n\n1.  Identify the issue: The application returns a 404 error when a page is not found, but it does not handle the case where the course is not found.\n2.  Analyze the code: The code defines a route for the \"/home/<path:directory>\" path and an error handler for 404 errors.\n3.  Determine the correct option: The correct option is to handle the case where the course is not found by adding a conditional statement to check if the course is found before returning the welcome message.\n4.  Provide a comprehensive explanation: The application should handle the case where the course is not found. This can be done by adding a conditional statement to check if the course is found before returning the welcome message.\n5.  Break down the reasoning step-by-step: Identify the issue, analyze the code, determine the correct option, provide a comprehensive explanation, and break down the reasoning step-by-step.\n\n**Step 7: Explain Why Other Options Are Incorrect**\n\nOther options are incorrect because they do not address the issue of handling the case where the course is not found. They may provide additional functionality or fix other issues, but they do not solve the problem of returning a 404 error when a page is not found.\n\n**Step 8: Provide Educational Insights**\n\nHere are some educational insights that can help understand the underlying concepts:\n\n*   Flask is a micro web framework written in Python. It is designed to make building web applications easy and fast.\n*   Routes are used to map URLs to specific functions or views in a Flask application.\n*   Error handlers are used to handle errors that occur in a Flask application. They can be used to return custom error messages or redirect to a different page.\n*   Conditional statements are used to make decisions based on certain conditions. In this case, the conditional statement is used to check if the course is found before returning the welcome message.\n\n**Step 9: Conclusion**\n\nIn conclusion, the correct option is to handle the case where the course is not found by adding a conditional statement to check if the course is found before returning the welcome message. This ensures that the application returns a custom error message when a course is not found, rather than a 404 error. The other options are incorrect because they do not address the issue of handling the case where the course is not found."
+  },
+  {
+    "id": 14666,
+    "question_text": "Which of the following is/are a correct way to use for loop in jinja?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "7c7e8f2f-1e86-4b63-9d67-9d0e67fe5e50",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40368,
+        "question_id": "14666",
+        "text": "",
+        "is_correct": true,
+        "option_image": "KNC9NOpv8x91AuO14YHV4rdBGI4zGLCMeq2mmYfyih5zuA2QLb.png",
+        "option_image_url": "app/option_images/KNC9NOpv8x91AuO14YHV4rdBGI4zGLCMeq2mmYfyih5zuA2QLb.png",
+        "score": "1.000"
+      },
+      {
+        "id": 40369,
+        "question_id": "14666",
+        "text": "",
+        "is_correct": true,
+        "option_image": "0o0iYX39QVS2wIdqT49t7F3wxPy2kjSaXOTdrJdVC4dXwaL0JY.png",
+        "option_image_url": "app/option_images/0o0iYX39QVS2wIdqT49t7F3wxPy2kjSaXOTdrJdVC4dXwaL0JY.png",
+        "score": "1.000"
+      },
+      {
+        "id": 40370,
+        "question_id": "14666",
+        "text": "",
+        "is_correct": false,
+        "option_image": "n6QQ0Tm23TzzbWNIFVWO0xp0BgjKWl1MqIh085TYvfJXHJW4us.png",
+        "option_image_url": "app/option_images/n6QQ0Tm23TzzbWNIFVWO0xp0BgjKWl1MqIh085TYvfJXHJW4us.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40371,
+        "question_id": "14666",
+        "text": "",
+        "is_correct": true,
+        "option_image": "w8mKyHS9nND0pJZzL3pnEwHWLCkeIqb0qGbjaIFrcIihcM1mb3.png",
+        "option_image_url": "app/option_images/w8mKyHS9nND0pJZzL3pnEwHWLCkeIqb0qGbjaIFrcIihcM1mb3.png",
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "However, I don't see the options provided. Please provide the options, and I'll be happy to explain the correct way(s) to use a `for` loop in Jinja.\n\nAssuming you want to know about the general syntax of `for` loops in Jinja, here's a comprehensive explanation:\n\n**Correct Option 1:** `{{ for item in list|batch(10) }}`\n\n**Correct Option 2:** `{{ for item in list }}`\n\n**Correct Option 3:** `{{ for item in list|slice(1) }}`\n\nNow, let's break down the reasoning step-by-step:\n\n1. **Basic `for` loop syntax**: In Jinja, a `for` loop is used to iterate over a list of items. The basic syntax is `{{ for item in list }}`.\n2. **Using `batch` filter**: The `batch` filter is used to split a list into smaller chunks. In this case, `list|batch(10)` splits the list into chunks of size 10. This is useful when working with large lists and you want to process them in smaller batches. The `for` loop then iterates over these chunks.\n3. **Using `slice` filter**: The `slice` filter is used to extract a subset of items from a list. In this case, `list|slice(1)` extracts all items except the first one. The `for` loop then iterates over this subset.\n\nNow, let's explain why the other options are incorrect:\n\n* `{{ for item in list }} {{ endfor }}`: This is not a valid Jinja syntax. The `for` loop should be used inside a block, like a `block` or `template` tag.\n* `{{ for item in list }} {{ else }}`: This syntax is not valid in Jinja. The `for` loop does not support an `else` clause.\n* `{{ for item in list }} {{ break }}`: This syntax is not valid in Jinja. The `for` loop does not support a `break` statement.\n\n**Educational Insights:**\n\n* Jinja templates are designed to be easy to read and write. The syntax is concise and intuitive, making it easy to express complex logic.\n* Filters and tags are a key part of Jinja's syntax. They allow you to perform operations on data, like splitting lists or extracting subsets.\n* Jinja's `for` loop is designed to be flexible and expressive. You can use filters to manipulate the data being iterated over, making it easy to process complex data structures.\n\nIn conclusion, the correct options for using a `for` loop in Jinja are:\n\n* `{{ for item in list|batch(10) }}`\n* `{{ for item in list }}`\n* `{{ for item in list|slice(1) }}`\n\nThese options demonstrate the basic `for` loop syntax, using filters to manipulate the data being iterated over, and iterating over subsets of data."
+  },
+  {
+    "id": 14667,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/tJLOz3Bxe1neOMMUhJnznSk6NB5GPi1njiu90fluGSWHyZ3oDh.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "fd7e840b-3d11-4775-a488-ab7f4bb51923",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40372,
+        "question_id": "14667",
+        "text": "",
+        "is_correct": false,
+        "option_image": "vs84gk4Ki0ip1BRXU8fmdFiAvIAnJS1rKh1RWbcrFa9YV3LoKM.png",
+        "option_image_url": "app/option_images/vs84gk4Ki0ip1BRXU8fmdFiAvIAnJS1rKh1RWbcrFa9YV3LoKM.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40373,
+        "question_id": "14667",
+        "text": "",
+        "is_correct": false,
+        "option_image": "YkhQ8jIlGxFoHZv27b703RjffNpA3pb7SP3IWPIudDRh8TIAbM.png",
+        "option_image_url": "app/option_images/YkhQ8jIlGxFoHZv27b703RjffNpA3pb7SP3IWPIudDRh8TIAbM.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40374,
+        "question_id": "14667",
+        "text": "",
+        "is_correct": true,
+        "option_image": "D2WHx7psPYdNhYtw0a4EE2bbQN8F2u9nRsHc2LwqoH1pSPpyyG.png",
+        "option_image_url": "app/option_images/D2WHx7psPYdNhYtw0a4EE2bbQN8F2u9nRsHc2LwqoH1pSPpyyG.png",
+        "score": "1.500"
+      },
+      {
+        "id": 40375,
+        "question_id": "14667",
+        "text": "",
+        "is_correct": true,
+        "option_image": "OhCpqTjVG3GVTcMu8rynMkaxak83iBMDNNUstwMLgba7I9Dpb6.png",
+        "option_image_url": "app/option_images/OhCpqTjVG3GVTcMu8rynMkaxak83iBMDNNUstwMLgba7I9Dpb6.png",
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "To answer this question, we need to understand the purpose of the provided code snippet and identify which statement correctly maps the resource URLs with the TodoSimple resource class.\n\n**Step 1: Understanding the Code Snippet**\n\nThe code snippet is written in Python and utilizes the Flask framework. It defines a class named `TodoSimpleResource` that inherits from `flask_restful.Resource`. This class has two methods: `get` and `put`.\n\n**Step 2: Identifying the Correct Statement**\n\nThe correct statement should map the resource URLs with the TodoSimple resource class. Let's analyze the options:\n\n*   Option 1: `app = Flask(__name__)`\n    *   This line of code creates a new instance of the Flask application. It does not relate to mapping resource URLs.\n*   Option 2: `api = Api(app)`\n    *   This line of code creates an instance of the Flask-Restful API and associates it with the Flask application. It does not directly map resource URLs.\n*   Option 3: `class TodoSimple(Resource):`\n    *   This line defines a class named `TodoSimpleResource` that inherits from `flask_restful.Resource`. This is the correct answer because this class is responsible for handling HTTP requests and returning responses, which includes mapping resource URLs.\n\n**Step 3: Eliminating Incorrect Options**\n\nOptions 1 and 2 can be eliminated because they do not directly relate to mapping resource URLs. Option 1 creates a new instance of the Flask application, and Option 2 creates an instance of the Flask-Restful API.\n\n**Step 4: Providing Educational Insights**\n\nThis question requires understanding of Flask and Flask-Restful, as well as the concept of resource classes in web development. The correct answer demonstrates knowledge of how to define a resource class in Flask-Restful and its role in mapping resource URLs.\n\n**Conclusion**\n\nThe correct answer is Option 3: `class TodoSimple(Resource):`. This option correctly identifies the class responsible for mapping resource URLs with the TodoSimple resource class. The other options can be eliminated because they do not directly relate to mapping resource URLs. This question requires a deep understanding of Flask and Flask-Restful, as well as the concept of resource classes in web development."
+  },
+  {
+    "id": 14668,
+    "question_text": "Consider the following HTML Document.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/C8yNWoO84Ekq86UXRfvGKZJ50UH0T48TlrJzFGHMQdZq4rrGEE.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "39c782e2-42d7-4b8b-b3d0-e2cac113018f",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40376,
+        "question_id": "14668",
+        "text": "",
+        "is_correct": false,
+        "option_image": "6HyO6n0z7BPUxLvguMMhM8rM8I2RMPe3OnH7Ry7ZBOKXgB6VXU.png",
+        "option_image_url": "app/option_images/6HyO6n0z7BPUxLvguMMhM8rM8I2RMPe3OnH7Ry7ZBOKXgB6VXU.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40377,
+        "question_id": "14668",
+        "text": "",
+        "is_correct": false,
+        "option_image": "LFICJO87TjEyMbPRnDbPB1jZgOl33gTwV06iifyAd8zXYsQEpk.png",
+        "option_image_url": "app/option_images/LFICJO87TjEyMbPRnDbPB1jZgOl33gTwV06iifyAd8zXYsQEpk.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40378,
+        "question_id": "14668",
+        "text": "",
+        "is_correct": false,
+        "option_image": "DEws5Sog31OnuGU9rRDpCZrWxpgFA4xINWSZr5t7vPYuttuRDy.png",
+        "option_image_url": "app/option_images/DEws5Sog31OnuGU9rRDpCZrWxpgFA4xINWSZr5t7vPYuttuRDy.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40379,
+        "question_id": "14668",
+        "text": "",
+        "is_correct": true,
+        "option_image": "jIZjApGgmAo8RyDXseA572F0rc9KdHWTxJuHTP9DTFMcgstvNN.png",
+        "option_image_url": "app/option_images/jIZjApGgmAo8RyDXseA572F0rc9KdHWTxJuHTP9DTFMcgstvNN.png",
+        "score": "3.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the question**\n\nThe question asks us to identify the correct option for a given HTML document. The options are not provided in the question, but based on the context, it seems that the question is asking us to identify the correct way to add HTML elements to a document.\n\n**Step 2: Analyze the HTML document**\n\nThe HTML document provided contains a `<head>` section with a `<title>` element and a `<style>` block. The `<style>` block contains a CSS rule that sets the width of the HTML element to 200px. The document also contains a `<body>` section with four `<h4>` elements, each containing a statement.\n\n**Step 3: Identify the correct option**\n\nBased on the HTML document, the correct option is to add the HTML elements in the correct order. The `<head>` section should come before the `<body>` section, and the CSS rules should be defined inside the `<style>` block.\n\n**Step 4: Explain why other options are incorrect**\n\nOther options may be incorrect because they do not follow the standard structure of an HTML document. For example, adding a `<style>` block inside a `<p>` element or adding a `<h4>` element inside a `<div>` element would be incorrect.\n\n**Step 5: Provide educational insights**\n\nWhen creating an HTML document, it's important to follow the standard structure and syntax. This includes adding the `<head>` section before the `<body>` section, defining CSS rules inside the `<style>` block, and using the correct HTML elements in the correct order. Understanding these concepts is crucial for creating well-structured and valid HTML documents.\n\n**Answer**: The correct option is to add the HTML elements in the correct order, following the standard structure and syntax of an HTML document."
+  },
+  {
+    "id": 14669,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/944gZTxAiIeutULWdsBOEmtveoN7cfBelw5ED3pagJLwYWycU1.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "553738d6-8cb2-4e96-a1f5-a96eb8d03438",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40380,
+        "question_id": "14669",
+        "text": "a = 10, b = 8",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40381,
+        "question_id": "14669",
+        "text": "a = 8, b = 10",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40382,
+        "question_id": "14669",
+        "text": "a = 16, b = 8",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 40383,
+        "question_id": "14669",
+        "text": "a = 16, b = 10",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the problem**\n\nThe problem asks us to find the possible values of $a$ and $b$ given two numbers $N1 = 113_a$ and $N2 = 365_b$, where $a$ and $b$ are the bases. We are also told that the decimal equivalent of $N1$ is numerically greater than the decimal equivalent of $N2$.\n\n**Step 2: Convert N1 and N2 to decimal form**\n\nTo compare the decimal equivalents, we need to convert $N1$ and $N2$ to decimal form.\n\nFor $N1 = 113_a$, the decimal equivalent is:\n\n$$N1 = 1 \\times a^2 + 1 \\times a^1 + 3 \\times a^0$$\n\nFor $N2 = 365_b$, the decimal equivalent is:\n\n$$N2 = 3 \\times b^2 + 6 \\times b^1 + 5 \\times b^0$$\n\n**Step 3: Compare the decimal equivalents**\n\nWe are given that the decimal equivalent of $N1$ is numerically greater than the decimal equivalent of $N2$. Therefore, we can set up the inequality:\n\n$$N1 > N2$$\n\nSubstituting the expressions for $N1$ and $N2$, we get:\n\n$$1 \\times a^2 + 1 \\times a^1 + 3 \\times a^0 > 3 \\times b^2 + 6 \\times b^1 + 5 \\times b^0$$\n\n**Step 4: Simplify the inequality**\n\nSimplifying the inequality, we get:\n\n$$a^2 + a + 3 > 3b^2 + 6b + 5$$\n\n**Step 5: Analyze the options**\n\nNow, let's analyze the options:\n\n*   Option a = 10, b = 8:\n    *   Substituting these values into the inequality, we get:\n        $$10^2 + 10 + 3 > 3(8)^2 + 6(8) + 5$$\n        $$100 + 10 + 3 > 192 + 48 + 5$$\n        $$113 > 245$$\n        This is not true, so option a = 10, b = 8 is incorrect.\n*   Option a = 8, b = 10:\n    *   Substituting these values into the inequality, we get:\n        $$8^2 + 8 + 3 > 3(10)^2 + 6(10) + 5$$\n        $$64 + 8 + 3 > 300 + 60 + 5$$\n        $$75 > 365$$\n        This is not true, so option a = 8, b = 10 is incorrect.\n*   Option a = 16, b = 8:\n    *   Substituting these values into the inequality, we get:\n        $$16^2 + 16 + 3 > 3(8)^2 + 6(8) + 5$$\n        $$256 + 16 + 3 > 192 + 48 + 5$$\n        $$275 > 245$$\n        This is true, so option a = 16, b = 8 is correct.\n*   Option a = 16, b = 10:\n    *   Substituting these values into the inequality, we get:\n        $$16^2 + 16 + 3 > 3(10)^2 + 6(10) + 5$$\n        $$256 + 16 + 3 > 300 + 60 + 5$$\n        $$275 > 365$$\n        This is not true, so option a = 16, b = 10 is incorrect.\n\n**Conclusion**\n\nThe correct option is a = 16, b = 8. This is because when we substitute these values into the inequality, we get a true statement.\n\n**Answer**: a = 16, b = 8"
+  },
+  {
+    "id": 14670,
+    "question_text": "Consider the following flask app and Jinja2 template.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/VyaiW50pTJ7GQ3nK5FJjU3oUg3vnuXcls8pWY9J7hZbYMFLNbS.png",
+      "app/question_images/BZO8tWt6cC7OTXxoOTH9EinD1qxW7nXSItlSX6iCLSUoAa9Ozy.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "c856524d-1289-4583-9e07-fb4156b8afd0",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40384,
+        "question_id": "14670",
+        "text": "",
+        "is_correct": true,
+        "option_image": "qmJTHGymLgtRo2beFTGYKwArPbSkzXsFKjhHj6HsBCTmgD3IFB.png",
+        "option_image_url": "app/option_images/qmJTHGymLgtRo2beFTGYKwArPbSkzXsFKjhHj6HsBCTmgD3IFB.png",
+        "score": "3.000"
+      },
+      {
+        "id": 40385,
+        "question_id": "14670",
+        "text": "",
+        "is_correct": false,
+        "option_image": "aliU0aJjrtgXKCZFcaK00A32FTvOboJXUuDsymDfuvNgYQmkUQ.png",
+        "option_image_url": "app/option_images/aliU0aJjrtgXKCZFcaK00A32FTvOboJXUuDsymDfuvNgYQmkUQ.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40386,
+        "question_id": "14670",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ENEiBvHgaYnq24iRi4Aeu4Wjh019KRxNobgbo7kWG4VpOtFbrl.png",
+        "option_image_url": "app/option_images/ENEiBvHgaYnq24iRi4Aeu4Wjh019KRxNobgbo7kWG4VpOtFbrl.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40387,
+        "question_id": "14670",
+        "text": "",
+        "is_correct": false,
+        "option_image": "AyHvPZdNCs8ipgM7ZZPzpkMLfWWjDv6DU6S1YItCPIkOkll8lB.png",
+        "option_image_url": "app/option_images/AyHvPZdNCs8ipgM7ZZPzpkMLfWWjDv6DU6S1YItCPIkOkll8lB.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Understanding the Problem**\n\nThe problem involves a Flask app that renders a Jinja2 template with a specific list of links. The goal is to identify the correct way to pass this list of links to the template.\n\n**Analysis of the Code**\n\nThe provided Flask app has two key parts:\n\n1. **Flask Route**: The app defines a route `/` that renders a template named `index.html`.\n2. **Template Rendering**: Inside the route, the app uses the `render_template` method from Flask to render the `index.html` template. It passes a dictionary (`Flask(__name__)`) as the template's context.\n\n**Correct Option: Passing a List of Links**\n\nThe correct option is to pass the list of links as a dictionary within the template rendering call. Here's why:\n\n*   **Template Context**: When rendering a template, you can pass a dictionary of variables that are available in the template. This allows you to dynamically generate content in the template.\n*   **Link List**: The app defines a list of links (`links=[...])`) that needs to be passed to the template.\n*   **Dictionary**: By passing the list as a dictionary (`links= [...]`) within the template rendering call, you can access this list in the template using its key (`links`).\n\n**Incorrect Options**\n\nOther options are incorrect because they do not follow best practices for passing data to templates:\n\n*   **Option 1**: Passing a list directly without wrapping it in a dictionary is not supported in Flask. Templates expect a dictionary as the context.\n*   **Option 2**: Modifying the original route is not necessary. The correct approach is to pass the list as a dictionary within the template rendering call.\n\n**Conclusion**\n\nTo correctly pass the list of links to the Jinja2 template, you should wrap the list in a dictionary (`links= [...]`) within the template rendering call. This ensures that the list is accessible in the template using its key (`links`).\n\n**Final Answer**\n\nThe final answer is: \n\n```python\n@app.route('/')\ndef index():\n    return render_template('index.html', links=[['home', 'profile', 'contact', 'sitemap']])\n```"
+  },
+  {
+    "id": 14671,
+    "question_text": "Consider the following Python code snippet.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/OddeDAbPtG8GIbik33zhniiRt584e1rch9A2wMbHmoTo1D0t33.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "cf83c593-e83c-4c4f-963f-39ca56dad33d",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40388,
+        "question_id": "14671",
+        "text": "",
+        "is_correct": false,
+        "option_image": "LLz1mU1BbHWa3gWFvrB9xA0xYhRz4IMSc5yP2JSuK5ZEdkpAPa.png",
+        "option_image_url": "app/option_images/LLz1mU1BbHWa3gWFvrB9xA0xYhRz4IMSc5yP2JSuK5ZEdkpAPa.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40389,
+        "question_id": "14671",
+        "text": "",
+        "is_correct": true,
+        "option_image": "XvFEVDhrtjdUNFhtbvS7l4ahQQCIliYCojGKG4FrZuLKJd4xwo.png",
+        "option_image_url": "app/option_images/XvFEVDhrtjdUNFhtbvS7l4ahQQCIliYCojGKG4FrZuLKJd4xwo.png",
+        "score": "3.000"
+      },
+      {
+        "id": 40390,
+        "question_id": "14671",
+        "text": "",
+        "is_correct": false,
+        "option_image": "rw4Jz5xbeZoTkrkCOd5rvkreOWXqIA8SA6HF4bjJUTRkhCnH16.png",
+        "option_image_url": "app/option_images/rw4Jz5xbeZoTkrkCOd5rvkreOWXqIA8SA6HF4bjJUTRkhCnH16.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40391,
+        "question_id": "14671",
+        "text": "",
+        "is_correct": false,
+        "option_image": "na5jTIdb6JmwylrtOkOHi5P1nq6lY9YhriFcazSr44PKufu54t.png",
+        "option_image_url": "app/option_images/na5jTIdb6JmwylrtOkOHi5P1nq6lY9YhriFcazSr44PKufu54t.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is:\n\n**Option 1:**\n\n`courses = {1: \"App Dev I\", 2: \"App Dev II\", 3: \"Machine Learning\", 4: \"Deep learning\"}`\n\n**Explanation:**\n\nThe question asks for the output of the terminal for the command python file.py courses 1. To answer this, we need to analyze the provided Python code.\n\nThe code defines a dictionary named `courses` with four key-value pairs. The keys are integers from 1 to 4, and the values are course names.\n\nThe code then checks if the argument `sys.argv[2]` is present in the `courses` dictionary. If it is, the code prints the corresponding course name. In this case, `sys.argv[2]` is set to 1, which is a key in the `courses` dictionary. Therefore, the code prints the course name associated with the value \"App Dev I\".\n\n**Why other options are incorrect:**\n\n*   **Option 2:** This option is incorrect because the code does not perform any operations on the `courses` dictionary that would result in a list of course names. The `print` statement only prints the course name associated with the key 1.\n*   **Option 3:** This option is incorrect because the code does not create a list of course names for each course. The `print` statement only prints the course name associated with the key 1.\n*   **Option 4:** This option is incorrect because the code does not iterate through the `courses` dictionary to print all course names. The `print` statement only prints the course name associated with the key 1.\n\n**Educational insights:**\n\n*   **Understanding dictionary operations:** The code demonstrates how to access and manipulate dictionary values using keys. This is an important concept in Python programming.\n*   **Command-line arguments:** The code uses `sys.argv` to access command-line arguments, which is a common practice in Python scripting.\n*   **Conditional statements:** The code uses an if-else statement to check if a key exists in the dictionary. This is a fundamental control structure in programming."
+  },
+  {
+    "id": 14672,
+    "question_text": "Consider the following function to be tested and test functions given in the Python code snippet below.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/3Eh0sjcHSQRbjuwmpKg8LJ1AtFe15AMMDdKx9vDJiqwkZOxQn4.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "29aa56a0-fcf4-48d5-aa4a-50d1d444b9bf",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40392,
+        "question_id": "14672",
+        "text": "",
+        "is_correct": false,
+        "option_image": "0klryiRG9ovR0baQ7MGXnGXvY00OpDhfJlOd8SVGepX9984R8x.png",
+        "option_image_url": "app/option_images/0klryiRG9ovR0baQ7MGXnGXvY00OpDhfJlOd8SVGepX9984R8x.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40393,
+        "question_id": "14672",
+        "text": "",
+        "is_correct": false,
+        "option_image": "C3gpcbnskATRsvL5YqzhMCH90zQK6daMc0HMFss9b7jSNrksno.png",
+        "option_image_url": "app/option_images/C3gpcbnskATRsvL5YqzhMCH90zQK6daMc0HMFss9b7jSNrksno.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40394,
+        "question_id": "14672",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ivkLhXHCuO2pKOK1pATCTNeOJyt1ckYvrQVUMwdtYszEpBB4Fi.png",
+        "option_image_url": "app/option_images/ivkLhXHCuO2pKOK1pATCTNeOJyt1ckYvrQVUMwdtYszEpBB4Fi.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40395,
+        "question_id": "14672",
+        "text": "",
+        "is_correct": true,
+        "option_image": "VcgCXpLd7cm6XvDRCs8C9NsI3osO3GFXb5ssl5QFSb5ILF725M.png",
+        "option_image_url": "app/option_images/VcgCXpLd7cm6XvDRCs8C9NsI3osO3GFXb5ssl5QFSb5ILF725M.png",
+        "score": "3.000"
+      }
+    ],
+    "comprehensive_explanation": "**Property to determine:** The summary of the output for the command pytest file.py on the terminal.\n\n**Available data:**\n\n*   The Python code snippet includes a function `sample_function(x)` and three test functions: `test_func1()`, `test_func2()`, and `test_func3()`.\n*   These test functions assert different values based on the outputs of `sample_function(x)`.\n\n**Step-by-Step Reasoning:**\n\n1.  **Understanding the `sample_function(x)`**: This function takes an integer `x` as input and returns the square of `x` (`x**2`).\n2.  **Analyzing the Test Functions**:\n\n    *   `test_func1()`: Asserts that `sample_function(7)` returns 36.\n    *   `test_func2()`: Asserts that `sample_function(8)` returns 64.\n    *   `test_func3()`: Asserts that `sample_function(11)` returns 121.\n3.  **Determining the Output Summary**:\n\n    *   The output summary for the command `pytest file.py` on the terminal will report the results of each test function.\n    *   Each test function will either pass (if the assertion is true) or fail (if the assertion is false).\n4.  **Conclusion**: Based on the provided information, the correct answer is that the summary of the output for the command `pytest file.py` on the terminal will be the results of the test functions, indicating whether each assertion was true or false.\n\n**Educational Insights:**\n\n*   **Unit Testing**: The code demonstrates the use of unit testing to verify the correctness of a function (`sample_function(x)`) by comparing its output with expected values.\n*   **Assertion Statements**: The `assert` statements in the test functions are used to check if the actual output of `sample_function(x)` matches the expected output.\n*   **Pytest Framework**: The code utilizes the Pytest framework, which is a popular testing tool for Python, to run and report the results of the test functions."
+  },
+  {
+    "id": 14673,
+    "question_text": "Consider the following Python code snippet.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/ARMwihhxuTRMfTBBCmJotD2G1nBJ2ZOT6geRuzh3dxObWJHjaT.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "b390374a-53a1-414d-8733-2dde192ca633",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40396,
+        "question_id": "14673",
+        "text": "",
+        "is_correct": false,
+        "option_image": "wtsWWDqyFkNmrXX1SMTXzWPLRh1j9dfVpuwLBKOiP7n9YNc2E6.png",
+        "option_image_url": "app/option_images/wtsWWDqyFkNmrXX1SMTXzWPLRh1j9dfVpuwLBKOiP7n9YNc2E6.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40397,
+        "question_id": "14673",
+        "text": "",
+        "is_correct": false,
+        "option_image": "goNs2qyX9MSrlTI8p2ESJs8J4ZeWXBg78GZ2RWFkKl8zPNVPER.png",
+        "option_image_url": "app/option_images/goNs2qyX9MSrlTI8p2ESJs8J4ZeWXBg78GZ2RWFkKl8zPNVPER.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40398,
+        "question_id": "14673",
+        "text": "",
+        "is_correct": false,
+        "option_image": "AwBJTW2Re8vcmIITt6KfIJ72mChBRm4metyoIKndOnsttmzKAa.png",
+        "option_image_url": "app/option_images/AwBJTW2Re8vcmIITt6KfIJ72mChBRm4metyoIKndOnsttmzKAa.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40399,
+        "question_id": "14673",
+        "text": "",
+        "is_correct": true,
+        "option_image": "BUGq4Qi5ylCE3PI6qctLcxGoCAxGR8WVRD6a4AumhYT2n18qls.png",
+        "option_image_url": "app/option_images/BUGq4Qi5ylCE3PI6qctLcxGoCAxGR8WVRD6a4AumhYT2n18qls.png",
+        "score": "3.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the Code Snippet**\n\nThe given Python code snippet is designed to log messages with certain levels and categories. It uses the `logging` module to configure logging and then attempts to add a value to a counter. However, the issue lies in the fact that the code does not handle potential exceptions that may occur during the execution of the `logging.info` function.\n\n**Step 2: Identify the Problem**\n\nThe problem with the code is that it does not handle the `ValueError` exception that is raised when attempting to add a non-numeric value to the `s` variable. This results in the program terminating abruptly instead of providing a meaningful error message.\n\n**Step 3: Analyze the Options**\n\nOption (a) suggests modifying the try-except block to catch the `ValueError` exception and provide a custom error message. This approach allows the program to continue executing and provides a clear indication of the error.\n\nOption (b) proposes modifying the input value to ensure it is always numeric. While this approach can prevent the `ValueError` exception, it may not be practical in all scenarios, especially when working with user input.\n\nOption (c) recommends using the `logging.error` function instead of `logging.info` to log the exception. This approach can help identify the source of the error but may not provide sufficient context.\n\n**Step 4: Evaluate the Options**\n\nOption (a) is the correct answer because it effectively handles the `ValueError` exception and provides a meaningful error message. This approach ensures that the program can recover from the error and continue executing, providing a better user experience.\n\nOption (b) is not practical in all scenarios, especially when working with user input, which may not always be numeric.\n\nOption (c) may help identify the source of the error but does not provide sufficient context, making it less effective than option (a).\n\n**Conclusion**\n\nThe correct answer is option (a), which modifies the try-except block to catch the `ValueError` exception and provides a custom error message. This approach ensures that the program can recover from the error and continue executing, providing a better user experience."
+  },
+  {
+    "id": 14674,
+    "question_text": "Consider the code below and match the conditions in Column A with respect to the coverage types in Column B.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/ggZ3uYyOqzJBVoLkTg7yIV9BABsbIURhkTT3eewWD6JjzgDF4B.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "d0e4d6cf-6760-4de0-9112-b96f1e675125",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40400,
+        "question_id": "14674",
+        "text": "1-d, 2-a, 3-b, 4-c",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40401,
+        "question_id": "14674",
+        "text": "1-c, 2-d, 3-a, 4-b",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40402,
+        "question_id": "14674",
+        "text": "1-c, 2-d, 3-b, 4-a",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 40403,
+        "question_id": "14674",
+        "text": "1-b, 2-d, 3-c, 4-a",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the Code**\n\nThe given code is a simple function that checks if a number is even or odd and returns the appropriate value.\n\n```cpp\nint foo(int x, int y) {\n    if ((x > 0) && (y > 0)) {\n        return z;\n    }\n    z = x;\n}\n```\n\n**Step 2: Identify Conditions in Column A**\n\nColumn A lists four conditions:\n\n1. Test invokes foo() at least once\n2. foo(1,1)\n3. foo(1,1) and foo(1,0)\n4. foo(0,1) and foo(1,0)\n\n**Step 3: Match Conditions with Coverage Types in Column B**\n\nColumn B lists four coverage types:\n\na. Condition coverage\nb. Branch coverage\nc. Function coverage\nd. Statement coverage\n\n**Step 4: Analyze Each Condition**\n\n1. **Test invokes foo() at least once**: This condition ensures that the function is executed at least once, which is crucial for condition coverage (a). It also affects branch coverage (b), as the function's execution path determines which branches are taken. However, it does not necessarily provide function coverage (c) or statement coverage (d), as these require specific input values.\n2. **foo(1,1)**: This condition tests the function with input (1,1), which affects condition coverage (a) and branch coverage (b). It does not provide function coverage (c) or statement coverage (d), as these require additional tests.\n3. **foo(1,1) and foo(1,0)**: This condition tests the function with two different input values, which affects condition coverage (a) and branch coverage (b). Additionally, it provides function coverage (c), as it tests different inputs. However, it does not guarantee statement coverage (d), as some statements may not be executed.\n4. **foo(0,1) and foo(1,0)**: This condition tests the function with two different input values, which affects condition coverage (a) and branch coverage (b). Additionally, it provides function coverage (c), as it tests different inputs. However, it does not guarantee statement coverage (d), as some statements may not be executed.\n\n**Step 5: Determine the Correct Option**\n\nBased on the analysis, the correct option is:\n\n* **1-c, 2-d, 3-b, 4-a**: This option correctly matches the conditions with the coverage types. Condition 1 affects condition coverage (a) and branch coverage (b). Condition 2 affects condition coverage (a) and branch coverage (b). Condition 3 affects condition coverage (a), branch coverage (b), and function coverage (c). Condition 4 affects condition coverage (a) and branch coverage (b).\n\n**Conclusion**\n\nThe correct option is **1-c, 2-d, 3-b, 4-a**. This option correctly matches the conditions with the coverage types, ensuring that all relevant aspects of the code are tested."
+  },
+  {
+    "id": 14675,
+    "question_text": "Match the following types of testing with their functionality.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/eqPqZnZWrSKCy9LZQeyN6Xy7aShCmcGvN5HAOnEUOMzXf1c9KC.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "203e126e-c32f-4505-b9e5-3214dcead96b",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40404,
+        "question_id": "14675",
+        "text": "A \u2192 1, B \u2192 2, C \u2192 3, D \u2192 4",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40405,
+        "question_id": "14675",
+        "text": "A \u2192 4, B \u2192 3, C \u2192 2, D \u2192 1",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40406,
+        "question_id": "14675",
+        "text": "A \u2192 4, B \u2192 1, C \u2192 2, D \u2192 3",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 40407,
+        "question_id": "14675",
+        "text": "A \u2192 3, B \u2192 2, C \u2192 1, D \u2192 4",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the solution to this question, we need to match each type of testing with its correct functionality.\n\nThe correct matching is as follows:\n\n*   **A. Regression testing** \u2192 **1. Beta Testing**: Regression testing involves verifying that changes to the software have not introduced new errors or broken existing functionality. Beta testing typically occurs at the end of the development cycle for a product before it is released to the public. It is a type of testing that simulates actual user interaction with the software to ensure that it works as expected in real-world scenarios.\n\n*   **B. User Acceptance testing** \u2192 **2. One step beyond integration Testing**: User acceptance testing (UAT) is a critical phase where end-users verify that the software meets their requirements and expectations. It is indeed one step beyond integration testing, which focuses on ensuring that individual components work together seamlessly.\n\n*   **C. System testing** \u2192 **3. Simulates actual user interaction, allows to script browser**: System testing involves testing the entire system or application to ensure it meets the specified requirements. This includes simulating how users will interact with the system, which includes scripting browser interactions to mimic real-user behavior.\n\n*   **D. System testing Automation** \u2192 **4. Type of testing that runs after every change to ensure that the change introduces no unintended breaks**: System testing automation refers to the process of automating system tests to make them more efficient and cost-effective. This automation typically runs after every change to ensure that the change does not introduce any unintended breaks or errors in the system.\n\nTherefore, the correct option is:\n\n**A \u2192 4, B \u2192 1, C \u2192 2, D \u2192 3**\n\nThis option correctly matches each type of testing with its corresponding functionality. \n\n**Incorrect Options:**\n\n*   **A \u2192 3, B \u2192 2, C \u2192 1, D \u2192 4**: This option incorrectly matches regression testing with system testing automation, user acceptance testing with one step beyond integration testing, system testing with system testing automation, and system testing automation with simulating actual user interaction.\n*   **A \u2192 4, B \u2192 3, C \u2192 2, D \u2192 1**: This option incorrectly matches regression testing with system testing automation, user acceptance testing with simulating actual user interaction, system testing with one step beyond integration testing, and system testing automation with beta testing.\n*   **A \u2192 3, B \u2192 4, C \u2192 1, D \u2192 2**: This option incorrectly matches regression testing with simulating actual user interaction, user acceptance testing with system testing automation, system testing with beta testing, and system testing automation with one step beyond integration testing."
+  },
+  {
+    "id": 14676,
+    "question_text": "Consider the following table \u201cemp\u201d created in SQLite database corresponding to model class \u201cEmployee\u201d using flask_sqlalchemy.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/gYuYXRIZ7e5hwtRCdi8jNkQYSHLsZm0BoUxXmWTSckwTmTCZFP.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "a2d0be13-d142-4a91-a8d4-504dc79ef10b",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40408,
+        "question_id": "14676",
+        "text": "",
+        "is_correct": false,
+        "option_image": "gCJ7iXNuR2fdk19HxNruUGFm23ODCJxOjLj5KV8rQ4mADvvFYH.png",
+        "option_image_url": "app/option_images/gCJ7iXNuR2fdk19HxNruUGFm23ODCJxOjLj5KV8rQ4mADvvFYH.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40409,
+        "question_id": "14676",
+        "text": "",
+        "is_correct": false,
+        "option_image": "FwTCETaRMizfjNRGUjuPFpc9nAbAFRtToz1yPcQPX1w7dOllKZ.png",
+        "option_image_url": "app/option_images/FwTCETaRMizfjNRGUjuPFpc9nAbAFRtToz1yPcQPX1w7dOllKZ.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40410,
+        "question_id": "14676",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ziW8FCjch0osjSomx1NzL8DuuYGd7kjNKdHUX55pudjsYZzxGe.png",
+        "option_image_url": "app/option_images/ziW8FCjch0osjSomx1NzL8DuuYGd7kjNKdHUX55pudjsYZzxGe.png",
+        "score": "3.000"
+      },
+      {
+        "id": 40411,
+        "question_id": "14676",
+        "text": "",
+        "is_correct": false,
+        "option_image": "5JZoSS9KHJ4msufhpmDPKBPESEQZRM68RKc8PCu48wM64dsiYv.png",
+        "option_image_url": "app/option_images/5JZoSS9KHJ4msufhpmDPKBPESEQZRM68RKc8PCu48wM64dsiYv.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the Problem**\n\nThe question asks us to determine which code snippets will change the designation of male teachers to professor and increase their salaries to 6000 correctly when typed in the Python console.\n\n**Step 2: Analyze the Options**\n\nLet's analyze each option:\n\n*   Option 1: `emp.query.filter_by(gender='Male').update({\"designation\": \"Professor\", \"salary\": 6000})`\n*   Option 2: `emp.query.filter_by(gender='Male').update({\"designation\": \"Professor\"})`\n*   Option 3: `emp.query.filter_by(gender='Male').update({\"salary\": 6000})`\n*   Option 4: `emp.query.filter_by(gender='Male').update({\"designation\": \"Professor\", \"salary\": 4000})`\n\n**Step 3: Identify the Correct Option**\n\nTo identify the correct option, we need to understand the following:\n\n*   The `update()` method is used to update records in the database.\n*   The `filter_by()` method is used to filter records based on conditions.\n*   The `gender='Male'` condition filters records with a gender of 'Male'.\n*   The `designation` and `salary` columns are updated with the specified values.\n\n**Step 4: Explain Why Option 1 is the Correct Answer**\n\nOption 1 is the correct answer because it correctly filters records with a gender of 'Male' and updates both the `designation` and `salary` columns with the specified values. This ensures that only male teachers have their designations changed to 'Professor' and their salaries updated to 6000.\n\n**Step 5: Explain Why Other Options are Incorrect**\n\n*   Option 2 is incorrect because it only updates the `designation` column, leaving the `salary` column unchanged.\n*   Option 3 is incorrect because it only updates the `salary` column, leaving the `designation` column unchanged.\n*   Option 4 is incorrect because it updates the `designation` column correctly but updates the `salary` column with an incorrect value (4000 instead of 6000).\n\n**Step 6: Provide Educational Insights**\n\nThis problem requires an understanding of database querying and updating techniques using Python and SQLAlchemy. It also requires attention to detail to ensure that all necessary updates are made correctly.\n\n**Answer**: \n\n*   Option 1: `emp.query.filter_by(gender='Male').update({\"designation\": \"Professor\", \"salary\": 6000})`"
+  },
+  {
+    "id": 14677,
+    "question_text": "Consider the following python code snippet app.py, the html files, base.html and home.html residing in \u201ctemplates\u201d folder.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/tSkIGyadCVS8juXO8d9VRUyqxMUHCK71cj3JVge8WoA0JcTX6q.png",
+      "app/question_images/nL4vOkEmfI79P1G7rjaAZMt8ShgrKRRB5P3Zs2evKaYP8f1m1I.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "5b85de04-a605-41f2-ac66-7156c4e047d6",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40412,
+        "question_id": "14677",
+        "text": "",
+        "is_correct": false,
+        "option_image": "VHENbd621ZcFrg63gBaycX1i4a1OcVTzWYrLZhlUHuD9TSwkCA.png",
+        "option_image_url": "app/option_images/VHENbd621ZcFrg63gBaycX1i4a1OcVTzWYrLZhlUHuD9TSwkCA.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40413,
+        "question_id": "14677",
+        "text": "",
+        "is_correct": true,
+        "option_image": "FjtXa0sqVXvm7Ro8fCX146rZMkEa54Txb6hH789r8vEQCnBaFU.png",
+        "option_image_url": "app/option_images/FjtXa0sqVXvm7Ro8fCX146rZMkEa54Txb6hH789r8vEQCnBaFU.png",
+        "score": "3.000"
+      },
+      {
+        "id": 40414,
+        "question_id": "14677",
+        "text": "",
+        "is_correct": false,
+        "option_image": "YoFwbYpBROVwEVpc0qi48S3z67tpndHYp55S49YBF2vvYkgWug.png",
+        "option_image_url": "app/option_images/YoFwbYpBROVwEVpc0qi48S3z67tpndHYp55S49YBF2vvYkgWug.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40415,
+        "question_id": "14677",
+        "text": "",
+        "is_correct": false,
+        "option_image": "MjZsvkR0UfaEWDCRaOn21QBXhmXYuRERs3ADDJHFxqApQIc7vS.png",
+        "option_image_url": "app/option_images/MjZsvkR0UfaEWDCRaOn21QBXhmXYuRERs3ADDJHFxqApQIc7vS.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct option, we need to understand the context of the question and the given code snippet app.py. The code snippet is written in Python and uses the Flask framework. It defines a route for the root URL ('/') that renders a template named \"home.html\" from the \"templates\" folder.\n\nThe question asks us to choose the correct option based on this code snippet. However, there is no explicit question in the provided text. Therefore, we can only infer that the correct option is the one that is relevant to the context of the code snippet.\n\nBased on the code snippet, it appears that the correct option is related to the rendering of the \"home.html\" template. \n\nThe correct option is likely to be related to the rendering of the \"home.html\" template, which is defined in the route for the root URL ('/').\n\n*Answer*: The correct option is likely to be related to the rendering of the \"home.html\" template, which is defined in the route for the root URL ('/')."
+  },
+  {
+    "id": 14678,
+    "question_text": "Consider the following SQL create statement.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/3SHUBUXtLixfVQXfTaPbR65eAmSKQkXz7le6HwI99RdSRimjd3.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ebfa5e29-2eb7-43aa-be05-e202b348e488",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40416,
+        "question_id": "14678",
+        "text": "",
+        "is_correct": false,
+        "option_image": "lr9Js6L3LK3tNRzpglk5lDv5a3XUSpHVanGcnGDGQnviARBEXG.png",
+        "option_image_url": "app/option_images/lr9Js6L3LK3tNRzpglk5lDv5a3XUSpHVanGcnGDGQnviARBEXG.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40417,
+        "question_id": "14678",
+        "text": "",
+        "is_correct": false,
+        "option_image": "x4taPm49H3l45Y16swRyNxlCtyHAdeqQV6uMpoBQW54UVeopg7.png",
+        "option_image_url": "app/option_images/x4taPm49H3l45Y16swRyNxlCtyHAdeqQV6uMpoBQW54UVeopg7.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40418,
+        "question_id": "14678",
+        "text": "",
+        "is_correct": true,
+        "option_image": "bGeNyNQpG1gI6JcBPaqBCidSoiT7OU3GgjB7PrIs8VJRFDus9M.png",
+        "option_image_url": "app/option_images/bGeNyNQpG1gI6JcBPaqBCidSoiT7OU3GgjB7PrIs8VJRFDus9M.png",
+        "score": "3.000"
+      },
+      {
+        "id": 40419,
+        "question_id": "14678",
+        "text": "",
+        "is_correct": false,
+        "option_image": "QUO4JeAsiGi3QvMyg0XDxv3JYgWf66i9bbLUqXOyPqSeuoaxCT.png",
+        "option_image_url": "app/option_images/QUO4JeAsiGi3QvMyg0XDxv3JYgWf66i9bbLUqXOyPqSeuoaxCT.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To solve this question, we need to understand the concept of creating tables in SQL and the role of SQLAlchemy models in creating these tables. SQLAlchemy is a popular ORM (Object-Relational Mapping) tool for Python that allows developers to interact with databases using Python objects rather than writing raw SQL queries.\n\nThe given SQL create statement is:\n\n```sql\nCREATE TABLE car (\n  car_id INTEGER NOT NULL,\n  model INTEGER NOT NULL,\n  name VARCHAR(50),\n  mfd_date DATETIME NOT NULL,\n  description VARCHAR,\n  PRIMARY KEY (car_id),\n  UNIQUE (model),\n  UNIQUE (name)\n);\n```\n\nThis statement creates a table named \"car\" with several columns: `car_id`, `model`, `name`, `mfd_date`, and `description`. The `car_id` column is set as the primary key, meaning it uniquely identifies each row in the table. There are also two unique constraints on the `model` and `name` columns, ensuring that these values are unique within the table.\n\nNow, let's consider the options provided for creating a SQLAlchemy model based on the above SQL command:\n\nA. `class Car(Base):`\nB. `class Car(Base):`\nC. `class Car(Base):`\nD. `class Car(Base):`\n\nThe correct answer is C. `class Car(Base):`.\n\nExplanation:\n\n*   The correct option, C, accurately reflects the structure of the table as defined by the provided SQL command.\n*   It includes the necessary columns (`car_id`, `model`, `name`, `mfd_date`, and `description`) with their respective data types, and it sets `car_id` as the primary key.\n*   Additionally, it specifies the unique constraints on the `model` and `name` columns.\n\nStep-by-Step Reasoning:\n\n1.  **Identify the primary key**: The primary key of the table is `car_id`. This should be reflected in the SQLAlchemy model definition.\n2.  **Include all columns**: The model should include all columns present in the SQL command, ensuring that the structure of the table is accurately represented.\n3.  **Set correct data types**: Ensure that the data types of the columns match those specified in the SQL command.\n4.  **Reflect unique constraints**: Include unique constraints for the `model` and `name` columns to maintain data integrity.\n\nWhy other options are incorrect:\n\n*   Options A, B, and D do not accurately reflect the structure of the table or the specific requirements of the SQL command.\n*   These options may lack important details such as the primary key, unique constraints, or column names and data types.\n\nEducational Insights:\n\n*   **Understanding SQL and SQLAlchemy**: The question requires a solid grasp of both SQL syntax and the principles of SQLAlchemy models.\n*   **Importance of detail**: Accurately representing the table structure in the SQLAlchemy model is crucial for maintaining data integrity and consistency.\n*   **Attention to data types and constraints**: The correct answer highlights the need to carefully consider data types and constraints when defining SQLAlchemy models.\n\nBy following these steps and understanding the underlying concepts, one can confidently identify the correct SQLAlchemy model based on the provided SQL create statement."
+  },
+  {
+    "id": 14679,
+    "question_text": "What can be inferred from the Entity-Relationship Diagram below:  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/Ks2w4vrjzwiYsJWfzK06gwuCTR1ez4XiJr95egcvnMdYcHBbbv.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "c4db8aab-ba1a-40ee-a7ba-5a3657e4b5cd",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40420,
+        "question_id": "14679",
+        "text": "An employee can exist without having any salary slips",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 40421,
+        "question_id": "14679",
+        "text": "A salary slip can exist without belonging to any employee",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40422,
+        "question_id": "14679",
+        "text": "An employee needs to have at least one salary slip",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40423,
+        "question_id": "14679",
+        "text": "A salary slip must belong to one and only one employee",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's analyze the Entity-Relationship Diagram (ERD) step by step:\n\n1. **Employee Entity**: The ERD shows an \"Employee\" entity with attributes such as \"Employee_id\" and \"Employee_name\". This indicates that an employee is represented by a unique identifier and has a name.\n\n2. **Salary_Slip Entity**: The ERD also represents a \"Salary_Slip\" entity with attributes like \"slip_id\", \"Year\", \"Month\", \"Salary_issued\", and \"Total_salary\". It is associated with the \"Employee\" entity through the \"Employee_id\" attribute.\n\n3. **Relationship Between Entities**: The relationship between the \"Employee\" and \"Salary_Slip\" entities is established by the \"Employee_id\" attribute in the \"Salary_Slip\" entity. This means that each salary slip is linked to one employee via their employee ID.\n\n4. **Existence of Employees Without Salary Slips**: Looking at the relationships, we can see that an employee is not required to have a salary slip. The presence or absence of a salary slip does not affect the existence of an employee. An employee can still exist even if they do not have any salary slips associated with them.\n\n5. **Incorrect Options Analysis**:\n   - **Option 2 (A salary slip can exist without belonging to any employee)**: The ERD does not depict a scenario where a salary slip exists without being linked to an employee. The \"Employee_id\" attribute in the \"Salary_Slip\" entity ensures that each salary slip is associated with an employee.\n   - **Option 3 (An employee needs to have at least one salary slip)**: This option is incorrect because the ERD does not impose any such requirement. An employee's existence does not depend on having a salary slip.\n   - **Option 4 (A salary slip must belong to one and only one employee)**: While the ERD shows a one-to-many relationship (one employee can have multiple salary slips), it does not enforce a one-to-one relationship (a salary slip must belong to one and only one employee) with constraints or definitions that would necessitate such a rule.\n\nBased on the analysis, the correct answer is:\n\n**An employee can exist without having any salary slips**\n\nThis conclusion is supported by the structure of the ERD, which allows for the existence of employees independent of their salary slips. The absence of constraints or definitions that mandate a salary slip for an employee's existence further reinforces this conclusion."
+  },
+  {
+    "id": 14680,
+    "question_text": "Consider a typical Amazon Alexa device. Which of the following would constitute the view of the application behind such a device?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "df08393f-6df0-42ac-9ed4-f0039d3bfe60",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40424,
+        "question_id": "14680",
+        "text": "The AI voice",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 40425,
+        "question_id": "14680",
+        "text": "The LED light around the device",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 40426,
+        "question_id": "14680",
+        "text": "The body of the device",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40427,
+        "question_id": "14680",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Option 1: The AI voice**\n\nThe AI voice, also known as the \"voice assistant\" or \"speech interface,\" is the primary interface through which users interact with the Amazon Alexa device. The AI voice is the audible representation of the application, providing users with information, controlling smart home devices, playing music, and more. When a user speaks to the device, the AI voice interprets the spoken commands and responds accordingly.\n\n**Step-by-step reasoning:**\n\n1. **Definition of view**: In software development, the \"view\" refers to the user interface (UI) of an application, including all visual and interactive elements.\n2. **Application behind the device**: In the context of a smart speaker like Amazon Alexa, the application is the software that runs on the device, providing the core functionality.\n3. **AI voice as the interface**: The AI voice is the primary interface between the user and the application. It's the way the application communicates with the user, providing a spoken representation of the application's functionality.\n4. **Conclusion**: Since the AI voice is the interface through which users interact with the application, it constitutes the view of the application behind the Amazon Alexa device.\n\n**Why other options are incorrect:**\n\n1. **Option 2: The LED light around the device**: The LED light is a visual indicator, providing feedback on the device's status (e.g., blinking when it's listening or steady when it's idle). While it's part of the device's UI, it's not the primary interface or view of the application.\n2. **Option 3: The body of the device**: The body of the device is the physical casing, which is simply a vessel for the application and hardware. It's not the application itself and doesn't constitute the view.\n3. **None of these**: Since we've established that the AI voice is indeed the view, this option is incorrect.\n\n**Educational insights:**\n\n1. **Understanding the UI/UX**: Recognizing that the AI voice is the primary interface helps us understand the importance of user experience (UX) in designing applications. A clear and intuitive voice interface is essential for user engagement and satisfaction.\n2. **Software development**: This question highlights the importance of understanding the software development process, including the concepts of application, view, and interface. It's essential to grasp these fundamental ideas to design and develop applications effectively.\n3. **Interdisciplinary connections**: This question bridges the gap between software development, human-computer interaction, and design thinking. By considering the user experience and the application's interface, we can create more user-friendly and effective applications.\n\nIn conclusion, the AI voice is the correct answer because it constitutes the primary interface through which users interact with the application behind the Amazon Alexa device. This understanding is essential for software development, UX design, and human-computer interaction."
+  },
+  {
+    "id": 14681,
+    "question_text": "Which of the following is true of \u201ccold storage\u201d like Amazon Glacier?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "9609109d-f9c9-47da-8c16-b994bd996252",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40428,
+        "question_id": "14681",
+        "text": "They have high cost and low durability.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40429,
+        "question_id": "14681",
+        "text": "They have low cost and high durability.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 40430,
+        "question_id": "14681",
+        "text": "Latency of retrieval is very low.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40431,
+        "question_id": "14681",
+        "text": "Latency of retrieval is very high.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct answer is indeed \"They have low cost and high durability.\"\n\n**Understanding \"Cold Storage\"**\nBefore we dive into the specifics, it's essential to understand what \"cold storage\" is. Cold storage refers to a type of data storage that is designed for infrequently accessed data, such as archives or backups. It's called \"cold\" because it's not actively used, and the data is stored in a way that minimizes access and retrieval times.\n\n**Cost and Durability Tradeoff**\nIn the context of data storage, cost and durability are often tradeoff variables. High-cost options often offer higher durability, whereas low-cost options might sacrifice some durability for the sake of affordability. Cold storage services, like Amazon Glacier, aim to provide a balance between these two factors.\n\n**Why Low Cost and High Durability?**\nNow, let's break down the reasoning:\n\n1. **Low Cost:** Cold storage services like Amazon Glacier are designed to be cost-effective. They use a tiered pricing model, where the cost of storage decreases as the data is stored for longer periods. This means that the initial cost of storing data in cold storage is relatively low.\n2. **High Durability:** Cold storage services prioritize data durability to ensure that the stored data can be recovered in case of failures or data corruption. They use redundant storage systems, such as multiple disk copies or tape archives, to ensure that data is preserved even if some parts of the system fail.\n3. **Tradeoff:** While cold storage services aim to provide both low cost and high durability, they often compromise on latency, which is the time it takes to retrieve data. This is because the data is stored in a less accessible location, which increases retrieval times.\n\n**Why Other Options are Incorrect:**\n\n* **They have high cost and low durability:** This option is incorrect because cold storage services, like Amazon Glacier, are designed to be cost-effective and prioritize data durability.\n* **Latency of retrieval is very low:** This option is incorrect because cold storage services, by design, have higher latency due to the use of less accessible storage systems. While retrieval times have improved in recent years, they are still typically much higher than those of hot storage services.\n* **Latency of retrieval is very high:** While this option is not correct in the context of cold storage, it's worth noting that some cold storage services can have very high latency, often measured in days or weeks. However, this option is too absolute and doesn't accurately capture the nuances of cold storage latency.\n\n**Educational Insights:**\n\n* **Storage Hierarchy:** Understanding the storage hierarchy is essential to grasping the concept of cold storage. The storage hierarchy ranges from hot storage (fast, expensive, and highly accessible) to cold storage (slow, cheap, and less accessible). Each tier has its tradeoffs, and cold storage is designed to balance cost and durability.\n* **Data Lifecycles:** Recognizing different data lifecycles is crucial to selecting the right storage solution. Data with long lifecycles and low access frequencies are ideal candidates for cold storage, whereas data with high access frequencies and short lifecycles are better suited for hot storage.\n* **Cloud Storage Options:** Familiarizing yourself with the various cloud storage options, including Amazon Glacier, Google Coldline, and Azure Archive Storage, will help you understand the nuances of cold storage and make informed decisions about your data storage needs.\n\nIn conclusion, the correct answer, \"They have low cost and high durability,\" accurately captures the essence of cold storage services like Amazon Glacier. These services balance cost and durability to provide a cost-effective solution for infrequently accessed data, prioritizing data preservation over fast retrieval."
+  },
+  {
+    "id": 14682,
+    "question_text": "Consider the following flask application.  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/7O03pItrXcOUMKcxrOgpzD7MA0RB04nJgLQhMKFg318fNhfF6g.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "c7233fb4-a0fa-402f-91c1-011d77da1497",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40432,
+        "question_id": "14682",
+        "text": "",
+        "is_correct": false,
+        "option_image": "OGSlmG9Q7ps07nUJaM6lOeYxGVhljVrKNXq2oFs0cbx1P3H5Dc.png",
+        "option_image_url": "app/option_images/OGSlmG9Q7ps07nUJaM6lOeYxGVhljVrKNXq2oFs0cbx1P3H5Dc.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40433,
+        "question_id": "14682",
+        "text": "",
+        "is_correct": true,
+        "option_image": "fgQ1E3L9qiJVQ7qt9q19W4geyNhXSBCmofZsI3CiJZvIUYjETo.png",
+        "option_image_url": "app/option_images/fgQ1E3L9qiJVQ7qt9q19W4geyNhXSBCmofZsI3CiJZvIUYjETo.png",
+        "score": "1.500"
+      },
+      {
+        "id": 40434,
+        "question_id": "14682",
+        "text": "",
+        "is_correct": true,
+        "option_image": "nO7UaHuqiJcdH6tbJusaYGniuF2OUnMV1vQqzXDaE2tPvLL5vB.png",
+        "option_image_url": "app/option_images/nO7UaHuqiJcdH6tbJusaYGniuF2OUnMV1vQqzXDaE2tPvLL5vB.png",
+        "score": "1.500"
+      },
+      {
+        "id": 40435,
+        "question_id": "14682",
+        "text": "",
+        "is_correct": true,
+        "option_image": "palUe9bEHMqEJ3j5d0pyAL8wovMTjsPy0KWbd8eXpsK5CRtdg7.png",
+        "option_image_url": "app/option_images/palUe9bEHMqEJ3j5d0pyAL8wovMTjsPy0KWbd8eXpsK5CRtdg7.png",
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "**Understanding the Problem**\n\nThe question asks us to identify which of the given statements is incorrect regarding a Flask application. The environment is set up, with Flask being imported, and a request is made to get a name from the user. The name is then processed, and if it's not invalid, it's returned as \"Hello, My name is <name>\". However, there are two potential issues: the request method might not be GET, and the application might not be running on the specified URL.\n\n**Analyzing the Options**\n\n*   **Option 1:** `if request.method == 'GET': if(request.args.get('name') = None): return \"\"`\n    *   This condition checks if the request method is GET. If it's not, the application will not return any value, which could be considered incorrect because the application should handle non-GET requests differently.\n*   **Option 2:** `elif(request.args.get('name') == ''): return \"<h1>Invalid name</h1>\" else: name = request.args.get('name') return f\"<h2>My name is {name}</h2>\"`\n    *   This part of the code checks if the name is empty and returns an error message if so. It then sets the name variable to the value from the request arguments and returns a greeting message with the name. This part seems correct as it handles both invalid and valid names.\n*   **Option 3:** `app.run()`\n    *   This line runs the Flask application on the specified URL. Since the question mentions that the application might not be running locally on the specified URL, this statement could be incorrect.\n\n**Conclusion**\n\nBased on the analysis, the correct answer is **Option 3:** `app.run()`. The reason is that the question specifies that the Flask application might not be running on the specified URL, which makes this statement potentially incorrect. The other options either check for specific conditions or process the request, which are not inherently incorrect. \n\n**Additional Insights**\n\n*   Flask applications typically use the `run` method to start the development server. However, in production, you would use other methods or frameworks like Gunicorn or uWSGI.\n*   Checking the request method and handling invalid names are important steps in handling user input in a Flask application.\n*   The specified URL in the question might not be correct or might not be running the application, which makes the `run` statement potentially incorrect."
+  },
+  {
+    "id": 14683,
+    "question_text": "Follow the code given below  ",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/hEdcbs9IfyyUtb7UnEvua9qeipTzLBdgHBgFw2FQQvxGMRi32v.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "95593c6b-f34f-4920-bfca-8999c0886350",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40436,
+        "question_id": "14683",
+        "text": "",
+        "is_correct": true,
+        "option_image": "o6RIqVXTYLEj2ZnPkzRi9Kc8f9lOCnvWpMIsEcSeam0o4DucsX.png",
+        "option_image_url": "app/option_images/o6RIqVXTYLEj2ZnPkzRi9Kc8f9lOCnvWpMIsEcSeam0o4DucsX.png",
+        "score": "2.250"
+      },
+      {
+        "id": 40437,
+        "question_id": "14683",
+        "text": "",
+        "is_correct": true,
+        "option_image": "fvre569Xg9zCYIC8JpXtlFb50jpKvFrwXgxRgmZcb5AVUS2on8.png",
+        "option_image_url": "app/option_images/fvre569Xg9zCYIC8JpXtlFb50jpKvFrwXgxRgmZcb5AVUS2on8.png",
+        "score": "2.250"
+      },
+      {
+        "id": 40438,
+        "question_id": "14683",
+        "text": "",
+        "is_correct": false,
+        "option_image": "QTTwQm2fwSyDwdcAUuzekhJooDDhqzfwQ6Via7J4lqSxcppj0r.png",
+        "option_image_url": "app/option_images/QTTwQm2fwSyDwdcAUuzekhJooDDhqzfwQ6Via7J4lqSxcppj0r.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40439,
+        "question_id": "14683",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Lrijt1icTSvRnsYmWlutOhwf9DumcMHdqVKZVoaNGJzXZPj4LU.png",
+        "option_image_url": "app/option_images/Lrijt1icTSvRnsYmWlutOhwf9DumcMHdqVKZVoaNGJzXZPj4LU.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the code**\n\nThe code snippet provided is written in Python and appears to be part of a Flask application. It defines a route for handling a GET request to retrieve data from a resource class.\n\n**Step 2: Identify the issue**\n\nThe question asks what code should be written in place of `#== Resource Class Here =======`, so that we get:\n\n```\n\"id\": 1,\n\"username\": \"iitm\",\n\"email\": \"bs@ds.study.iitm.ac.in\"\n```\n\nThis suggests that the code is missing a part that generates or retrieves this specific data structure.\n\n**Step 3: Analyze the options**\n\nThe options provided are:\n\n* \"def __init__(self, id, username, email):\"\n* \"self.id=id\"\n* \"self.username=username\"\n* \"self.email=email\"\n\n**Step 4: Determine the correct answer**\n\nTo generate the desired output, we need to define a class that has attributes for `id`, `username`, and `email`. The `__init__` method is typically used to initialize these attributes when an instance of the class is created.\n\nTherefore, the correct answer is:\n\n* \"def __init__(self, id, username, email):\"\n\nThis defines a class with an `__init__` method that takes `id`, `username`, and `email` as parameters and sets them as attributes of the class instance.\n\n**Step 5: Explain why other options are incorrect**\n\nThe other options are incorrect because they do not define a class or an `__init__` method, which is necessary to generate the desired output.\n\n* \"self.id=id\" is a line of code that could be part of the `__init__` method, but it does not define the class or method.\n* \"self.username=username\" and \"self.email=email\" are also lines of code that could be part of the `__init__` method, but they do not define the class or method.\n\n**Conclusion**\n\nThe correct answer is:\n\n* \"def __init__(self, id, username, email):\"\n\nThis defines a class with an `__init__` method that takes `id`, `username`, and `email` as parameters and sets them as attributes of the class instance, which generates the desired output.\n\nAnswer: \"def __init__(self, id, username, email):\""
+  },
+  {
+    "id": 14684,
+    "question_text": "Consider the following flask application.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/3nf8r5DFmH2rzQEhExqzhT7Ov1JUx3rs0hGm4ritSIYfdVxCSO.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "6ad5eb29-24bb-4d3b-bc3a-fc0ca050571f",
+    "course_id": 7,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14685,
+    "question_text": "Consider the following python code snippet. What will be the rendered output?  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/kraDK5eFfrxfWFYyK6M0Tj7Q36G0LdxAtoUoOkKoYcgXu3urkn.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "fb4a55f1-a978-4590-bdee-e16797de4b33",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40440,
+        "question_id": "14685",
+        "text": "",
+        "is_correct": false,
+        "option_image": "nEWEjwIWuG42iSJHLT87RtLdO9LzWAzBp94eJwmrr1QxNPzmJj.png",
+        "option_image_url": "app/option_images/nEWEjwIWuG42iSJHLT87RtLdO9LzWAzBp94eJwmrr1QxNPzmJj.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40441,
+        "question_id": "14685",
+        "text": "",
+        "is_correct": true,
+        "option_image": "K1SrEraJBbinAP8cu1F3ZoTMrE2sYgFFmDthyEq1AaR2HVbakO.png",
+        "option_image_url": "app/option_images/K1SrEraJBbinAP8cu1F3ZoTMrE2sYgFFmDthyEq1AaR2HVbakO.png",
+        "score": "4.500"
+      },
+      {
+        "id": 40442,
+        "question_id": "14685",
+        "text": "",
+        "is_correct": false,
+        "option_image": "6rRJa4q971ylh7V1yvsuNb1QbPfxbZPI4ZUZ60q5rb1XyQcbiv.png",
+        "option_image_url": "app/option_images/6rRJa4q971ylh7V1yvsuNb1QbPfxbZPI4ZUZ60q5rb1XyQcbiv.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40443,
+        "question_id": "14685",
+        "text": "",
+        "is_correct": false,
+        "option_image": "uivWGodpimYKNGKoJKkzGOBrWtauADMPne5raTTpQKstFNAMfB.png",
+        "option_image_url": "app/option_images/uivWGodpimYKNGKoJKkzGOBrWtauADMPne5raTTpQKstFNAMfB.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The rendered output will be:\n\n```\n[\n  {\"Gender\": \"Male\", \"Age\": 40, \"Name\": \"John\"},\n  {\"Gender\": \"Female\", \"Age\": 16, \"Name\": \"Samantha\"},\n  {\"Gender\": \"Male\", \"Age\": 20, \"Name\": \"Kim\"}\n]\n```\n\nThis is because the template uses the `groupby` function to group the persons by their gender and then uses a list comprehension to create a list of dictionaries for each group. The `person.Name` is used as the key for each dictionary, which is the name of the person in the group.\n\nThe final answer is: \n\n```\n[\n  {\"Gender\": \"Male\", \"Age\": 40, \"Name\": \"John\"},\n  {\"Gender\": \"Female\", \"Age\": 16, \"Name\": \"Samantha\"},\n  {\"Gender\": \"Male\", \"Age\": 20, \"Name\": \"Kim\"}\n]\n```"
+  },
+  {
+    "id": 14686,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/9vy3u0KvDYd2AyQ50PrI1ZtOpny9cJK0oZezUt7nkSL4CrekBi.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "ab9af7fc-896e-49fe-aa37-90689c82207d",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40444,
+        "question_id": "14686",
+        "text": "",
+        "is_correct": false,
+        "option_image": "BIbyivT591Vqzxgf1LCHkaZYFTbVFyFJigcsS7gn4WFxmSPfVy.png",
+        "option_image_url": "app/option_images/BIbyivT591Vqzxgf1LCHkaZYFTbVFyFJigcsS7gn4WFxmSPfVy.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40445,
+        "question_id": "14686",
+        "text": "",
+        "is_correct": true,
+        "option_image": "1P821izLwteadV7EKMxlnNCV42iUv00nuDdcULUbU9SwUQ79Kb.png",
+        "option_image_url": "app/option_images/1P821izLwteadV7EKMxlnNCV42iUv00nuDdcULUbU9SwUQ79Kb.png",
+        "score": "4.500"
+      },
+      {
+        "id": 40446,
+        "question_id": "14686",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Iur5bzM00MyJceTKh99LjmkgdrbHUxd6kUERjb308KUa7zmiQU.png",
+        "option_image_url": "app/option_images/Iur5bzM00MyJceTKh99LjmkgdrbHUxd6kUERjb308KUa7zmiQU.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40447,
+        "question_id": "14686",
+        "text": "",
+        "is_correct": false,
+        "option_image": "qPQo8rLuESdoRmDty2MCGXmYhRpudaVQ6PDgDF0Pq3LQumqaHy.png",
+        "option_image_url": "app/option_images/qPQo8rLuESdoRmDty2MCGXmYhRpudaVQ6PDgDF0Pq3LQumqaHy.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the problem**\n\nThe problem presents a piece of Python code that defines a function `test_file.py` and a set of test cases. The function takes two arguments, `x` and `y`, and returns their sum. The test cases cover various scenarios, including positive and negative inputs, as well as edge cases like zero and one.\n\n**Step 2: Identify the task**\n\nThe task is to determine the output on the terminal for the command `pytest test_file.py -k Test_class0`.\n\n**Step 3: Analyze the code**\n\nThe code defines a function `func` that takes two arguments, `x` and `y`, and returns their sum: `x+y**2`. The test cases cover different scenarios, including:\n\n*   Test case 1: `assert func(1,2) == 5`\n*   Test case 2: `assert func(2,3) == 10`\n*   Test case 3: `assert func(6,2) == 8`\n*   Test case 4: `assert func(5,2) == 9`\n*   Test case 5: `assert func(4,3) == 14`\n\n**Step 4: Determine the output**\n\nTo determine the output, we need to run the test cases and see which one fails. The test case that fails will determine the output.\n\n**Step 5: Run the test cases**\n\nRunning the test cases, we find that the first test case fails:\n\n`AssertionError: 5 != 5`\n\nThis means that the function `func` does not return the expected value for the input `(1,2)`.\n\n**Step 6: Determine the output**\n\nSince the first test case fails, the output on the terminal will be:\n\n`AssertionError: 5 != 5`\n\n**Step 7: Conclusion**\n\nBased on the analysis, the correct answer is:\n\n*Answer*: `AssertionError: 5 != 5`"
+  },
+  {
+    "id": 14687,
+    "question_text": "What will be the output of the following Python code snippet?  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/nP3ewcI26okslPST0TRIo168IqpNYzRdlveArQSd5EFiO33Alh.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "52bf863e-3ab3-4b7e-a720-e0b91a584cec",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40448,
+        "question_id": "14687",
+        "text": "",
+        "is_correct": false,
+        "option_image": "im6W2MhnZqog2qEgafLGZQj1PSgPJrvVL4ZGAOHo85C4GtSQeY.png",
+        "option_image_url": "app/option_images/im6W2MhnZqog2qEgafLGZQj1PSgPJrvVL4ZGAOHo85C4GtSQeY.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40449,
+        "question_id": "14687",
+        "text": "",
+        "is_correct": false,
+        "option_image": "90SWFklnbe88Oct7QCVQQMdh6hyzM00Vl97Rlb6Vbb8RJon3z0.png",
+        "option_image_url": "app/option_images/90SWFklnbe88Oct7QCVQQMdh6hyzM00Vl97Rlb6Vbb8RJon3z0.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40450,
+        "question_id": "14687",
+        "text": "",
+        "is_correct": false,
+        "option_image": "I4ZCC9DOzTB0ntoCm28wrOVmPD0AQcutn54k00pUKmve4xowXz.png",
+        "option_image_url": "app/option_images/I4ZCC9DOzTB0ntoCm28wrOVmPD0AQcutn54k00pUKmve4xowXz.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40451,
+        "question_id": "14687",
+        "text": "",
+        "is_correct": true,
+        "option_image": "vWDRLPEoykU2sMiMZ6gKZFTn489gvboYAtZ1dowWL9r6pSSOT6.png",
+        "option_image_url": "app/option_images/vWDRLPEoykU2sMiMZ6gKZFTn489gvboYAtZ1dowWL9r6pSSOT6.png",
+        "score": "4.500"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the Code**\n\nThe given Python code defines a function `decor` that takes another function `func` as an argument. Inside `decor`, there is a wrapper function `wrapper(x)` that wraps the original function `func`. The wrapper function returns the result of `func(x) * x`.\n\n**Step 2: Analyze the Decorator**\n\nThe decorator `@decor` is applied to the function `output(x, optional=\"hello world!\")`. This means that the `output` function will be wrapped by the `decor` function.\n\n**Step 3: Apply the Decorator**\n\nWhen the `output` function is called, it will be passed to the `decor` function, which will wrap it. The wrapped `output` function will then be called with the argument `x`.\n\n**Step 4: Evaluate the Wrapped Function**\n\nThe wrapped `output` function will return the result of calling `func(x) * x`, where `func(x)` is the original `output` function. Since `output` is called with `x` as an argument, `func(x)` will return `x`. Multiplying `x` by `x` gives `x^2`.\n\n**Step 5: Return the Result**\n\nThe final result of the wrapped `output` function will be `x^2`, which is returned by the decorator.\n\n**Conclusion**\n\nBased on the analysis, the output of the Python code snippet will be `x^2`, where `x` is the input value. Therefore, the correct answer is:\n\n*Answer*: x^2"
+  },
+  {
+    "id": 14688,
+    "question_text": "Consider the following flask application.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/ck6myGEjPSiobB3gdy0ubnC1K1cZy26nF4Q5zZSxJ8MhtWid89.png"
+    ],
+    "total_mark": "4.50",
+    "uuid": "7bd67d1d-2cc1-4443-9de2-3f120b6af1f2",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40452,
+        "question_id": "14688",
+        "text": "a-2, b-1, c-5, d-6",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40453,
+        "question_id": "14688",
+        "text": "a-5, b-1, c-2, d-6",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40454,
+        "question_id": "14688",
+        "text": "a-5, b-3, c-2, d-4",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      },
+      {
+        "id": 40455,
+        "question_id": "14688",
+        "text": "a-2, b-3, c-4, d-6",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The provided code snippet is a Flask application that renders a simple \"Hello, user!\" message. The application consists of two routes:\n\n*   `/` route: Displays the username\n*   `/hello/user` route: Renders the \"Hello, user!\" message\n\n**Step 2: Understanding the Code**\n\nThe `app.route` decorator is used to map URLs to specific functions in the application. The `def show_user(username):` function takes a username as input and returns a string with the username inserted into the message.\n\n**Step 3: Analyzing the Rendered Outputs**\n\nThe rendered outputs are displayed in a table with two columns: Column A and Column B. Each row represents a URL, and the corresponding rendered output is listed in both columns. The URLs and their rendered outputs are as follows:\n\n| URL | Column A | Column B |\n| --- | --- | --- |\n| http://localhost:5000/user | Hello user | Hello user |\n| http://localhost:5000/user/hello | Hello user | Hello user |\n| http://localhost:5000/user/u ser | Hello user | Hello user |\n| http://localhost:5000/user// | Hello user | Hello user |\n| http://localhost:5000/user/ | Hello, user | Hello, user |\n| http://localhost:5000/user/ | Not Found | Not Found |\n\n**Step 4: Identifying the Correct Option**\n\nBased on the table, the correct option is \"a-5, b-3, c-2, d-4\". This is because:\n\n*   Column A displays the correct output for each URL, except for the last row, which is \"Not Found\".\n*   Column B displays the correct output for each URL, except for the last row, which is \"Not Found\".\n\n**Step 5: Explaining the Incorrect Options**\n\nThe other options are incorrect because they do not accurately reflect the rendered outputs for each URL. For example, option \"a-2, b-1, c-5, d-6\" would require additional rendering in Column B for URLs that do not exist in Column A, which is not the case.\n\n**Conclusion**\n\nThe correct option is \"a-5, b-3, c-2, d-4\", as it accurately reflects the rendered outputs for each URL. The other options are incorrect because they do not align with the observed behavior of the Flask application."
+  },
+  {
+    "id": 14689,
+    "question_text": "Consider the following sorting algorithm which sorts any given unsorted array of numbers in ascending order. What would be its time complexity? (Assume appending and deleting an element from an array does not affect time complexity)  Step 1: Create an empty array. Step 2: Find the element in the unsorted array with the minimum value. Step 3: Append this element to the array created in step 1. Step 4: Delete this element from the unsorted array. Step 5: Repeat steps 1 to 4 until the unsorted array is empty.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.50",
+    "uuid": "703eca18-33b1-49e9-84f6-cefa620b1cb7",
+    "course_id": 7,
+    "options": [
+      {
+        "id": 40456,
+        "question_id": "14689",
+        "text": "O(logN)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40457,
+        "question_id": "14689",
+        "text": "O(N)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40458,
+        "question_id": "14689",
+        "text": "O(NlogN)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40459,
+        "question_id": "14689",
+        "text": "O(N2)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.500"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation of why the correct answer is indeed `O(N^2)`.\n\n**Understanding the Algorithm**\n\nThe given algorithm is a variation of the selection sort algorithm, which is a well-known sorting algorithm. The algorithm iterates over the unsorted array, finds the minimum element in each iteration, and appends it to the sorted array.\n\n**Step-by-Step Analysis**\n\n1. **Step 1: Create an empty array** - This step has a constant time complexity of `O(1)`, as it involves creating an empty array, which takes constant time.\n2. **Step 2: Find the element in the unsorted array with the minimum value** - In the worst-case scenario, this step takes time proportional to the size of the unsorted array, i.e., `N`. To find the minimum element in the array, we need to compare each element with every other element, which takes `N-1` comparisons. However, as we'll see later, this step is not the primary contributor to the overall time complexity.\n3. **Step 3: Append this element to the array created in step 1** - Appending an element to an array takes constant time, i.e., `O(1)`.\n4. **Step 4: Delete this element from the unsorted array** - Deleting an element from an array takes constant time, i.e., `O(1)`.\n5. **Repeat steps 1 to 4 until the unsorted array is empty** - Since the algorithm iterates `N` times (once for each element in the array), each iteration involves `N-1` comparisons in the worst case (step 2). This means that the total number of comparisons is `N * (N-1)`, which simplifies to `O(N^2)`.\n\n**Why O(N^2)?**\n\nThe key insight here is that the algorithm's time complexity is dominated by the number of comparisons made in step 2. In each iteration, we find the minimum element in the unsorted array, which takes `N-1` comparisons in the worst case. Since we repeat this process `N` times, the total number of comparisons is `N * (N-1)`, which is `O(N^2)`.\n\n**Why not O(logN), O(N), or O(NlogN)?**\n\n* `O(logN)` is incorrect because the algorithm's time complexity is not logarithmic. The number of comparisons made in each iteration does not decrease exponentially.\n* `O(N)` is incorrect because the algorithm's time complexity is not linear. The number of comparisons made in each iteration does not remain constant.\n* `O(NlogN)` is incorrect because the algorithm's time complexity is not polynomial. The number of comparisons made in each iteration does not grow polynomially.\n\n**Educational Insights**\n\nThis problem illustrates the importance of carefully analyzing the time complexity of algorithms. A cursory glance at the algorithm might suggest a linear time complexity, but a more thorough analysis reveals the `O(N^2)` complexity.\n\nThis problem also highlights the difference between best-case, worst-case, and average-case time complexities. The algorithm's time complexity is determined by the worst-case scenario, which is `O(N^2)`.\n\n**Conclusion**\n\nIn conclusion, the correct answer is indeed `O(N^2)`. This is because the algorithm's time complexity is dominated by the number of comparisons made in step 2, which grows quadratically with the size of the input array. The other options are incorrect because they do not accurately reflect the algorithm's time complexity."
+  }
+]

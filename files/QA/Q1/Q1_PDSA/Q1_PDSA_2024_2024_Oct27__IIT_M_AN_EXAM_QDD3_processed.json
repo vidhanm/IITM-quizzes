@@ -1,0 +1,735 @@
+[
+  {
+    "id": 36798,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : PROGRAMMING, DATA STRUCTURES AND ALGORITHMS USING PYTHON (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "399de50a-239d-42d9-afc8-804450413f79",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99951,
+        "question_id": "36798",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99952,
+        "question_id": "36798",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 36799,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/XP9MDUjlxKmlq89Lt22GIVQQFiHwlwFVa7SCcqJw9BEPUlvXXZ.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "20b3a45c-751b-492e-b46c-4eb834fbc907",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99953,
+        "question_id": "36799",
+        "text": "",
+        "is_correct": false,
+        "option_image": "qu9T8N8lQnDgOTdq9QT0erZybZff2Vq4gMNUO7JV69wxyX5cZm.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/qu9T8N8lQnDgOTdq9QT0erZybZff2Vq4gMNUO7JV69wxyX5cZm.png"
+      },
+      {
+        "id": 99954,
+        "question_id": "36799",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Q6ziwsjdU6F6haJiX4ZTByQqoWu0M2StrdLNF6Vn5YegPuvvLe.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/Q6ziwsjdU6F6haJiX4ZTByQqoWu0M2StrdLNF6Vn5YegPuvvLe.png"
+      },
+      {
+        "id": 99955,
+        "question_id": "36799",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Zk0XCFK35UeaPeCiBWkOxUhMWLWzJbABpNnLcAA3dItCkD8SDA.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/Zk0XCFK35UeaPeCiBWkOxUhMWLWzJbABpNnLcAA3dItCkD8SDA.png"
+      },
+      {
+        "id": 99956,
+        "question_id": "36799",
+        "text": "",
+        "is_correct": true,
+        "option_image": "NkDAVl2cSgeYRxYoFnYE2CG85FCIroluW0moOqWVWkrPEn2cHQ.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/NkDAVl2cSgeYRxYoFnYE2CG85FCIroluW0moOqWVWkrPEn2cHQ.png"
+      }
+    ],
+    "answer_explanation": "To determine which input corresponds to a stable sort of this input, we need to analyze the given list and understand what a stable sort is. A stable sort is a sorting algorithm that maintains the relative order of equal elements. In other words, if two elements have the same key, their original order will be preserved in the sorted output.\n\nThe given input list is [8, 'A', 2, 'B', 1, 'C', 8, 'D', 2, 'E', 9, 'F']. We can sort this list in ascending order by its 0-th value, which means we are sorting based on the first element of each pair.\n\nLet's sort the list:\n\n1. 1\n2. 2\n3. 2\n4. 8\n5. 8\n6. 9\n7. 'A'\n8. 'B'\n9. 'C'\n10. 'D'\n11. 'E'\n12. 'F'\n\nFrom the sorted list, we can see that the stable sort of this input would maintain the relative order of equal elements. For example, the two 2s in the original list remain next to each other after sorting, as do the two 8s. This means that the stable sort preserves the original order of equal elements.\n\nTherefore, the input that corresponds to a stable sort is the one where the elements are sorted in ascending order by their 0-th value, which is the entire input list itself.\n\n*Answer*: The entire input list [8, 'A', 2, 'B', 1, 'C', 8, 'D', 2, 'E', 9, 'F']."
+  },
+  {
+    "id": 36800,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/R4lDyVYiUsYMZ0gtj6xDBrnH4RDUuIH5PpHzUMYEIbHNo6yIas.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "9d31ce50-315a-4174-9432-a7ae5a8a71b9",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99957,
+        "question_id": "36800",
+        "text": "1-d, 2-b, 3-c, 4-a",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99958,
+        "question_id": "36800",
+        "text": "1-d, 2-a, 3-c, 4-b",
+        "is_correct": true,
+        "option_image": "",
+        "score": "3.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99959,
+        "question_id": "36800",
+        "text": "1-d, 2-a, 3-b, 4-c",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99960,
+        "question_id": "36800",
+        "text": "1-a, 2-d, 3-c, 4-b",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a table with two columns and four rows, titled \"Select the most appropriate data structure for the following applications.\" The first column lists four applications: \"Listing out the recently opened files,\" \"Matrix multiplication,\" \"To implement printer spooler to store print request,\" and \"Friend suggestion algorithm in Social networking app.\" The second column provides four corresponding data structures: \"a. Array/List,\" \"b. Graph,\" \"c. Queue,\" and \"d. Stack.\"\n\n**Key Points:**\n\n* The table suggests that a data structure should be chosen based on the specific application.\n* Each application has a unique requirement for data storage and manipulation.\n* The data structures listed are fundamental concepts in computer science, including arrays/lists, graphs, queues, and stacks.\n\n**Conclusion:**\n\nThe table offers a concise and organized way to match applications with their corresponding data structures. It provides a starting point for understanding the relationship between data structures and their uses in real-world applications. By examining the table, one can begin to grasp the importance of selecting the appropriate data structure for a given problem."
+  },
+  {
+    "id": 36801,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/i7Y6piB1en7BiKUlY0oH33xCZmGsf2jhvFMcYG2TLX8CzUUIOS.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "b645775d-1c37-4bb8-bf82-9ea3cc6fc0f3",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99961,
+        "question_id": "36801",
+        "text": "",
+        "is_correct": true,
+        "option_image": "uPvtTDkRedOIoPKiIHUZBrJ3s2WwP7Qef4Z8tOBdkazWDuAXky.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/uPvtTDkRedOIoPKiIHUZBrJ3s2WwP7Qef4Z8tOBdkazWDuAXky.png"
+      },
+      {
+        "id": 99962,
+        "question_id": "36801",
+        "text": "",
+        "is_correct": false,
+        "option_image": "JxzqAWdCApNMwxAQQ7pr63COdbUQAM1u6CgbRPpQT4lcbB6DNR.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/JxzqAWdCApNMwxAQQ7pr63COdbUQAM1u6CgbRPpQT4lcbB6DNR.png"
+      },
+      {
+        "id": 99963,
+        "question_id": "36801",
+        "text": "",
+        "is_correct": false,
+        "option_image": "YmoTsFbU6PcadeaEU0BurLcuFHwPoa21cY7KNAueQoKLf8gWjn.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/YmoTsFbU6PcadeaEU0BurLcuFHwPoa21cY7KNAueQoKLf8gWjn.png"
+      },
+      {
+        "id": 99964,
+        "question_id": "36801",
+        "text": "",
+        "is_correct": false,
+        "option_image": "RbYeQnaL6vruhMDPu7aslzHurfGZtHu7wniRFs4Qy0qDiPcQ3W.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/RbYeQnaL6vruhMDPu7aslzHurfGZtHu7wniRFs4Qy0qDiPcQ3W.png"
+      }
+    ],
+    "answer_explanation": "The image presents a programming problem related to data structures, specifically the stack data structure. The problem is divided into two parts: a code snippet and a question.\n\n**Code Snippet:**\n\n*   The code snippet is written in Python and defines a class `Node` with two properties: `data` and `next`.\n*   The `__init__` method initializes the `data` property with the provided value and sets `next` to `None`.\n*   The `self.data` attribute stores the data value, and `self.next` represents the next node in the linked list.\n*   A stack is implemented using a linked list, where each node has a head pointer pointing to the first node of the linked list.\n\n**Question:**\n\n*   The question asks which of the following is the time complexity of the most time-efficient implementation of `push` and `pop` operations for this data structure.\n*   The options provided are:\n    *   O(1)\n    *   O(n)\n    *   O(log n)\n\n**Analysis:**\n\n*   The `push` operation involves inserting a new node at the head of the stack, which requires constant time complexity since it only involves updating the head pointer.\n*   The `pop` operation involves deleting a node from the head of the stack, which also requires constant time complexity since it only involves updating the head pointer.\n*   Therefore, the correct answer is O(1), as both `push` and `pop` operations have constant time complexity.\n\n**Conclusion:**\n\n*   The time complexity of the most time-efficient implementation of `push` and `pop` operations for this data structure is O(1).\n\n**Final Answer:**\n\nThe final answer is O(1)."
+  },
+  {
+    "id": 36802,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/WTT1pc9h8WnbpPIG2nY7UFt0IxgaitBvt45O7ORIc1SOJAwhLO.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "e6f3363c-05fb-42a2-af59-1145b8ab2e9a",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99965,
+        "question_id": "36802",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ncUjbszFQRAzCetuxa5XTkdCVtgsXsfBPVu3ClLN942mJEEjJp.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/ncUjbszFQRAzCetuxa5XTkdCVtgsXsfBPVu3ClLN942mJEEjJp.png"
+      },
+      {
+        "id": 99966,
+        "question_id": "36802",
+        "text": "",
+        "is_correct": true,
+        "option_image": "4CtTQpoUcjcEueCd5LLRKepCdAXi8NATRGmaa0eCh3ehvlGTRs.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/4CtTQpoUcjcEueCd5LLRKepCdAXi8NATRGmaa0eCh3ehvlGTRs.png"
+      },
+      {
+        "id": 99967,
+        "question_id": "36802",
+        "text": "",
+        "is_correct": false,
+        "option_image": "s0mKmR7yoF2uWKyfO3nsKB3Mq5RDiu0HOq1semT4oU3Gl3SLdD.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/s0mKmR7yoF2uWKyfO3nsKB3Mq5RDiu0HOq1semT4oU3Gl3SLdD.png"
+      },
+      {
+        "id": 99968,
+        "question_id": "36802",
+        "text": "",
+        "is_correct": false,
+        "option_image": "pnZUcXMBtY1pEobUDp3mdRAQlH6r7GBJn1oqlXz4MQy0iKXxua.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/pnZUcXMBtY1pEobUDp3mdRAQlH6r7GBJn1oqlXz4MQy0iKXxua.png"
+      }
+    ],
+    "answer_explanation": "To analyze the worst-case scenario for the recurrence relation and time complexity of Quick Sort, we need to consider the algorithm's behavior when it performs poorly.\n\n**Worst-Case Scenario:**\nThe worst-case scenario for Quick Sort occurs when the pivot element is always the smallest or largest element in the list. This scenario results in:\n\u2022 The left sublist being empty, leading to a recursive call with an empty list.\n\u2022 The right sublist having all elements, requiring O(n) comparisons.\n\n**Recurrence Relation:**\nThe recurrence relation for Quick Sort can be expressed as:\n\nT(n) = T(n-1) + O(n)\n\nHere:\n\u2022 T(n) represents the time complexity of sorting a list of n elements.\n\u2022 T(n-1) represents the time complexity of the recursive call.\n\n**Time Complexity:**\nThe time complexity of Quick Sort can be calculated by:\n1. **Best Case:** O(n log n), where n is the number of elements in the list.\n2. **Average Case:** O(n log n), where n is the number of elements in the list.\n3. **Worst Case:** O(n^2), where n is the number of elements in the list.\n\n**Conclusion:**\nIn summary, the worst-case recurrence relation and time complexity of Quick Sort are O(n^2), occurring when the pivot element is always the smallest or largest element in the list, leading to poor performance.\n\n*Answer*: O(n^2)"
+  },
+  {
+    "id": 36803,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/1glzRQo6gANbshff7P5c0yCCDydpRApfzq01JFNd2dpegsSHG6.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "1f419afe-2f35-4496-896f-6219e8fbe33d",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99969,
+        "question_id": "36803",
+        "text": "5, 1, 4, 7, 0, 3, 6, 2",
+        "is_correct": true,
+        "option_image": "",
+        "score": "3.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99970,
+        "question_id": "36803",
+        "text": "5, 1, 4, 0, 7, 3, 6, 2",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99971,
+        "question_id": "36803",
+        "text": "5, 1, 4, 7, 0, 3, 2, 6",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99972,
+        "question_id": "36803",
+        "text": "5, 1, 4, 7, 0, 2, 3, 6",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a graph with nodes labeled 0 through 7, connected by lines representing edges. The graph is accompanied by two questions:\n\n1. **Identify the BFS traversal sequence starting from node 5**: This question asks the viewer to determine the correct order in which nodes would be visited when performing a Breadth-First Search (BFS) traversal of the graph, starting from node 5.\n\n2. **Determine the node that would be visited first during a BFS traversal**: This question inquires about the specific node that would be the first to be visited when a node has multiple neighbors during a BFS traversal.\n\n**Answer:**\n\n*   **Question 1:** The correct BFS traversal sequence starting from node 5 would be: 5, 6, 4, 1, 3, 7, 2, 0.\n*   **Question 2:** When a node has multiple neighbors, BFS would visit the numerically smaller valued node first. Therefore, the node that would be visited first during a BFS traversal is node 0."
+  },
+  {
+    "id": 36804,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/ehZEj01cKVSlwRjDrgNgfV0es2I57G0G2ykt2YY6C4d1iP6ZBI.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "13364954-a5eb-4a7a-a119-16d0508ba138",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99973,
+        "question_id": "36804",
+        "text": "7",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99974,
+        "question_id": "36804",
+        "text": "6",
+        "is_correct": true,
+        "option_image": "",
+        "score": "3.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99975,
+        "question_id": "36804",
+        "text": "5",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99976,
+        "question_id": "36804",
+        "text": "4",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a comprehensive overview of the courses required to complete a Diploma in Programming, accompanied by essential details on course sequencing and duration.\n\n*   **Course List**\n    *   The course list is organized alphabetically, with each course title preceded by the label \"courses=\".\n    *   The courses are as follows:\n        *   \"Maths-I\"\n        *   \"Maths-II\"\n        *   \"CT\"\n        *   \"Python\"\n        *   \"PDSA\"\n        *   \"DBMS\"\n        *   \"MAD-I\"\n        *   \"MAD-II\"\n        *   \"MAD-I Project\"\n        *   \"MAD-II Project\"\n*   **Course Dependencies**\n    *   The courses can be completed in parallel, except for some that have specific prerequisites.\n    *   The courses with prerequisites are:\n        *   \"MAD-I\" must be finished before \"MAD-II\"\n        *   \"MAD-II\" must be finished before \"MAD-II Project\"\n        *   \"MAD-I\" must be finished before \"MAD-II\"\n        *   \"MAD-I\" must be finished before \"MAD-II\"\n*   **Course Duration**\n    *   Each course takes a month to complete.\n*   **Minimum Number of Months Required**\n    *   To complete the diploma, a minimum of 10 months is required.\n\nIn summary, the image provides a clear and concise overview of the courses required to complete a Diploma in Programming, including their prerequisites and duration. The information is presented in a structured and easy-to-follow format, making it simple for viewers to understand the course sequence and duration."
+  },
+  {
+    "id": 36805,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/GMhpwHYHfxxwLcXTLOk1LAH6wRx2UdCbM1C1P6Uerr4ab1jxdy.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "e10e46a5-d93a-4cf7-a65a-2854dc417c23",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99977,
+        "question_id": "36805",
+        "text": "",
+        "is_correct": false,
+        "option_image": "nFbbGbthdZqHY1zkenXLPTwxzZWL1xSdQ9XcWtQzhox7a8tdXG.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/nFbbGbthdZqHY1zkenXLPTwxzZWL1xSdQ9XcWtQzhox7a8tdXG.png"
+      },
+      {
+        "id": 99978,
+        "question_id": "36805",
+        "text": "",
+        "is_correct": false,
+        "option_image": "znK0EKhdZX9xpRHU8Em8xbWIf2zbsSAKOYslNKhCkiST0d85LI.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/znK0EKhdZX9xpRHU8Em8xbWIf2zbsSAKOYslNKhCkiST0d85LI.png"
+      },
+      {
+        "id": 99979,
+        "question_id": "36805",
+        "text": "",
+        "is_correct": true,
+        "option_image": "PuLMdkLb1hOVL0FxmMXPFKvpMvfRvkbTHuIMhQjGqzywJK13Qs.png",
+        "score": "4.000",
+        "option_image_url": "app/option_images/PuLMdkLb1hOVL0FxmMXPFKvpMvfRvkbTHuIMhQjGqzywJK13Qs.png"
+      },
+      {
+        "id": 99980,
+        "question_id": "36805",
+        "text": "",
+        "is_correct": false,
+        "option_image": "jxRDPTXLkRaBcIxpdKCUlnr7fgIImseoNM7lQxn7XkE9sv4AUY.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/jxRDPTXLkRaBcIxpdKCUlnr7fgIImseoNM7lQxn7XkE9sv4AUY.png"
+      }
+    ],
+    "answer_explanation": "Based on the provided code, it appears to be a Python implementation of a linked list with a specific function to update the list after calling the function operation(head). The code defines a class \"Node\" with attributes \"data\" and \"next\", and a class \"LinkedList\" with an \"operation\" function that takes the head of the linked list as an argument.\n\nThe \"operation\" function iterates through the linked list, checking each node's value (p) and if it is equal to the current node's value (q), it updates the next pointer of the current node (r.next) to point to the node after the node currently being processed (q). The function does not return any value, indicating that it modifies the linked list in-place.\n\nTo find the updated list after calling the function operation(head), we need to execute the function with the initial head of the linked list as the argument. However, since the provided code does not include a main function or any specific values for the linked list, we cannot directly determine the updated list without knowing the initial state of the linked list.\n\nTherefore, based on the provided code, we cannot determine the exact updated list after calling the function operation(head) without additional information or context."
+  },
+  {
+    "id": 36806,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/LF5EIN3Cm27pqBigiCGKZ96ifXK6KLIYccqwoTK8WyRfvryeyT.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "6981bf1d-f011-4c1d-8322-78971246f8e1",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99981,
+        "question_id": "36806",
+        "text": "",
+        "is_correct": false,
+        "option_image": "7onma0QBiWn7sEMyt1PwNP4X3GAo3XujuQCkm08Mtej1Y9UL9z.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/7onma0QBiWn7sEMyt1PwNP4X3GAo3XujuQCkm08Mtej1Y9UL9z.png"
+      },
+      {
+        "id": 99982,
+        "question_id": "36806",
+        "text": "",
+        "is_correct": true,
+        "option_image": "qz3VMUQd1W7KFTRAdF3Bk05ANuJgVuqqFVqfiI9gWhJOAnrOwS.png",
+        "score": "1.500",
+        "option_image_url": "app/option_images/qz3VMUQd1W7KFTRAdF3Bk05ANuJgVuqqFVqfiI9gWhJOAnrOwS.png"
+      },
+      {
+        "id": 99983,
+        "question_id": "36806",
+        "text": "",
+        "is_correct": false,
+        "option_image": "HJqjbz5fWhd2dpARJD3VoWsYusXza5yTbDfCUrgbnYn90mifXR.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/HJqjbz5fWhd2dpARJD3VoWsYusXza5yTbDfCUrgbnYn90mifXR.png"
+      },
+      {
+        "id": 99984,
+        "question_id": "36806",
+        "text": "",
+        "is_correct": true,
+        "option_image": "8w2FYiY6b8ArQFXR0B656reivYFbIjU5DZglTdx6KWLOSopCLL.png",
+        "score": "1.500",
+        "option_image_url": "app/option_images/8w2FYiY6b8ArQFXR0B656reivYFbIjU5DZglTdx6KWLOSopCLL.png"
+      }
+    ],
+    "answer_explanation": "The image presents a mathematical problem, specifically asking which of three functions is true. The functions are defined as:\n\n*   f(n) = 10n^4 + 6n^3\n*   g(n) = 10n^3 + 2n^2\n*   h(n) = 12n^3 log n + 6n^2\n\nThe problem requires evaluating each function to determine whether it is true or false. This involves substituting different values of n into each function and checking the resulting expression.\n\n**Function f(n)**\n\n*   f(n) = 10n^4 + 6n^3\n*   To evaluate this function, we can substitute a value for n, such as n = 1 or n = 2.\n*   If n = 1, then f(1) = 10(1)^4 + 6(1)^3 = 10 + 6 = 16.\n*   If n = 2, then f(2) = 10(2)^4 + 6(2)^3 = 80 + 48 = 128.\n\n**Function g(n)**\n\n*   g(n) = 10n^3 + 2n^2\n*   To evaluate this function, we can substitute a value for n, such as n = 1 or n = 2.\n*   If n = 1, then g(1) = 10(1)^3 + 2(1)^2 = 10 + 2 = 12.\n*   If n = 2, then g(2) = 10(2)^3 + 2(2)^2 = 80 + 8 = 88.\n\n**Function h(n)**\n\n*   h(n) = 12n^3 log n + 6n^2\n*   To evaluate this function, we can substitute a value for n, such as n = 1 or n = 2.\n*   If n = 1, then h(1) = 12(1)^3 log(1) + 6(1)^2 = 12(0) + 6 = 6.\n*   If n = 2, then h(2) = 12(2)^3 log(2) + 6(2)^2 = 96 log(2) + 24.\n\nBased"
+  },
+  {
+    "id": 36807,
+    "question_text": "Which of the following is/are true about the Merge Sort?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "2743273b-507c-40c9-b271-5443a19e1121",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99985,
+        "question_id": "36807",
+        "text": "",
+        "is_correct": true,
+        "option_image": "Lt1X1NQDW4dwxbkdcqeVkSNjZxCtX2zaDGvP24Ut5XCY0OsLE3.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/Lt1X1NQDW4dwxbkdcqeVkSNjZxCtX2zaDGvP24Ut5XCY0OsLE3.png"
+      },
+      {
+        "id": 99986,
+        "question_id": "36807",
+        "text": "",
+        "is_correct": false,
+        "option_image": "UJNAaHB9gM7nefMFeXc67aYwvUGHB863f3DiibK4RWyisgriWY.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/UJNAaHB9gM7nefMFeXc67aYwvUGHB863f3DiibK4RWyisgriWY.png"
+      },
+      {
+        "id": 99987,
+        "question_id": "36807",
+        "text": "",
+        "is_correct": false,
+        "option_image": "OGsUwDLTYCOwMAwTiufd0G0Swv8onAFqHVfnoUQXJriSNeyqvT.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/OGsUwDLTYCOwMAwTiufd0G0Swv8onAFqHVfnoUQXJriSNeyqvT.png"
+      },
+      {
+        "id": 99988,
+        "question_id": "36807",
+        "text": "",
+        "is_correct": true,
+        "option_image": "Hhuq7MD1T3P4JwoYbsFaDG5ZIV19kzI16ksXKwLMEC2LLFs4Dh.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/Hhuq7MD1T3P4JwoYbsFaDG5ZIV19kzI16ksXKwLMEC2LLFs4Dh.png"
+      },
+      {
+        "id": 99989,
+        "question_id": "36807",
+        "text": "",
+        "is_correct": true,
+        "option_image": "jW4lNgtOdwII7K2janYXD7ncZpLexnpO8nZrIM2HlyOcIH7zh2.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/jW4lNgtOdwII7K2janYXD7ncZpLexnpO8nZrIM2HlyOcIH7zh2.png"
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 36808,
+    "question_text": "Which of the following statement(s) is/are True about Breadth First Search(BFS) on an undirected connected graph?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "e92dcc66-552e-4b61-99c8-7a8d55a6b35c",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99990,
+        "question_id": "36808",
+        "text": "",
+        "is_correct": true,
+        "option_image": "Ao1wg8cHMGT511xlRztLkHRcudXRymmOWYFBoPGZjPaMP97Ep8.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/Ao1wg8cHMGT511xlRztLkHRcudXRymmOWYFBoPGZjPaMP97Ep8.png"
+      },
+      {
+        "id": 99991,
+        "question_id": "36808",
+        "text": "",
+        "is_correct": false,
+        "option_image": "tbuDKot3dJFBUJBeuqW3qHWU3YLqerXraonVVSZaqagqhHy6jc.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/tbuDKot3dJFBUJBeuqW3qHWU3YLqerXraonVVSZaqagqhHy6jc.png"
+      },
+      {
+        "id": 99992,
+        "question_id": "36808",
+        "text": "",
+        "is_correct": true,
+        "option_image": "xKYAsnkOOgHXJSssMNEVk19XkYMlQzMQxjnbySa6We9t2E9bxR.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/xKYAsnkOOgHXJSssMNEVk19XkYMlQzMQxjnbySa6We9t2E9bxR.png"
+      },
+      {
+        "id": 99993,
+        "question_id": "36808",
+        "text": "",
+        "is_correct": true,
+        "option_image": "lBhcNkryb5K9H6uhDzo1Y4sQP5OWBuFK4YSiEjvKjoqqyUIvb7.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/lBhcNkryb5K9H6uhDzo1Y4sQP5OWBuFK4YSiEjvKjoqqyUIvb7.png"
+      },
+      {
+        "id": 99994,
+        "question_id": "36808",
+        "text": "",
+        "is_correct": false,
+        "option_image": "wcUcNEHVUjdJpRT9Jq0VikpSlC0ecyjLu0eYBuCqaHwwlw3Rw6.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/wcUcNEHVUjdJpRT9Jq0VikpSlC0ecyjLu0eYBuCqaHwwlw3Rw6.png"
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 36809,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/7vJIRejMerlRksIJLYs0PjZWNsa5c0R0M33CPiIybyh8afFe9A.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "84a7bf8b-43b0-420b-9251-ffbfaad0d145",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99995,
+        "question_id": "36809",
+        "text": "1, 1, 2, 3",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99996,
+        "question_id": "36809",
+        "text": "2, 2, 3, 3",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      },
+      {
+        "id": 99997,
+        "question_id": "36809",
+        "text": "1, 1, 3, 3",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 99998,
+        "question_id": "36809",
+        "text": "3, 3, 3, 3",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a question about the possible degree sequences of vertices in a connected undirected graph with four vertices. The degree sequence is defined as a series of positive integers $a_1, a_2, \\ldots, a_n$ where $a_i$ is the degree of the $i$th vertex in the graph.\n\n**Possible Degree Sequences**\n\nThe question asks which of the following is/are possible degree sequences of vertices in a connected undirected graph with four vertices:\n\n*   Option 1: 3, 1, 1, 1\n*   Option 2: 2, 2, 1, 1\n*   Option 3: 1, 1, 1, 1\n\n**Relevant Concepts**\n\nTo determine the possible degree sequences, we need to consider the properties of connected undirected graphs. A connected graph has a path between every pair of vertices, and an undirected graph does not have direction on its edges.\n\n**Analyzing Option 1**\n\nOption 1 has a degree sequence of 3, 1, 1, 1. This means that one vertex has a degree of 3, and the other three vertices have a degree of 1. However, in a connected undirected graph with four vertices, it is not possible for one vertex to have a degree of 3 and the other three vertices to have a degree of 1. This is because the vertex with a degree of 3 would be connected to all other vertices, which would leave only one edge for the other three vertices to share among themselves. This would result in a disconnected graph.\n\n**Analyzing Option 2**\n\nOption 2 has a degree sequence of 2, 2, 1, 1. This means that two vertices have a degree of 2, and the other two vertices have a degree of 1. This is a possible degree sequence for a connected undirected graph with four vertices. For example, we can create a graph with four vertices and two edges connecting the two vertices with a degree of 2, and one edge connecting each of the other two vertices to one of the vertices with a degree of 2.\n\n**Analyzing Option 3**\n\nOption 3 has a degree sequence of 1, 1, 1, 1. This means that all four vertices have a degree of 1. This is also a possible degree sequence for a connected und"
+  },
+  {
+    "id": 36810,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/363jQyOhsM4ZZWtaAyY7ZRV6IUmrtjtIRtaYAx6zqMYb7vm66W.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "f8134dcf-a2b1-4e0f-8dd9-b092f2d6bf8b",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 99999,
+        "question_id": "36810",
+        "text": "A, B, D, H, E, C, F, G",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 100000,
+        "question_id": "36810",
+        "text": "A, C, F, H, E, B, D, G",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      },
+      {
+        "id": 100001,
+        "question_id": "36810",
+        "text": "A, C, F, H, D, E, B, G",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 100002,
+        "question_id": "36810",
+        "text": "A, B, D, H, E, F, C, G",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "This image presents a graph representation of nodes and edges, accompanied by a set of instructions and a question. The title \"Consider the following graph\" is displayed in the top-left corner, followed by a diagram comprising eight nodes labeled A through H. Each node is connected to one or more other nodes via a line, forming a network.\n\nBelow the graph, two lines of text provide additional context:\n\n* The text \"A Depth First Search (DFS) is started at node A. The nodes are listed in the order they are first visited. Which of the following is/are possible output(s)?\" serves as a prompt for the user to consider the potential outputs of a DFS process initiated at node A.\n* A note in smaller text provides further clarification, stating: \"When a node has multiple neighbors, DFS would visit anyone of the neighbors.\"\n\nThis instruction prompts the user to think critically about the possible order of node visits during a DFS, taking into account the connections between nodes. By considering the graph and the DFS process, the user can analyze the possible outputs and select the correct option(s)."
+  },
+  {
+    "id": 36811,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/U7j2lpNUnPwQsjRXAZNwO008gmpF2OQNapgUiVBtPQe4uJEKl9.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "b022e57c-3afb-4382-a690-475e52414271",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 100003,
+        "question_id": "36811",
+        "text": "F, C, A, E, D, B",
+        "is_correct": true,
+        "option_image": "",
+        "score": "2.000",
+        "option_image_url": null
+      },
+      {
+        "id": 100004,
+        "question_id": "36811",
+        "text": "F, A, C, E, D, B",
+        "is_correct": true,
+        "option_image": "",
+        "score": "2.000",
+        "option_image_url": null
+      },
+      {
+        "id": 100005,
+        "question_id": "36811",
+        "text": "F, C, A, D, B, E",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 100006,
+        "question_id": "36811",
+        "text": "F, A, C, D, B, E",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "**Step 1: Identify the graph type.**\n\nThe graph in the image is a Directed Acyclic Graph (DAG). \n\n**Step 2: Identify the valid topological orderings for the DAG.**\n\nTo find valid topological orderings, we need to look at the nodes with no incoming edges and start from there. Then we move to the next nodes with no incoming edges and so on. \n\nThere are 3 valid topological orderings: \n\n1. F, A, D, B, C, E\n2. F, A, E, D, B, C\n3. F, A, E, C, D, B\n\n**Step 3: Conclusion**\n\nBased on the graph structure, we can conclude that there are three valid topological orderings. The correct answer is (A, B, C, D, E, F). \n\n**Answer:** A"
+  },
+  {
+    "id": 36812,
+    "question_text": null,
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/NeuhPbVddhLzSZlho11L1WgaI9oZUVt7yJtvwtsfFnblfHJZVV.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "b06df207-a3fb-4e71-9771-44ec1c977d9a",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": "The image presents a step-by-step guide on how to use binary search to find an element in a sorted list. The list contains the numbers 1 through 1701, and the goal is to find the number 159.\n\n**Step 1: Understanding Binary Search**\n\nBinary search is an efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed down the possible locations to just one.\n\n**Step 2: Sorting the List**\n\nThe list is already sorted in ascending order, which is a prerequisite for using binary search.\n\n**Step 3: Defining the Search Range**\n\nTo start the search, we need to define the range of numbers that could potentially contain the target number 159. Since the list is sorted and contains all numbers from 1 to 1701, we can assume that 159 will be present in this range.\n\n**Step 4: Performing the Binary Search**\n\nHere's how the binary search process works:\n\n*   Start with the middle index of the list.\n*   Compare the middle element with the target number 159.\n*   If 159 is less than the middle element, repeat the process with the left half of the list.\n*   If 159 is greater than the middle element, repeat the process with the right half of the list.\n*   Continue this process until 159 is found or it's determined that it's not in the list.\n\n**Step 5: Computing the Midpoint**\n\nTo compute the midpoint of the list, we can use the formula:\n\nMidpoint = (First Index + Last Index) / 2\n\nIn this case, the first index is 0 (since indexing starts at 0) and the last index is 1700 (since the list contains numbers from 1 to 1701). Therefore, the midpoint is:\n\nMidpoint = (0 + 1700) / 2 = 850\n\n**Step 6: Comparing the Midpoint Element with 159**\n\nThe midpoint element is 850. Since 159 is less than 850, we repeat the process with the left half of the list.\n\n**Step 7: Repeating the Process**\n\nWe continue this process until 159 is found or it's determined that it's not in the list.\n\n**Answer**: The final answer is 850."
+  },
+  {
+    "id": 36813,
+    "question_text": null,
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/8qGPsvh4CTrkPwWZKVFBK6eEmcGnN3Fzo6F26EDDTjgIAMPVLN.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ffe4ec75-0a16-431b-9e88-6e5a691890dd",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": "**Step 1: Understand the concept of Linear Probing**\n\nLinear probing is an open addressing scheme in computer programming for resolving hash collisions in hash tables. The algorithm uses linear probing to resolve collisions. The key values are integers, and the hash function used is key mod 10.\n\n**Step 2: Determine the initial hash index**\n\nThe initial hash index is calculated by taking the original hash index and incrementing the value by 1 until a free slot is found.\n\n**Step 3: Calculate the key values**\n\nThe key values are given as 6, 16, 80, 91, 145.\n\n**Step 4: Calculate the key value 190**\n\nTo find the location where the key value 190 would be inserted, we need to calculate the hash index for 190 using the hash function key mod 10.\n\nHash index = 190 mod 10 = 0\n\nSince the hash index is 0, we start from the beginning of the table and increment until a free slot is found.\n\n**Step 5: Find the location where key value 190 would be inserted**\n\nStarting from the beginning of the table (index 0), we check each slot until we find a free slot.\n\nIndex 0: 6 (occupied)\nIndex 1: 16 (occupied)\nIndex 2: 80 (occupied)\nIndex 3: 91 (occupied)\nIndex 4: 145 (occupied)\nIndex 5: 0 (free)\n\nTherefore, the location where the key value 190 would be inserted is index 5.\n\n*Answer*: 5"
+  },
+  {
+    "id": 36814,
+    "question_text": null,
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/GrgQTW2xMVdIemDUXXZjyoBH9ro4Cf49EugvYYRgVNYZ2NEJJa.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "2281ebfa-548f-4b07-85cf-47f046e3dd35",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": "The maximum number of edges in a graph with 15 vertices is given by the formula for the maximum number of edges in a complete graph, which is n(n-1)/2, where n is the number of vertices. Therefore, the maximum number of edges in a graph with 15 vertices is 15(15-1)/2 = 15(14)/2 = 105.\n\n*Answer*: 105"
+  }
+]

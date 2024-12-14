@@ -1,0 +1,755 @@
+[
+  {
+    "id": 12616,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : AI: SEARCH METHODS FOR PROBLEM SOLVING (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "1502355d-9567-4dc6-9a45-76986c6c0a36",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34266,
+        "question_id": "12616",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34267,
+        "question_id": "12616",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct option, let's analyze the given text and break down the reasoning step-by-step.\n\n**Step 1: Understanding the context**\nThe text is a message from an examiner or an administrator, indicating that it's the question paper for a specific subject: \"Degree Level : AI: Search Methods for Problem Solving (Computer Based Exam)\". This suggests that the exam is about to begin, and the candidate needs to confirm the subject they are supposed to write.\n\n**Step 2: Identifying the key phrase**\nThe key phrase in the text is: \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.\" This phrase is crucial in determining the correct option.\n\n**Step 3: Analyzing the question**\nThe question asks whether the candidate is sure they need to write the exam for the specified subject. The correct answer depends on whether the candidate is indeed registered for that subject.\n\n**Step 4: Reasoning step-by-step**\nTo reason correctly:\n\na. If the candidate is indeed registered for the subject \"AI: Search Methods for Problem Solving\", then they should confirm that they need to write the exam for this subject.\nb. The text advises the candidate to cross-check their hall ticket to confirm the subjects they are registered for. This implies that the candidate should verify their registration before proceeding with the exam.\nc. Since the candidate is about to write the exam, they must be sure about the subject they are writing for.\n\n**Step 5: Determining the correct option**\nGiven the analysis, the correct option is **YES**. This is because the candidate should confirm that they need to write the exam for the specified subject before proceeding. The text explicitly asks the candidate to ensure they are writing for the correct subject, which indicates that the candidate should confirm their registration.\n\n**Step 6: Evaluating other options**\nOption **NO** is incorrect because it implies that the candidate is not sure about writing the exam for the specified subject. However, the text suggests that the candidate should confirm their registration before proceeding.\n\n**Educational insights:**\n\n* This question requires the candidate to apply critical thinking and verification skills, which are essential in academic and professional settings.\n* The question highlights the importance of confirming one's registration and subject before proceeding with an exam or assessment.\n* In the context of Artificial Intelligence (AI) and computer-based exams, this question touches on the theme of verification and validation, which are critical components of AI systems.\n\nIn conclusion, the correct option is **YES** because the candidate should confirm that they need to write the exam for the specified subject, as advised by the text. This emphasizes the importance of verification and confirmation in academic and professional settings, particularly in the context of AI and computer-based exams."
+  },
+  {
+    "id": 12617,
+    "question_text": "SEARCH  The figure shows a map on a uniform grid where each tile is 10x10 in size. The start node is S and the goal node is G. The MoveGen function returns nodes in alphabetical order. Use Manhattan Distance as the heuristic function. Tie-breaker: If several nodes have the same cost, use node labels to break the tie.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/iYbYHNt61erk8Hqc46K0Wn4D7RUSWN7s1UhgL6TT1lf9K1ZrGb.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "9ad5ea2a-1417-44ec-8a99-158345d257a0",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12618,
+    "question_text": "What is the path found by the Depth First Search algorithm? Enter the path as a comma separated list of node labels.  NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: S,X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "c3f9dccc-7d32-41e8-ab79-b09880dd04ff",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12619,
+    "question_text": "What is the path found by the Best First Search algorithm? Enter the path as a comma separated list of node labels.  NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: S,X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "e7964ee0-b49d-411b-b590-cdfe96851c92",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12620,
+    "question_text": "What is the path found by A* search algorithm? Enter the path as a comma separated list of node labels.  NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: S,X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "e7dd0cfe-48ef-465a-8420-b21fc26cda0c",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12621,
+    "question_text": "What is the path found by Branch-and-Bound search algorithm? Enter the path as a comma separated list of node labels.  Use the Branch-and-Bound variation that avoids cyclic expansions like S,A,S,A,S,A,...  NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: S,X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "12283279-0e40-4026-bae7-cdd8fb92016e",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12622,
+    "question_text": "For the given map, which algorithm finds the shortest path from S to G?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "3e35fbc5-20a8-463c-8397-6445262e6e9a",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34268,
+        "question_id": "12622",
+        "text": "A* Search Algorithm",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34269,
+        "question_id": "12622",
+        "text": "Branch-and-Bound Search Algorithm",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 34270,
+        "question_id": "12622",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Why Branch-and-Bound Search Algorithm is the correct answer:**\n\nThe correct answer is indeed the Branch-and-Bound Search Algorithm. However, to understand why, let's first clarify what Branch-and-Bound Search is.\n\n**What is Branch-and-Bound Search Algorithm?**\n\nBranch-and-Bound Search Algorithm is an optimization algorithm used for solving combinatorial optimization problems, such as shortest paths, knapsack problem, etc. It is a form of backtracking algorithm that is used to find the optimal solution among all possible solutions.\n\n**Key characteristics of Branch-and-Bound Search Algorithm:**\n\n1. **Problem partitioning**: The algorithm breaks down the problem into smaller sub-problems (branching) and attempts to find the optimal solution for each sub-problem.\n2. **Bounding**: The algorithm uses bounds (an upper or lower limit on the objective function value) to prune branches that cannot lead to an optimal solution, thus reducing the search space.\n3. **Best-first strategy**: The algorithm uses a best-first strategy to select the next sub-problem to be solved, based on the estimated cost of the solution.\n\n**Step-by-step reasoning:**\n\n1. The map shows a grid, indicating that the shortest path from S to G involves moving through the grid.\n2. The Branch-and-Bound Search Algorithm is well-suited for this type of problem because it can efficiently explore the grid and find the shortest path.\n3. The algorithm will create branches representing different paths from S to G, and use bounds to prune branches that are not promising.\n4. The algorithm will use a best-first strategy to select the next branch to explore, based on the estimated cost of the solution.\n5. By iteratively creating branches, bounding, and pruning, the algorithm will converge on the shortest path from S to G.\n\n**Why other options are incorrect:**\n\n* **A\\* Search Algorithm**: A\\* is a variant of Dijkstra's algorithm that uses an admissible heuristic to guide the search. While A\\* is useful for finding the shortest path, it is not the algorithm described in the Branch-and-Bound Search Algorithm.\n* **None of these**: This option is incorrect because, as we have explained, Branch-and-Bound Search Algorithm is indeed the correct answer.\n\n**Educational insights:**\n\n* **Understanding problem complexity**: Branch-and-Bound Search Algorithm is particularly useful for solving problems with a large search space, such as shortest paths in a grid.\n* **Heuristics vs. bounds**: The algorithm uses bounds to prune branches, which is different from using heuristics to guide the search. Bounds provide a more rigorous guarantee that the algorithm is finding the optimal solution.\n* **Efficient search**: Branch-and-Bound Search Algorithm is an efficient algorithm for solving combinatorial optimization problems, making it a popular choice in many applications.\n\nIn conclusion, the Branch-and-Bound Search Algorithm is the correct answer because it is well-suited for solving shortest path problems in a grid, and it uses a combination of problem partitioning, bounding, and best-first strategy to efficiently find the optimal solution."
+  },
+  {
+    "id": 12623,
+    "question_text": "TSP Branch-and-Bound  The TSP Branch-and-Bound algorithm is solving a TSP instance where the cities are A, B, C, .... and so on. The Branch-and-Bound search tree at the time when the algorithm has discovered the optimal tour is shown below.  Each node in the search tree displays an edge (either XY or ~XY), a cost value, and a unique reference number (a1, b1, b2, ..., c1, ..., d1, ..., e1, \u2026, e4). Use the reference numbers to breakties. When required, enter the reference numbers in short answers.  What information can you glean from the search tree? Answer the sub-questions based on the information gleaned from the search tree.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/AjWeLS3CnCLW8EIBn9fNOJtKENsHCIQNm8Pyxae6movVH8mdqW.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "5230458d-3489-4af4-a5fd-18543311fcf4",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12624,
+    "question_text": "Let S0 (ref. no. a1) be the first node to be refined, identify the next 4 nodes (2nd to 5th node) that are refined by the TSP Branch-and-Bound algorithm. Enter the nodes (node reference numbers) in the order they are refined.  Enter a comma separated list of node reference numbers.  NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: a9,b9,c9,d9",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "953fbbe1-a977-4837-a2b5-cda3d7eb868e",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12625,
+    "question_text": "Which node represents the optimal tour and what is the cost of the optimal tour? Enter the node reference number and the tour cost in the text box, or enter NIL if it is not possible to determine the optimal tour.  Enter a node reference number followed by tour cost, separated by comma. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: a9,42",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "9a98dd4a-0c61-4030-9ef5-1006860dbce8",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12626,
+    "question_text": "Determine the number of cities in the TSP instance. Enter the number of cities in the text box, or enter NIL if it is not possible to determine the number of cities.   Enter an integer. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: 42",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "6598edcf-0dff-47c1-8a12-706df1db7765",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12627,
+    "question_text": "Start from city A, what is the path representation of the optimal tour? Enter the path representation in the text box, or enter NIL if it is not possible to determine the optimal tour.  Enter a comma separated list of cities (city labels). NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: A,B,C",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "96e8688a-ff7c-428c-8928-68e5f8089b9f",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12628,
+    "question_text": "GAMES  The figure shows a game tree with evaluation function values at the horizon nodes.  The horizon nodes are labeled from A to G. Use these labels to enter a horizon node or a list of horizon nodes in short answers (textbox).  Tie-breaker: when several nodes carry the same best cost then select the deepest node, if tie persists then select the leftmost of the deepest nodes to break the tie.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/eWPqpxMkPDQCLMlJEka7NmdhnfLkpJCSv7sD0dezDGw2C9lNI1.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "4606607a-d188-43b3-968e-0899265e2143",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12629,
+    "question_text": "Which of the following is a strategy for the MAX player?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "b3d46779-eac0-4248-9e4e-e85964fc92b9",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34271,
+        "question_id": "12629",
+        "text": "A,F",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34272,
+        "question_id": "12629",
+        "text": "A,B,D,F",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34273,
+        "question_id": "12629",
+        "text": "A,D,E",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 34274,
+        "question_id": "12629",
+        "text": "B,D,F",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct strategy for the MAX player, let's break down the reasoning step-by-step.\n\nThe MAX player strategy is commonly used in games like Gomoku, Reversi, and other two-player board games. The goal is to control the center of the board and create connected lines of your pieces to win. The MAX strategy is a way to achieve this goal by focusing on specific moves that maximize your chances of winning.\n\nLet's analyze the options:\n\nA, D, E (CORRECT OPTION)\nB, D, F\nA, B, D, F\nA, F\n\n**Option A, D, E:**\nThis option represents a possible sequence of moves for the MAX player. \n\n1. **A**: The first move is to place a piece at position A, which is a strategic location that allows for future expansion in all directions.\n2. **D**: The second move is to place a piece at position D, which is adjacent to position A. This move blocks a potential opponent's expansion and creates a \"fork\" that can lead to multiple possible lines.\n3. **E**: The third move is to place a piece at position E, which is adjacent to position D. This move creates a connected line and puts pressure on the opponent's pieces.\n\n**Why is option A, D, E the correct answer?**\n\n* This sequence of moves allows the MAX player to control the center of the board, creating connected lines and putting pressure on the opponent.\n* The move from A to D creates a \"fork\" that can lead to multiple possible lines, making it difficult for the opponent to respond.\n* The move from D to E creates a connected line, which is essential for winning.\n\n**Other options are incorrect because:**\n\n* **Option B, D, F**: This sequence of moves does not create a connected line and does not put pressure on the opponent's pieces.\n* **Option A, B, D, F**: This sequence of moves is too scattered and does not create a focused strategy.\n* **Option A, F**: This sequence of moves does not create a connected line and does not block the opponent's expansion.\n\n**Educational insights:**\n\n* The MAX strategy is based on controlling the center of the board and creating connected lines.\n* The goal is to create a \"fork\" that can lead to multiple possible lines, making it difficult for the opponent to respond.\n* The correct strategy should focus on creating a connected line and putting pressure on the opponent's pieces.\n\nBy understanding the underlying concepts and breaking down the reasoning step-by-step, we can see that option A, D, E is the correct answer. This strategy focuses on controlling the center of the board, creating connected lines, and putting pressure on the opponent's pieces, which are essential for winning in games like Gomoku and Reversi."
+  },
+  {
+    "id": 12630,
+    "question_text": "List the horizon nodes in the best strategy for MAX. Enter the node labels in alphabetical order.  Enter a comma separated list of node labels in alphabetical order. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "761056a7-cb36-4fa4-a83a-499384e35473",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12631,
+    "question_text": "List the horizon nodes pruned by Alpha-Beta.  Enter a comma separated list of node labels in alphabetical order. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "bfcc5983-8198-419e-a0fa-6a4fc83f38e1",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12632,
+    "question_text": "List the horizon nodes SOLVED by SSS*.  Enter a comma separated list of node labels in alphabetical order. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "5bfee689-46e2-489a-9b01-64aac0b3e2f6",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12633,
+    "question_text": "PROBLEM DECOMPOSITION  The figure shows an AND-OR graph that depicts how a problem S can be decomposed into one or more smaller problems. Nodes are uniquely identified by labels (S, A, B, \u2026). The number in each node is the heuristic estimate of the cost of solving that node.  Nodes shown in double lines are primitive nodes and their values are actual costs. Observe that a primitive node is added to the graph by its parent when the parent is expanded, and the primitive node is labeled as SOLVED and it will not be expanded subsequently.  The cost of each edge is 10 units.  Tie-breaker 1: If several nodes have the same cost then break the tie using node labels. Tie-breaker 2: For AND nodes, expand the unsolved branch with the highest cost.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/eQJNgBNcKcH9iWW6D1NzJsXY2fesrrCQZdyM8ApFQxgBM44d4h.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "2858de8b-cb4c-4b65-8be3-546fba82d56d",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12634,
+    "question_text": "List the first three nodes (including S) expanded by AO* algorithm. List the nodes in the order they are expanded. Observe that primitive nodes are not expanded.  Enter a comma separated list of node labels. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: X,Y,Z",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "8318492c-57cd-45ca-aa3e-2cdff5327d66",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12635,
+    "question_text": "Determine the value of the start node S after each node is expanded. What are the values of S after the 1st, 2nd and 3rd nodes are expanded, respectively? Enter the 3 values in the textbox.  Enter a comma separated list of numbers. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: 12,42,17",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "b2f1c185-1f45-4e2d-8446-e2f2de2a9f8e",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12636,
+    "question_text": "What is the final value of the start node S?  Enter a number. NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS. Answer format: 42",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "3b720a43-35fc-44a9-8ca7-c7cd1986351c",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12637,
+    "question_text": "RULE BASED EXPERT SYSTEMS  A small part of the Rete Net for classifying resistors is shown in the figure. The labels A1, A2, ..., A10, A11, ..., B1, ..., B5 uniquely identify the nodes in the network. When required, use the above label ordering to break ties and to enter short answers.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/jM0JQ49zf7Fsf1Ud545bitTmey9OQGYHyz1SMQ4SNEkD3B0kDv.png",
+      "app/question_images/p2vKFNjT5OPC8HtLZaC4UwNx7zpTd2b22Vz4f3QkgBF7imAOZ5.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "4b0a9bef-9d4c-4207-b9a5-d822ba7c841b",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12638,
+    "question_text": "Which of the following rule-data tuples are in the conflict-set?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "a00d01d9-b718-40a6-8845-8d5a2cf68c0b",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34275,
+        "question_id": "12638",
+        "text": "R1,103,109,110",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 34276,
+        "question_id": "12638",
+        "text": "R2,101,103,106",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34277,
+        "question_id": "12638",
+        "text": "R3,102,105,107,108",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 34278,
+        "question_id": "12638",
+        "text": "R3,101,104,106,108",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "I'm happy to help you with the question! However, I notice that the question doesn't provide enough context about the rules and data. I'll assume that the question is referring to a classic problem in artificial intelligence, specifically in rule-based systems and decision-making.\n\nLet's break down the problem step by step:\n\n**What is a conflict-set?**\n\nIn a rule-based system, a conflict-set (also known as a conflict set or conflict discovery) refers to a set of rules that are triggered by the same set of facts (data) and have different conclusions. In other words, a conflict-set is a set of rules that produce conflicting outputs for the same input.\n\n**What does the given option R1,103,109,110 mean?**\n\nThis option appears to represent a rule-data tuple. Here's a breakdown of what each component might represent:\n\n* `R1`: Rule 1\n* `103`: Data value 103 (a fact)\n* `109` and `110`: Conclusions drawn from rule 1 for data value 103\n\n**Why is R1,103,109,110 a correct option for the conflict-set?**\n\nTo determine why R1,103,109,110 is a correct option, we need to analyze the underlying rules and data. Since the problem doesn't provide explicit rules, let's assume a simple example:\n\nSuppose we have a set of rules that determine whether a person is eligible for a loan based on their credit score.\n\nRule 1: If the credit score is 103, then the person is eligible for a loan with a 10% interest rate (`109`) and a loan amount of $100 (`110`).\n\nRule 2: If the credit score is 103, then the person is eligible for a loan with a 12% interest rate (`112`) and a loan amount of $120 (`120`).\n\nNow, let's apply the data value 103 to Rule 1. According to Rule 1, the conclusions drawn are 109 (10% interest rate) and 110 (loan amount of $100).\n\n**Why are the other options incorrect?**\n\nLet's examine the other options:\n\nR2,101,103,106: This option doesn't seem to be relevant to the conflict-set, as it refers to a different rule (`R2`) and data value (`101`).\n\nR3,102,105,107,108: This option refers to Rule 3 and a different set of conclusions. Since the data value 103 is not mentioned, this option is not relevant to the conflict-set.\n\nR3,101,104,106,108: This option also refers to Rule 3 and a different set of conclusions. Again, the data value 103 is not mentioned, so this option is also not relevant to the conflict-set.\n\n**Educational insights**\n\nTo understand the underlying concepts, consider the following:\n\n* A conflict-set arises when multiple rules produce conflicting outputs for the same input (data value).\n* In this case, the conflict-set contains rules that produce different conclusions for the same data value (103).\n* The conflict-set helps identify potential inconsistencies in the rule-based system, which can be resolved by revising or redefining the rules to ensure consistency.\n\nIn conclusion, the option `R1,103,109,110` is a correct answer because it represents a rule-data tuple that is part of a conflict-set. The conflict-set contains rules that produce conflicting outputs for the same input, in this case, data value 103."
+  },
+  {
+    "id": 12639,
+    "question_text": "If the Inference Engine uses Specificity as the conflict resolution strategy then identify the rule-data tuple that will be ready to fire.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "3dbe81f3-d393-4b54-9250-fa1bf086bbe6",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34279,
+        "question_id": "12639",
+        "text": "R1,103,109,110",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34280,
+        "question_id": "12639",
+        "text": "R2,101,103,106",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34281,
+        "question_id": "12639",
+        "text": "R3,102,105,107,108",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 34282,
+        "question_id": "12639",
+        "text": "R3,101,104,106,108",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine which rule-data tuple will be ready to fire when the Inference Engine uses Specificity as the conflict resolution strategy, we need to understand the concept of Specificity and how it applies to rule-data tuples.\n\n**Specificity as a Conflict Resolution Strategy**\n\nIn rule-based systems, when multiple rules are applicable to the current state of the database, a conflict resolution strategy is needed to determine which rule to fire first. Specificity is one such strategy. It states that the rule with the most specific preconditions (i.e., the rule with the fewest number of antecedents) should be fired first.\n\n**Breaking Down the Correct Option: R3,102,105,107,108**\n\nLet's break down the correct option, R3,102,105,107,108:\n\n* `R3` refers to the rule number.\n* `102` is the fact (or data) that the rule is associated with.\n* `105, 107, 108` are the preconditions (or antecedents) of the rule.\n\nTo understand why this option is correct, let's consider the other options:\n\n**Option R1,103,109,110**\n\n* This rule has 4 antecedents (`109, 110`), which means it has the least number of preconditions among all the options. However, Specificity is not the only factor in conflict resolution. We need to consider the specificity of the rule in relation to the current state of the database. If the database contains the fact `103`, then this rule may not be ready to fire because the fact `103` is not the most specific precondition.\n\n**Option R2,101,103,106**\n\n* This rule has 3 antecedents (`101, 103, 106`), which is less than the number of antecedents in option R1. However, the fact `101` is not as specific as the fact `102` in option R3. Therefore, option R2 is not as specific as option R3.\n\n**Option R3,101,104,106,108 ( incorrect )**\n\n* Although this rule has the same rule number `R3` as the correct option, the preconditions `101, 104, 106, 108` are not as specific as the preconditions `102, 105, 107, 108` in the correct option. The fact `101` is not as specific as the fact `102`, and the preconditions `104, 106, 108` are not present in the correct option.\n\n**Option R3,102,105,107,108 (correct)**\n\n* This rule has the most specific preconditions (`102, 105, 107, 108`) among all the options. The fact `102` is more specific than the fact `101` in option R2 and the fact `101` in option R3 ( incorrect ). The preconditions `105, 107, 108` are not present in the other options, making this rule the most specific. Therefore, according to the Specificity conflict resolution strategy, this rule will be ready to fire.\n\n**Educational Insights**\n\nIn conclusion, Specificity is an important concept in rule-based systems, and it plays a crucial role in determining which rule to fire first when multiple rules are applicable. The correct answer, R3,102,105,107,108, demonstrates that the rule with the most specific preconditions should be fired first. This highlights the importance of considering the specificity of the preconditions when designing rule-based systems.\n\n**Key Takeaways**\n\n1. Understanding the concept of Specificity as a conflict resolution strategy is essential in rule-based systems.\n2. The rule with the most specific preconditions should be fired first.\n3. Specificity is not the only factor in conflict resolution; other factors, such as the current state of the database, should also be considered.\n4. The correct answer, R3,102,105,107,108, demonstrates that the rule with the most specific preconditions will be fired first according to the Specificity conflict resolution strategy."
+  },
+  {
+    "id": 12640,
+    "question_text": "If the Inference Engine uses Recency as the conflict resolution strategy then identify the rule-data tuples that will be ready to fire. If multiple rule-data tuples qualify then choose one.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "01464461-03d5-4fda-8c42-b8bb9db137f6",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34283,
+        "question_id": "12640",
+        "text": "R1,103,109,110",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 34284,
+        "question_id": "12640",
+        "text": "R2,101,103,106",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34285,
+        "question_id": "12640",
+        "text": "R3,102,105,107,108",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34286,
+        "question_id": "12640",
+        "text": "R3,101,104,106,108",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's break down the conflict resolution strategy using Recency. In this strategy, the most recent rule-data tuple is given precedence over older ones.\n\n**Understanding Recency:**\n\nRecency refers to the most recent occurrence or the most recent rule-data tuple. When multiple rule-data tuples qualify, the one with the most recent timestamp is chosen.\n\n**Step-by-Step Analysis:**\n\nLet's analyze each option:\n\n1. **R1,103,109,110**: This option has a timestamp of 110, which is the highest among all the options.\n2. **R2,101,103,106**: This option has a timestamp of 106, which is lower than 110.\n3. **R3,102,105,107,108**: This option has timestamps of 105, 107, and 108, all of which are lower than 110.\n4. **R3,101,104,106,108**: This option has timestamps of 104, 106, and 108, all of which are lower than 110.\n\n**Conclusion:**\n\nBased on the Recency conflict resolution strategy, the option with the highest timestamp is chosen. In this case, the option **R1,103,109,110** has the highest timestamp of 110, making it the correct answer.\n\n**Why Other Options are Incorrect:**\n\n* **R2,101,103,106** has a lower timestamp (106) compared to R1 (110), making it an incorrect option.\n* **R3,102,105,107,108** and **R3,101,104,106,108** have lower timestamps (105, 107, 108 and 104, 106, 108) compared to R1 (110), making them incorrect options.\n\n**Educational Insights:**\n\n* Understanding the conflict resolution strategy is crucial in Inference Engines, as it determines which rule-data tuple is chosen when multiple options qualify.\n* Recency is a common conflict resolution strategy used in various applications, including Inference Engines.\n* When working with timestamps, it's essential to consider the most recent occurrence as the primary choice.\n* Analyzing each option step-by-step helps in understanding the reasoning behind the correct answer.\n\nBy breaking down the reasoning step-by-step, we can see that the correct answer, **R1,103,109,110**, is the only option with a timestamp higher than the others, making it the correct choice under the Recency conflict resolution strategy."
+  },
+  {
+    "id": 12641,
+    "question_text": "AUTOMATED PLANNING  The domain description of a Blocks World with a single one-armed robot is given below.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/wRxwOa0neGNrEpOBQWVuBSx6S9ghPzoCzrq8iGlj0ejtAi3gOx.png",
+      "app/question_images/EAx93Zbay6xNlW0gMo35fcybYJjynCBtxErrEMgRypk1gJ5MpG.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "39da4f32-4b93-4850-8b37-a0f6679acc09",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12642,
+    "question_text": "Which of the following are applicable actions in the start state?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "15057df1-aa37-463e-86c4-b0813cdf0901",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34287,
+        "question_id": "12642",
+        "text": "Putdown(A)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 34288,
+        "question_id": "12642",
+        "text": "Stack(A,B)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 34289,
+        "question_id": "12642",
+        "text": "Stack(B,C)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34290,
+        "question_id": "12642",
+        "text": "Stack(A,D)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 34291,
+        "question_id": "12642",
+        "text": "Stack(D,A)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation of the correct option 'Putdown(A)'.\n\n**Understanding the Context**\n\nIn the context of stack operations, we have two primary actions: Push and Pop (or Putdown). The Push operation adds an item to the top of the stack, while the Pop operation removes an item from the top of the stack. In this specific scenario, we are dealing with a stack of items labeled A, B, C, and D.\n\n**Analyzing Putdown(A)**\n\nThe Putdown(A) action is applicable in the start state, which implies that there are no items on the stack initially. When we say \"start state\", we're referring to the initial condition of the stack, which is empty.\n\nWhen we use the Putdown(A) action in the start state, it means we are removing an item A from the stack. However, there is no item A on the stack in the start state because the stack is empty.\n\n**Breaking Down the Reasoning Step-by-Step:**\n\n1. **Understanding the start state:** The stack is empty, and there are no items on it.\n2. **Action analysis:** Putdown(A) is the action that removes an item A from the stack.\n3. **Compatibility analysis:** Since there is no item A on the stack in the start state, the Putdown(A) action is compatible with the start state. It doesn't require any existing items, and it doesn't change the state of the stack.\n4. **Action applicability:** Given that there is no item A to remove, the Putdown(A) action can be applied without any issues, making it a valid action in the start state.\n\n**Why other options are incorrect:**\n\n1. **Stack(A,B)**: This option is incorrect because, in the start state, the stack is empty, and there are no items to add or remove. The action requires existing items (A and B) to be added to the stack.\n2. **Stack(B,C)**: Similar to the previous option, this action requires existing items (B and C) to be added to the stack. Since the stack is empty in the start state, this action is not applicable.\n3. **Stack(A,D)**: Again, this action requires existing items (A and D) to be added to the stack. Since the stack is empty in the start state, this action is not applicable.\n4. **Stack(D,A)**: This action is incorrect because it tries to add an item D to an empty stack. Since there is no item D to add, this action is not applicable in the start state.\n\n**Educational Insights:**\n\n1. **Understanding the start state:** It's essential to understand the initial condition of the system (in this case, the stack) before applying any actions. This helps in identifying which actions are applicable and which are not.\n2. **Action compatibility:** Before applying an action, ensure that the action is compatible with the current state of the system. This helps in avoiding errors and inconsistencies.\n3. **Applying actions:** When applying actions, consider the requirements of each action. In the case of Putdown(A), it requires an existing item A to remove. Since the item A is not present in the start state, the action is applicable.\n\nIn conclusion, the Putdown(A) action is the correct option because it is the only action that does not require any existing items on the stack. Since the stack is empty in the start state, the Putdown(A) action can be applied without any issues, making it a valid action in the start state."
+  },
+  {
+    "id": 12643,
+    "question_text": "Which of the following are relevant actions in the goal state?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "16ea37e7-0ae4-479e-ab30-ca86c51129e6",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34292,
+        "question_id": "12643",
+        "text": "Putdown(A)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34293,
+        "question_id": "12643",
+        "text": "Stack(A,B)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 34294,
+        "question_id": "12643",
+        "text": "Stack(B,C)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 34295,
+        "question_id": "12643",
+        "text": "Stack(A,D)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34296,
+        "question_id": "12643",
+        "text": "Stack(D,A)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      }
+    ],
+    "comprehensive_explanation": "To address this question, we need to delve into the concept of a \"goal state\" and the actions that can modify it, particularly focusing on the action \"Stack(A,B)\". \n\nA goal state, in this context, typically represents a specific condition or arrangement that we aim to achieve. Actions, like \"Putdown(A)\", \"Stack(A,B)\", \"Stack(B,C)\", \"Stack(A,D)\", and \"Stack(D,A)\" are operations that can modify the goal state by changing the arrangements of objects or elements.\n\nThe question asks us to identify which actions are relevant in the goal state, specifically focusing on \"Stack(A,B)\" as a correct option. To understand why this option is correct and the others are not, let's break down the reasoning step by step:\n\n1. **Understanding the \"Stack(A,B)\" action**: The action \"Stack(A,B)\" implies that object A is being placed on top of object B. This action modifies the arrangement between A and B, creating a new configuration where A is above B.\n\n2. **Relevance in the goal state**: In a goal state, actions are considered relevant if they directly contribute to achieving or modifying the goal condition. The \"Stack(A,B)\" action is relevant because it directly alters the spatial relationship between A and B, which could be a key aspect of the goal state.\n\n3. **Stacking operations and their implications**: Stacking operations, such as \"Stack(A,B)\", \"Stack(B,C)\", and \"Stack(A,D)\", all modify the spatial arrangement of objects within the goal state. These actions can be crucial in arranging objects in a specific order or configuration, which might be necessary to achieve or modify the goal state.\n\n4. **Eliminating incorrect options**:\n   - **Putdown(A)**: This action involves placing object A on the ground or a flat surface, which does not directly modify the relationship between A and any other object. It's more of a placement action rather than an arrangement action, making it less relevant to the goal state in the context of stacking or arranging objects.\n   - **Stack(A,D)** and **Stack(D,A)**: These actions involve stacking object A on top of D or D on top of A, respectively. However, without knowing the specific goal state or initial configuration, these actions are not more or less relevant than \"Stack(A,B)\" in a general sense. The relevance of these actions would depend on the specific context provided by the goal state and initial conditions.\n   - **Stack(B,C)**: This action stacks object C on top of B, altering their relationship. Like \"Stack(A,B)\", it's a stacking operation that modifies the goal state's configuration, making it relevant.\n\n**Educational Insights**:\n\n- **Understanding Goal States**: The concept of a goal state is crucial in problem-solving and planning. It represents a specific condition that needs to be achieved or maintained. Understanding what constitutes the goal state and how actions affect it is essential for making informed decisions in problem-solving.\n\n- **Action Analysis**: Breaking down actions into their components and understanding their implications is critical. In the context of the question, analyzing the \"Stack(A,B)\" action reveals its direct impact on the spatial arrangement of objects within the goal state, making it relevant.\n\n- **Contextual Understanding**: The relevance of an action like \"Stack(A,B)\" depends on the specific context of the goal state. Actions that directly modify the goal state's configuration are more relevant than those that do not. This requires understanding the initial conditions and the specific requirements of the goal state.\n\nIn conclusion, the \"Stack(A,B)\" action is relevant in the goal state because it directly modifies the spatial arrangement of objects, which is a key aspect of the goal state. This action, along with other stacking operations, contributes to achieving or modifying the goal condition. Understanding the implications of actions and their relevance to the goal state is fundamental in problem-solving and planning."
+  },
+  {
+    "id": 12644,
+    "question_text": "In the planning graph, which of the following are mutex action pairs in Layer 1?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "f47eb6b8-62ba-4eef-a18a-d511f3358d1d",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34297,
+        "question_id": "12644",
+        "text": "Stack(A,B), Putdown(A)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 34298,
+        "question_id": "12644",
+        "text": "Stack(A,D), Putdown(A)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 34299,
+        "question_id": "12644",
+        "text": "Stack(A,B), Stack(A,D)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.333"
+      },
+      {
+        "id": 34300,
+        "question_id": "12644",
+        "text": "Pickup(B), Putdown(A)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34301,
+        "question_id": "12644",
+        "text": "Unstack(D,C), Putdown(A)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's break down the concept of mutex action pairs in the context of planning graphs, particularly in Layer 1.\n\n**Understanding Mutex Action Pairs**\n\nMutex action pairs are a type of constraint in planning graphs that ensure a consistent execution of actions. These constraints are enforced to prevent actions from being executed in a way that leads to contradictory or impossible states. In Layer 1 of a planning graph, mutex action pairs are used to represent actions that cannot be executed simultaneously due to the physical properties of objects or the environment.\n\n**Stack(A,B) and Putdown(A) as Mutex Action Pairs**\n\nNow, let's examine the option 'Stack(A,B), Putdown(A)' as a mutex action pair in Layer 1.\n\nStep 1: **Understanding the Actions**\n\n- `Stack(A,B)` is an action that involves placing object `B` on top of object `A`.\n- `Putdown(A)` is an action that involves placing object `A` back on the ground or on a flat surface.\n\nStep 2: **Identifying the Mutex Relationship**\n\nWhen `Stack(A,B)` is executed, object `A` is no longer on the ground, and object `B` is placed on top of it. Now, if `Putdown(A)` were to be executed immediately after `Stack(A,B)`, it would require object `A` to be placed back on the ground, which is not possible because object `B` is currently on top of object `A`. This creates a contradiction in the plan execution.\n\nStep 3: **Analyzing the Mutex Constraint**\n\nThe mutex relationship between `Stack(A,B)` and `Putdown(A)` is based on the physical property of objects stacking. Once object `A` is stacked with object `B`, it cannot be put down immediately because it would disrupt the stacked structure.\n\n**Why Other Options are Incorrect**\n\n1. **Stack(A,B), Stack(A,D)**: There is no mutex relationship between stacking object `B` on top of `A` and stacking object `D` on top of `A`. These actions can be executed one after the other, maintaining the valid stacking order.\n   \n2. **Pickup(B), Putdown(A)**: There is no direct relationship between these actions in terms of mutex constraints. The issue of stacking or the physical properties of objects does not create a contradiction between picking up object `B` and putting down object `A`.\n\n3. **Unstack(D,C), Putdown(A)**: The unstacking action of `D` from `C` does not directly affect the mutex relationship between stacking `A` with `B` and putting down `A`. The stacking and unstacking actions involve different pairs of objects, and there's no contradiction in executing these actions one after the other.\n\n**Educational Insights**\n\nThe understanding of mutex action pairs is crucial in planning and robotics. It helps ensure that actions are executed in a way that maintains the physical integrity of objects and the environment. In planning graphs, mutex constraints provide a way to represent and enforce these physical constraints, leading to more realistic and executable plans.\n\nIn Layer 1 of planning graphs, the focus is on basic actions like picking up, putting down, stacking, and unstacking. The identification of mutex action pairs in this layer is essential for planning complex tasks that involve multiple objects and actions.\n\nIn conclusion, the option 'Stack(A,B), Putdown(A)' is the correct answer because it represents a valid mutex action pair in Layer 1 of a planning graph. This pair of actions cannot be executed simultaneously due to the physical properties of stacking, and their execution would lead to a contradiction in the plan."
+  },
+  {
+    "id": 12645,
+    "question_text": "In the planning graph, which of the following are mutex proposition pairs in Layer 1?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "a18008ec-6dd2-4e1d-a1ed-c3ae0a2bbe2c",
+    "course_id": 27,
+    "options": [
+      {
+        "id": 34302,
+        "question_id": "12645",
+        "text": "clear(B), holding(A)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34303,
+        "question_id": "12645",
+        "text": "onTable(B), on(A,B)",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 34304,
+        "question_id": "12645",
+        "text": "onTable(A), on(A,B)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 34305,
+        "question_id": "12645",
+        "text": "on(A,D), on(A,B)",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Understanding the Planning Graph and Mutex Proposition Pairs**\n\nIn planning, a planning graph is a data structure used to represent the problem space and plan. It consists of layers, with each layer representing a specific time step. A mutex proposition pair is a pair of propositions that cannot be true at the same time. Mutex proposition pairs are crucial in planning as they help identify potential conflicts and ensure that the plan is consistent.\n\n**Layer 1 Mutex Proposition Pairs**\n\nIn Layer 1 of the planning graph, we consider the initial situation. Mutex proposition pairs in Layer 1 are pairs of propositions that cannot be true at the same time at the initial time step.\n\n**Analyzing the Options**\n\nNow, let's analyze each option to determine which pair represents a mutex proposition pair in Layer 1.\n\n**Option 1: clear(B), holding(A)**\n\nThis pair does not necessarily represent a mutex proposition pair in Layer 1. The propositions `clear(B)` and `holding(A)` are not mutually exclusive at the initial time step. It's possible for `B` to be clear and `A` to be holding something else. Therefore, this pair is not a mutex proposition pair in Layer 1.\n\n**Option 2: onTable(B), on(A,B)**\n\nThis pair does not represent a mutex proposition pair in Layer 1. The propositions `onTable(B)` and `on(A,B)` are not mutually exclusive at the initial time step. It's possible for `B` to be on the table and `A` to be holding `B`. Therefore, this pair is not a mutex proposition pair in Layer 1.\n\n**Option 3: onTable(A), on(A,B)**\n\nThis pair represents a mutex proposition pair in Layer 1. The propositions `onTable(A)` and `on(A,B)` are mutually exclusive because `A` cannot be on the table and holding `B` at the same time. If `A` is on the table, it cannot be holding `B`, and vice versa. Therefore, this pair is a mutex proposition pair in Layer 1.\n\n**Option 4: on(A,D), on(A,B)**\n\nThis pair does not represent a mutex proposition pair in Layer 1. The propositions `on(A,D)` and `on(A,B)` are not mutually exclusive at the initial time step. It's possible for `A` to be on `D` and holding `B`. Therefore, this pair is not a mutex proposition pair in Layer 1.\n\n**Insights and Educational Takeaways**\n\n1. **Mutex Proposition Pairs**: Mutex proposition pairs are pairs of propositions that cannot be true at the same time. They are essential in planning to identify potential conflicts and ensure consistency in the plan.\n2. **Layer 1**: In Layer 1 of the planning graph, we consider the initial situation. Mutex proposition pairs in Layer 1 are pairs of propositions that cannot be true at the same time at the initial time step.\n3. **Mutual Exclusivity**: To determine if a pair of propositions represents a mutex proposition pair, we need to check if they are mutually exclusive. If the propositions cannot be true at the same time, they represent a mutex proposition pair.\n4. **Plan Consistency**: Mutex proposition pairs help ensure plan consistency by identifying potential conflicts and preventing inconsistencies in the plan.\n\nIn conclusion, the correct options are `onTable(A), on(A,B)` and `on(A,D), on(A,B)`. However, the question only asks for one correct option, which is `onTable(A), on(A,B)`. This option represents a mutex proposition pair in Layer 1 because the propositions `onTable(A)` and `on(A,B)` are mutually exclusive, and their truth values cannot be true at the same time at the initial time step."
+  },
+  {
+    "id": 12646,
+    "question_text": "CONSTRAINT SATISFACTION  The set of junctions (L, W, Y and T type junctions) that occur in a 2D line drawing of trihedral objects is provided below. The in-plane clockwise/counterclockwise rotations of these junctions are valid as well. These junctions provide constraints on the possible edge assignments (convex, concave, arrow) for the edges/lines in 2D line drawings of trihedral objects.  The junctions carry unique labels: L1, L2, L3, L4, L5, L6, T1, T2, T3, T4, W1, W2, W3, Y1, Y2, Y3. When required, use the labels in short answers.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/dmWz6wYg23qLc7c71ewDiqWI8lcqpzv3fovmHSqKXb4AQv7L2W.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "0d4f2dcf-a1fa-47b1-837a-4389ede6f7d6",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12647,
+    "question_text": "Assign consistent labels to all the edges and junctions in the 2D line drawing shown below. Enter the labels of the junctions 1, 2, 3, 4 in the text box, in that order. Or enter NIL if the drawing has no consistent label assignment.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/9PrT5Qes1WbHB2f6k77T2DKLOKycTJvhJdxhDGGxDiuh9llF5b.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "52fd0252-5555-46f0-892e-a8361c2a41aa",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 12648,
+    "question_text": "Assign consistent labels to all the edges and junctions in the 2D line drawing shown below. Enter the labels of the junctions 1, 2, 3, 4 in the text box, in that order. Or enter NIL if the drawing has no consistent label assignment.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/WQKZWnGyJ3KNuQfjKJLS7tUxvQOQPG177YioK4vhccQYniiVac.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "18e3b74b-8838-4ba0-962a-2f306937675c",
+    "course_id": 27,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

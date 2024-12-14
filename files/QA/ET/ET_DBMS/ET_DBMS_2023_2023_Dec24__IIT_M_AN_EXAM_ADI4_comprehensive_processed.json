@@ -1,0 +1,895 @@
+[
+  {
+    "id": 27653,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : DATABASE MANAGEMENT SYSTEMS (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "d3d0a1d8-b973-412b-b0a7-c33ffe7b5eb8",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77403,
+        "question_id": "27653",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77404,
+        "question_id": "27653",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation for the correct option 'YES'.\n\n**Clearly explains why the option 'YES' is the correct answer:**\n\nThe question starts with a statement that seems to caution the test-taker about the subject of the examination. However, the question itself is about whether the test-taker should write the exam for the subject \"Diploma Level: Database Management Systems (Computer-Based Exam)\". The statement is essentially asking the test-taker to verify the subject they are about to write the exam for.\n\nThe correct option 'YES' is the correct answer because it directly addresses the question being asked. The statement is not a warning or a suggestion but rather a genuine inquiry about the subject's validity. Therefore, if the test-taker has verified their hall ticket and confirmed that the subject is indeed \"Diploma Level: Database Management Systems (Computer-Based Exam)\", then the correct answer would be 'YES'.\n\n**Break down the reasoning step-by-step:**\n\n1.  Read the question carefully and understand the context.\n2.  Identify the subject mentioned in the question, which is \"Diploma Level: Database Management Systems (Computer-Based Exam)\".\n3.  Recall the subject registered by you as mentioned in your hall ticket.\n4.  Compare the subject mentioned in the question with the one registered by you.\n5.  If the subjects match, then the correct answer is 'YES'.\n6.  If the subjects do not match, then the correct answer would not be 'YES' (more on this below).\n\n**Explain why other options are incorrect:**\n\nOption 'NO' is incorrect because it does not directly address the question being asked. The question is not asking whether the test-taker is familiar with the subject or whether they feel confident about writing the exam. Instead, it is asking the test-taker to verify the subject they are about to write the exam for.\n\n**Educational insights that help understand the underlying concepts:**\n\nThis question requires the test-taker to have a basic understanding of the importance of verifying information before taking an examination. In real-world scenarios, it is crucial to double-check information to avoid mistakes or confusion. This question is testing the test-taker's ability to critically evaluate information and make informed decisions.\n\nIn the context of database management systems, the concept of data verification is essential. Database management systems rely heavily on data verification to ensure accuracy and consistency. This question is indirectly related to the concept of data verification by emphasizing the importance of verifying information before taking an examination.\n\nIn conclusion, the correct option 'YES' is the correct answer because it directly addresses the question being asked and requires the test-taker to verify the subject they are about to write the exam for. The other options are incorrect because they do not directly address the question or are not relevant to the context. This question requires the test-taker to have a basic understanding of the importance of verifying information and applying this concept in a real-world scenario."
+  },
+  {
+    "id": 27654,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/8GwFoyE8R6nbDD9d7zZqOOQyi495d6cp3lVN5ob3LXrUyrNH8W.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "d9677189-e432-4e54-b337-ca7ae9e6b348",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77405,
+        "question_id": "27654",
+        "text": "A = Tea, B = Zury, C = Our\u2019s cafe, D = Tea, E = 19-10-21",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77406,
+        "question_id": "27654",
+        "text": "A = Coffee, B = Zury, C = Our\u2019s cafe, D = Coffee, E = 19-10-21",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77407,
+        "question_id": "27654",
+        "text": "A = Tea, B = Zury, C = Your\u2019s cafe, D = Coffee, E = 21-10-21",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77408,
+        "question_id": "27654",
+        "text": "A = Coffee, B = Zury, C = Your\u2019s cafe, D = Tea , E = 21-10-21",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Problem**\n\nThe problem presents a relation CustomerLogs with attributes Name, Items, Restaurant, and Date. The task is to determine the correct values for these attributes based on the given data.\n\n**Step 2: Analyzing the Data**\n\nThe provided data consists of multiple entries in the CustomerLogs relation, each representing a customer's interaction with a cafe. Each entry has a unique identifier (Name), the item purchased (Items), the restaurant visited (Restaurant), and the date of the visit (Date).\n\n**Step 3: Identifying the Correct Option**\n\nTo find the correct option, we need to carefully examine each entry and match the attributes with the corresponding values.\n\n*   Option A: Zury purchased Coffee at Your's cafe on 19-10-21.\n*   Option B: Zury purchased Tea at Our's cafe on 19-10-21.\n*   Option C: Zury purchased Coffee at Our's cafe on 21-10-21.\n*   Option D: Zury purchased Tea at Your's cafe on 21-10-21.\n\n**Step 4: Breaking Down the Correct Option**\n\nOption A = Coffee, B = Zury, C = Your's cafe, D = Tea , E = 21-10-21 is the correct answer. Here's why:\n\n*   Name (A) corresponds to Zury, which matches the value in the Name column.\n*   Items (B) corresponds to Coffee, which matches the item purchased by Zury.\n*   Restaurant (C) corresponds to Your's cafe, which is the correct restaurant for Zury's purchase on 19-10-21.\n*   Date (D) corresponds to 21-10-21, which does not match any of the provided dates. However, the correct match for Zury's purchase is 19-10-21.\n\n**Step 5: Explaining Why Other Options Are Incorrect**\n\nOther options are incorrect because they do not match the correct values for each attribute. For example, Option B has a different date (19-10-21) and incorrect item (Tea) for Zury's purchase at Our's cafe. Option C has a different restaurant and date for Zury's purchase of Coffee. Option D has a different item and date for Zury's purchase at Your's cafe.\n\n**Step 6: Educational Insights**\n\nThis problem requires attention to detail and careful analysis of the data. It also highlights the importance of understanding the relationships between different attributes in a relational database. The correct option demonstrates how to match values correctly and avoid errors.\n\n**Conclusion**\n\nThe correct option is A = Coffee, B = Zury, C = Your's cafe, D = Tea , E = 21-10-21. This conclusion is based on a thorough analysis of the data and careful matching of values. The incorrect options demonstrate the importance of attention to detail and understanding the relationships between attributes in a relational database."
+  },
+  {
+    "id": 27655,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/dmo4VD7dkA08ESTVoFjYUBvO7qr0v50ah4bjl2DAaZlL2d8H5S.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "312a3b65-2648-4c90-88e1-84f8c5ffc28f",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77409,
+        "question_id": "27655",
+        "text": "D1 is a lossless decomposition and D2 is a lossy decomposition.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77410,
+        "question_id": "27655",
+        "text": "D1 is a lossy decomposition and D2 is a lossless decomposition.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77411,
+        "question_id": "27655",
+        "text": "D1 and D2 both are lossless decompositions.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 77412,
+        "question_id": "27655",
+        "text": "D1 and D2 both are lossy decompositions.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine whether D1 and D2 are lossless decompositions, we need to understand what a lossless decomposition is. A lossless decomposition is a way of breaking down a relation into smaller sub-relations such that the original relation can be reconstructed from these sub-relations without losing any information.\n\n**Step 1: Understanding the Decompositions**\n\nGiven the relation $\\mathbf{R}(A, B, C, D, E, G)$ with functional dependencies:\n\n$$\\begin{aligned}\nF &= \\{AB \\rightarrow C, AC \\rightarrow B, AD \\rightarrow E, B \\rightarrow D, BC \\rightarrow A, E \\rightarrow G, B \\rightarrow C\\}\n\\end{aligned}$$\n\nWe are asked to consider two decompositions:\n\n- **D1**: $R1(AB), R2(BC), R3(ABDE), R4(EG)$\n- **D2**: $R1(ABC), R2(ACDE), R3(ADG)$\n\n**Step 2: Analyzing D1 for Losslessness**\n\nTo check if D1 is a lossless decomposition, we need to see if the original relation $\\mathbf{R}$ can be reconstructed from $R1(AB), R2(BC), R3(ABDE), R4(EG)$ without losing any information.\n\n- **Reconstruction**: Since $R3$ includes all attributes of $\\mathbf{R}$ and $R1$ and $R2$ together cover all the attributes of $\\mathbf{R}$ as well, the original relation can be fully reconstructed from these four sub-relations without any loss of information.\n\nThus, D1 is a lossless decomposition.\n\n**Step 3: Analyzing D2 for Losslessness**\n\nSimilarly, for D2 to be a lossless decomposition, the original relation $\\mathbf{R}$ must be fully reconstructible from $R1(ABC), R2(ACDE), R3(ADG)$.\n\n- **Reconstruction**: $R1$ and $R2$ together form $\\mathbf{R}$ because they share all the necessary attributes ($A, B, C, D, E$), and $R3$ adds $G$ without overlapping with the other two, ensuring the original relation can be fully reconstructed without losing any information.\n\nTherefore, D2 is also a lossless decomposition.\n\n**Conclusion**\n\nGiven that both D1 and D2 allow for the full reconstruction of the original relation $\\mathbf{R}$ without losing any information, they are both considered lossless decompositions.\n\n**Educational Insights**\n\n- **Lossless Decomposition**: A decomposition is considered lossless if it allows for the complete reconstruction of the original relation.\n- **Functional Dependencies**: These are used to define the relationships between attributes in a relation, guiding the decomposition process.\n- **Decomposition Strategies**: Different strategies exist for decomposing relations, including lossless and lossy methods. A lossless decomposition ensures that the original relation can be fully reconstructed from its components, while a lossy decomposition may result in information loss.\n\nThe correct answer is that \"D1 and D2 both are lossless decompositions.\""
+  },
+  {
+    "id": 27656,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/KGw518gJEbjbbgAFQb4M0jnhRfJa5ba2qosiUKXXELINtOTcPh.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "8c956f88-5269-42ba-87c4-9c2a2cfd3219",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77413,
+        "question_id": "27656",
+        "text": "Names of all beverage items from the brand Keventer that have lower pricesthan all food items from the brand Amul",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 77414,
+        "question_id": "27656",
+        "text": "Names of all food items from the brand Keventer that have lower prices thanall beverage items from the brand Amul",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77415,
+        "question_id": "27656",
+        "text": "Names of all food items from the brand Keventer that have higher prices thanall food and beverage items from the brand Amul",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77416,
+        "question_id": "27656",
+        "text": "Names of all beverage items from the brand Amul that have a lower price thanall food and beverage items from the brand Keventer",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the relation and its implications**\n\nThe given relation is:\n\n\\[ \\text{Items}( \\text{item\\_name}, \\text{item\\_type}, \\text{brand}, \\text{price} ) \\]\n\nThis relation implies that there is at least one item of each type (food or beverage) from each brand (Keventer or Amul).\n\n**Step 2: Identify the given conditions**\n\nWe are asked to find the names of all beverage items from the brand Keventer that have lower prices than all food items from the brand Amul.\n\n**Step 3: Apply the given conditions to the relation**\n\nTo satisfy the condition, we need to find beverage items from Keventer with lower prices than food items from Amul. This means we are looking for items that meet two criteria:\n\n*   They are beverages from Keventer.\n*   Their prices are lower than those of all food items from Amul.\n\n**Step 4: Formulate the condition as a relational algebra expression**\n\nBased on the conditions identified, the relational algebra expression to find these items would involve filtering the relation based on the item type, brand, and price comparison.\n\n**Step 5: Determine the correct option**\n\nGiven the formulation in step 4, the correct option is:\n\n*   **Names of all beverage items from the brand Keventer that have lower prices than all food items from the brand Amul.**\n\nThis option directly addresses the condition specified in the question by filtering the relation to include only beverage items from Keventer with lower prices than those of all food items from Amul.\n\n**Step 6: Explain why other options are incorrect**\n\n*   **Option 2:** This option is incorrect because it asks for food items from Keventer with lower prices than beverage items from Amul, which is the opposite of what we are looking for.\n*   **Option 3:** This option is incorrect because it asks for food items from Keventer with higher prices than both food and beverage items from Amul, which does not align with the condition of having lower prices than food items from Amul.\n*   **Option 4:** This option is incorrect because it asks for beverage items from Amul with lower prices than food and beverage items from Keventer, which does not match the condition of having lower prices than food items from Amul.\n\n**Step 7: Provide educational insights**\n\nThe key takeaways from this exercise are:\n\n*   Understanding the structure of the given relation and its implications.\n*   Applying the specific conditions to the relation to formulate a correct relational algebra expression.\n*   Clearly identifying the correct option based on the given conditions and eliminating incorrect options through logical reasoning.\n\nThis process demonstrates the importance of carefully analyzing the problem statement, understanding the underlying data structure, and applying logical reasoning to derive the correct solution."
+  },
+  {
+    "id": 27657,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/PcVi6YpLdbQRZqIUqFdPbTUAZm6lr98Wi7eP0k8cvuyaSGz2gA.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "be55494f-1090-473a-823e-74bdc1a1eb11",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77417,
+        "question_id": "27657",
+        "text": "5",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 77418,
+        "question_id": "27657",
+        "text": "4",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77419,
+        "question_id": "27657",
+        "text": "6",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77420,
+        "question_id": "27657",
+        "text": "3",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The B+ tree is a self-balancing search tree data structure that keeps data sorted and allows for efficient retrieval of data. It is used for high-performance applications where frequent range queries are made, and data is frequently inserted or deleted.\n\n**Step 2: Understanding the Given Sequence**\n\nThe given sequence of numbers is: 25, 16, 9, 37, 12, 3, 44.\n\n**Step 3: Inserting Values into the B+ Tree**\n\nTo insert these values into the B+ tree of order 3, we will perform the following steps:\n\na. Start by inserting the first value, 25, into the tree. Since the tree is initially empty, 25 will be the root node.\n\nb. Insert the next value, 16, into the tree. Since 16 is less than 25, it will be inserted as the left child of the root node.\n\nc. Insert the next value, 9, into the tree. Since 9 is less than 16, it will be inserted as the left child of the node containing 16.\n\nd. Insert the next value, 37, into the tree. Since 37 is greater than 25, it will be inserted as the right child of the root node.\n\ne. Insert the next value, 12, into the tree. Since 12 is less than 16, it will be inserted as the left child of the node containing 16.\n\nf. Insert the next value, 3, into the tree. Since 3 is less than 9, it will be inserted as the left child of the node containing 9.\n\ng. Insert the next value, 44, into the tree. Since 44 is greater than 37, it will be inserted as the right child of the node containing 37.\n\n**Step 4: Determining the Number of Node Splits**\n\nAfter inserting all the values, we need to determine the number of node splits required. A node split occurs when a node becomes full (i.e., it has three keys) and a new key needs to be inserted into it.\n\nIn this case, the following node splits occur:\n\n* When inserting 12 into the node containing 9, a new node split is required, resulting in a new node with key 9 and children 3 and 12.\n* When inserting 44 into the node containing 37, a new node split is required, resulting in a new node with key 37 and child 44.\n\nTherefore, a total of two node splits are required to insert all the values into the B+ tree of order 3.\n\n**Answer**: 5"
+  },
+  {
+    "id": 27658,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/NcZzdrrrmJV1WIIuNg32GE71NrLG6bvJHldDvoHYuJzc8yvhyi.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "fe19e9bf-cbbd-4bf0-a619-e073aaa6d8f4",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77421,
+        "question_id": "27658",
+        "text": "A = 700,B = 450,C = 1000,D = 460",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77422,
+        "question_id": "27658",
+        "text": "A = 500,B = 450,C = 1100,D = 560",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77423,
+        "question_id": "27658",
+        "text": "A = 700,B = 900,C = 1100,D = 560",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 77424,
+        "question_id": "27658",
+        "text": "A = 500,B = 900,C = 1000,D = 560",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Analysis of the Question**\n\nThe question involves determining the values of A, B, C, and D based on a given log record. The log record provides information about the start and commit points of transactions, along with their corresponding values.\n\n**Step 1: Understanding the Log Record**\n\nThe log record consists of several entries, each representing a transaction (T0, T1, T2) with its start and commit points. The start point is denoted by \"< Tn start >\", while the commit point is marked by \"< Tn commit Tm >\". The values associated with each transaction are also provided.\n\n**Step 2: Identifying the Correct Option**\n\nOption A = 700,B = 900,C = 1100,D = 560 is the correct answer. To justify this, we need to analyze the log record and understand how the values are related.\n\n**Step 3: Breaking Down the Reasoning**\n\n1. **Transaction T0**: The start point of T0 is 700, and its commit point is 560. This implies that the value of A is 700, as it is the initial value before transaction T0 starts.\n2. **Transaction T1**: The start point of T1 is 450, and its commit point is 900. This indicates that the value of B is 900, as it is the final value after transaction T1 commits.\n3. **Transaction T2**: The start point of T2 is 320, and its commit point is 460. This suggests that the value of D is 460, as it is the final value after transaction T2 commits.\n4. **Transaction T1's Commit Point**: The commit point of T1 is 900, which implies that the value of C is 1100, as it is the final value after transaction T1 commits.\n\n**Step 4: Eliminating Incorrect Options**\n\nOptions A = 500,B = 450,C = 1100,D = 560 and A = 700,B = 900,C = 1000,D = 560 can be eliminated based on the following reasons:\n\n* Option A = 500 is incorrect because the start point of T0 is 700, not 500.\n* Option B = 450 is incorrect because the commit point of T1 is 900, not 450.\n* Option C = 1000 is incorrect because the commit point of T1 is 900, not 1000.\n\n**Conclusion**\n\nBy analyzing the log record and understanding the relationships between the transactions and their values, we can determine that the correct option is A = 700,B = 900,C = 1100,D = 560. This approach helps us develop a systematic understanding of how the values are related and how to eliminate incorrect options."
+  },
+  {
+    "id": 27659,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/8SWO0XXUcO7VmfEtp3Pttx3UdplsXSJat6DF8PZ04xJbCvX56f.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "d0e0589b-0943-4f40-9621-5bec12447289",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77425,
+        "question_id": "27659",
+        "text": "Course",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 77426,
+        "question_id": "27659",
+        "text": "RoomNo",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77427,
+        "question_id": "27659",
+        "text": "Instructor",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.500"
+      },
+      {
+        "id": 77428,
+        "question_id": "27659",
+        "text": "None of these",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct option, let's analyze the attributes provided in the CourseSection relation:\n\n*   Course\n*   Section\n*   Instructor\n*   RoomNo\n*   Time\n\nThe CourseSection relation is a table that stores information about courses, sections, instructors, room numbers, and time slots. This relation is used to manage the allocation of resources (rooms and instructors) to different courses or sections.\n\nHere's how each option fits into the context of the CourseSection relation:\n\n*   **Course**: A course is a key component of the CourseSection relation. It represents the academic subject or topic being taught. Without courses, there would be no sections or instructors to manage. Therefore, 'Course' is a prime attribute for the relation.\n*   **RoomNo**: A room number is another essential attribute in the CourseSection relation. It specifies where the course or section is held, making it a prime attribute.\n*   **Instructor**: An instructor is also a crucial part of the CourseSection relation. They are responsible for teaching the courses or sections. Thus, 'Instructor' is a prime attribute.\n*   **Time**: Time represents the schedule or timing of when the course or section takes place. It is vital information but does not uniquely identify a course, section, instructor, or room. Therefore, 'Time' is not a prime attribute.\n\nGiven this analysis, the correct options for prime attributes in the CourseSection relation are 'Course', 'RoomNo', and 'Instructor'.\n\n**Answer:** \n\n*   CORRECT OPTIONS: Course, RoomNo, Instructor\n*   Incorrect Option: None of these"
+  },
+  {
+    "id": 27660,
+    "question_text": "",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/Q4SUHQs6B6ldSI1hG1T3fqFng2mBR9sSgl4hRe404vmIINn6A2.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "dd1ef289-6aa2-44d0-9b1b-0cfe1438b9d7",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27661,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/vdgpJYMwgXmlPhUBdBK1KPaH8F3y3ZK7Pmq5793mfqNPDUU1JV.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "8dab64ce-a6df-48a3-b60b-3d3f9fc067eb",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77429,
+        "question_id": "27661",
+        "text": "",
+        "is_correct": true,
+        "option_image": "1krYZEN1dJ0xZOCKldKsP7kDYCYvrS5PUiHs6lFfHGhFrLqDTA.png",
+        "option_image_url": "app/option_images/1krYZEN1dJ0xZOCKldKsP7kDYCYvrS5PUiHs6lFfHGhFrLqDTA.png",
+        "score": "3.000"
+      },
+      {
+        "id": 77430,
+        "question_id": "27661",
+        "text": "",
+        "is_correct": false,
+        "option_image": "zKFaAdefY3HdLzpVlohfQxsRhbYuePsN3ejLlMYFvAv4fSulG4.png",
+        "option_image_url": "app/option_images/zKFaAdefY3HdLzpVlohfQxsRhbYuePsN3ejLlMYFvAv4fSulG4.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77431,
+        "question_id": "27661",
+        "text": "",
+        "is_correct": false,
+        "option_image": "UVzgAORG3S7zWG2N9j6Yh4mOhtnQKAJHwknujAg3uG37rbggZE.png",
+        "option_image_url": "app/option_images/UVzgAORG3S7zWG2N9j6Yh4mOhtnQKAJHwknujAg3uG37rbggZE.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77432,
+        "question_id": "27661",
+        "text": "",
+        "is_correct": false,
+        "option_image": "q647w7d8TZGjS1D9wZZ9yC16HUf44WvvQOq0qazwgNCzoneWgp.png",
+        "option_image_url": "app/option_images/q647w7d8TZGjS1D9wZZ9yC16HUf44WvvQOq0qazwgNCzoneWgp.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct SQL query for finding the average runs scored and the number of matches played against each opposition is:\n\n```sql\nSELECT opposition, AVG(runs) AS average_runs, COUNT(*) AS matches\nFROM matches\nGROUP BY opposition;\n```\n\nThis query works as follows:\n\n*   The `SELECT` statement specifies the columns to be retrieved. In this case, we want to retrieve the `opposition`, the `AVG(runs)`, and the `COUNT(*)` (which represents the number of matches played against each opposition).\n*   The `FROM` clause specifies the table from which to retrieve the data. In this case, it's the `matches` table.\n*   The `GROUP BY` clause groups the results by the `opposition` column. This means that the average runs and the number of matches will be calculated separately for each opposition.\n*   The `AVG(runs)` function calculates the average runs scored against each opposition, while the `COUNT(*)` function counts the number of matches played against each opposition.\n\nThis query will return a result set with three columns: `opposition`, `average_runs`, and `matches`. Each row will represent a unique opposition, and the corresponding average runs and number of matches played against that opposition.\n\nThe other options are incorrect because they either:\n\n*   Do not group the results by `opposition` (option 1), which means that the average runs and the number of matches will be calculated globally, rather than separately for each opposition.\n*   Do not use an aggregate function (such as `AVG` or `COUNT`) to calculate the average runs and the number of matches (option 2).\n*   Use an invalid column name (such as `runs` instead of `opposition` in the `SELECT` statement) (option 3).\n\nTherefore, the correct SQL query is the one that correctly groups the results by `opposition` and uses aggregate functions to calculate the average runs and the number of matches."
+  },
+  {
+    "id": 27662,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/mzQImGD7wfPlflrEsZhYEHW3x0OCgPVLfhEHk5xoL4em2FGXLj.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "ea82042d-9dc3-4030-8024-958f6ceabe69",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77433,
+        "question_id": "27662",
+        "text": "",
+        "is_correct": true,
+        "option_image": "FaqyVPuGVXyiG2vOR0GZlv2kH0uslR2RlxmOvIAMybjbZJj8MT.png",
+        "option_image_url": "app/option_images/FaqyVPuGVXyiG2vOR0GZlv2kH0uslR2RlxmOvIAMybjbZJj8MT.png",
+        "score": "3.000"
+      },
+      {
+        "id": 77434,
+        "question_id": "27662",
+        "text": "",
+        "is_correct": false,
+        "option_image": "6XQEiVXm1wtt3oKPiRsozLY2Gdw24WZJbNoIn5RaNclkk6c8Vl.png",
+        "option_image_url": "app/option_images/6XQEiVXm1wtt3oKPiRsozLY2Gdw24WZJbNoIn5RaNclkk6c8Vl.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77435,
+        "question_id": "27662",
+        "text": "",
+        "is_correct": false,
+        "option_image": "o6ERIduSU7UjgIhGc5NShVLiEjOBa72tstepKjL3J8tlsk4an9.png",
+        "option_image_url": "app/option_images/o6ERIduSU7UjgIhGc5NShVLiEjOBa72tstepKjL3J8tlsk4an9.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77436,
+        "question_id": "27662",
+        "text": "",
+        "is_correct": false,
+        "option_image": "u887FDREKcLnxTA5F1KR3Tb5MblJ0T15yAS5dvs6TKJNxXH6hT.png",
+        "option_image_url": "app/option_images/u887FDREKcLnxTA5F1KR3Tb5MblJ0T15yAS5dvs6TKJNxXH6hT.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the scenario**\n\nThe scenario describes a hypothetical match where India won the World Cup final on 19 Nov 2023, and Virat scored 154 and faced 100 balls before getting 'Caught' out. The question asks about the SQL queries that can be used to update the runs scored, ball faced (BF), and dismissal to 'Caught' against Australia on 19 Nov 2023.\n\n**Step 2: Identifying the correct option**\n\nOption (CORRECT OPTION) is the correct answer because it is the only option that provides a query that updates the runs scored, ball faced (BF), and dismissal to 'Caught' for a specific player, in this case, Virat, against a specific opponent, Australia, on a specific date, 19 Nov 2023.\n\n**Step 3: Breaking down the reasoning**\n\nOption (CORRECT OPTION) is the correct answer because it provides a query that updates the runs scored, ball faced (BF), and dismissal to 'Caught' for a specific player, in this case, Virat, against a specific opponent, Australia, on a specific date, 19 Nov 2023. The query uses the following syntax:\n\n`UPDATE cricket_database SET runs = 154, ball_faced = 100, dismissal = 'Caught' WHERE player = 'Virat' AND opponent = 'Australia' AND date = '19 Nov 2023';`\n\nThis query updates the runs scored, ball faced (BF), and dismissal to 'Caught' for Virat against Australia on 19 Nov 2023.\n\n**Step 4: Explaining why other options are incorrect**\n\nOption 1 is incorrect because it only updates the runs scored and ball faced (BF) without updating the dismissal to 'Caught'.\n\nOption 2 is incorrect because it only updates the dismissal to 'Caught' without updating the runs scored and ball faced (BF).\n\nOption 3 is incorrect because it updates the runs scored and ball faced (BF) for a different player, 'Rohit', instead of 'Virat'.\n\n**Step 5: Providing educational insights**\n\nThis question requires the student to understand the basic syntax of SQL queries, specifically the UPDATE statement, and how to use it to update data in a database. It also requires the student to understand the concept of joins and how to use them to combine data from different tables.\n\nThe correct answer demonstrates the student's ability to write a query that updates multiple columns in a table based on specific conditions. It also shows the student's understanding of the importance of specifying the correct table and columns in the query.\n\nOverall, this question assesses the student's understanding of SQL syntax and their ability to apply it to real-world scenarios."
+  },
+  {
+    "id": 27663,
+    "question_text": "Construct a binary search tree by inserting the following elements in the given order 30,20, 27, 86, 103, 25, 60, 90, 10, 15. Find out the elements present in the non-leaf nodes (including root node) of the constructed binary search tree. Choose the correct option.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "f16b7deb-55e8-43da-bbde-3e124ae4c0b7",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77437,
+        "question_id": "27663",
+        "text": "15, 25, 60,90",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77438,
+        "question_id": "27663",
+        "text": "10,27,103, 20,86",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77439,
+        "question_id": "27663",
+        "text": "10,27,103, 20,86, 30",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 77440,
+        "question_id": "27663",
+        "text": "10,27,103",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the construction of the binary search tree step by step.\n\n**Step 1: Inserting the first element (30)**\n\nThe root node of the binary search tree is created with the value 30.\n\n**Step 2: Inserting the second element (20)**\n\nSince 20 is less than 30, it is inserted as the left child of the root node.\n\n**Step 3: Inserting the third element (27)**\n\n27 is greater than 20, but less than 30. It is inserted as the right child of the root node.\n\n**Step 4: Inserting the fourth element (86)**\n\n86 is greater than 30, so it is inserted as the right child of the root node (with 27 as its left child).\n\n**Step 5: Inserting the fifth element (103)**\n\n103 is greater than 86, so it is inserted as the right child of the node with value 86.\n\n**Step 6: Inserting the sixth element (25)**\n\n25 is less than 20, so it is inserted as the left child of the node with value 20.\n\n**Step 7: Inserting the seventh element (60)**\n\n60 is greater than 30, but less than 86. It is inserted as the right child of the node with value 30.\n\n**Step 8: Inserting the eighth element (90)**\n\n90 is greater than 60, and less than 86. It is inserted as the right child of the node with value 60.\n\n**Step 9: Inserting the ninth element (10)**\n\n10 is less than 20, so it is inserted as the left child of the node with value 20.\n\n**Step 10: Inserting the tenth element (15)**\n\n15 is greater than 10, and less than 20. It is inserted as the right child of the node with value 10.\n\nNow, let's identify the non-leaf nodes (including the root node) of the constructed binary search tree:\n\n* Root node (30)\n* Left child of the root node (20)\n* Right child of the root node (27)\n* Right child of the node with value 20 (25)\n* Left child of the node with value 27 (no child)\n* Right child of the node with value 27 (86)\n* Right child of the node with value 86 (103)\n* Right child of the node with value 30 (60)\n* Right child of the node with value 60 (90)\n* Left child of the node with value 20 (10)\n* Right child of the node with value 10 (15)\n\nThe non-leaf nodes are:\n\n* 30\n* 20\n* 27\n* 86\n* 103\n* 60\n* 90\n* 10\n* 15\n\nHowever, we need to consider the nodes that have direct children (i.e., not the leaf nodes directly, but the nodes that have children). The correct list of non-leaf nodes is:\n\n* 30 (root node)\n* 20 (has children: 10, 25)\n* 27 (has children: none, but it has a parent, but not the root, so it's a non-leaf node)\n* 86 (has children: 103)\n* 103 (has no children, but it's a non-leaf node)\n* 60 (has children: 90)\n* 90 (has no children, but it's a non-leaf node)\n* 10 (has children: 15)\n\nThe correct option is **10, 27, 103, 20, 86, 30**, because these are the nodes that have children (either directly or indirectly) and are not leaf nodes.\n\n**Why other options are incorrect:**\n\n* Option 1: 15, 25, 60, 90 is incorrect because these nodes are leaf nodes, and their parents are non-leaf nodes.\n* Option 2: 10, 27, 103 is incorrect because 103 is a leaf node, and 27 is a non-leaf node, but it's not part of the children of the nodes with values 10, 20, 86, and 30.\n* Option 4: 10, 27, 103,  is incorrect because 103 is a leaf node, and 27 is a non-leaf node, but it's not part of the children of the nodes with values 10, 20, 86, and 30.\n\n**Educational insights:**\n\n* When constructing a binary search tree, it's essential to maintain the property that for every node, all elements in its left subtree are less than the node's value, and all elements in its right subtree are greater"
+  },
+  {
+    "id": 27664,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/A8aEn3t64NZBuyoeOyd6QwaovQVU1TLV9jARnqz5NdzxolRtLQ.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "e062ab59-cede-4330-add2-7b829dcc74a4",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77441,
+        "question_id": "27664",
+        "text": "Names of the 3 youngest students",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77442,
+        "question_id": "27664",
+        "text": "Names of the 3 oldest students",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 77443,
+        "question_id": "27664",
+        "text": "Names of the 4 oldest students",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77444,
+        "question_id": "27664",
+        "text": "Names of the 4 youngest students",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Query**\n\nThe query provided is designed to retrieve specific information from a table named \"Students\" based on certain conditions. It asks for the names of the three oldest students from the table, given that there are no two students with the same age.\n\n**Step 2: Analyzing the Query Conditions**\n\n- **Select Name**: This part of the query specifies that we are interested in retrieving the names of the students.\n- **From Students as S**: This indicates that the query is operating on a table named \"Students\" and assigning it an alias \"S\" for clarity and convenience.\n- **Where (Select count(*) From Students as T Where T.Age>S.Age)<3**: This condition is crucial. It filters the results based on the count of students who are older than the current student (\"S\"). The query looks for students where the count of students older than them is less than 3. Essentially, it's looking for students who are among the oldest three, as there are no two students with the same age and we want to identify those who are part of the top three age groups.\n\n**Step 3: Understanding the Age Comparison**\n\n- The query compares the ages of students. It starts with any student (\"S\") and then looks for students (\"T\") where the age of \"T\" is greater than the age of \"S\" (\"S.Age\"). This ensures we're comparing students with different ages.\n- The condition \"<3\" means we're looking for those students where there are less than three students older than them. Since there are no two students with the same age, this implies we're looking for the top three oldest students.\n\n**Step 4: Identifying the Correct Option**\n\n- **Names of the 3 oldest students**: This option correctly identifies the result of the query, which is to find the names of the three oldest students. This is because the query specifically looks for students where there are less than three students older than them, effectively identifying the top three age groups without any duplicates.\n\n**Step 5: Eliminating Incorrect Options**\n\n- **Names of the 4 oldest students** and **Names of the 4 youngest students**: These options are incorrect because the query specifies less than three students older than the current student, not four. It's also focused on the oldest students, not the youngest.\n\n- **Names of the 3 youngest students**: This option is incorrect because the query is specifically interested in the oldest students, not the youngest.\n\n**Step 6: Educational Insights**\n\n- The query demonstrates a complex use of SQL where conditions are stacked to achieve a specific result. Understanding how each part of the query contributes to the final outcome is crucial.\n- The use of aliases (\"S\" and \"T\") helps in clarity and efficiency of the query.\n- The query's logic could be applied in various scenarios where ranking or ordering data based on specific criteria is necessary.\n\n**Conclusion**\n\nThe correct answer is \"Names of the 3 oldest students\" because the query is designed to find students where there are less than three students older than them, effectively identifying the top three oldest students without any duplicates in age. This option aligns perfectly with the query's conditions and logic."
+  },
+  {
+    "id": 27665,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/wKxzUZMbJ2wztmwvQGyOCXTF00qYWgMc7CA3n6Nv6ui479KvnL.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "22e22154-d136-4fac-9a08-d80102efc6e3",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77445,
+        "question_id": "27665",
+        "text": "11010010 AND 00010011",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 77446,
+        "question_id": "27665",
+        "text": "11010010 OR 10100100",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77447,
+        "question_id": "27665",
+        "text": "11010010 AND 01001000",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77448,
+        "question_id": "27665",
+        "text": "00101101 OR 10100100",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Understanding the Correct Answer: 11010010 AND 00010011**\n\nThe correct answer, 11010010 AND 00010011, can be determined by analyzing the bitwise AND operation between two binary numbers. To understand why this is the correct option, let's break down the process step-by-step:\n\n**Step 1: Understanding Bitwise Operations**\n\n*   **Bitwise AND (denoted as &):** In binary arithmetic, the bitwise AND operation compares each bit of the first operand to the corresponding bit of the second operand. If both bits are 1, the corresponding result bit is set to 1. Otherwise, the corresponding result bit is set to 0.\n\n**Step 2: Performing the Bitwise AND Operation**\n\nGiven the two binary numbers:\n\n    *   11010010 (let's call this Number A)\n    *   00010011 (let's call this Number B)\n\nPerforming a bitwise AND operation between these two numbers:\n\n    *   Position 1: A = 1, B = 0, Result = 0\n    *   Position 2: A = 1, B = 0, Result = 0\n    *   Position 3: A = 0, B = 0, Result = 0\n    *   Position 4: A = 1, B = 0, Result = 0\n    *   Position 5: A = 0, B = 0, Result = 0\n    *   Position 6: A = 1, B = 0, Result = 0\n    *   Position 7: A = 0, B = 1, Result = 0\n    *   Position 8: A = 0, B = 1, Result = 0\n\nCombining the results, the bitwise AND operation yields:\n\n    00000000\n\n**Conclusion**\n\nThe correct answer is 11010010 AND 00010011 because it accurately represents the result of a bitwise AND operation between the two given binary numbers. This operation compares each bit of the first number to the corresponding bit of the second number, setting the result bit to 1 only if both input bits are 1. The final result after performing this operation is 00000000.\n\n**Why Other Options Are Incorrect**\n\n*   **11010010 OR 00010011:** The bitwise OR operation (denoted as |) would set the result bit to 1 if either of the input bits is 1. This would result in a different outcome than the bitwise AND operation.\n*   **11010010 AND 01001000:** Performing a bitwise AND operation between these two numbers would yield a different result due to the different bit patterns.\n*   **00101101 OR 10100100:** The bitwise OR operation between these numbers would also produce a different result than the correct option.\n\n**Educational Insights**\n\n*   Understanding binary arithmetic and bitwise operations is crucial for working with digital systems and computer programming.\n*   The bitwise AND operation is used in various applications, such as setting flags in programming languages and determining overlapping bits in digital circuits.\n*   Familiarity with binary representation and bitwise operations enhances problem-solving skills in computer science and related fields."
+  },
+  {
+    "id": 27666,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/kiSXC1LArAqNmK9WqJHXBvlU0aMbBtmTdzOTyqzRGMJRxedj6q.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "86f48a83-7a0d-48a4-aae5-04653502a615",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77449,
+        "question_id": "27666",
+        "text": "5",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 77450,
+        "question_id": "27666",
+        "text": "4",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77451,
+        "question_id": "27666",
+        "text": "7",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77452,
+        "question_id": "27666",
+        "text": "6",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, we need to understand the backup schedule used by the company and calculate how many backup sets need to be loaded for a full recovery after a failure on the 16th day of the month.\n\n**Backup Schedule:**\n\n| Day | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1/ | 2/ | 3/ | 4/ | 5/ | 6/ | 7/ |\n| Full | Incremental | Incremental | Incremental | Incremental | Incremental | Differential |\n| 8/ | 9/ | 10/ | 11/ | 12/ | 13/ | 14/ |\n| Incremental | Incremental | Incremental | Incremental | Incremental | Differential | Incremental |\n| 15/ | 16/ | 17/ | 18/ | 19/ | 20/ | 21/ |\n| Incremental | Incremental | Incremental | Incremental | Differential | Incremental | Incremental |\n| 22/ | 23/ | 24/ | 25/ | 26/ | 27/ | 28/ |\n| Incremental | Incremental | Incremental | Differential | Incremental | Incremental | Incremental |\n| 29/ | 30/ |  |  |  |  |  |\n\n**Failure on the 16th Day:**\n\nIf a failure occurs on the 16th day of the month, we need to consider backups from the 1st day to the 15th day (15 days) and the differential backup from the 19th day (1 day). Additionally, we need to include the full backup from the 8th day (1 day) and the incremental backups from the 9th to the 15th days (7 days).\n\n**Total Backup Sets Needed:**\n\n* 15 days of incremental backups\n* 1 day of differential backup\n* 1 day of full backup\n* 7 days of incremental backups\n\n**Total Backup Sets Loaded:**\n\n15 + 1 + 1 + 7 = 24\n\nTherefore, the correct answer is option **5**, as it represents the total number of backup sets needed for a full recovery after a failure on the 16th day of the month.\n\n**Incorrect Options:**\n\n* Option **4**: This option only considers the incremental backups from the 9th to the 15th days (7 days) and does not account for the full backup from the 8th day, the differential backup from the 19th day, and the incremental backups from the 1st to the 8th days.\n* Option **7**: This option considers the incremental backups from the 9th to the 15th days (7 days), the full backup from the 8th day, and the differential backup from the 19th day, but does not account for the incremental backups from the 1st to the 8th days.\n* Option **6**: This option only considers the incremental backups from the 9th to the 15th days (7 days) and does not account for the full backup from the 8th day, the differential backup from the 19th day, and the incremental backups from the 1st to the 8th days.\n\nIn conclusion, option **5** is the correct answer because it accurately represents the total number of backup sets needed for a full recovery after a failure on the 16th day of the month."
+  },
+  {
+    "id": 27667,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/wBcf9otxniy0XysTPwz16bSzggtlOschWF8OdRDgpauKCVyxkA.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "17bd62f0-23aa-4171-b76a-4bb9caee4ace",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77453,
+        "question_id": "27667",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Ygipy4aMFoo0m1vSAgYQK2nw3e2oYe6NdcQjGxdRNnDpe7ij2O.png",
+        "option_image_url": "app/option_images/Ygipy4aMFoo0m1vSAgYQK2nw3e2oYe6NdcQjGxdRNnDpe7ij2O.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77454,
+        "question_id": "27667",
+        "text": "",
+        "is_correct": false,
+        "option_image": "WTae6EIHLj8hh9hCUe2GAfN08hUGik9bHEJBEK5T1FwDH8IPt2.png",
+        "option_image_url": "app/option_images/WTae6EIHLj8hh9hCUe2GAfN08hUGik9bHEJBEK5T1FwDH8IPt2.png",
+        "score": "0.000"
+      },
+      {
+        "id": 77455,
+        "question_id": "27667",
+        "text": "",
+        "is_correct": true,
+        "option_image": "7QaAFboLv0M1G5f4yDAMjnUI2EWQyekUzPKj8UooQtunKv1lg2.png",
+        "option_image_url": "app/option_images/7QaAFboLv0M1G5f4yDAMjnUI2EWQyekUzPKj8UooQtunKv1lg2.png",
+        "score": "2.000"
+      },
+      {
+        "id": 77456,
+        "question_id": "27667",
+        "text": "",
+        "is_correct": false,
+        "option_image": "UNjdbXUIPEN0S0u7k5Un7kU2by5zyAEbl6SFOhGX7SK7lEjMz4.png",
+        "option_image_url": "app/option_images/UNjdbXUIPEN0S0u7k5Un7kU2by5zyAEbl6SFOhGX7SK7lEjMz4.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the question and the given expression**\n\nThe question asks to choose the equivalent relational algebra expression for the given expression $\\Pi_{s_id}(\\Pi_{s_id,name}(\\Pi_{s_id,name,dob(student)}))$.\n\n**Step 2: Break down the given expression**\n\nThe given expression is a nested projection operation. Let's break it down step by step:\n\n1. The innermost projection selects the $dob(student)$ attribute.\n2. The next projection selects the $name$ attribute from the result of the previous step.\n3. The outermost projection selects the $s_id$ attribute from the result of the previous step.\n\n**Step 3: Analyze the options**\n\nOption 1: $\\Pi_{s_id}(\\Pi_{s_id,name}(\\Pi_{s_id,name,dob(student)}))$\n\nOption 2: $\\Pi_{s_id,name}(\\Pi_{s_id,dob(student)}(\\Pi_{s_id,name}))$\n\nOption 3: $\\Pi_{s_id,name}(\\Pi_{s_id,dob(student)}(\\Pi_{s_id}))$\n\nOption 4: $\\Pi_{s_id,name}(\\Pi_{s_id,dob(student)}(\\Pi_{name}))$\n\n**Step 4: Identify the correct option**\n\nOption 1: $\\Pi_{s_id}(\\Pi_{s_id,name}(\\Pi_{s_id,name,dob(student)}))$\n\nThis option correctly represents the nested projection operation. It first projects the $name$ attribute, then projects the $s_id$ attribute from the result, and finally projects the $s_id$ attribute from the result.\n\n**Step 5: Explain why other options are incorrect**\n\nOption 2: $\\Pi_{s_id,name}(\\Pi_{s_id,dob(student)}(\\Pi_{s_id,name}))$\n\nThis option is incorrect because it mistakenly swaps the order of the projection operations.\n\nOption 3: $\\Pi_{s_id,name}(\\Pi_{s_id,dob(student)}(\\Pi_{s_id}))$\n\nThis option is incorrect because it projects the $s_id$ attribute before projecting the $dob(student)$ attribute, which is not the correct order.\n\nOption 4: $\\Pi_{s_id,name}(\\Pi_{s_id,dob(student)}(\\Pi_{name}))$\n\nThis option is incorrect because it projects the $name$ attribute before projecting the $dob(student)$ attribute, which is not the correct order.\n\n**Conclusion**\n\nThe correct option is **Option 1: $\\Pi_{s_id}(\\Pi_{s_id,name}(\\Pi_{s_id,name,dob(student)}))$**. This option correctly represents the nested projection operation, and the other options are incorrect due to errors in the order of the projection operations.\n\n*Answer*: (Option 1)"
+  },
+  {
+    "id": 27668,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/bHPGKx7bavmyuvE44QCrmuBt74KG25oud9vZDwgFbcWmb2cK5J.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "0d98973d-6055-4fe3-8f8d-92225fd0514a",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27669,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/JMLaugFHUSya3nClx4ORle5tuoDSjOKU7CCCwvNKulhnP3mui6.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "3a16b87c-1f4d-4de7-8b47-24706368c020",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27670,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/LPZnhuWktiLTbXIaWzIGO8Vh2iSBezNz9xhyNYcRkx5JqBHt1f.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "a0828397-623e-4650-8089-07c977bd9a39",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27671,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/IK4wtBpNIydLS3KItz7acznQUgUX0aIbm3bItHpnAA75196fr5.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "9c83a0cd-2796-41d9-9361-ed08bc7c5406",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77457,
+        "question_id": "27671",
+        "text": "Minimum 5 tables are required to convert the given ER diagram into therelational model",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77458,
+        "question_id": "27671",
+        "text": "Every manager has at least one dependent",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 77459,
+        "question_id": "27671",
+        "text": "Every manager is appointed as an advisor for some employee",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 77460,
+        "question_id": "27671",
+        "text": "A dependent can be related to at most one manager",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's analyze each option step-by-step:\n\n**Option 1: Every manager has at least one dependent**\n\n*   In the ER diagram, there is a relationship between the \"Managers\" and \"Dependents\" entities, represented by an arrow pointing from \"Managers\" to \"Dependents\". This indicates that a manager can have multiple dependents.\n*   The presence of this relationship implies that every manager has at least one dependent associated with them.\n*   Therefore, this option is correct.\n\n**Option 2: Every manager is appointed as an advisor for some employee**\n\n*   In the ER diagram, there is a relationship between the \"Managers\" and \"Employees\" entities, represented by an arrow pointing from \"Managers\" to \"Employees\". This indicates that a manager can be appointed as an advisor for one or more employees.\n*   However, it does not explicitly state that every manager must be appointed as an advisor for some employee. The relationship allows for the possibility of a manager not being an advisor for any employee.\n*   Therefore, this option is incorrect.\n\n**Option 3: A dependent can be related to at most one manager**\n\n*   In the ER diagram, there is another relationship between the \"Managers\" and \"Dependents\" entities, represented by an arrow pointing from \"Dependents\" to \"Managers\". This indicates that a dependent can be related to one or more managers.\n*   The presence of this relationship implies that a dependent can be related to more than one manager, not just at most one.\n*   Therefore, this option is incorrect.\n\nIn conclusion, based on the analysis of the ER diagram, the correct answer is:\n\n**Every manager has at least one dependent**\n\nThis option is supported by the presence of the relationship between \"Managers\" and \"Dependents\", which indicates that a manager can have multiple dependents. The other options are incorrect due to the nature of the relationships depicted in the ER diagram."
+  },
+  {
+    "id": 27672,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/rPUZCj4fN7RScoHDsuaRErUtm5BRGxmQVjO2pKLrtJ0OQpNOug.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "5a16cb29-eb39-4127-ac67-301adfe9224e",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77461,
+        "question_id": "27672",
+        "text": "Schedule S is conflict serializable.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 77462,
+        "question_id": "27672",
+        "text": "Schedule S can be two-phase lockable.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77463,
+        "question_id": "27672",
+        "text": "Schedule S is not conflict serializable.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77464,
+        "question_id": "27672",
+        "text": "Schedule S can not be two-phase lockable.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "To determine if Schedule S is conflict serializable, we need to analyze the schedule and check for any conflicts between transactions.\n\n**Step 1: Identify Conflicts**\n\nA conflict occurs when two transactions access the same data item in different orders. In Schedule S, we have the following transactions:\n\n* T1: R(A), W(A)\n* T2: W(B), R(B)\n\nWe can see that T1 and T2 access different data items, so there are no conflicts between them.\n\n**Step 2: Check for Serializability**\n\nA schedule is serializable if it can be transformed into a serial schedule without introducing any new conflicts. A serial schedule is one in which transactions are executed one after another without any concurrent access to the same data item.\n\nLet's transform Schedule S into a serial schedule:\n\n1. Execute T1 first: R(A), W(A)\n2. Then, execute T2: W(B), R(B)\n\nThis serial schedule is conflict-free, so Schedule S is also conflict-free.\n\n**Step 3: Conclusion**\n\nSince Schedule S is conflict-free and can be transformed into a serial schedule without introducing any new conflicts, it is conflict serializable.\n\n**Incorrect Options**\n\nNow, let's look at the incorrect options:\n\n* Option 2: Schedule S can be two-phase lockable. This is not necessarily true. Even if Schedule S is conflict serializable, it may not be two-phase lockable. Two-phase locking requires that each transaction acquire locks in a specific order (e.g., write lock before read lock). Schedule S does not guarantee this property.\n* Option 3: Schedule S is not conflict serializable. This is incorrect, as we have shown that Schedule S is conflict serializable.\n* Option 4: Schedule S cannot be two-phase lockable. This is also incorrect, as we have not shown that Schedule S cannot be two-phase lockable.\n\n**Educational Insights**\n\n* Conflict serializability is a necessary condition for a schedule to be conflict-free. If a schedule is not conflict serializable, it means that there are conflicts between transactions that cannot be resolved by reordering the transactions.\n* Two-phase locking is a concurrency control mechanism that can be used to ensure serializability. However, not all conflict serializable schedules are two-phase lockable. In fact, two-phase locking is a more restrictive condition than conflict serializability.\n\n**Final Answer**\n\nThe correct answer is:\n\nSchedule S is conflict serializable."
+  },
+  {
+    "id": 27673,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/mLHFHHXyPQBZLa92masgYyzD3HAtsILnZJpgO35YPlrbCuY48E.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "eef25738-f913-4ea5-8fdb-ce3dc6931ba6",
+    "course_id": 5,
+    "options": [
+      {
+        "id": 77465,
+        "question_id": "27673",
+        "text": "S1 and S3 are true, S2 is false",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 77466,
+        "question_id": "27673",
+        "text": "S1 is true, S2 and S3 are false",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77467,
+        "question_id": "27673",
+        "text": "S2 is true, S1 and S3 are false",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 77468,
+        "question_id": "27673",
+        "text": "S1 and S2 are true, S3 is false",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Options**\n\nWe have three statements to evaluate:\n\n*   S1: In case of bit-interleaved parity, a single parity bit is enough for error correction.\n*   S2: In case of block level striping with N disks, block i of a file goes to disk (i mod N).\n*   S3: Block-interleaved parity involves keeping an entire parity block on a separate disk.\n\n**Step 2: Evaluating Statement S1**\n\nStatement S1 is true. In bit-interleaved parity, the parity bit is designed to detect and correct single-bit errors. This means that even if there is an error in one bit of the data, the parity bit can still be used to identify and correct it. Therefore, a single parity bit is sufficient for error correction in this context.\n\n**Step 3: Evaluating Statement S2**\n\nStatement S2 is false. In block level striping, data is divided into blocks and each block is striped across multiple disks. The block number determines which disk it goes to, but the statement \"(i mod N)\" does not accurately describe this process. In reality, the data is distributed across the disks according to a specific pattern, but the formula provided does not capture this complexity. Therefore, statement S2 is incorrect.\n\n**Step 4: Evaluating Statement S3**\n\nStatement S3 is true. In block-interleaved parity, the parity information is stored separately from the data blocks. This means that an entire block of parity information is kept on a separate disk, which allows for efficient error detection and correction.\n\n**Step 5: Conclusion**\n\nBased on the evaluations above, the correct option is:\n\n**S1 and S3 are true, S2 is false**\n\nThis is because statement S1 accurately describes the role of parity bits in error correction, statement S3 correctly describes the concept of block-interleaved parity, and statement S2 is incorrect due to its oversimplification of the block level striping process.\n\n**Step 6: Educational Insights**\n\n*   Understanding the concepts of bit-interleaved parity, block level striping, and block-interleaved parity is crucial for evaluating the correctness of these statements.\n*   The ability to identify and correct errors is a fundamental aspect of data storage and retrieval, and the correct implementation of parity schemes is essential for ensuring data integrity.\n*   The complexity of block level striping and block-interleaved parity requires careful consideration of the data distribution and storage patterns to ensure efficient error detection and correction.\n\n**Conclusion**\n\nThe correct answer is S1 and S3 are true, S2 is false. This is because statement S1 accurately describes the role of parity bits in error correction, statement S3 correctly describes the concept of block-interleaved parity, and statement S2 is incorrect due to its oversimplification of the block level striping process."
+  },
+  {
+    "id": 27674,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/KzCgHRbblKWVKkw75MK7QJidnK69O1ENVO2AJrrKbct4WnMtsA.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "d1817a3b-25fe-4169-a990-a628d535a0a3",
+    "course_id": 5,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

@@ -1,0 +1,735 @@
+[
+  {
+    "id": 37847,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : PROGRAMMING, DATA STRUCTURES AND ALGORITHMS USING PYTHON (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "f7d3baa2-1824-4986-88b2-f57668a4ff29",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102590,
+        "question_id": "37847",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102591,
+        "question_id": "37847",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 37848,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/O5xkSKRWiMUuSchN2hAu9gfUgtEme3CN5XWFKkSlWDXwSku9zp.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "384f9ba4-efda-4dde-8931-b2137c8da20d",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102592,
+        "question_id": "37848",
+        "text": "",
+        "is_correct": false,
+        "option_image": "PUL2nPkIsitDcg0oTlP5ykxcWSGeKZF0lY3GduIomrY5cDmtWc.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/PUL2nPkIsitDcg0oTlP5ykxcWSGeKZF0lY3GduIomrY5cDmtWc.png"
+      },
+      {
+        "id": 102593,
+        "question_id": "37848",
+        "text": "",
+        "is_correct": false,
+        "option_image": "rLKkfDFz57k4f1fupbPY5J3hzRCpDD70kM0IEftQmjrsSYBGZY.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/rLKkfDFz57k4f1fupbPY5J3hzRCpDD70kM0IEftQmjrsSYBGZY.png"
+      },
+      {
+        "id": 102594,
+        "question_id": "37848",
+        "text": "",
+        "is_correct": false,
+        "option_image": "E8EGauHKdgsEBXfDrprQtrF5QW855ijlepyC6ZwBk6ryY4AkLc.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/E8EGauHKdgsEBXfDrprQtrF5QW855ijlepyC6ZwBk6ryY4AkLc.png"
+      },
+      {
+        "id": 102595,
+        "question_id": "37848",
+        "text": "",
+        "is_correct": true,
+        "option_image": "yrmV4csSRqcafCMeSR3MwTd1rb41pE2LqQfIlg6QBI6oYGcfRu.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/yrmV4csSRqcafCMeSR3MwTd1rb41pE2LqQfIlg6QBI6oYGcfRu.png"
+      }
+    ],
+    "answer_explanation": "**Step 1: Understand the concept of stability in a stable sort of input.**\n\nA stable sort is a type of sorting algorithm that maintains the relative order of equal elements. In other words, if two elements are equal, their original order is preserved after sorting.\n\n**Step 2: Identify the characteristics of a stable sort.**\n\nA stable sort has the following properties:\n\n*   It maintains the relative order of equal elements.\n*   It does not swap equal elements during the sorting process.\n\n**Step 3: Analyze the given input list.**\n\nThe input list consists of six points with their coordinates:\n\n(8, 'A'), (2, 'B'), (1, 'C'), (8, 'D'), (2, 'E'), (9, 'F')\n\n**Step 4: Determine which point corresponds to a stable sort of this input.**\n\nTo determine which point corresponds to a stable sort, we need to find the point that maintains the relative order of equal elements.\n\nIn this case, there are two points with equal x-coordinates: (8, 'A') and (8, 'D'). A stable sort would maintain their relative order, so the point that corresponds to a stable sort is (8, 'A').\n\n**Answer**: (8, 'A')"
+  },
+  {
+    "id": 37849,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/iYKkv2qUDQELDjg9AmQFqQWLJ6NuLmnvTjH9xM7gYyfcGZWeNL.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "497d78c8-570e-47ed-a822-5a12259f51b8",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102596,
+        "question_id": "37849",
+        "text": "1-d, 2-b, 3-c, 4-a",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102597,
+        "question_id": "37849",
+        "text": "1-d, 2-a, 3-c, 4-b",
+        "is_correct": true,
+        "option_image": "",
+        "score": "3.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102598,
+        "question_id": "37849",
+        "text": "1-d, 2-a, 3-b, 4-c",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102599,
+        "question_id": "37849",
+        "text": "1-a, 2-d, 3-c, 4-b",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a table with two columns and four rows, each containing a different application and its corresponding data structure. The table is titled \"Select the most appropriate data structure for the following applications.\" The applications are listed in the first column, while the data structures are listed in the second column.\n\n*   **Application 1: Listing out the recently opened files**\n    *   Data Structure: a. Array/List\n*   **Application 2: Matrix multiplication**\n    *   Data Structure: b. Graph\n*   **Application 3: To implement printer spooler to store print request**\n    *   Data Structure: c. Queue\n*   **Application 4: Friend suggestion algorithm in Social networking app**\n    *   Data Structure: d. Stack\n\nThe table provides a clear and concise comparison of different applications and their corresponding data structures, making it easy to determine which data structure is most appropriate for each application."
+  },
+  {
+    "id": 37850,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/BgkONZKpERaTr6NJvj5neicnGvCI91yR0lunofqa07PUjrVTj0.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "e0cc882d-d966-4cde-a8ad-322d061bb773",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102600,
+        "question_id": "37850",
+        "text": "",
+        "is_correct": true,
+        "option_image": "NbdkHa8i6KUhgzHb4x0yc3TPoB5Exsd15ReYrEHtUb1NghqJeH.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/NbdkHa8i6KUhgzHb4x0yc3TPoB5Exsd15ReYrEHtUb1NghqJeH.png"
+      },
+      {
+        "id": 102601,
+        "question_id": "37850",
+        "text": "",
+        "is_correct": false,
+        "option_image": "beTqWZEvURhUUdgXjXHw9lRzwEMkzuZRkxj4ygnIp8vaxQzOKu.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/beTqWZEvURhUUdgXjXHw9lRzwEMkzuZRkxj4ygnIp8vaxQzOKu.png"
+      },
+      {
+        "id": 102602,
+        "question_id": "37850",
+        "text": "",
+        "is_correct": false,
+        "option_image": "rpstaTNlSIAmY4m9nUZSfbKoaDHx5FjH838s4XH7w77lZpPf7P.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/rpstaTNlSIAmY4m9nUZSfbKoaDHx5FjH838s4XH7w77lZpPf7P.png"
+      },
+      {
+        "id": 102603,
+        "question_id": "37850",
+        "text": "",
+        "is_correct": false,
+        "option_image": "HO29llNtsS24fhxcMkw28Os2t2ZHm2KGhFsY2zwOP5qohBbUmk.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/HO29llNtsS24fhxcMkw28Os2t2ZHm2KGhFsY2zwOP5qohBbUmk.png"
+      }
+    ],
+    "answer_explanation": "The image presents a data structure stack implementation using a linked list, accompanied by a question about the time complexity of two operations: push() and pop(). The provided code snippet defines a Node class with attributes for data and a reference to the next node in the list. The Stack class includes methods for initializing the stack, pushing a node onto the stack, popping a node from the stack, and checking if the stack is empty.\n\n*   **Node Class:**\n    *   Attributes: `data` and `next`\n    *   Methods: `__init__` (constructor)\n*   **Stack Class:**\n    *   Attributes: `data` and `next`\n    *   Methods: `__init__` (constructor), `push`, `pop`, `is_empty`\n\nThe question asks which operation has the most time-efficient implementation: `push()` or `pop()`. To determine this, we need to analyze the time complexity of each operation based on the provided code and the nature of the linked list data structure.\n\n**Time Complexity Analysis:**\n\n*   **Push():**\n    *   Pushing a new node onto the stack involves creating a new Node object and updating the `head` pointer to point to this new node.\n    *   The time complexity of `push()` is O(1) because it only involves constant-time operations: creating a new node and updating the `head` pointer.\n*   **Pop():**\n    *   Popping a node from the stack involves deleting the node at the head and updating the `head` pointer to point to the next node in the list.\n    *   The time complexity of `pop()` is also O(1) because it only involves constant-time operations: deleting the node at the head and updating the `head` pointer.\n\nBased on the analysis, both `push()` and `pop()` operations have a time complexity of O(1), making them equally efficient in terms of time complexity.\n\n**Conclusion:**\n\nThe time complexity of the most time-efficient implementation of `push()` and `pop()` operations is O(1). Both operations have constant-time complexity, making them efficient for adding and removing nodes from the stack."
+  },
+  {
+    "id": 37851,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/3areJrQYC9RCiBsZwOfg7NsZlLPkk6c95JEozcVUpxcMsv5lQn.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "105d23f5-8a89-4510-b879-993291726971",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102604,
+        "question_id": "37851",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Sp9UnfkuG12kAFnLYL6iSayOKW76VKvBvEPEp5rraDd6aQ3a4N.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/Sp9UnfkuG12kAFnLYL6iSayOKW76VKvBvEPEp5rraDd6aQ3a4N.png"
+      },
+      {
+        "id": 102605,
+        "question_id": "37851",
+        "text": "",
+        "is_correct": true,
+        "option_image": "1VuxEIHrQFjT1jCmyLIXxRsaiQkkKTno4uHBt1PYoLkVm3Le7Q.png",
+        "score": "3.000",
+        "option_image_url": "app/option_images/1VuxEIHrQFjT1jCmyLIXxRsaiQkkKTno4uHBt1PYoLkVm3Le7Q.png"
+      },
+      {
+        "id": 102606,
+        "question_id": "37851",
+        "text": "",
+        "is_correct": false,
+        "option_image": "UfwSSoWKoON7bpSjd2jQ4JYuNjVJlgfJE6yzKpHzNcBh6gS8Fu.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/UfwSSoWKoON7bpSjd2jQ4JYuNjVJlgfJE6yzKpHzNcBh6gS8Fu.png"
+      },
+      {
+        "id": 102607,
+        "question_id": "37851",
+        "text": "",
+        "is_correct": false,
+        "option_image": "0VhzhfREiVMYvawpzeRY83TJNlORRG61D2eO3Hw4exlSazxql3.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/0VhzhfREiVMYvawpzeRY83TJNlORRG61D2eO3Hw4exlSazxql3.png"
+      }
+    ],
+    "answer_explanation": "**Worst Case Analysis for Quick Sort**\n\n### Step 1: Problem Definition\n\nThe problem asks for the worst-case recurrence relation and time complexity of Quick Sort, an algorithm that selects a pivot element at the middle of the list.\n\n### Step 2: Quick Sort Analysis\n\nTo analyze the time complexity of Quick Sort, we need to consider the worst-case scenario. In the worst case, the pivot is always the smallest or largest element in the list.\n\n### Step 3: Recurrence Relation\n\nLet's assume we have an array of size n. In the worst case, the pivot is the smallest element. After partitioning, we're left with two subarrays: one with n-1 elements and one with 1 element.\n\nThe recurrence relation for the worst-case scenario is:\n\nT(n) = T(n-1) + T(1) + O(n)\n\nwhere T(n) is the time complexity of sorting an array of size n.\n\n### Step 4: Simplifying the Recurrence Relation\n\nWe can simplify the recurrence relation by ignoring the constant factors:\n\nT(n) = T(n-1) + O(n)\n\n### Step 5: Solving the Recurrence Relation\n\nNow, we can solve the recurrence relation by substituting n-1 for n and so on:\n\nT(n) = T(n-1) + O(n)\n= T(n-2) + O(n-1) + O(n)\n= ...\n= T(1) + O(n) + O(n-1) + ... + O(2) + O(1)\n\nSince T(1) is a constant, we can ignore it. The sum of the O(n) terms is approximately O(n^2).\n\n### Step 6: Conclusion\n\nThe worst-case recurrence relation of Quick Sort is O(n^2), and the time complexity is O(n^2).\n\n*Answer*: O(n^2)"
+  },
+  {
+    "id": 37852,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/ZkXS2Zqz6mBjC22RBIeUJZBKn0Un9fMXWfciSYB4ZUQ0Ap8XoP.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "23b150a4-9ebd-4276-b796-b50a86692900",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102608,
+        "question_id": "37852",
+        "text": "5, 1, 4, 7, 0, 3, 6, 2",
+        "is_correct": true,
+        "option_image": "",
+        "score": "3.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102609,
+        "question_id": "37852",
+        "text": "5, 1, 4, 0, 7, 3, 6, 2",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102610,
+        "question_id": "37852",
+        "text": "5, 1, 4, 7, 0, 3, 2, 6",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102611,
+        "question_id": "37852",
+        "text": "5, 1, 4, 7, 0, 2, 3, 6",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a graph with nodes and edges, accompanied by a question about finding the BFS traversal sequence. The graph is depicted in black lines on a white background, featuring seven nodes labeled 0 through 7. Each node is connected to other nodes via lines, illustrating the relationships between them.\n\n**Key Components:**\n\n* **Nodes:** Seven nodes are labeled with numbers from 0 to 7.\n* **Edges:** Lines connect the nodes, representing relationships between them.\n* **Question:** The question asks which vertex sequence is the BFS traversal on the graph starting from node 5.\n* **Note:** A note at the bottom of the image provides additional context, stating that when a node has multiple neighbors, BFS would visit the numerically smaller valued node first.\n\n**Solution:**\n\nTo solve this problem, we need to perform a Breadth-First Search (BFS) traversal on the graph starting from node 5. We will visit the node with the smallest value first, then move to its neighbors, and so on.\n\n**Step-by-Step Solution:**\n\n1. Start at node 5.\n2. From node 5, visit its neighbors: nodes 1 and 4.\n3. Since node 1 has a smaller value than node 4, visit node 1 next.\n4. From node 1, visit its neighbor: node 0.\n5. From node 0, visit its neighbors: nodes 2 and 3.\n6. Since node 2 has a smaller value than node 3, visit node 2 next.\n7. From node 2, visit its neighbor: node 6.\n8. From node 6, visit its neighbor: node 7.\n\n**Answer:**\n\nThe BFS traversal sequence starting from node 5 is: 5, 1, 0, 2, 6, 7, 4, 3.\n\nThis sequence represents the order in which we visited each node during the BFS traversal."
+  },
+  {
+    "id": 37853,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/T3MozM9jPWYDI2SLfP1F5PpcmnzIK6D1jxjTD1wj2AoFWpoT7b.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "e5f079f0-1d42-40cb-84eb-ac6f66b82276",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102612,
+        "question_id": "37853",
+        "text": "7",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102613,
+        "question_id": "37853",
+        "text": "6",
+        "is_correct": true,
+        "option_image": "",
+        "score": "3.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102614,
+        "question_id": "37853",
+        "text": "5",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102615,
+        "question_id": "37853",
+        "text": "4",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a comprehensive list of courses required to complete a diploma in Programming, with a clear and organized structure. The title, \"You are trying to complete a diploma in Programming with list of courses below,\" sets the context for the information that follows.\n\n**Courses and Dependencies**\n\n*   The list of courses includes:\n    *   \"Maths-I\"\n    *   \"Maths-II\"\n    *   \"CT\"\n    *   \"Python\"\n    *   \"PDSA\"\n    *   \"DBMS\"\n    *   \"MAD-I\"\n    *   \"MAD-II\"\n    *   \"MAD-I Project\"\n    *   \"MAD-II Project\"\n\n**Course Dependencies**\n\nThe image highlights the dependencies between courses, which are crucial for understanding the sequence in which they should be taken. These dependencies are as follows:\n\n*   Must finish \"Maths-I\" before \"Maths-II\"\n*   Must finish \"Maths-II\" and \"CT\" before \"Python\"\n*   Must finish \"CT\" and \"Python\" before \"PDSA\" and \"DBMS\"\n*   Must finish \"DBMS\" before \"MAD-I\" and \"MAD-I project\"\n*   Must finish \"MAD-I\" before \"MAD-II\"\n*   Must finish \"MAD-I project\" before \"MAD-II project\"\n\n**Course Completion Timeline**\n\nTo complete the diploma, each course must be finished within a month. The image provides a clear and concise overview of the courses required, their dependencies, and the minimum number of months needed to complete the diploma.\n\nIn summary, the image presents a structured list of courses for a diploma in Programming, along with their dependencies and the minimum number of months required to complete the diploma. This information is essential for students planning to pursue this diploma, as it helps them understand the sequence of courses and the time it takes to complete each one."
+  },
+  {
+    "id": 37854,
+    "question_text": null,
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/tlRFBYmGpcpSEtWlS6TAwsYGsk0eqWeGYnDlT0tq20A4v60Fm6.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "444ddf70-0b3c-455a-82ec-6a7abf4bde30",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102616,
+        "question_id": "37854",
+        "text": "",
+        "is_correct": false,
+        "option_image": "MBMsQTmtA46YV8UbyEQybv2csy6p5o3HKqWW4NGhrAKixLsjdG.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/MBMsQTmtA46YV8UbyEQybv2csy6p5o3HKqWW4NGhrAKixLsjdG.png"
+      },
+      {
+        "id": 102617,
+        "question_id": "37854",
+        "text": "",
+        "is_correct": false,
+        "option_image": "q8MHHFOJdSWiVYrez2KKpPXMfsvsH7TVkuVOybxFz2DXEw59nE.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/q8MHHFOJdSWiVYrez2KKpPXMfsvsH7TVkuVOybxFz2DXEw59nE.png"
+      },
+      {
+        "id": 102618,
+        "question_id": "37854",
+        "text": "",
+        "is_correct": true,
+        "option_image": "5cCXsrwyms2xajxJds38a5t0Y2EY5cIoPsLYqFkhjvaC4xoSdx.png",
+        "score": "4.000",
+        "option_image_url": "app/option_images/5cCXsrwyms2xajxJds38a5t0Y2EY5cIoPsLYqFkhjvaC4xoSdx.png"
+      },
+      {
+        "id": 102619,
+        "question_id": "37854",
+        "text": "",
+        "is_correct": false,
+        "option_image": "1MVnqoBX1aPgmAwTfygGWWAjXYEe1NPmvRKHU8FIcdLU3hNxhg.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/1MVnqoBX1aPgmAwTfygGWWAjXYEe1NPmvRKHU8FIcdLU3hNxhg.png"
+      }
+    ],
+    "answer_explanation": "**Step 1: Identify the Problem Statement**\n\nThe problem statement is a code snippet that defines a linked list with a function to update the list after calling the function operation(head). The function operation(head) takes the head of the linked list as input and performs some operations on the list.\n\n**Step 2: Analyze the Code Snippet**\n\nThe code snippet defines a linked list node class Node with attributes data and next. The next attribute is initialized to None. The linked list is represented as a class with a head attribute, which is initialized to None.\n\nThe function operation(head) takes the head of the linked list as input and performs the following operations:\n\n1. It traverses the linked list from the head node to the end of the list.\n2. For each node in the list, it sets the next pointer of the current node to the next node in the list.\n3. It then sets the next pointer of the last node in the list to None.\n\n**Step 3: Determine the Updated List**\n\nAfter calling the function operation(head), the updated list will have the following characteristics:\n\n*   The head of the list remains unchanged, as it is not modified by the operation.\n*   The next pointer of each node in the list is updated to point to the next node in the list.\n*   The last node in the list has its next pointer set to None, indicating that it is the end of the list.\n\n**Step 4: Provide the Solution**\n\nThe solution to the problem is to call the function operation(head) on the head of the linked list to update the list according to the specifications.\n\n*Answer*: The updated list will be the same as the original list, with the next pointer of each node updated to point to the next node in the list, and the last node's next pointer set to None."
+  },
+  {
+    "id": 37855,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/xhrOMasJu3H5NSgFolC6qol3Df7kMNlHlGJDRlaupS0WkY7GdI.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "37538275-0c4e-45a3-80ae-9d7c26c9a389",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102620,
+        "question_id": "37855",
+        "text": "",
+        "is_correct": false,
+        "option_image": "OLP5lm1eSAaFX0N43UzTHWtnSpizBQTEZKlOpRuNG26cwCmttC.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/OLP5lm1eSAaFX0N43UzTHWtnSpizBQTEZKlOpRuNG26cwCmttC.png"
+      },
+      {
+        "id": 102621,
+        "question_id": "37855",
+        "text": "",
+        "is_correct": true,
+        "option_image": "zMF0RU26HPQfK4miKcYu37pgOuR5EJlE8Nd4fwwQroHHBZBnbz.png",
+        "score": "1.500",
+        "option_image_url": "app/option_images/zMF0RU26HPQfK4miKcYu37pgOuR5EJlE8Nd4fwwQroHHBZBnbz.png"
+      },
+      {
+        "id": 102622,
+        "question_id": "37855",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ibKSrTre2X8nAhaCqx8F5RaWc2syJear7bJnjAzSv6KmUsbRKT.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/ibKSrTre2X8nAhaCqx8F5RaWc2syJear7bJnjAzSv6KmUsbRKT.png"
+      },
+      {
+        "id": 102623,
+        "question_id": "37855",
+        "text": "",
+        "is_correct": true,
+        "option_image": "udno6k6NLk3PeBU1NkX3ztxbp4WJSh4q2AK1eaVUwheGSyjrYS.png",
+        "score": "1.500",
+        "option_image_url": "app/option_images/udno6k6NLk3PeBU1NkX3ztxbp4WJSh4q2AK1eaVUwheGSyjrYS.png"
+      }
+    ],
+    "answer_explanation": "The image presents a mathematical problem, specifically asking which of three given functions is true.\n\n**Function 1: f(n) = 10n^4 + 6n^3**\nThis function represents a polynomial equation with a degree of 4, indicating that it will grow rapidly as n increases. The presence of both positive and negative coefficients suggests that the function will have a complex behavior.\n\n**Function 2: g(n) = 10n^3 + 2n^2**\nThis function also represents a polynomial equation, but with a degree of 3. Similar to Function 1, it will grow rapidly as n increases, but with a simpler behavior due to its lower degree.\n\n**Function 3: h(n) = 12n^3 log n + 6n^2**\nThis function combines a polynomial term (12n^3) with a logarithmic term (log n). The logarithmic term will grow much slower than the polynomial term, suggesting that the overall behavior of this function will be dominated by the polynomial term.\n\n**Comparison of Functions**\nComparing the three functions, we can see that:\n\n* Function 1 (f(n)) has the highest degree, making it the fastest-growing function.\n* Function 2 (g(n)) has a lower degree than Function 1, but still grows rapidly.\n* Function 3 (h(n)) has a lower degree than Function 2 and also includes a logarithmic term, which grows much slower.\n\n**Conclusion**\nBased on the analysis, it is likely that Function 1 (f(n)) is the true function, as it has the highest degree and will grow the fastest as n increases. The other two functions may be false, but this cannot be determined without further information or context."
+  },
+  {
+    "id": 37856,
+    "question_text": "Which of the following is/are true about the Merge Sort?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "2418fecf-183a-4293-a50a-890ceaeab09e",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102624,
+        "question_id": "37856",
+        "text": "",
+        "is_correct": true,
+        "option_image": "LPUTuzsBqDgM6QeX5zg5NhnzXWiEtnTJrgAuQvdkjADmIOZggR.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/LPUTuzsBqDgM6QeX5zg5NhnzXWiEtnTJrgAuQvdkjADmIOZggR.png"
+      },
+      {
+        "id": 102625,
+        "question_id": "37856",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Q7M0V2Xq4JietGEbP09IieP68HXK5sA5K3SF25rLft2odmUutd.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/Q7M0V2Xq4JietGEbP09IieP68HXK5sA5K3SF25rLft2odmUutd.png"
+      },
+      {
+        "id": 102626,
+        "question_id": "37856",
+        "text": "",
+        "is_correct": false,
+        "option_image": "9I4ttwBSSFUat6WK0Jozg3H6JbS8rB1zA65UZVnJ2aIaejem6H.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/9I4ttwBSSFUat6WK0Jozg3H6JbS8rB1zA65UZVnJ2aIaejem6H.png"
+      },
+      {
+        "id": 102627,
+        "question_id": "37856",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ashMJ1r7K1lgKJJUAV44Ps2xicGshb2lLgbS1ZfccO0dB6Pxov.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/ashMJ1r7K1lgKJJUAV44Ps2xicGshb2lLgbS1ZfccO0dB6Pxov.png"
+      },
+      {
+        "id": 102628,
+        "question_id": "37856",
+        "text": "",
+        "is_correct": true,
+        "option_image": "sKhM7x86aXHm7GNvmpl8t0U52XDQC4qHVKJF51stJDeKqeI2Ra.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/sKhM7x86aXHm7GNvmpl8t0U52XDQC4qHVKJF51stJDeKqeI2Ra.png"
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 37857,
+    "question_text": "Which of the following statement(s) is/are True about Breadth First Search(BFS) on an undirected connected graph?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "a7951769-ae74-4adc-9993-15d0b0a2b5ab",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102629,
+        "question_id": "37857",
+        "text": "",
+        "is_correct": true,
+        "option_image": "2nbOdzEnGnDGUdrvUWj26bNGP9YSON2QF5yoq7RMFgXEvhOFbm.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/2nbOdzEnGnDGUdrvUWj26bNGP9YSON2QF5yoq7RMFgXEvhOFbm.png"
+      },
+      {
+        "id": 102630,
+        "question_id": "37857",
+        "text": "",
+        "is_correct": false,
+        "option_image": "C0ehAHwCeaKq3qfnTAv8jzNwmOdbNCR53uea4k1XopDO3RkDM0.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/C0ehAHwCeaKq3qfnTAv8jzNwmOdbNCR53uea4k1XopDO3RkDM0.png"
+      },
+      {
+        "id": 102631,
+        "question_id": "37857",
+        "text": "",
+        "is_correct": true,
+        "option_image": "bgemgK9B89yWDuO9rPOxlIU3omPd9oiUq2ejhl1lpuQ5AZKL5G.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/bgemgK9B89yWDuO9rPOxlIU3omPd9oiUq2ejhl1lpuQ5AZKL5G.png"
+      },
+      {
+        "id": 102632,
+        "question_id": "37857",
+        "text": "",
+        "is_correct": true,
+        "option_image": "8n86vB1LwNfG2Qryat6dZhh0Ye4gZ2sdinCZA7gqyFpeWmNusN.png",
+        "score": "1.000",
+        "option_image_url": "app/option_images/8n86vB1LwNfG2Qryat6dZhh0Ye4gZ2sdinCZA7gqyFpeWmNusN.png"
+      },
+      {
+        "id": 102633,
+        "question_id": "37857",
+        "text": "",
+        "is_correct": false,
+        "option_image": "FeQyVF206IXpNctMwSW6yr6R6iO08JC0tpwbuF9MtJpSuOxhrh.png",
+        "score": "0.000",
+        "option_image_url": "app/option_images/FeQyVF206IXpNctMwSW6yr6R6iO08JC0tpwbuF9MtJpSuOxhrh.png"
+      }
+    ],
+    "answer_explanation": ""
+  },
+  {
+    "id": 37858,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/Br6APRaD7IDB2xkbLKkLaga3NQ7ePlSoMbKTu55OaAngrLQEQO.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "3e8f6b43-95fc-45c3-ba04-618c20e754db",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102634,
+        "question_id": "37858",
+        "text": "1, 1, 2, 3",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102635,
+        "question_id": "37858",
+        "text": "2, 2, 3, 3",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      },
+      {
+        "id": 102636,
+        "question_id": "37858",
+        "text": "1, 1, 3, 3",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102637,
+        "question_id": "37858",
+        "text": "3, 3, 3, 3",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "**Problem Statement**\n\nWhich of the following is/are possible degree sequence(s) of vertices of a connected undirected graph with four vertices?\n\n**Note**: Degree sequence is a series of positive integer $a_1, a_2, \\dots, a_n$ where $a_i$ is the degree of the $i^{th}$ vertex in the graph.\n\n**Given Options**\n\n1. $(3, 3, 3, 0)$\n2. $(4, 3, 2, 1)$\n3. $(5, 4, 3, 2)$\n\n**Solution Approach**\n\nTo determine if each option is a possible degree sequence for a connected undirected graph with four vertices, we need to check if the sequence satisfies the Handshaking Lemma, which states that the sum of the degrees of all vertices in a graph is equal to twice the number of edges.\n\n**Analysis of Each Option**\n\n1. **Option (3, 3, 3, 0)**: This sequence adds up to $12$, which means there are $6$ edges in the graph. Since there are only $4$ vertices, this would imply a cycle or a disconnected graph, neither of which is allowed in a connected undirected graph. Therefore, this option is not possible.\n2. **Option (4, 3, 2, 1)**: The sum of this sequence is $10$, indicating $5$ edges. A connected undirected graph with $4$ vertices and $5$ edges does not form a tree (since it would be disconnected with one edge removed), nor can it form a cycle. Hence, this option is also not possible.\n3. **Option (5, 4, 3, 2)**: The sum here is $14$, representing $7$ edges. For a connected undirected graph with $4$ vertices, the minimum number of edges required to form a tree is $3$ (which would connect all vertices), and the maximum number of edges for a cycle would be $5$. However, with $7$ edges, this graph can indeed be connected, making this option possible.\n\n**Conclusion**\n\nBased on the analysis, only **Option (5, 4, 3, 2)** represents a degree sequence that is possible for a connected undirected graph with four vertices. The other options violate the conditions for being a connected undirected graph with four vertices."
+  },
+  {
+    "id": 37859,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/1koyEPUgNwJkliNQFKeTWA02JMMoE68KZRkZHMtnkC4RdXrARo.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "81d54bf1-7240-457d-98c2-7fb954792914",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102638,
+        "question_id": "37859",
+        "text": "A, B, D, H, E, C, F, G",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102639,
+        "question_id": "37859",
+        "text": "A, C, F, H, E, B, D, G",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      },
+      {
+        "id": 102640,
+        "question_id": "37859",
+        "text": "A, C, F, H, D, E, B, G",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102641,
+        "question_id": "37859",
+        "text": "A, B, D, H, E, F, C, G",
+        "is_correct": true,
+        "option_image": "",
+        "score": "1.500",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a graph with nodes labeled A through G, accompanied by a question about the Depth-First Search (DFS) algorithm. The graph is structured as follows:\n\n*   Node A is connected to nodes B and C.\n*   Node B is connected to nodes D and E.\n*   Node C is connected to node F.\n*   Node D is connected to node H.\n*   Node E is connected to node F.\n*   Node F is connected to node G.\n\nThe question posed is: \"Which of the following is/are possible output(s)?\"\n\nThe possible outputs are:\n\n*   A\n*   B\n*   C\n*   D\n*   E\n*   F\n*   G\n*   H\n\n*Answer*: A, B, C, D, E, F, G, H"
+  },
+  {
+    "id": 37860,
+    "question_text": null,
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/iS3krP43hDOpIA2wPN5uAPmIHw7SNbDyYzE8AiOyzqE0uxlYtc.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "b87b73bd-567b-45f2-a155-d80f61543b43",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 102642,
+        "question_id": "37860",
+        "text": "F, C, A, E, D, B",
+        "is_correct": true,
+        "option_image": "",
+        "score": "2.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102643,
+        "question_id": "37860",
+        "text": "F, A, C, E, D, B",
+        "is_correct": true,
+        "option_image": "",
+        "score": "2.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102644,
+        "question_id": "37860",
+        "text": "F, C, A, D, B, E",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      },
+      {
+        "id": 102645,
+        "question_id": "37860",
+        "text": "F, A, C, D, B, E",
+        "is_correct": false,
+        "option_image": "",
+        "score": "0.000",
+        "option_image_url": null
+      }
+    ],
+    "answer_explanation": "The image presents a Directed Acyclic Graph (DAG) with vertices labeled A, B, C, D, E, and F, along with a set of possible topological orderings to determine which ones are valid.\n\n**Identifying Valid Topological Orderings:**\n\nTo identify valid topological orderings, we can analyze the graph and apply the following rules:\n\n*   **Start with Vertices with No Incoming Edges**: Begin with vertices that have no incoming edges, as they can be placed first in any valid ordering.\n*   **Follow the Graph's Structure**: For each subsequent vertex, only consider those that have an edge pointing to it from a previously chosen vertex. This ensures that we maintain the acyclic nature of the graph.\n*   **Avoid Circular Dependencies**: Ensure that there are no cycles in the ordering. If a cycle is found, the ordering is invalid.\n\n**Applying the Rules to the Given Graph**:\n\n*   **Vertices with No Incoming Edges**: Vertices B, C, and D have no incoming edges, so they can be placed first in any valid ordering.\n*   **Following the Graph's Structure**: For vertex A, it must point to either C or D, or both, as it has an edge pointing to both. Therefore, any ordering that includes A must place it after B, C, and D.\n*   **Avoiding Circular Dependencies**: The only valid ordering that avoids circular dependencies is BCDFAE.\n\n**Conclusion**:\n\nBased on the analysis, the valid topological ordering is BCDFAE. This ordering ensures that we start with vertices that have no incoming edges, follow the graph's structure by only considering vertices with edges pointing to them from previously chosen vertices, and avoid circular dependencies by not including any cycles in the ordering.\n\n**Final Answer:**\n\nThe final answer is BCDFAE."
+  },
+  {
+    "id": 37861,
+    "question_text": null,
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/CHvVNk4GGzyOzZ3VvNgsm939vh7minllRU3T6chtIdNwsHuOj4.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "595ed8fb-286b-44e7-a34c-fbcf8922e971",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": "**Step 1: Understand the problem**\n\nThe problem presents a sorted list of numbers and asks us to use binary search algorithm to find the midpoint by using the formula (First index + Last index) / 2.\n\n**Step 2: Identify the given information**\n\n*   The sorted list is given as [1, 3, 5, 8, 19, 23, 78, 159, 1621, 1701].\n*   We need to find the midpoint using binary search algorithm.\n*   The formula for finding the midpoint is (First index + Last index) / 2.\n\n**Step 3: Apply the binary search algorithm**\n\nTo apply the binary search algorithm, we need to find the middle element of the list. We can do this by dividing the list into two halves and finding the middle element of the first half.\n\n**Step 4: Find the midpoint**\n\nLet's assume the first index is 0 and the last index is 9 (since the list has 10 elements). Using the formula, we can calculate the midpoint as follows:\n\nMidpoint = (First index + Last index) / 2\n= (0 + 9) / 2\n= 9 / 2\n= 4.5\n\nSince the midpoint is not an integer, we cannot use it as the index. Instead, we can use the floor of the midpoint as the index. In this case, the floor of 4.5 is 4.\n\n**Step 5: Compare the midpoint element with the target element**\n\nThe target element is 159. Let's compare the midpoint element (the 5th element in the list) with the target element.\n\n5th element = 19\nTarget element = 159\n\nSince the 5th element is less than the target element, we need to search in the right half of the list.\n\n**Step 6: Update the search space**\n\nWe update the search space by ignoring the left half of the list and focusing on the right half. The new search space is [78, 159, 1621, 1701].\n\n**Step 7: Repeat the process**\n\nWe repeat the process of finding the midpoint and comparing it with the target element until we find the target element or determine that it is not in the list.\n\n**Answer**: 159"
+  },
+  {
+    "id": 37862,
+    "question_text": null,
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/hA66tx4pCM9JgyPxuR0SwVL1QUuCBdgV6c0mNUdGwt4W2nyhIj.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "16550d24-54be-4429-b6be-48fb73b357d2",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": "**Step 1: Understand the problem**\n\nThe problem is about linear probing, an open addressing scheme in computer programming for resolving hash collisions in hash tables. The goal is to find the location where the key value 190 would be inserted into the table.\n\n**Step 2: Identify the key values and their indices**\n\nThe key values are given as 6, 16, 80, 91, and 145. We need to find the location where the key value 190 would be inserted.\n\n**Step 3: Apply the linear probing formula**\n\nThe linear probing formula is used to find the location of the key value in the hash table. The formula is:\n\nIndex = Hash(key) mod 10\n\nwhere Hash(key) is the hash function used to generate the index, and mod 10 is the modulo operator.\n\n**Step 4: Calculate the hash values**\n\nTo calculate the hash values, we can use a simple hash function, such as:\n\nHash(key) = key % 10\n\nUsing this formula, we can calculate the hash values for the given key values:\n\nHash(6) = 6 % 10 = 6\nHash(16) = 16 % 10 = 6\nHash(80) = 80 % 10 = 0\nHash(91) = 91 % 10 = 1\nHash(145) = 145 % 10 = 5\n\n**Step 5: Find the location of the key value 190**\n\nTo find the location of the key value 190, we need to calculate its hash value using the same formula:\n\nHash(190) = 190 % 10 = 0\n\nSince the hash value 0 is already occupied by the key value 80, we need to use linear probing to find the next available location. The next available location is index 1.\n\n**Step 6: Answer the question**\n\nTherefore, the location where the key value 190 would be inserted into the table is index 1.\n\n*Answer*: 1"
+  },
+  {
+    "id": 37863,
+    "question_text": null,
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/o5QGHMwBKrcJSC2rkmcOlBvYtwcOcGcTA7603itN4FeVjkja5V.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "03e1802c-dfb0-4372-b4a6-2dc16060797b",
+    "course_id": 6,
+    "options": [],
+    "answer_explanation": "To find the maximum number of edges in a graph with 15 vertices, we can use the formula for the maximum number of edges in a simple graph:\n\nMaximum number of edges = n*(n-1)/2\n\nwhere n is the number of vertices.\n\nPlugging in n=15, we get:\n\nMaximum number of edges = 15*(15-1)/2\n= 15*14/2\n= 105\n\nTherefore, the maximum number of edges in a graph with 15 vertices is 105."
+  }
+]

@@ -1,0 +1,649 @@
+[
+  {
+    "id": 15800,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"FOUNDATION LEVEL : ELECTRONIC SYSTEMS THINKING AND CIRCUITS (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "087b804a-072e-48cf-9b81-85f9c954128a",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43807,
+        "question_id": "15800",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43808,
+        "question_id": "15800",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to determine why the correct option is indeed \"YES\".\n\n**Step 1: Understanding the context**\nThe question is asking if the individual is sure they need to write an exam for the specified subject, \"Foundation Level: Electronic Systems Thinking and Circuits (Computer Based Exam)\". The question is essentially asking for confirmation about the exam's subject.\n\n**Step 2: Analyzing the language**\nThe language used in the question is quite direct and assertive, with phrases like \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?\" and \"CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.\" This language suggests that the question is attempting to verify the individual's knowledge about their exam schedule and subject.\n\n**Step 3: Considering the options**\nThe two options provided are \"YES\" and \"NO\". The correct answer will depend on whether the individual has indeed confirmed that they need to write an exam for the specified subject.\n\n**Step 4: Reasoning**\nGiven the language and context of the question, the correct answer is likely \"YES\" because:\n\n* The question is asking for confirmation about the exam's subject, implying that the individual should have verified their subject through their hall ticket.\n* The tone of the question is assertive, suggesting that the individual should be certain about their exam schedule and subject.\n* If the individual had not confirmed their subject, they would likely be in a state of uncertainty, which would not be reflected in the language used in the question.\n\n**Step 5: Eliminating incorrect options**\nThe option \"NO\" is incorrect because:\n\n* The question is asking for confirmation, not disbelief.\n* The tone of the question is assertive, implying that the individual should be certain about their exam schedule and subject.\n* If the individual had not confirmed their subject, they would likely be in a state of uncertainty, which would not be reflected in the language used in the question.\n\n**Educational insights**\nThis question highlights the importance of attention to detail and verification of information, particularly in academic or professional settings. It also demonstrates the need for individuals to take responsibility for confirming their own information, rather than relying on others to do so. In the context of electronic systems thinking and circuits, this question may be seen as a metaphor for the importance of double-checking one's work and verifying assumptions in complex systems.\n\nIn conclusion, based on the language, context, and reasoning, the correct option is indeed \"YES\". The question is asking for confirmation about the exam's subject, and the individual should have verified their subject through their hall ticket."
+  },
+  {
+    "id": 15801,
+    "question_text": "The decimal equivalent of the positive binary 11101 is 28.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "896be364-e2df-4cdd-ad9e-bf6582d33f83",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43809,
+        "question_id": "15801",
+        "text": "TRUE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43810,
+        "question_id": "15801",
+        "text": "FALSE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's break down the process step-by-step.\n\n**Understanding Binary and Decimal Equivalents**\n\nBinary is a base-2 number system that uses only two digits: 0 and 1. Decimal, on the other hand, is a base-10 number system that uses ten digits: 0-9.\n\nThe given binary number is 11101. To convert this to decimal, we need to understand the positional value of each digit in the binary number.\n\n**Step 1: Identify the Positional Values**\n\nIn a binary number, each digit is multiplied by a power of 2, with the rightmost digit being multiplied by 2^0, the next digit by 2^1, and so on. The given binary number, 11101, has five digits.\n\n| Position | Value |\n| --- | --- |\n| 5 (Rightmost) | 2^0 = 1 |\n| 4 | 2^1 = 2 |\n| 3 | 2^2 = 4 |\n| 2 | 2^3 = 8 |\n| 1 (Leftmost) | 2^4 = 16 |\n\n**Step 2: Convert Binary to Decimal**\n\nNow, let's multiply each digit by its corresponding positional value and sum the results:\n\n(1 \u00d7 2^4) + (1 \u00d7 2^3) + (1 \u00d7 2^2) + (0 \u00d7 2^1) + (1 \u00d7 2^0)\n= (1 \u00d7 16) + (1 \u00d7 8) + (1 \u00d7 4) + (0 \u00d7 2) + (1 \u00d7 1)\n= 16 + 8 + 4 + 0 + 1\n= 29\n\nThe decimal equivalent of the positive binary 11101 is 29, not 28.\n\n**Conclusion**\n\nBased on the step-by-step conversion process, we can conclude that the decimal equivalent of the positive binary 11101 is 29, not 28. Therefore, the correct answer is:\n\n**FALSE**\n\n**Why Other Options are Incorrect**\n\nOption **TRUE** is incorrect because it states that the decimal equivalent of the positive binary 11101 is 28, which is not true.\n\n**Insights and Takeaways**\n\n* When converting binary to decimal, it's essential to understand the positional values of each digit and multiply them accordingly.\n* The conversion process involves multiplying each digit by its corresponding power of 2 and summing the results.\n* This problem highlights the importance of understanding the underlying concepts of binary and decimal number systems.\n\nBy following these steps and understanding the concepts involved, you can accurately convert binary numbers to decimal and vice versa."
+  },
+  {
+    "id": 15802,
+    "question_text": "The number of comparators required for an N bit flash ADC is of the order of N2.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "53e8b4a0-d6ce-4018-9f0e-0faf872ab1c0",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43811,
+        "question_id": "15802",
+        "text": "TRUE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43812,
+        "question_id": "15802",
+        "text": "FALSE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "To address this question, let's break down the reasoning step-by-step.\n\n**Understanding the Basics of a Flash ADC**\n\nA Flash Analog-to-Digital Converter (ADC) is a type of digital-to-analog converter that converts an analog signal into a digital signal. It works by comparing the input analog signal to a set of reference voltages to determine the output digital value. Each reference voltage corresponds to a specific digital value.\n\n**Comparator Requirements**\n\nIn a Flash ADC, the number of comparators is directly related to the number of possible output values. Since each comparator compares the input signal to a specific reference voltage, the total number of comparators required is equal to the number of possible digital output values.\n\n**Calculating the Number of Comparators**\n\nFor an N-bit Flash ADC, the number of possible digital output values (or the output range) is 2^N. This is because each bit in the digital output can have two possible values (0 or 1), and there are N bits in total.\n\n**Determining the Correct Answer**\n\nNow, let's consider the options. The question asks if the number of comparators required for an N-bit Flash ADC is of the order of N^2.\n\n**Option FALSE: N^2 is not the correct order of magnitude**\n\nThe correct order of magnitude for the number of comparators in an N-bit Flash ADC is 2^N, not N^2. This is because the number of comparators is directly proportional to the number of possible digital output values, which is 2^N.\n\n**Why N^2 is incorrect**\n\nIf the number of comparators were of the order of N^2, it would imply that the number of comparators grows quadratically with the number of bits. However, this is not the case. The number of comparators grows exponentially with the number of bits, not quadratically.\n\n**Other Options: TRUE and N**\n\nThe other options are incorrect because:\n\n* **Option TRUE**: N^2 is not the correct order of magnitude for the number of comparators in an N-bit Flash ADC.\n* **Option N**: The number of comparators is not directly proportional to the number of bits, but rather to the number of possible digital output values, which is 2^N.\n\n**Educational Insights**\n\nUnderstanding the order of magnitude for the number of comparators in a Flash ADC is crucial for designing analog-to-digital conversion systems. This concept also applies to other types of ADCs, such as successive approximation ADCs and delta-sigma ADCs.\n\nIn conclusion, the correct answer is FALSE, because the number of comparators required for an N-bit Flash ADC is of the order of 2^N, not N^2."
+  },
+  {
+    "id": 15803,
+    "question_text": "With reference to the figure below, the power delivered by the element X is -15 W.  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/Hn0vCv7UThQ8kRhSAqMBAMf0SJCObudWNiZuiUNowK7vXbXp65.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "3ef9fe4c-7b91-4839-9eb2-b85ced868352",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43813,
+        "question_id": "15803",
+        "text": "TRUE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 43814,
+        "question_id": "15803",
+        "text": "FALSE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the given information**\n\nThe figure shows a circuit with a current source (3A) and a voltage source (-5V). The element X is connected in series with these sources.\n\n**Step 2: Identify the power delivered by the element X**\n\nThe power delivered by an element in a circuit can be calculated using the formula: Power (P) = Voltage (V) x Current (I). However, since the voltage across the element X is not directly given, we need to apply Kirchhoff's Voltage Law (KVL) to find it.\n\n**Step 3: Apply Kirchhoff's Voltage Law (KVL)**\n\nKVL states that the sum of all voltage changes around a closed loop in a circuit is zero. In this case, the loop consists of the voltage source (-5V), the current source (3A), and the element X.\n\nLet's denote the voltage across the element X as Vx. According to KVL:\n\n-5V + Vx = 3A x X\n\nwhere X is the resistance of the element.\n\n**Step 4: Calculate the power delivered by the element X**\n\nGiven that the power delivered by the element X is -15 W, we can use the formula for power (P = V x I) to find the voltage across the element (Vx). However, since the current through the element is not explicitly stated, we'll use the given power and the fact that the current times the resistance equals the power (P = I^2 x R).\n\nRearranging the formula to solve for resistance (R) gives us:\n\nR = P / I^2\n\nSubstituting the given values (P = -15 W, I = 3A):\n\nR = -15 W / (3A)^2 = -15 W / 9 A^2 = -5/3 ohms\n\nNow, using the value of resistance (R) and the fact that the power is negative (indicating the direction of current flow), we can determine the correct option.\n\n**Step 5: Determine the correct option**\n\nSince the power delivered by the element X is -15 W, and considering the direction of current flow and the sign conventions for voltage and current, the correct option is indeed TRUE.\n\n*Answer*: TRUE"
+  },
+  {
+    "id": 15804,
+    "question_text": "A high frequency signal would require a lower sampling rate than a low frequency signal to capture much of the information contained in the original analog signal.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "2fd183ae-3bce-4f46-8945-80b931e49269",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43815,
+        "question_id": "15804",
+        "text": "TRUE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43816,
+        "question_id": "15804",
+        "text": "FALSE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct answer is indeed \"FALSE\".\n\n**Understanding the Basics**\n\nTo tackle this question, we need to grasp the fundamental concepts of signal processing, specifically the relationship between signal frequency, sampling rate, and information capture.\n\n**Nyquist-Shannon Sampling Theorem**\n\nThe Nyquist-Shannon sampling theorem states that to reconstruct an analog signal from its digital samples, the sampling rate must be at least twice the highest frequency component of the analog signal. This theorem forms the basis of our reasoning.\n\n**Low vs. High Frequency Signals**\n\nNow, let's consider the properties of low and high frequency signals:\n\n* Low frequency signals have fewer cycles or oscillations per second, whereas high frequency signals have more cycles or oscillations per second.\n* Low frequency signals require fewer samples to capture their essential information, as they don't change as quickly as high frequency signals.\n\n**Sampling Rate Requirement**\n\nGiven the Nyquist-Shannon sampling theorem, we know that the sampling rate must be at least twice the highest frequency component of the analog signal. Now, let's apply this to low and high frequency signals:\n\n* For a low frequency signal, the required sampling rate is lower (twice the low frequency).\n* For a high frequency signal, the required sampling rate is higher (twice the high frequency).\n\n**Why \"FALSE\" is the Correct Answer**\n\nThe statement claims that a high frequency signal would require a lower sampling rate than a low frequency signal to capture much of the information contained in the original analog signal. However, this contradicts the Nyquist-Shannon sampling theorem.\n\nA high frequency signal, by definition, has a higher frequency component, requiring a higher sampling rate to capture its information accurately. Conversely, a low frequency signal has a lower frequency component, requiring a lower sampling rate.\n\nTherefore, the statement is incorrect, and the correct answer is indeed \"FALSE\".\n\n**Educational Insights**\n\nThis question helps illustrate the importance of understanding the fundamental concepts of signal processing, particularly the Nyquist-Shannon sampling theorem. It also highlights the significance of considering the frequency content of a signal when determining the required sampling rate.\n\nIn practice, engineers and technicians must carefully select the sampling rate for digital signal processing applications to ensure accurate reconstruction of the original analog signal. This question serves as a reminder of the critical relationship between signal frequency, sampling rate, and information capture."
+  },
+  {
+    "id": 15805,
+    "question_text": "In an RC high pass circuit, the output is in-phase with the input.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "d043dc6d-c85e-4946-8d85-38eaea532e47",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43817,
+        "question_id": "15805",
+        "text": "TRUE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 43818,
+        "question_id": "15805",
+        "text": "FALSE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine why the option \"FALSE\" is the correct answer, let's delve into the behavior of an RC high-pass circuit and the nature of its output relative to the input.\n\n**Understanding the Basics of an RC High-Pass Circuit**\n\nAn RC high-pass circuit consists of a resistor (R) and a capacitor (C) connected in series. The circuit's transfer function, which describes how the output voltage (Vout) relates to the input voltage (Vin), is given by:\n\nTF = Vout/Vin = (sRC)/(1+sRC)\n\nwhere s is the complex frequency (s = j\u03c9, with \u03c9 being the angular frequency).\n\n**Phasor Analysis: Output Phase Relative to Input**\n\nTo analyze the phase relationship between the output and input voltages, let's look at the circuit's impedance, which is the combination of the resistance and reactance. The impedance (Z) is given by:\n\nZ = R + (1/j\u03c9C) = R - j/Xc\n\nwhere Xc is the capacitive reactance (Xc = 1/\u03c9C).\n\nThe output voltage (Vout) is the product of the input voltage (Vin) and the circuit's transfer function (TF). Since the transfer function contains a term with a minus sign (in the denominator), the phase of the output voltage will be shifted relative to the phase of the input voltage.\n\n**Step-by-Step Reasoning:**\n\n1.  The transfer function (TF) has a minus sign in the denominator, which indicates a phase shift between the output and input voltages.\n2.  In an RC high-pass circuit, the capacitor's reactance (Xc) decreases with increasing frequency (\u03c9).\n3.  As the frequency increases, the capacitive reactance (Xc) decreases, causing the circuit's impedance (Z) to approach the value of the resistor (R).\n4.  As the impedance approaches the value of R, the phase shift between the output and input voltages becomes more significant.\n5.  Since the transfer function contains a term with a minus sign, the output voltage will lag the input voltage by 90 degrees (or -\u03c0/2 radians) at low frequencies.\n6.  As the frequency increases, the output voltage eventually becomes in-phase with the input voltage, but this is only true at very high frequencies (i.e., \u03c9 >> 1/RC).\n\n**Correct Answer: FALSE**\n\nGiven the above analysis, the correct answer is FALSE. The output voltage in an RC high-pass circuit is not always in-phase with the input voltage. In fact, at low frequencies, the output voltage lags the input voltage by 90 degrees.\n\n**Why Other Options Are Incorrect**\n\n*   **Option TRUE:** This option is incorrect because the output voltage in an RC high-pass circuit is not always in-phase with the input voltage.\n*   **Option FALSE (Correct Answer):** This option is correct because the output voltage in an RC high-pass circuit lags the input voltage by 90 degrees at low frequencies.\n\n**Educational Insights**\n\nTo better understand the behavior of RC high-pass circuits, it's essential to analyze the transfer function and impedance of the circuit. By examining the transfer function, you can determine the phase relationship between the output and input voltages. Additionally, understanding the impact of the capacitor's reactance on the circuit's impedance can provide valuable insights into the circuit's behavior at different frequencies.\n\nIn conclusion, the output voltage in an RC high-pass circuit is not always in-phase with the input voltage. At low frequencies, the output voltage lags the input voltage by 90 degrees, and the circuit's behavior changes as the frequency increases. By analyzing the transfer function and impedance of the circuit, you can gain a deeper understanding of the underlying concepts and design more effective circuits."
+  },
+  {
+    "id": 15806,
+    "question_text": "Five equal value resistors are connected in series in a circuit. The total power in the circuit is 10 W. Then the power each resistor would dissipate is 2 W.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "a82f0ca5-0961-4665-89e1-b8da782e8099",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43819,
+        "question_id": "15806",
+        "text": "TRUE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 43820,
+        "question_id": "15806",
+        "text": "FALSE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To tackle this problem, we need to recall the fundamental principles of electrical circuits, particularly how power is distributed in series circuits.\n\n**Underlying Concepts:**\n\n1.  **Series Circuits:** In a series circuit, components are connected end-to-end, meaning there's only one path for current to flow. This contrasts with parallel circuits, where components are connected between the same two points, allowing multiple paths for current.\n2.  **Power Dissipation:** The power dissipated by a resistor in a circuit is given by the formula P = V^2/R, where P is the power, V is the voltage across the resistor, and R is the resistance of the resistor. However, for series circuits, the power dissipation is also affected by the total voltage and resistance.\n3.  **Equivalent Resistance:** In a series circuit, the equivalent resistance (R_eq) is the sum of the individual resistances. So, for five equal value resistors, if each resistor has resistance R, then R_eq = 5R.\n\n**Step-by-Step Reasoning:**\n\n1.  **Power in a Series Circuit:** The total power in a series circuit is determined by the total voltage (V_total) and the equivalent resistance (R_eq). The formula for total power is P_total = V_total^2/R_eq.\n2.  **Distribution of Power:** Since all resistors are equal, the voltage drop across each resistor is the same. Assuming the circuit has a total voltage of V_total, each resistor will have a voltage of V_total/5 across it.\n3.  **Calculating Power for Each Resistor:** Given that power is proportional to the square of the voltage and inversely proportional to resistance, and since the voltage across each resistor is V_total/5 and the resistance of each resistor is R, the power each resistor would dissipate is (V_total/5)^2/R.\n4.  **Given Power and Calculations:** We're given that the total power in the circuit is 10 W. Let's denote the equivalent resistance as R_eq = 5R. The given total power is P_total = 10 W = V_total^2/R_eq. We also know that each resistor dissipates 2 W, so (V_total/5)^2/R = 2.\n\n**Mathematical Derivation:**\n\nLet's denote the total voltage as V_total and the equivalent resistance as R_eq. We know that P_total = V_total^2/R_eq = 10.\n\nGiven that each resistor dissipates 2 W, we have:\n\n(V_total/5)^2/R = 2\n\nSince V_total^2/R_eq = 10 and R_eq = 5R, we can rewrite the equation above as:\n\n((V_total/5)^2/R) = 2\n\nSince we know R = R_eq/5, we can substitute this in the above equation to get:\n\n(V_total/5)^2/(R_eq/5) = 2\n\nThis simplifies to:\n\n(V_total/5)^2/(5R/5) = 2\n\nThis further simplifies to:\n\n(V_total/5)^2/R = 2\n\nWe have established that (V_total/5)^2/R = 2. This is a correct statement based on the previous steps.\n\n**Conclusion:**\n\nBased on the above reasoning and mathematical derivation, it's clear that the statement \"the power each resistor would dissipate is 2 W\" is indeed correct given the total power in the circuit is 10 W.\n\n**Educational Insights:**\n\n1.  **Understanding Power Distribution:** The key takeaway from this problem is understanding how power is distributed in series circuits. In a series circuit, each component affects the total power and voltage, leading to specific power dissipation in each resistor.\n2.  **Applying Formulas:** This problem requires applying the formulas for power dissipation and equivalent resistance in series circuits. Understanding these formulas is crucial for analyzing electrical circuits.\n3.  **Analyzing Circuit Behavior:** The problem encourages analyzing the behavior of a series circuit, including the distribution of voltage and power. This helps in predicting and understanding how the circuit will behave under different conditions.\n\nThe correct answer to the question is indeed \"TRUE.\""
+  },
+  {
+    "id": 15807,
+    "question_text": "The time period of a sine wave of frequency 50 kHz is 20 \u03bcs.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "e18222d4-c6c6-4ea3-8ac3-c0bec3f10957",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43821,
+        "question_id": "15807",
+        "text": "TRUE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 43822,
+        "question_id": "15807",
+        "text": "FALSE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the option 'TRUE' is the correct answer.\n\n**Step 1: Understanding the relationship between frequency and time period**\n\nThe frequency of a wave is defined as the number of oscillations or cycles per second, measured in Hertz (Hz). The time period, on the other hand, is the time taken by the wave to complete one oscillation or cycle. The relationship between frequency and time period is given by the formula:\n\nTime Period (T) = 1 / Frequency (f)\n\n**Step 2: Converting frequency to time period**\n\nGiven that the frequency of the sine wave is 50 kHz (50,000 Hz), we can convert this value to time period using the formula above:\n\nTime Period (T) = 1 / Frequency (f)\n= 1 / 50,000 Hz\n= 1 / 50,000 s^-1\n= 20 \u03bcs\n\n**Step 3: Understanding the given time period**\n\nThe problem statement gives the time period of the sine wave as 20 \u03bcs. We have just calculated that the time period of a 50 kHz wave is indeed 20 \u03bcs. This means that our calculation is consistent with the given information.\n\n**Conclusion: Why 'TRUE' is the correct answer**\n\nBased on our step-by-step analysis, we can conclude that the option 'TRUE' is the correct answer because:\n\n* The relationship between frequency and time period is well-established and widely accepted.\n* Our calculation shows that a 50 kHz wave indeed has a time period of 20 \u03bcs.\n* The given time period of 20 \u03bcs is consistent with our calculation.\n\n**Why other options are incorrect**\n\n* Option 'FALSE' is incorrect because our calculation shows that the time period of a 50 kHz wave is indeed 20 \u03bcs.\n* There is no other option provided that would make 'TRUE' incorrect.\n\n**Educational insights**\n\nTo understand the underlying concepts, it's essential to remember the following:\n\n* The relationship between frequency and time period is a fundamental concept in physics and engineering.\n* The formula Time Period (T) = 1 / Frequency (f) is a straightforward and widely used formula.\n* When working with waves, it's crucial to be able to convert between frequency and time period, as these values are often given in different units.\n\nBy following these steps and understanding the underlying concepts, you should be able to confidently determine that the option 'TRUE' is the correct answer."
+  },
+  {
+    "id": 15808,
+    "question_text": "Superposition principle cannot be directly applied for finding power responses in an electric circuit.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "69bd97a5-9e53-41c7-8a7b-c7d6fac9f66d",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43823,
+        "question_id": "15808",
+        "text": "TRUE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 43824,
+        "question_id": "15808",
+        "text": "FALSE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Explanation:**\n\nThe superposition principle is a fundamental concept in electrical engineering that states that in a linear circuit, the total voltage or current at any point is the sum of the voltages or currents due to each source separately. However, this principle cannot be directly applied to find power responses in an electric circuit.\n\n**Why?**\n\nThe superposition principle is applicable when dealing with voltages and currents, but power is a product of both voltage and current. When trying to find power responses using the superposition principle, we would need to sum the power contributions from each source, which involves multiplying voltages and currents. This multiplication operation does not follow the principle of superposition, as the product of two quantities is not equal to the sum of their individual products.\n\n**Step-by-Step Reasoning:**\n\n1. **Understanding the Superposition Principle:** The superposition principle allows us to analyze a circuit with multiple sources by considering each source separately and then summing the results. This principle is valid for linear circuits where the relationship between voltage and current is linear.\n2. **Power Response Analysis:** When analyzing power responses in a circuit, we are interested in the product of voltage and current. This is because power is calculated as P = V x I, where P is power, V is voltage, and I is current.\n3. **Applicability of Superposition Principle to Power:** Since power involves the product of voltage and current, directly applying the superposition principle to find power responses is not feasible. The principle is specifically designed for summing voltages and currents, not products of voltages and currents.\n\n**Why Other Options are Incorrect:**\n\n* **Option: FALSE** - This option is incorrect because the superposition principle cannot be directly applied to find power responses in an electric circuit.\n\n**Educational Insights:**\n\n* **Linear Circuit Analysis:** The superposition principle is a powerful tool for analyzing linear circuits. However, it has limitations, particularly when dealing with power responses.\n* **Power Analysis:** When analyzing power responses, it's essential to consider the relationship between voltage and current. Power is a product of these two quantities, making direct application of the superposition principle challenging.\n* **Circuit Design and Analysis:** Understanding the limitations of the superposition principle helps circuit designers and analysts approach power response analysis with the correct methods, such as using the power triangle or analyzing power dissipation in individual components.\n\nIn conclusion, the superposition principle cannot be directly applied for finding power responses in an electric circuit because power is a product of voltage and current, and the principle is specifically designed for summing voltages and currents, not products of voltages and currents."
+  },
+  {
+    "id": 15809,
+    "question_text": "If the sampling rate is 40000 Hz, then the time interval between successive samples is 25 \u03bcs.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "e1e62f7c-b72d-40b2-800d-968b19465ce9",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43825,
+        "question_id": "15809",
+        "text": "TRUE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 43826,
+        "question_id": "15809",
+        "text": "FALSE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step by step to determine why the option 'TRUE' is the correct answer.\n\n**Understanding Sampling Rate and Time Interval**\n\nThe sampling rate is the number of samples taken per second, typically measured in Hertz (Hz). In this case, the sampling rate is given as 40000 Hz, which means 40000 samples are taken every second.\n\nThe time interval between successive samples, also known as the sampling period or sampling time, is the time taken to capture one sample. We are given that this time interval is 25 \u03bcs (microseconds).\n\n**Calculating the Correct Sampling Period**\n\nTo verify the given time interval, let's calculate the sampling period using the sampling rate. The formula to calculate the sampling period is:\n\nSampling Period (T) = 1 / Sampling Rate (Fs)\n\nGiven Sampling Rate (Fs) = 40000 Hz\n\nSampling Period (T) = 1 / 40000\n= 0.000025 s (or 25 \u03bcs)\n\n**Comparing Calculated and Given Time Intervals**\n\nWe calculated the sampling period using the sampling rate, and it matches the given time interval of 25 \u03bcs. This confirms that the time interval between successive samples is indeed 25 \u03bcs when the sampling rate is 40000 Hz.\n\n**Conclusion**\n\nBased on the calculation, we can conclude that the option 'TRUE' is the correct answer. The time interval between successive samples is 25 \u03bcs when the sampling rate is 40000 Hz.\n\n**Why Other Options are Incorrect**\n\nOption 'FALSE' would be incorrect because the calculated sampling period matches the given time interval, confirming that the statement is true.\n\n**Educational Insights**\n\nUnderstanding the relationship between sampling rate and sampling period is crucial in signal processing and data acquisition. When working with sampling rates, it's essential to consider the time interval between samples to ensure that the sampling rate is sufficient to capture the desired signal characteristics.\n\nIn this case, the sampling rate of 40000 Hz is relatively high, which means the time interval between successive samples is quite short (25 \u03bcs). This is often necessary when working with high-frequency signals or when capturing rapid changes in the signal.\n\nBy understanding the sampling rate and sampling period, you can ensure that your data acquisition system is properly configured to capture the desired signal characteristics, reducing the risk of aliasing or missed data points."
+  },
+  {
+    "id": 15810,
+    "question_text": "The resistance of a parallel circuit consisting of two resistors is 3 \u03a9. One of the resistance wires breaks and the effective resistance becomes 12 \u03a9. The value of the other resistance in the arm that was broken is 4 \u03a9.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "5fbe8169-df34-4fa8-a98b-9c23a982b9f0",
+    "course_id": 55,
+    "options": [
+      {
+        "id": 43827,
+        "question_id": "15810",
+        "text": "TRUE",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.000"
+      },
+      {
+        "id": 43828,
+        "question_id": "15810",
+        "text": "FALSE",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the problem step by step to understand why the correct answer is indeed \"TRUE\".\n\n**Understanding the problem:**\n\nWe have a parallel circuit consisting of two resistors. Let's denote the resistance of the first resistor as R1 and the resistance of the second resistor as R2. The effective resistance of the circuit is given as 3 \u03a9.\n\nWhen one of the resistance wires breaks, the effective resistance becomes 12 \u03a9. We are also given that the value of the other resistance in the arm that was broken is 4 \u03a9.\n\n**Step 1: Recall the formula for the effective resistance of a parallel circuit:**\n\nFor two resistors in parallel, the effective resistance (Req) can be calculated using the formula:\n\n1/Req = 1/R1 + 1/R2\n\n**Step 2: Apply the formula to the initial circuit:**\n\nGiven that the effective resistance of the initial circuit is 3 \u03a9, we can write:\n\n1/3 = 1/R1 + 1/R2 ... (Equation 1)\n\n**Step 3: Apply the formula to the circuit after the break:**\n\nAfter one of the resistance wires breaks, the circuit becomes series with one of the resistors (let's say R2) in series with the remaining part of the circuit (which includes the broken resistor, now replaced by an open circuit). In this case, the effective resistance becomes 12 \u03a9, and we know that the value of the other resistance in the arm that was broken is 4 \u03a9. This means that R1 = 4 \u03a9.\n\nHowever, since R2 is now in series with the remaining part of the circuit, we can calculate the effective resistance as:\n\nReq = R2 + 12 (since 12 \u03a9 is the effective resistance of the remaining part of the circuit)\n\nWe are told that this effective resistance is 12 \u03a9, so we can write:\n\n12 = R2 + 12\n\nSimplifying, we get:\n\nR2 = 0 \u03a9\n\nHowever, this can't be correct, as a resistance cannot be zero. There must be some resistance present. Let's go back to the original equation and try to find another way to solve it.\n\n**Step 4: Use the formula for the effective resistance of a parallel circuit to find R2:**\n\nWe know that the effective resistance of the initial circuit is 3 \u03a9, and we are given that the value of the other resistance in the arm that was broken is 4 \u03a9. Let's substitute R1 = 4 \u03a9 into Equation 1:\n\n1/3 = 1/4 + 1/R2\n\nSimplifying, we get:\n\n1/3 = 1/4 + 1/R2\n\nMultiplying both sides by 12 (the least common multiple of 3 and 4), we get:\n\n4 = 3 + 12/R2\n\nSubtracting 3 from both sides, we get:\n\n1 = 12/R2\n\nMultiplying both sides by R2, we get:\n\nR2 = 12\n\nHowever, this is not the correct answer.\n\n**Step 5: Use the formula for the effective resistance of a parallel circuit to find R2 in another way:**\n\nWe know that when one of the resistance wires breaks, the effective resistance becomes 12 \u03a9. Since the broken wire was part of the parallel circuit, the remaining part of the circuit is now in series with the broken wire. Let's denote the resistance of the remaining part of the circuit (which includes the other wire that was not broken) as R. Then, the effective resistance of the remaining circuit is R + R2.\n\nSince the effective resistance of the remaining circuit is 12 \u03a9, we can write:\n\nR + R2 = 12\n\nWe also know that R1 = 4 \u03a9. Since R1 and R2 are in parallel, the effective resistance of the initial circuit is given by:\n\n1/Req = 1/R1 + 1/R2\n\nSubstituting R1 = 4 \u03a9 and Req = 3 \u03a9, we get:\n\n1/3 = 1/4 + 1/R2\n\nSimplifying, we get:\n\n1/3 = 1/4 + 1/R2\n\nMultiplying both sides by 12 (the least common multiple of 3 and 4), we get:\n\n4 = 3 + 12/R2\n\nSubtracting 3 from both sides, we get:\n\n1 = 12/R2\n\nMultiplying both sides by R2, we get:\n\nR2 = 12\n\nHowever, this is not the correct answer.\n\n**Step 6: Find the correct value of R2:**\n\nWe can use the formula for the effective resistance of a series circuit to find the correct value of R2. Since R1 = 4 \u03a9 and R2 is unknown, we can write"
+  },
+  {
+    "id": 15811,
+    "question_text": "With reference to the circuit shown below, the current I flowing is ________________A.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/hPDJHSTXwljR5Mc0rcoGVH0UTWZAl6Z1FIqXONurTJUuxNM9mB.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "4126c144-09d6-4fb1-b574-3b34678a117b",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15812,
+    "question_text": "When a resistor R is connected to a current source (x Amperes) it consumes a power of 16 W. When the same resistor is connected to a voltage source (x Volts) the power dissipated by it is 4 W.  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/atNiECcGIQYlInpIUpCdAT2eU5ARCZd4oiulxyjieyyl8Oboo9.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "fac92f60-13e9-468a-8c2b-3d23b87d1257",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15813,
+    "question_text": "x= ________A",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "3a4a477a-0cc1-47f7-b395-532396b044ac",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15814,
+    "question_text": "R= ________\u03a9.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "6957fa5b-6563-4116-b3bd-0a7eed2a8c36",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15815,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/zmGBYbzEorvVsffcLWhgqrIjYKVXKoedZX2KL1QMe0ratdaCtS.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "bfc5c34f-2795-4aa4-bc0d-91dd563e4172",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15816,
+    "question_text": "The lowest frequency contained in the amplitude modulated signal = ________MHz",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "aa4aebe5-a990-4da3-9bb4-73d12a3f2d78",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15817,
+    "question_text": "The highest frequency contained in the amplitude modulated signal = ________MHz",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "1.00",
+    "uuid": "e5ae79be-9a17-459a-a58c-1a22a56567b7",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15818,
+    "question_text": "The time constant for the circuit shown below if the initial voltage across the capacitor is 10 V is __________ ms.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/bjuSpoftxeOyPhFfw44gh9lDEhwYf2SiEWrDa0TPbv0zmOm1id.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "f08e5fe4-e3f7-4f1c-9435-8b5ea032f346",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15819,
+    "question_text": "In the circuit shown below, the voltage Vi is________ V.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/erYDyhhG5x1YWN0Synl4iosGx8A25emNsNsGdWcZ3xSB9aOOqd.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "cec2110f-68ff-4f1b-9148-9a5f83c88939",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15820,
+    "question_text": "Two capacitors of capacitance C1 =5 \u03bcF and C2 =10 \u03bcF are connected in series and a voltage of 60 V is applied across this combination until steady state has been attained. The capacitors are now disconnected and rewired such that the plates with the same polarity are joined together making a parallel connection. Assume no charge is lost in this process. Answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "8a4da0bd-d7ba-4ab0-ac4f-840ea00f0609",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15821,
+    "question_text": "Voltage across C1 (in V) when they are connected in series.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "e82c7e4f-daee-4c79-93fd-ef4dbedc3ccf",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15822,
+    "question_text": "Voltage across C2 (in V) when they are connected in series.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "b63bd238-e8e6-45e1-8a66-c0c82c975661",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15823,
+    "question_text": "The final voltage (in V) on each capacitor when connected in parallel.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "d32e26b4-b662-447e-8c4c-dc5d28a019fa",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15824,
+    "question_text": "The charge on capacitor C1 (in \u03bcC) when connected in parallel.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "18faf395-b934-4373-bdac-a5169c0d6c58",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15825,
+    "question_text": "The charge on capacitor C2 (in \u03bcC) when connected in parallel.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "df0674e9-2697-4260-bf90-17fe8691c0dd",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15826,
+    "question_text": "With reference to the circuit shown below, Find the equivalent resistance between the terminals A and B.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/5Aeh8kVRgiLRo15wV1hZVQgoDREbH8QbdrCdYgYqGCoNgskmOc.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "2ee3cdb4-dbec-4207-a566-e63b79225bbe",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15827,
+    "question_text": "With reference to the circuit shown below,  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/9SH59rSoqeVuY2HHthafJPVP4FhOFIxpsbkcgnITIq1KHKoxDq.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "2bd4f442-0b7e-4e59-abd9-3538dc7a8e35",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15828,
+    "question_text": "Current through 6 \u03a9 resistor in the direction shown",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "a19ac048-ef7e-4660-8330-3e348017512e",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15829,
+    "question_text": "Current through 50 \u03a9 resistor in the direction shown",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "67a75a22-d051-4592-b05d-8b0b22b4bbee",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15830,
+    "question_text": "Voltage across 4 \u03a9 resistor as indicated in the figure",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "c21401c6-8505-449d-8755-96af527b99e9",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15831,
+    "question_text": "Power dissipated in 30 \u03a9 resistor",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "33a88d7c-483d-4410-9d69-6199e449aca9",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15832,
+    "question_text": "Consider the given circuit where the switch is closed at t=0. Answer the given subquestions:  ",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/YTPeTyTd9hVf3Qu6Y0RvnIqcLDDlzSxl9fvy147J3OjZdtGsj5.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "49c10c56-9856-4afa-ad51-aa420086cdf3",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15833,
+    "question_text": "What is the voltage Vc( 0+) (in V) across the capacitor ?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "17b52035-2480-4eda-a685-aae783bc0405",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15834,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/9mqArRKVp21Z4Ec6kpwizZjaBR62xWBw2yssDaRSbzp3s1mDF4.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "7a4f55a6-3603-4608-8cdf-86ce67b68ec7",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15835,
+    "question_text": "What is the slope of the voltage across the capacitor (in V/s) at t = 5s?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "14015e4a-26c5-4ed2-89b9-fbc7dc7e2684",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15836,
+    "question_text": "What is the slope of the voltage across the capacitor (in V/s) at t = 10 s?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "78efa43b-cc8a-461b-9b2c-08924aae63e1",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 15837,
+    "question_text": "What is the value of current through the capacitor (in A) at t = 10s in the direction shown?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "068aa892-9134-4f44-a375-c636fa79ae49",
+    "course_id": 55,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

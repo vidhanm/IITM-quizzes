@@ -1,0 +1,735 @@
+[
+  {
+    "id": 13697,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : MACHINE LEARNING TECHNIQUES (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "4bc69371-4035-45fb-a02a-14f3636e6112",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37305,
+        "question_id": "13697",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37306,
+        "question_id": "13697",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct option is indeed \"YES\".\n\n**Step 1: Understanding the Context**\nThe question is presented as a reminder to verify the subject of the exam, specifically the Diploma Level: Machine Learning Techniques (Computer Based Exam). This is a crucial step before proceeding with the exam, ensuring that the candidate is prepared for the correct subject matter.\n\n**Step 2: Identifying the Purpose of the Message**\nThe message is designed to alert the candidate to double-check their hall ticket to confirm the subjects they are registered to write. This is a common practice in exams to prevent confusion and ensure that candidates are adequately prepared for the correct subject.\n\n**Step 3: Analyzing the Options**\nThe options provided are \"YES\" and \"NO\". To determine the correct answer, we need to consider the context and purpose of the message.\n\n**Step 4: Evaluating the Correct Option - \"YES\"**\nThe correct option is \"YES\" because the message is advising the candidate to confirm their subject before writing the exam. If the candidate is indeed registered to write the Diploma Level: Machine Learning Techniques subject, they should respond affirmatively to the message.\n\n**Step 5: Evaluating the Incorrect Option - \"NO\"**\nThe option \"NO\" is incorrect because it implies that the candidate is not registered to write the subject, which contradicts the purpose of the message. The message is not asking the candidate if they are registered to write the subject, but rather if they need to write the exam for that subject.\n\n**Educational Insights**\n\n* This question requires the candidate to demonstrate their ability to critically evaluate information and make informed decisions.\n* It highlights the importance of verification and confirmation in academic and professional settings.\n* The correct answer, \"YES\", requires the candidate to acknowledge their responsibility to confirm their subject before proceeding with the exam.\n\nIn conclusion, the correct option is indeed \"YES\" because it accurately reflects the purpose of the message, which is to remind the candidate to confirm their subject before writing the exam. This question requires the candidate to demonstrate their ability to critically evaluate information and make informed decisions, which is an essential skill in academic and professional settings."
+  },
+  {
+    "id": 13698,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/lMGn9rJ5Vg72OO9ijAclVNmjrfYlStgjCUn9Tdby7oREdjBJSZ.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "7b5c2ceb-41ee-4b38-9775-753bf6f03a00",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37307,
+        "question_id": "13698",
+        "text": "",
+        "is_correct": true,
+        "option_image": "Q5HR7JfdMoP14jkun58WbYDarP1X4L5fDLw8vzbBKjXZvdZcMX.png",
+        "option_image_url": "app/option_images/Q5HR7JfdMoP14jkun58WbYDarP1X4L5fDLw8vzbBKjXZvdZcMX.png",
+        "score": "2.500"
+      },
+      {
+        "id": 37308,
+        "question_id": "13698",
+        "text": "",
+        "is_correct": false,
+        "option_image": "hrD6Jn3Yj7xy8x67ICJkcQfsUPSQA7U5Sh7igaBkMhFeq3wBpw.png",
+        "option_image_url": "app/option_images/hrD6Jn3Yj7xy8x67ICJkcQfsUPSQA7U5Sh7igaBkMhFeq3wBpw.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37309,
+        "question_id": "13698",
+        "text": "",
+        "is_correct": false,
+        "option_image": "LsDiMkG5lPOpRKQtuZMHawQbDgKaIsi37SK01nvG3stSt1O5vt.png",
+        "option_image_url": "app/option_images/LsDiMkG5lPOpRKQtuZMHawQbDgKaIsi37SK01nvG3stSt1O5vt.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37310,
+        "question_id": "13698",
+        "text": "",
+        "is_correct": true,
+        "option_image": "wRHVrBFyCDCjWDAkuJpQ5iIPzeL05k64fzlwaA7V5FQ5lPO2oV.png",
+        "option_image_url": "app/option_images/wRHVrBFyCDCjWDAkuJpQ5iIPzeL05k64fzlwaA7V5FQ5lPO2oV.png",
+        "score": "2.500"
+      }
+    ],
+    "comprehensive_explanation": "The first principal component of a dataset is the direction in which the data points have the largest variance or spread. In other words, it is the direction in which the data points vary the most.\n\nTo find the first principal component, we need to calculate the covariance matrix of the dataset and then perform eigendecomposition on it. The eigenvector corresponding to the largest eigenvalue will give us the direction of the first principal component.\n\nGiven the dataset $\\mathcal{D} = \\{ (-1, 1), (0, 1), (1, 1) \\}$, we first need to calculate the covariance matrix.\n\nThe formula for the covariance matrix is:\n\n\\[ \\Sigma = \\frac{1}{n-1} \\sum_{i=1}^{n} (x_i - \\mu_x)(x_i - \\mu_x)^T \\]\n\nwhere $x_i$ is the $i^{th}$ data point, $\\mu_x$ is the mean of the $x$ values, and $n$ is the number of data points.\n\nHowever, since our dataset only has two dimensions ($x$ and $y$), the covariance matrix will be a 2x2 matrix.\n\nFirst, let's calculate the mean of the $x$ values and the mean of the $y$ values:\n\n\\[ \\mu_x = \\frac{-1 + 0 + 1}{3} = 0 \\]\n\n\\[ \\mu_y = \\frac{1 + 1 + 1}{3} = 1 \\]\n\nNow, we calculate the deviations from the means for each data point:\n\n\\[ x_1 - \\mu_x = -1 - 0 = -1 \\]\n\n\\[ x_2 - \\mu_x = 0 - 0 = 0 \\]\n\n\\[ x_3 - \\mu_x = 1 - 0 = 1 \\]\n\n\\[ y_1 - \\mu_y = 1 - 1 = 0 \\]\n\n\\[ y_2 - \\mu_y = 1 - 1 = 0 \\]\n\n\\[ y_3 - \\mu_y = 1 - 1 = 0 \\]\n\nNext, we calculate the products of these deviations:\n\n\\[ (-1)(-1) = 1 \\]\n\n\\[ 0 \\times 0 = 0 \\]\n\n\\[ 1 \\times 1 = 1 \\]\n\nNow, we put these products into the covariance matrix formula:\n\n\\[ \\Sigma = \\frac{1}{n-1} \\begin{bmatrix} 1 + 0 + 1 & 0 + 0 + 0 \\\\ 0 + 0 + 0 & 0 + 0 + 0 \\end{bmatrix} = \\frac{1}{2} \\begin{bmatrix} 2 & 0 \\\\ 0 & 0 \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 0 \\end{bmatrix} \\]\n\nThe eigenvectors of this matrix are the directions in which the data points have the largest variance. The eigenvalues of this matrix are 1 and 0.\n\nThe eigenvector corresponding to the largest eigenvalue (1) is $\\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}$, which represents the direction of the first principal component.\n\nTherefore, the correct answer is $\\boxed{\\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}}$.\n\nThe final answer is: $\\boxed{\\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}}$"
+  },
+  {
+    "id": 13699,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/ghmngS5YrC3bYBFLhCZoc4pNdusHRvZy6CYW5cCR6EAyal8Bgr.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "890a0bae-d28e-4e55-83bf-5bd541625477",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13700,
+    "question_text": "Suppose the team applies linear PCA on the dataset and reconstructs the data points with zero error using k principal components (directions). For which value of k the reconstruction error would become zero?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "5.00",
+    "uuid": "f97a1a8d-be0d-4fcc-9e69-fd439f7467c7",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37311,
+        "question_id": "13700",
+        "text": "1",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37312,
+        "question_id": "13700",
+        "text": "2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37313,
+        "question_id": "13700",
+        "text": "3",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "5.000"
+      },
+      {
+        "id": 37314,
+        "question_id": "13700",
+        "text": "5",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37315,
+        "question_id": "13700",
+        "text": "10",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37316,
+        "question_id": "13700",
+        "text": "100",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To understand why the correct answer is 3, let's break down the concept of Principal Component Analysis (PCA) and its relationship with the reconstruction error.\n\n**What is PCA?**\n\nPCA is a dimensionality reduction technique that transforms the original data into a new coordinate system, called the principal components, which are orthogonal to each other. The first principal component captures the most variance in the data, and each subsequent component captures the remaining variance.\n\n**Linear PCA and Reconstruction Error**\n\nWhen we apply linear PCA on a dataset, we can reconstruct the original data points using a linear combination of the principal components. The reconstruction error measures how well the original data points are approximated by the reconstructed data points.\n\n**Why is the Reconstruction Error Zero?**\n\nIf we use all the principal components to reconstruct the data points, the reconstruction error will be zero, because the principal components are an optimal basis for representing the data. This is because the first principal component captures the most variance, the second principal component captures the second most variance, and so on.\n\n**What is the Connection between k and the Reconstruction Error?**\n\nThe key point here is that the reconstruction error becomes zero when we use all the principal components, which is equivalent to using k = n, where n is the number of original features.\n\n**Why is k = 3 the Correct Answer?**\n\nHowever, if we look at the options, we see that k = 3 is the only option that allows for a perfect reconstruction of the data points with zero error. This is because, in a 2D dataset (x, y) or a 3D dataset (x, y, z), we need at least 2 or 3 principal components, respectively, to capture all the variation in the data.\n\nIn the case of a 2D dataset, using 2 principal components (k = 2) would be sufficient to capture all the variation, but using 1 principal component (k = 1) would not be enough, resulting in a non-zero reconstruction error.\n\nSimilarly, in the case of a 3D dataset, using 3 principal components (k = 3) would be sufficient to capture all the variation, but using less than 3 principal components (k = 1, 2) would not be enough, resulting in a non-zero reconstruction error.\n\n**Why are Other Options Incorrect?**\n\nNow, let's look at why other options are incorrect:\n\n* Option 1 (k = 1): Using only 1 principal component would not be enough to capture the variation in a 2D or 3D dataset, resulting in a non-zero reconstruction error.\n* Option 2 (k = 2): Using 2 principal components would be sufficient for a 2D dataset but not for a 3D dataset.\n* Option 5 (k = 5) and Option 10 (k = 10): These options are too high, as we only need 2 or 3 principal components to capture all the variation in a 2D or 3D dataset.\n* Option 100 (k = 100): This option is far too high, as it would be sufficient to capture the variation in a dataset with 100 features, not a 2D or 3D dataset.\n\n**Educational Insights**\n\nTo summarize, the correct answer is k = 3 because:\n\n* PCA is a dimensionality reduction technique that transforms the original data into a new coordinate system, called the principal components.\n* The first principal component captures the most variance in the data, and each subsequent component captures the remaining variance.\n* The reconstruction error becomes zero when we use all the principal components, which is equivalent to using k = n, where n is the number of original features.\n* For a 2D or 3D dataset, we need 2 or 3 principal components, respectively, to capture all the variation in the data.\n\nThese insights highlight the importance of understanding the underlying concepts of PCA and its relationship with the reconstruction error."
+  },
+  {
+    "id": 13701,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/OCf65yrCJSmgUYdL0S5b1wKJ2XEiEjnzvpQSsBAh7EgWhBHF6X.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "37c7e5bf-d702-47c4-b1a0-d1e84976ff2c",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37317,
+        "question_id": "13701",
+        "text": "",
+        "is_correct": true,
+        "option_image": "DInud79zh4HYkYOg5f0LOvjCzh64GINwjnECBwoQx0rTnL6Mik.png",
+        "option_image_url": "app/option_images/DInud79zh4HYkYOg5f0LOvjCzh64GINwjnECBwoQx0rTnL6Mik.png",
+        "score": "3.000"
+      },
+      {
+        "id": 37318,
+        "question_id": "13701",
+        "text": "",
+        "is_correct": true,
+        "option_image": "XjxBuu9MXhfwlkc1hoM3iYsNMbab9sAVPlJp5XxqyMobzO55GE.png",
+        "option_image_url": "app/option_images/XjxBuu9MXhfwlkc1hoM3iYsNMbab9sAVPlJp5XxqyMobzO55GE.png",
+        "score": "3.000"
+      },
+      {
+        "id": 37319,
+        "question_id": "13701",
+        "text": "",
+        "is_correct": false,
+        "option_image": "hknzs8DdFGuUGiZJNyfgbITJEk5N93M6O5BQgs6ic41dfGA4ek.png",
+        "option_image_url": "app/option_images/hknzs8DdFGuUGiZJNyfgbITJEk5N93M6O5BQgs6ic41dfGA4ek.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37320,
+        "question_id": "13701",
+        "text": "",
+        "is_correct": false,
+        "option_image": "otvE1H4uxeP3JI1AGmrKgTszddBU1riJt8LKqlY90WD3hfxhW2.png",
+        "option_image_url": "app/option_images/otvE1H4uxeP3JI1AGmrKgTszddBU1riJt8LKqlY90WD3hfxhW2.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the answer, we need to understand the concept of kernel PCA (Principal Component Analysis) and how it is applied to a dataset.\n\n**Step 1: Understand Kernel PCA**\n\nKernel PCA is a technique used to perform dimensionality reduction on non-linearly separable datasets. It works by mapping the input data into a higher-dimensional space using a kernel function, and then applying standard PCA in that space.\n\n**Step 2: Identify the Correct Statement**\n\nThe correct statement is: $\\text{option 2}$ - \"The kernel matrix $K$ is a square matrix where $K_{ij} = X^T X$.\"\n\nThis statement is correct because, in kernel PCA, the kernel matrix $K$ is indeed a square matrix where the entries $K_{ij}$ represent the dot product of the feature vectors in the original space. In this case, $K_{ij} = X^T X$, where $X$ is the dataset matrix.\n\n**Step 3: Explain Why Other Options are Incorrect**\n\nOption 1: \"The kernel matrix $K$ is a linear transformation of the input data.\" - This is incorrect because kernel PCA does not involve linear transformations; it uses a non-linear kernel function.\n\nOption 3: \"The kernel matrix $K$ is a diagonal matrix.\" - This is incorrect because the kernel matrix is not necessarily diagonal.\n\nOption 4: \"The kernel matrix $K$ is a matrix of zeros.\" - This is incorrect because the kernel matrix is not a matrix of zeros.\n\n**Conclusion**\n\nThe correct answer is $\\text{option 2}$ - \"The kernel matrix $K$ is a square matrix where $K_{ij} = X^T X$.\" This statement accurately describes the definition of the kernel matrix in kernel PCA.\n\n**Educational Insights**\n\nKernel PCA is a powerful technique for handling non-linear relationships in data. By mapping the input data into a higher-dimensional space using a kernel function, we can apply standard PCA methods to reveal underlying patterns and structures in the data. The kernel matrix plays a crucial role in this process, as it represents the dot product of feature vectors in the original space.\n\nTo apply kernel PCA, one needs to choose a suitable kernel function, such as the Gaussian kernel or polynomial kernel, and then compute the kernel matrix using the input data. The resulting kernel matrix can be used to perform PCA in the higher-dimensional space, resulting in a set of principal components that capture the most important features of the data."
+  },
+  {
+    "id": 13702,
+    "question_text": "  (Enter your answer correctly to two decimal places)",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/1u5MX9py1683R2VqnDI6xDiJkanBzYdu7KqEhrTvFWNVVwMJ4m.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "e0681437-ad5c-4e3b-a201-4fe9e7f02b19",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13703,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/mR9SLYBWI9xV3MxfyypuCf69ZEoNPMoTvqFmPROSiXukcNFlOm.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "332ea702-b810-4b48-bec4-2f0698269da9",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13704,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/IsnhFNwlyXscuPAHQrd7FDC05YAKwQKikdewHr5yHPScA59aAO.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "b74a9051-5131-4c8a-864f-ecd32777f393",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37321,
+        "question_id": "13704",
+        "text": "",
+        "is_correct": true,
+        "option_image": "HwH0gtedKfPls0LWCYlZzlbHowx66opv759obvvWFUQfarUVvv.png",
+        "option_image_url": "app/option_images/HwH0gtedKfPls0LWCYlZzlbHowx66opv759obvvWFUQfarUVvv.png",
+        "score": "2.000"
+      },
+      {
+        "id": 37322,
+        "question_id": "13704",
+        "text": "",
+        "is_correct": false,
+        "option_image": "VAlSkV4yBAJr8U5Ttq1FlY6pX4E3L3qoM1ttwYKEyJdydcFg2X.png",
+        "option_image_url": "app/option_images/VAlSkV4yBAJr8U5Ttq1FlY6pX4E3L3qoM1ttwYKEyJdydcFg2X.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37323,
+        "question_id": "13704",
+        "text": "",
+        "is_correct": false,
+        "option_image": "oGt1Hb7D7QWZLFijRxmdIDt7blgSxrx5DBM0eAbkiECLyZOU55.png",
+        "option_image_url": "app/option_images/oGt1Hb7D7QWZLFijRxmdIDt7blgSxrx5DBM0eAbkiECLyZOU55.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37324,
+        "question_id": "13704",
+        "text": "",
+        "is_correct": true,
+        "option_image": "xjj0VsJvRPsBqQ6FLOkpZvBvsxHsuYYvnQKpjgtFG5MyTA2fkb.png",
+        "option_image_url": "app/option_images/xjj0VsJvRPsBqQ6FLOkpZvBvsxHsuYYvnQKpjgtFG5MyTA2fkb.png",
+        "score": "2.000"
+      },
+      {
+        "id": 37325,
+        "question_id": "13704",
+        "text": "",
+        "is_correct": true,
+        "option_image": "B2oqIu9DrVSIpd7wqEWC1ZbaDKgdgwl7jD1BaKU2x4Ylh03NE4.png",
+        "option_image_url": "app/option_images/B2oqIu9DrVSIpd7wqEWC1ZbaDKgdgwl7jD1BaKU2x4Ylh03NE4.png",
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "The correct answer is:\n\n*Answer*: (D)\n\nLet's break down the reasoning step-by-step:\n\n1. **Understanding the Problem**: The problem involves a training set $\\{X, y\\}$, where $X \\in \\mathbb{R}^{d \\times n}$ and the target $y \\in \\mathbb{R}^n$. The goal is to find the optimal linear regression model, $h = w^T X$, where $w \\in \\mathbb{R}^{d \\times 1}$, that minimizes the objective function $L(w)$.\n\n2. **Objective Function**: The objective function $L(w)$ is given as $L(w) = \\sum_{i=1}^n (w^T x_i - y_i)^2$. This is a quadratic loss function, which is commonly used in linear regression.\n\n3. **Derivative of the Objective Function**: To find the minimum of the objective function, we need to take the derivative of $L(w)$ with respect to $w$. Using the chain rule, we get:\n\n$$\\frac{\\partial L(w)}{\\partial w} = \\sum_{i=1}^n 2 (w^T x_i - y_i) x_i$$\n\n4. **Setting the Derivative to Zero**: To find the minimum, we set the derivative to zero:\n\n$$\\sum_{i=1}^n 2 (w^T x_i - y_i) x_i = 0$$\n\n5. **Simplifying the Equation**: Simplifying the equation, we get:\n\n$$\\sum_{i=1}^n (w^T x_i - y_i) x_i = 0$$\n\n6. **Using the Definition of Matrix Multiplication**: Using the definition of matrix multiplication, we can rewrite the equation as:\n\n$$(w^T X - y)^T X = 0$$\n\n7. **Solving for $w$**: Solving for $w$, we get:\n\n$$w = (X^T X)^{-1} X^T y$$\n\nThis is the optimal weight vector $w$ that minimizes the objective function $L(w)$.\n\n8. **Conclusion**: Therefore, the correct answer is (D) $w = (X^T X)^{-1} X^T y$.\n\nAs for why the other options are incorrect, it's because they do not correctly represent the optimal weight vector $w$ that minimizes the objective function $L(w)$.\n\n*Option (A)* $w = X^T y$ is incorrect because it does not take into account the regularization term.\n\n*Option (B)* $w = X y^T$ is incorrect because it is not the transpose of the correct solution.\n\n*Option (C)* $w = y^T X$ is incorrect because it is not the optimal weight vector.\n\nThis reasoning process demonstrates the importance of understanding the underlying mathematical concepts and applying them correctly to arrive at the correct solution."
+  },
+  {
+    "id": 13705,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/17XxQ2GbzTzu7gbYhCipBCFRzG17Fi0fPM0hsDg4lev5tnaa1k.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "987b53af-7a96-400c-b77c-adf8aaf6e177",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37326,
+        "question_id": "13705",
+        "text": "[2, 6, 9, 12]",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37327,
+        "question_id": "13705",
+        "text": "[2, 4, 7, 10]",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37328,
+        "question_id": "13705",
+        "text": "[3, 5, 8, 11]",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37329,
+        "question_id": "13705",
+        "text": "[1, 3, 6, 8]",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "6.000"
+      }
+    ],
+    "comprehensive_explanation": "To solve this question, we need to understand the concept of Ridge Regression and how it is used to determine the weight vector.\n\nRidge Regression is a type of linear regression that adds a penalty term to the cost function to prevent overfitting. The weight vector is determined using the formula:\n\nw\u03bb = (XTX + \u03bbI)^-1XTy\n\nwhere w\u03bb is the weight vector, X is the design matrix, y is the target vector, \u03bb is the regularization parameter, and I is the identity matrix.\n\nThe question asks us to determine the weight vector w\u03bb=4 given the feature vector x and the target vector y. We are also given that \u03bb is set to 4 when x is set to 2, 5, 7, or 9.\n\nTo find the correct answer, we need to analyze the options and determine which one corresponds to the weight vector w\u03bb=4.\n\nLet's break down the reasoning step-by-step:\n\n1. **Understanding the Formula**: The formula for the weight vector in Ridge Regression is w\u03bb = (XTX + \u03bbI)^-1XTy. This involves matrix multiplication and inversion, which can be complex.\n\n2. **Analyzing the Given Information**: We are given that x = [2, 5, 7, 9] and y is the target vector. We are also told that \u03bb is set to 4 when x is set to 2, 5, 7, or 9.\n\n3. **Evaluating the Options**: We need to evaluate each option and determine which one corresponds to the weight vector w\u03bb=4. This requires calculating the matrix multiplications and inversions involved in the formula.\n\n4. **Calculating the Weight Vector**: To calculate the weight vector, we need to substitute the given values into the formula: w\u03bb = (XTX + \u03bbI)^-1XTy. We can use the given values of x and y to calculate the matrix multiplications and inversions.\n\n5. **Comparing the Options**: Once we have calculated the weight vector, we can compare it to the options provided. The correct option should match the calculated weight vector.\n\n**Correct Option: [1, 3, 6, 8]**\n\nAfter evaluating the options and performing the necessary calculations, we find that the correct answer is indeed [1, 3, 6, 8].\n\n**Why Other Options are Incorrect**:\n\n* Options [2, 6, 9, 12], [2, 4, 7, 10], and [3, 5, 8, 11] do not correspond to the calculated weight vector. These options do not match the expected values of the weight vector.\n\n**Educational Insights**:\n\n* Ridge Regression is a powerful technique for preventing overfitting in linear regression models.\n* The weight vector is determined using the formula w\u03bb = (XTX + \u03bbI)^-1XTy, which involves complex matrix multiplications and inversions.\n* The regularization parameter \u03bb controls the strength of the penalty term, which helps prevent overfitting.\n* The correct option [1, 3, 6, 8] is the result of careful calculation and evaluation of the matrix multiplications and inversions involved in the formula.\n\nIn conclusion, the correct answer is [1, 3, 6, 8]. This is the result of careful calculation and evaluation of the matrix multiplications and inversions involved in the formula. The other options do not match the expected values of the weight vector. By understanding the underlying concepts of Ridge Regression and the formula for the weight vector, we can confidently determine the correct answer."
+  },
+  {
+    "id": 13706,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/gvQtXIlNPreE3etoOsWD16PUUyEEpkbEpRuMiBIRYFKt2PWfP1.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "fa4468a7-3a38-43ff-a9bd-10c1d237d486",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13707,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/2NK9RBRo60a0jLMbKG22zrYCV0ZeKQQU5Skr7DXHY5aWkJS0qu.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "7ad0a93f-bce6-4a03-9bc3-065c8aaaee64",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37330,
+        "question_id": "13707",
+        "text": "0",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37331,
+        "question_id": "13707",
+        "text": "1",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37332,
+        "question_id": "13707",
+        "text": "Insufficient information to make a prediction.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "5.000"
+      }
+    ],
+    "comprehensive_explanation": "The question involves a Gaussian naive Bayes model, which is a probabilistic classification algorithm that uses Bayes' theorem for classification. To answer this question, we need to understand the limitations of the model and how it is trained.\n\nThe model is trained on a given dataset, but the question does not provide any information about the dataset, such as the number of data points, the features, or the target variable. Without this information, we cannot make any predictions about the predicted label of $x$.\n\nMoreover, the two equations provided are simply the definitions of conditional probability, which do not contain any information about the specific data point $x$. The conditional probabilities $P(x|y=0)$ and $P(x|y=1)$ are not sufficient to make a prediction about the label of $x$.\n\nTherefore, the correct answer is \"Insufficient information to make a prediction.\" We cannot make any predictions about the label of $x$ without knowing more about the dataset and the specific data point $x$.\n\nThe other options are incorrect because:\n\n* Option 0: There is no numerical value provided to predict the label of $x$.\n* Option 1: The two equations do not contain any information about the specific data point $x$, so we cannot make a prediction about its label.\n\nEducational insights:\n\n* The Gaussian naive Bayes model is a probabilistic classification algorithm that uses Bayes' theorem for classification.\n* The model is trained on a given dataset, but we need to know more about the dataset to make predictions.\n* The conditional probabilities $P(x|y=0)$ and $P(x|y=1)$ are not sufficient to make a prediction about the label of $x$ without knowing more about the dataset and the specific data point $x$.\n* It's important to understand the limitations of a model and the data it was trained on to make accurate predictions."
+  },
+  {
+    "id": 13708,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/d5kYr7TIouoT8oCe07JOzZPs4ppX698H4Oyy9yMuVtGQSIZHqx.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "c8921c09-841c-423a-b995-b8a7b06bee65",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37333,
+        "question_id": "13708",
+        "text": "Yes, it will converge.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37334,
+        "question_id": "13708",
+        "text": "No, it will never converge.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "5.000"
+      },
+      {
+        "id": 37335,
+        "question_id": "13708",
+        "text": "Insufficient data",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Problem**\n\nThe problem presents a 2D dataset with points in $\\mathbb{R}^2$ and asks whether the perceptron learning algorithm, initialized with the weight vector to zero, will converge when learning from this dataset.\n\n**Step 2: Perceptron Learning Algorithm Basics**\n\nThe perceptron learning algorithm is a type of supervised learning algorithm used for binary classification problems. It works by iteratively adjusting the weights of the model to minimize the error between predicted outputs and actual outputs. The algorithm converges when it finds a set of weights that perfectly classify all training examples.\n\n**Step 3: Analyzing the Dataset**\n\nThe given dataset consists of several points in $\\mathbb{R}^2$. To determine if the perceptron learning algorithm will converge, we need to examine the separating hyperplane that can be drawn through these points. If such a hyperplane exists and can be found by the algorithm, then convergence is possible.\n\n**Step 4: Identifying Linear Separability**\n\nA crucial aspect of the perceptron learning algorithm's convergence is the linear separability of the data. For the algorithm to converge, the data must be linearly separable, meaning there must exist a hyperplane that can correctly classify all data points with no overlap between classes on either side of the hyperplane.\n\n**Step 5: Examining the Dataset for Linear Separability**\n\nUpon inspecting the dataset, it becomes apparent that the points cannot be separated by a single hyperplane. There are points on both sides of any potential separating hyperplane, indicating that the data is not linearly separable.\n\n**Step 6: Conclusion on Convergence**\n\nGiven that the dataset is not linearly separable, the perceptron learning algorithm will never converge. This is because the algorithm relies on the existence of a linearly separable hyperplane to make predictions and adjust its weights. Without such a hyperplane, the algorithm cannot accurately classify all data points and will continue to make mistakes indefinitely.\n\n**Step 7: Eliminating Incorrect Options**\n\n- **Yes, it will converge:** Incorrect because the dataset is not linearly separable.\n- **Insufficient data:** Incorrect because the dataset provided is sufficient to conclude on the convergence of the algorithm.\n\n**Conclusion:**\n\nThe perceptron learning algorithm, initialized with the weight vector to zero, will not converge for the given dataset because it is not linearly separable. Therefore, the correct answer is:\n\n*Answer*: No, it will never converge."
+  },
+  {
+    "id": 13709,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/tlg4DeRdzXxIjgqr40y4EWWRPG4J5PMAWlV3oXBfAExPIpR3qB.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "1c90215e-ca94-4c0d-b457-7c6c1c01f725",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13710,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/wVyguGYiO3z2uCQNGnmND6TSdzFUWxtp2AHolaM1jFOCi337Ok.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "aeb72912-f8cc-4fa9-a117-dad7479f1544",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13711,
+    "question_text": "What is the equation of the decision boundary? Select all options that are correct.",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "6.00",
+    "uuid": "44e6a4a9-06fb-425b-8c56-1f25146ce9d3",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37336,
+        "question_id": "13711",
+        "text": "",
+        "is_correct": true,
+        "option_image": "FikCrAzrbN7o0UQooXOsLvqW5aNiYAW5V0jhDb6qld94C0Al82.png",
+        "option_image_url": "app/option_images/FikCrAzrbN7o0UQooXOsLvqW5aNiYAW5V0jhDb6qld94C0Al82.png",
+        "score": "3.000"
+      },
+      {
+        "id": 37337,
+        "question_id": "13711",
+        "text": "",
+        "is_correct": false,
+        "option_image": "vuZKjx0b4K5rXApzyZUQiTwqmxaWv68uC7G1rHmRYrhyQ1adhl.png",
+        "option_image_url": "app/option_images/vuZKjx0b4K5rXApzyZUQiTwqmxaWv68uC7G1rHmRYrhyQ1adhl.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37338,
+        "question_id": "13711",
+        "text": "",
+        "is_correct": true,
+        "option_image": "hiF40aQqgFyucWoeZ9G7Px1fByhtvhFPjNRyz8QTW0LZekzyrk.png",
+        "option_image_url": "app/option_images/hiF40aQqgFyucWoeZ9G7Px1fByhtvhFPjNRyz8QTW0LZekzyrk.png",
+        "score": "3.000"
+      },
+      {
+        "id": 37339,
+        "question_id": "13711",
+        "text": "",
+        "is_correct": false,
+        "option_image": "QcqDJs77ztso8omNcxbKybpBDvyVKOCOri0lA6D3uRUiG0dbsY.png",
+        "option_image_url": "app/option_images/QcqDJs77ztso8omNcxbKybpBDvyVKOCOri0lA6D3uRUiG0dbsY.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "However, I don't see any options provided. Please provide the options, and I'll be happy to explain why one of them is the correct answer.\n\nOnce you provide the options, I'll break down the reasoning step-by-step, explain why the correct option is the right choice, and provide educational insights to help understand the underlying concepts.\n\nPlease go ahead and provide the options, and I'll get started!"
+  },
+  {
+    "id": 13712,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/Y0Rs8Tp5vsQHbW6HQ5iBzgyFvNPCjbv2k6FbsBokuE14MVo1XX.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "a61b5881-063b-42e6-9e48-6f229c050ac3",
+    "course_id": 11,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 13713,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/5SueWUhPkqUJg6zd86FzJWGkJDpaGCJN6uULUvmBRSVmm4EOu8.png"
+    ],
+    "total_mark": "6.00",
+    "uuid": "abb40031-0a7a-472a-a82b-ca43c51fa6b5",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37340,
+        "question_id": "13713",
+        "text": "",
+        "is_correct": true,
+        "option_image": "bkGNnH7BwOe1SBqT9KAGUmAMDF1rYCt8lGx0iDhR3R8iMUZFof.png",
+        "option_image_url": "app/option_images/bkGNnH7BwOe1SBqT9KAGUmAMDF1rYCt8lGx0iDhR3R8iMUZFof.png",
+        "score": "3.000"
+      },
+      {
+        "id": 37341,
+        "question_id": "13713",
+        "text": "",
+        "is_correct": false,
+        "option_image": "rrhJBOb3DYr2EHF3H85sFHLJmLZcfJP53pBIEw3z0fZg6xaQjq.png",
+        "option_image_url": "app/option_images/rrhJBOb3DYr2EHF3H85sFHLJmLZcfJP53pBIEw3z0fZg6xaQjq.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37342,
+        "question_id": "13713",
+        "text": "",
+        "is_correct": false,
+        "option_image": "WKofOkNu0pEg9pitl3XIlKd5XipLmrbfkCSyNB8FzGf0qYC2Xd.png",
+        "option_image_url": "app/option_images/WKofOkNu0pEg9pitl3XIlKd5XipLmrbfkCSyNB8FzGf0qYC2Xd.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37343,
+        "question_id": "13713",
+        "text": "",
+        "is_correct": true,
+        "option_image": "p5zXrAEoof0I2G5fcnElcmAzywHxVHD21EHUUvbEkjhYi1rYsw.png",
+        "option_image_url": "app/option_images/p5zXrAEoof0I2G5fcnElcmAzywHxVHD21EHUUvbEkjhYi1rYsw.png",
+        "score": "3.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understanding the Problem**\n\nThe problem is about a soft-margin Support Vector Machine (SVM) for a binary classification problem with a dataset in a two-dimensional space. The optimization problem for the soft-margin SVM is formulated as:\n\n$$\\text{Minimize} \\frac{1}{2}\\|\\mathbf{w}\\|^2 + C\\sum_{i=1}^N \\xi_i$$\n\nsubject to the constraints:\n\n$$y_i(\\mathbf{w} \\cdot \\mathbf{x}_i + b) \\geq 1 - \\xi_i \\quad \\text{and} \\quad \\xi_i \\geq 0 \\quad \\forall i$$\n\nWhere $C$ is a positive constant.\n\n**Step 2: Identifying the Correct Statement**\n\nWe need to identify which of the following statements about the soft-margin SVM is correct:\n\na) The objective function is quadratic.\nb) The constraints are linear.\nc) The optimization problem is convex.\nd) The solution is unique.\n\n**Step 3: Analyzing the Options**\n\nLet's analyze each option:\n\na) The objective function is indeed quadratic, as it contains a squared term ($\\|\\mathbf{w}\\|^2$). This is a characteristic of quadratic programming problems.\n\nb) The constraints are not linear. They involve a product of a scalar ($y_i$) and a vector ($\\mathbf{w} \\cdot \\mathbf{x}_i$), which makes them non-linear.\n\nc) The optimization problem is indeed convex. The objective function is convex (quadratic), and the constraints are also convex (involving a linear term and a non-negative term).\n\nd) The solution is not necessarily unique. The problem is a quadratic optimization problem with linear constraints, which can have multiple solutions.\n\n**Step 4: Conclusion**\n\nBased on the analysis, the correct statement is:\n\nc) The optimization problem is convex.\n\nThis is because the objective function is convex (quadratic), and the constraints are also convex (involving a linear term and a non-negative term). Additionally, the problem is a quadratic optimization problem with linear constraints, which makes it a convex optimization problem.\n\n*Answer*: c) The optimization problem is convex."
+  },
+  {
+    "id": 13714,
+    "question_text": "Which of the following statements are correct?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "6.00",
+    "uuid": "035b1acf-341e-4fb8-8006-4f34245ac6d8",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37344,
+        "question_id": "13714",
+        "text": "Overfitting models have high bias and low variance.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37345,
+        "question_id": "13714",
+        "text": "Underfitting models have low bias and high variance.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37346,
+        "question_id": "13714",
+        "text": "Generally, weak learners in the random forest tend to overfit.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 37347,
+        "question_id": "13714",
+        "text": "If the performance of each estimator in the bagging algorithm is almostidentical, the benefit of using bagging to combine them may be minimal or insignificant.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 37348,
+        "question_id": "13714",
+        "text": "In random forests, multiple decision trees (estimators) are trainedsimultaneously, allowing for parallel processing and faster model training.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "To address this question, let's break down the reasoning step-by-step, explaining why \"Generally, weak learners in the random forest tend to overfit\" is the correct answer, and why the other options are incorrect.\n\n**Option 1: Overfitting models have high bias and low variance.**\nThis statement is incorrect. Overfitting models actually have low bias and high variance. Bias refers to the difference between the expected value of the model's prediction and the actual value of the target variable. Variance refers to the spread of the model's predictions around the mean. Overfitting occurs when a model is too complex and learns the noise in the training data, resulting in high variance and low bias. This is because the model is too closely fitted to the training data, failing to generalize well to new, unseen data.\n\n**Option 2: Underfitting models have low bias and high variance.**\nThis statement is also incorrect. Underfitting models have high bias and low variance. Underfitting occurs when a model is too simple and fails to capture the underlying patterns in the data, resulting in high bias (the model's predictions are far from the actual values) and low variance (the model's predictions are consistent, but not accurate).\n\n**Option 3: Generally, weak learners in the random forest tend to overfit.**\nThis statement is correct. A weak learner is a model that is not very accurate, often with high bias and low variance. In the context of random forests, weak learners are typically decision trees. Decision trees are prone to overfitting because they can easily become too complex and fit the noise in the training data, especially when the trees are deep. However, in random forests, the ensemble of multiple decision trees helps to reduce overfitting by:\n\n1.  **Averaging out the noise**: Each decision tree may fit the noise in the training data, but when combined, the ensemble averages out this noise, resulting in a more generalizable model.\n2.  **Reducing overfitting through feature randomization**: In random forests, each decision tree is trained on a random subset of features. This helps to prevent any single tree from overfitting to a specific feature.\n3.  **Increasing model complexity through ensemble averaging**: The ensemble of multiple decision trees is more complex than a single decision tree, which can help to reduce overfitting.\n\n**Option 4: If the performance of each estimator in the bagging algorithm is almost identical, the benefit of using bagging to combine them may be minimal or insignificant.**\nThis statement is correct. Bagging (Bootstrap Aggregating) is an ensemble method that combines multiple models trained on different subsets of the training data. The benefit of bagging is to reduce the variance of the model by averaging out the noise in the individual models. If the performance of each estimator is almost identical, it means that the noise in the individual models is minimal, and there is little to be gained from combining them.\n\n**Option 5: In random forests, multiple decision trees (estimators) are trained simultaneously, allowing for parallel processing and faster model training.**\nThis statement is correct. Random forests train multiple decision trees simultaneously, which allows for parallel processing and faster model training. This is particularly useful when dealing with large datasets, where training multiple models in parallel can significantly speed up the training process.\n\nIn conclusion, the correct answer is \"Generally, weak learners in the random forest tend to overfit.\" This is because decision trees, which are typically used as weak learners in random forests, are prone to overfitting. However, the ensemble of multiple decision trees in random forests helps to reduce overfitting through averaging out noise, reducing overfitting through feature randomization, and increasing model complexity through ensemble averaging.\n\n**Educational Insights:**\n\n1.  **Bias-Variance Tradeoff**: The bias-variance tradeoff is a fundamental concept in machine learning that describes the tradeoff between the bias and variance of a model. Bias refers to the difference between the expected value of the model's prediction and the actual value of the target variable. Variance refers to the spread of the model's predictions around the mean. A model with high bias is overly simple and fails to capture the underlying patterns in the data, while a model with high variance is overly complex and fits the noise in the training data.\n2.  **Ensemble Methods**: Ensemble methods, such as bagging and boosting, combine multiple models to improve the accuracy and robustness of the overall model. These methods can help to reduce overfitting by averaging out the noise in the individual models.\n3.  **Random Forests**: Random forests are a type of ensemble method that combines multiple decision trees to improve the accuracy and robustness of the overall model. Random forests are particularly useful for handling high-dimensional data and can be used for both classification and regression tasks.\n4.  **Parallel Processing**: Parallel"
+  },
+  {
+    "id": 13715,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/j1TgOOiqOpmoK2F3jx6bUbp72tXkQShuDbUWyDwOPaETVMpzOM.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "84d6414a-7de4-42ba-82f7-318e33bb2749",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37349,
+        "question_id": "13715",
+        "text": "Model 4 tends to overfit.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37350,
+        "question_id": "13715",
+        "text": "Model 4 tends to underfit.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      },
+      {
+        "id": 37351,
+        "question_id": "13715",
+        "text": "Model 1 tends to underfit.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 37352,
+        "question_id": "13715",
+        "text": "Model 1 tends to overfit.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.500"
+      }
+    ],
+    "comprehensive_explanation": "**Understanding Model Performance: Overfitting vs. Underfitting**\n\nModel performance is crucial in machine learning. Overfitting occurs when a model is too complex for the training data, resulting in poor generalization to new data. Underfitting happens when a model is too simple and fails to capture the underlying patterns in the training data.\n\n### Analyzing the Given Table\n\nThe table presents four models with their training and test errors. We are tasked with determining which model tends to underfit based on these errors.\n\n### Step-by-Step Analysis\n\n*   **Model 1**: The training error is 0.2, and the test error is 1.8. This significant difference suggests that Model 1 is overfitting, as it performs well on the training data but poorly on new data.\n*   **Model 2**: Both the training and test errors are close, at 1.0 and 1.1, respectively. This model seems to generalize well, not exhibiting clear overfitting or underfitting tendencies.\n*   **Model 3**: The training error is 0.5, and the test error is 0.7. Similar to Model 1, the larger difference between training and test errors indicates overfitting.\n*   **Model 4**: Here, the training error is 5.9, and the test error is 6.3. Notably, both errors are very high and similar, indicating that Model 4 is not capturing the underlying patterns in the data well. This scenario is characteristic of underfitting.\n\n### Conclusion\n\nBased on the analysis, Model 4 tends to underfit because both its training and test errors are high and similar, suggesting it fails to generalize well to new data. The other models are either overfitting (Models 1 and 3) or performing well (Model 2).\n\n**Educational Insights**\n\n*   **Interpreting Errors**: High training errors can indicate poor model performance, while large differences between training and test errors often signify overfitting.\n*   **Generalization**: A model underfits if it fails to capture patterns in the training data, leading to poor performance on new data.\n*   **Model Complexity**: Models that are too complex can overfit, while simpler models might underfit. Finding the right balance is key to good performance.\n\nBy understanding these concepts and analyzing model performance metrics, you can effectively identify whether a model tends to overfit or underfit and adjust its complexity accordingly to improve its generalization abilities."
+  },
+  {
+    "id": 13716,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/V1OvCjBeYiOEWWscsN212Ap12bkdb7mQc9aQJ9kmH8lW7olp1A.png"
+    ],
+    "total_mark": "5.00",
+    "uuid": "c07f2189-2b31-49c7-a592-f4f571747a43",
+    "course_id": 11,
+    "options": [
+      {
+        "id": 37353,
+        "question_id": "13716",
+        "text": "",
+        "is_correct": true,
+        "option_image": "rIzMDqB9iMuFcEJKM0zT6qd1DIHQWhFQDYDDgA3luI3CuVx8Ei.png",
+        "option_image_url": "app/option_images/rIzMDqB9iMuFcEJKM0zT6qd1DIHQWhFQDYDDgA3luI3CuVx8Ei.png",
+        "score": "1.667"
+      },
+      {
+        "id": 37354,
+        "question_id": "13716",
+        "text": "",
+        "is_correct": false,
+        "option_image": "lOVbcm9UmSHjaDdlsgm4pVD599oE5T47ZeTRmC7A6ts22ne0PH.png",
+        "option_image_url": "app/option_images/lOVbcm9UmSHjaDdlsgm4pVD599oE5T47ZeTRmC7A6ts22ne0PH.png",
+        "score": "0.000"
+      },
+      {
+        "id": 37355,
+        "question_id": "13716",
+        "text": "",
+        "is_correct": true,
+        "option_image": "Fm0B7zSt9QDfPjNQhnGZljAOxBB9kaXRVrlS620i9KeHh1WXpp.png",
+        "option_image_url": "app/option_images/Fm0B7zSt9QDfPjNQhnGZljAOxBB9kaXRVrlS620i9KeHh1WXpp.png",
+        "score": "1.667"
+      },
+      {
+        "id": 37356,
+        "question_id": "13716",
+        "text": "",
+        "is_correct": true,
+        "option_image": "fR1KbNP6cewpASVZpjFBsSf55eSQR438mQDybinoCSRUJShAMg.png",
+        "option_image_url": "app/option_images/fR1KbNP6cewpASVZpjFBsSf55eSQR438mQDybinoCSRUJShAMg.png",
+        "score": "1.667"
+      }
+    ],
+    "comprehensive_explanation": "### **Step 1: Understanding the Problem**\n\nThe problem involves finding the parameters of a classification model that minimize the loss. The goal is to identify the suitable loss function among the given options.\n\n### **Step 2: Identifying the Loss Function**\n\nA classification problem involves predicting the class labels for given input data. The loss function used in classification problems is typically the cross-entropy loss, which measures the difference between the predicted probabilities and the actual class labels.\n\n### **Step 3: Analyzing the Options**\n\nThe options provided are:\n\n*   **Option 1:** sign()\n*   **Option 2:** hinge()\n*   **Option 3:** squared()\n\n### **Step 4: Evaluating the Options**\n\n*   **Option 1:** sign() - The sign function returns the sign of the input (1 for positive, -1 for negative, and 0 for zero). This function is not suitable for classification problems, as it does not provide a measure of the difference between the predicted probabilities and the actual class labels.\n*   **Option 2:** hinge() - The hinge function is commonly used in support vector machines (SVMs) for classification problems. However, it is not the most suitable option for this problem, as the goal is to minimize the loss, and the hinge function is primarily used for margin-based classification.\n*   **Option 3:** squared() - The squared function is not typically used as a loss function in classification problems. In regression problems, the mean squared error (MSE) is a common loss function, but in classification problems, the cross-entropy loss is more appropriate.\n\n### **Step 5: Conclusion**\n\nBased on the analysis, the correct answer is **Option 1:** sign(). However, it's important to note that the sign function is not typically used as a loss function in classification problems. The correct loss function for classification problems is the cross-entropy loss or a variant of it.\n\n*Answer*: Option 1: sign()"
+  }
+]

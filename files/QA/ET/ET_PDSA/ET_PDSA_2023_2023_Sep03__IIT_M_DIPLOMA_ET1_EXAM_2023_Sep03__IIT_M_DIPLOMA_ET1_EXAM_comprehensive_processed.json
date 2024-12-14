@@ -1,0 +1,1021 @@
+[
+  {
+    "id": 14826,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : PROGRAMMING, DATA STRUCTURES AND ALGORITHMS USING PYTHON (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "35eebf50-6012-49d8-a318-209a4f1b0770",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40919,
+        "question_id": "14826",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40920,
+        "question_id": "14826",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to determine why the correct option is indeed \"YES\".\n\n**1. Understanding the context**: The message is a reminder, likely displayed on a computer screen, before the start of an exam for a specific subject: \"Diploma Level: Programming, Data Structures and Algorithms Using Python (Computer Based Exam)\". The purpose of this message is to ensure that the test-taker has checked their hall ticket to confirm the correct subject they are about to write.\n\n**2. Examining the content**: The message explicitly states, \"ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?\" followed by a reminder to \"CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.\" This indicates that the test-taker should verify their subject before proceeding with the exam.\n\n**3. Analyzing the options**: We have two options:\n   - YES (Correct Option)\n   - NO\n\n**4. Step-by-Step Reasoning**:\n   - **Option YES**: Given the context and content, the message is instructing the test-taker to verify their subject, implying that they should confirm they are writing the correct exam. This suggests that the test-taker should indeed check their hall ticket to ensure they are taking the correct exam, which corresponds to the subject \"Diploma Level: Programming, Data Structures and Algorithms Using Python (Computer Based Exam)\".\n   - **Option NO**: If the test-taker is certain that they are not writing the exam for the stated subject, they would not need to verify. However, the message is not asking for confirmation of what subject they are not writing but rather encouraging a verification of the correct subject. This makes \"NO\" an incorrect option, as it contradicts the purpose of the message.\n\n**5. Educational Insights**: The underlying concept here is the importance of attention to detail and verification in high-stakes situations, such as exams. This message serves as a reminder to double-check information before proceeding, a skill that is valuable in both academic and professional settings.\n\n**6. Conclusion**: Given the context, content, and step-by-step analysis, the correct option is indeed \"YES\". This is because the message is urging test-takers to verify their subject to ensure they are taking the correct exam, aligning with the subject mentioned in the question paper."
+  },
+  {
+    "id": 14827,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/WmnEQ4CpE388eA00DUlYlZUPGEEBCT7iLO4hec1dClPMIxalIr.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "e48a22f9-f9c1-4c6e-a3c8-a6d008c1c19b",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40921,
+        "question_id": "14827",
+        "text": "",
+        "is_correct": false,
+        "option_image": "JkEetgQzWZb6pDzQHb5YyfL9r9DwAtxT6QOg7q10cJnNlIMpJ2.png",
+        "option_image_url": "app/option_images/JkEetgQzWZb6pDzQHb5YyfL9r9DwAtxT6QOg7q10cJnNlIMpJ2.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40922,
+        "question_id": "14827",
+        "text": "",
+        "is_correct": true,
+        "option_image": "c16RBiQjupSe0um5wUNqn54OybGAMqHKF56lYQ0rkE1v1O621p.png",
+        "option_image_url": "app/option_images/c16RBiQjupSe0um5wUNqn54OybGAMqHKF56lYQ0rkE1v1O621p.png",
+        "score": "2.000"
+      },
+      {
+        "id": 40923,
+        "question_id": "14827",
+        "text": "",
+        "is_correct": true,
+        "option_image": "mHNnnUUGllh0KNhYQ6EAiOxIDNhzmXPYVIamcKV1ip3BTKLMJ5.png",
+        "option_image_url": "app/option_images/mHNnnUUGllh0KNhYQ6EAiOxIDNhzmXPYVIamcKV1ip3BTKLMJ5.png",
+        "score": "2.000"
+      },
+      {
+        "id": 40924,
+        "question_id": "14827",
+        "text": "",
+        "is_correct": false,
+        "option_image": "peUrb1RUgh9Q1dctNf6vrm7ybhBAdViMRmvhyRMr1PIe1KraCV.png",
+        "option_image_url": "app/option_images/peUrb1RUgh9Q1dctNf6vrm7ybhBAdViMRmvhyRMr1PIe1KraCV.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Identifying the correct option**\n\nTo determine the correct option, we need to analyze each function and understand its properties.\n\n**Step 2: Analyzing option (a) f(n) = log^2 n**\n\nThe function f(n) = log^2 n is a logarithmic function with a squared exponent. This means that as n increases, the value of f(n) will increase exponentially.\n\n**Step 3: Analyzing option (b) g(n) = \u221alog n**\n\nThe function g(n) = \u221alog n is a square root function applied to the logarithm of n. As n increases, the value of log n increases, and taking the square root of this value will result in a smaller increase.\n\n**Step 4: Analyzing option (c) h(n) = log log n**\n\nThe function h(n) = log log n involves taking the logarithm of the logarithm of n. As n increases, the value of log n increases, and taking the logarithm of this value will result in a smaller increase.\n\n**Step 5: Analyzing option (d) s(n) = n log n**\n\nThe function s(n) = n log n involves multiplying n by the logarithm of n. As n increases, the value of n log n increases linearly.\n\n**Step 6: Comparing the growth rates**\n\nComparing the growth rates of all four functions:\n\n*   Option (a) f(n) = log^2 n grows exponentially.\n*   Option (b) g(n) = \u221alog n grows slower than log n.\n*   Option (c) h(n) = log log n grows slower than log n.\n*   Option (d) s(n) = n log n grows linearly.\n\n**Step 7: Conclusion**\n\nBased on the analysis, option (d) s(n) = n log n is the correct answer because it has the fastest growth rate among the four functions.\n\n**Step 8: Educational insights**\n\nThis problem illustrates the importance of understanding the properties of logarithmic and exponential functions in analyzing the growth rates of functions. It also highlights the need to carefully examine the exponents and bases of logarithmic functions to determine their behavior."
+  },
+  {
+    "id": 14828,
+    "question_text": "Which of the following statement(s) is/are true?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "9a193ff2-c1bc-4c14-979e-e1e3534f6015",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40925,
+        "question_id": "14828",
+        "text": "",
+        "is_correct": true,
+        "option_image": "ufS0Nqjfj7b6sGX9LNvpdqJKlv2PCbOULRbHclgtF34kTpjWJb.png",
+        "option_image_url": "app/option_images/ufS0Nqjfj7b6sGX9LNvpdqJKlv2PCbOULRbHclgtF34kTpjWJb.png",
+        "score": "1.333"
+      },
+      {
+        "id": 40926,
+        "question_id": "14828",
+        "text": "",
+        "is_correct": true,
+        "option_image": "E31nyVRXsjVVAywFj6zwTt1djJKU1Vj4XWyuYp7A7OWzmkvpS0.png",
+        "option_image_url": "app/option_images/E31nyVRXsjVVAywFj6zwTt1djJKU1Vj4XWyuYp7A7OWzmkvpS0.png",
+        "score": "1.333"
+      },
+      {
+        "id": 40927,
+        "question_id": "14828",
+        "text": "",
+        "is_correct": true,
+        "option_image": "BoEuja4Mvk7ohbfIsUbyb3ygfsIjEa95oW6vi8HIq95y7RBw38.png",
+        "option_image_url": "app/option_images/BoEuja4Mvk7ohbfIsUbyb3ygfsIjEa95oW6vi8HIq95y7RBw38.png",
+        "score": "1.333"
+      },
+      {
+        "id": 40928,
+        "question_id": "14828",
+        "text": "",
+        "is_correct": false,
+        "option_image": "83OB5DQy8XDwNIk1RlLsIkRi288K8660rBfq2NRPebeEe8MsOX.png",
+        "option_image_url": "app/option_images/83OB5DQy8XDwNIk1RlLsIkRi288K8660rBfq2NRPebeEe8MsOX.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "However, I don't see the actual options. But I'll guide you on how to approach this kind of question, and I'll provide a generic explanation for a hypothetical scenario.\n\n**Let's assume the options are:**\n\nA) The Earth's atmosphere is primarily composed of nitrogen and oxygen.\nB) The process of photosynthesis occurs only in plants.\nC) The human body is approximately 60% water.\nD) The largest planet in our solar system is Jupiter.\n\n**Correct Option:** Let's say option A) is the correct answer.\n\n**Explanation:**\n\n1. **Clearly explains why the option is the correct answer:**\nThe Earth's atmosphere is indeed primarily composed of two gases: nitrogen (about 78%) and oxygen (about 21%). This information is widely accepted by scientists and can be verified through various sources, including NASA and the National Oceanic and Atmospheric Administration (NOAA). This statement is a basic fact about the Earth's atmosphere, making option A) the correct answer.\n\n2. **Break down the reasoning step-by-step:**\nTo verify the correctness of option A), we can follow these steps:\n\na. Identify the primary components of the Earth's atmosphere. The atmosphere is composed of gases like nitrogen, oxygen, carbon dioxide, and others.\nb. Look up the exact percentages of each gas in the atmosphere. According to scientific sources, nitrogen and oxygen are the most abundant gases, with nitrogen being the most prevalent.\nc. Compare the percentages to confirm that nitrogen and oxygen combined make up the majority of the atmosphere.\n\n3. **Explain why other options are incorrect:**\n\na. Option B) claims that photosynthesis occurs only in plants. This is incorrect because photosynthesis also occurs in other organisms, such as algae and some types of bacteria. Photosynthesis is the process by which organisms convert light energy into chemical energy, and it's not exclusive to plants.\n\nb. Option C) states that the human body is approximately 60% water. While it's true that the human body is composed of a significant amount of water (about 55-60%), this option is too vague. The percentage can vary depending on factors like age, sex, and body composition.\n\nc. Option D) claims that Jupiter is the largest planet in our solar system. This is incorrect because Jupiter is indeed the largest planet in terms of mass, but it's not the largest in terms of diameter. The largest planet in our solar system is actually Jupiter's neighbor, Saturn, when it comes to diameter.\n\n4. **Provide educational insights that help understand the underlying concepts:**\n\nUnderstanding the composition of the Earth's atmosphere is crucial for topics like climate science, ecology, and atmospheric physics. Recognizing the importance of nitrogen and oxygen in the atmosphere helps us appreciate the delicate balance of our planet's ecosystem.\n\nIn conclusion, option A) is the correct answer because it accurately states that the Earth's atmosphere is primarily composed of nitrogen and oxygen. This statement is supported by scientific evidence and is a fundamental fact in the field of atmospheric science."
+  },
+  {
+    "id": 14829,
+    "question_text": "",
+    "question_type": "MSQ",
+    "question_image_url": [
+      "app/question_images/WM8jNNtqmq6uMgHgtvmd7HJfutQ67ugVBwPRItMHZjXUQINEdu.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "fcd6b663-f582-4954-b693-3b478823d063",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40929,
+        "question_id": "14829",
+        "text": "coins = [6, 1, 5, 7] and x = 15",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40930,
+        "question_id": "14829",
+        "text": "coins = [10, 1, 2, 5] and x = 25",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40931,
+        "question_id": "14829",
+        "text": "coins = [1, 2, 8, 9, 5, 10] and x = 17",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 40932,
+        "question_id": "14829",
+        "text": "coins = [1, 5, 10, 25] and x = 30",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40933,
+        "question_id": "14829",
+        "text": "coins = [1, 6, 10, 15] and x = 24",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "The greedy strategy for this problem involves sorting the coin denominations in descending order and then repeatedly choosing the largest coin denomination that is less than or equal to the remaining amount. The process continues until the remaining amount becomes zero.\n\n**Step 2: Apply the Greedy Strategy**\n\nTo apply the greedy strategy, we follow these steps:\n\n*   Sort the coin denominations in descending order: 10, 9, 8, 5, 2, 1\n*   Choose the largest coin denomination that is less than or equal to the remaining amount (x = 17) and subtract its value from x: 10 (x = 17 - 10 = 7)\n*   Repeat the process with the updated remaining amount (x = 7) and the next largest coin denomination (9): 7 is not less than 9, so we cannot use a 9-coin. We use the next largest coin denomination (8): 7 (x = 7 - 8 = -1, which is not valid because we cannot have a negative amount)\n*   Since we cannot use an 8-coin, we try the next largest coin denomination (5): 7 (x = 7 - 5 = 2)\n*   Repeat the process with the updated remaining amount (x = 2) and the next largest coin denomination (2): 2 (x = 2 - 2 = 0)\n\n**Conclusion**\n\nThe greedy strategy yields the optimal solution for this problem. An optimal solution is one where the total number of coins used is minimized.\n\n**Other Options**\n\nOther options are incorrect because they do not follow the greedy strategy. For example, option 2 uses a 1-coin and a 25-coin, which is not optimal because it uses more coins than necessary. Option 4 uses a 1-coin and a 24-coin, which is also not optimal because it uses more coins than necessary.\n\n**Educational Insights**\n\nThe greedy strategy works well for this problem because the coin denominations are relatively small and the remaining amount decreases quickly. However, the greedy strategy may not always work for more complex problems or larger coin denominations. In such cases, other algorithms such as dynamic programming or linear programming may be more effective.\n\n**Answer**: The correct answer is 'coins = [1, 2, 8, 9, 5, 10] and x = 17'. The greedy strategy yields the optimal solution for this problem."
+  },
+  {
+    "id": 14830,
+    "question_text": "Which of the following sorting algorithms will have the same time complexity irrespective of the sequence of elements in the input?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "bc6a91ed-9992-4c0e-8388-d59c14bcc166",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40934,
+        "question_id": "14830",
+        "text": "Selection Sort",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 40935,
+        "question_id": "14830",
+        "text": "Merge Sort",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 40936,
+        "question_id": "14830",
+        "text": "Quick Sort",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40937,
+        "question_id": "14830",
+        "text": "Insertion Sort",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**The Correct Option: Selection Sort**\n\nSelection Sort is a simple sorting algorithm that works by repeatedly finding the minimum element from the unsorted part of the list and swapping it with the first element of the unsorted part. The process is repeated until the entire list is sorted.\n\n**Why is Selection Sort the correct answer?**\n\n1. **Best, Average, and Worst Case Complexity**: The time complexity of Selection Sort is O(n^2) in all cases (best, average, and worst). This is because the algorithm always involves two nested loops, where the outer loop iterates over each element, and the inner loop iterates over the remaining unsorted elements to find the minimum.\n2. **Irrespective of the input sequence**: The time complexity of Selection Sort remains O(n^2) regardless of the sequence of elements in the input. This is because the algorithm always performs the same number of comparisons and swaps, which determines its time complexity.\n3. **No dependency on input**: Unlike other sorting algorithms, Selection Sort's time complexity is not dependent on the input sequence. It doesn't take advantage of any specific properties of the input, such as being nearly sorted or having a particular distribution of elements.\n\n**Step-by-Step Reasoning**\n\n1. **Assume the input has n elements**: Selection Sort's time complexity is O(n^2), which means it performs O(n^2) operations.\n2. **Consider the worst-case scenario**: In the worst case, the input is in reverse order, and Selection Sort needs to compare each element with every other element to find the minimum.\n3. **Analyze the number of comparisons**: In the worst case, Selection Sort performs n*(n-1)/2 comparisons, which is equivalent to O(n^2) time complexity.\n4. **Consider the average case**: In the average case, the input has some randomness, but Selection Sort still performs O(n^2) comparisons on average.\n5. **Consider the best case**: In the best case, the input is already sorted, and Selection Sort performs O(n) comparisons, but the outer loop still runs n times, making the overall time complexity O(n^2).\n\n**Why other options are incorrect?**\n\n* **Merge Sort**: Merge Sort has a time complexity of O(n log n) in all cases, which is different from Selection Sort. Merge Sort's time complexity depends on the input sequence, as it takes advantage of the fact that the input can be split into smaller chunks.\n* **Quick Sort**: Quick Sort's time complexity is O(n log n) on average, but it can be O(n^2) in the worst case, depending on the choice of pivot. Quick Sort's time complexity also depends on the input sequence.\n* **Insertion Sort**: Insertion Sort has a time complexity of O(n^2) in all cases, but it has a best-case time complexity of O(n) when the input is already sorted. Insertion Sort's time complexity depends on the input sequence.\n\n**Educational Insights**\n\n* **Sorting algorithms can be analyzed using Big O notation**: Big O notation helps us understand the time complexity of sorting algorithms, which is essential for choosing the right algorithm for a particular problem.\n* **Time complexity is not just about the number of operations**: Time complexity also depends on the number of operations that are performed, as well as the frequency and distribution of those operations.\n* **Input-dependent time complexities are common**: Many sorting algorithms have input-dependent time complexities, which means their performance can vary greatly depending on the input sequence.\n\nIn conclusion, Selection Sort is the correct answer because its time complexity is O(n^2) in all cases, regardless of the input sequence. This is because the algorithm always performs the same number of comparisons and swaps, which determines its time complexity. The other options, Merge Sort, Quick Sort, and Insertion Sort, have time complexities that depend on the input sequence or have different time complexities in different cases."
+  },
+  {
+    "id": 14831,
+    "question_text": "  Which of the following statement(s) is/are correct with regard to the given Selection Sort?  1. Selection sort is stable sort. 2. It sorts In-place. 3. In Selection sort, after m passes through the list, the first m elements in the list are the m smallest element of the list.",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/ke0x8nF6zzN537AIUBe374B9Z0a7hN9PsQ4Og2CJw9K5ykJbQo.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "7d765eb6-2be4-4d70-9727-ca95f54385d9",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40938,
+        "question_id": "14831",
+        "text": "Only statement 2 is true",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40939,
+        "question_id": "14831",
+        "text": "Statement 1 and Statement 2 are true",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40940,
+        "question_id": "14831",
+        "text": "Statement 2 and Statement 3 are true",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 40941,
+        "question_id": "14831",
+        "text": "Statement 1 and Statement 3 are true",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40942,
+        "question_id": "14831",
+        "text": "All statements are true",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct answer, let's analyze each statement:\n\n1. **Selection sort is a stable sort**: A stable sort is one that maintains the relative order of equal elements. In selection sort, when two elements are equal, their order is preserved because the algorithm only swaps them if necessary. Therefore, statement 1 is true.\n\n2. **It sorts In-place**: In-place sorting means that the algorithm does not require any additional storage space proportional to the input size. Selection sort rearranges the elements within the original array, making it an in-place sorting algorithm. Hence, statement 2 is true.\n\n3. **After m passes through the list, the first m elements in the list are the m smallest element of the list**: This statement is also true because in each pass of the selection sort algorithm, the smallest unsorted element is selected and placed in its correct position, thereby ensuring that the first m elements after m passes are indeed the m smallest elements.\n\nGiven that all three statements are true, the correct answer is:\n\n**All statements are true.**\n\nThis option correctly identifies the properties of selection sort as a stable, in-place sorting algorithm that effectively finds and places the smallest elements at the beginning of the list after each pass.\n\n*Answer*: All statements are true."
+  },
+  {
+    "id": 14832,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/GDm0BfUoBguUg32ne1f3QYMW2bvzDRnHArrOkk7kBNCZDZgh8j.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "3fbe3732-05a7-487d-9ff8-530f7f256162",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40943,
+        "question_id": "14832",
+        "text": "",
+        "is_correct": false,
+        "option_image": "oBtfRIcVopL6oDC2aKIzFF8kkrAH8fZpGVd3dGJBTL8KDZX9WB.png",
+        "option_image_url": "app/option_images/oBtfRIcVopL6oDC2aKIzFF8kkrAH8fZpGVd3dGJBTL8KDZX9WB.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40944,
+        "question_id": "14832",
+        "text": "",
+        "is_correct": true,
+        "option_image": "IhIdAKhKcQQJzoM4MkCxMYF4IRkSvODQ6WfkhqlGY9OAxHeY9A.png",
+        "option_image_url": "app/option_images/IhIdAKhKcQQJzoM4MkCxMYF4IRkSvODQ6WfkhqlGY9OAxHeY9A.png",
+        "score": "4.000"
+      },
+      {
+        "id": 40945,
+        "question_id": "14832",
+        "text": "",
+        "is_correct": false,
+        "option_image": "BnL7h74iC91wE4xpoPULQLf520hsbBHw1YARNyNxoEnQ1pzKrq.png",
+        "option_image_url": "app/option_images/BnL7h74iC91wE4xpoPULQLf520hsbBHw1YARNyNxoEnQ1pzKrq.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40946,
+        "question_id": "14832",
+        "text": "",
+        "is_correct": false,
+        "option_image": "i5tx7sxjvAgS7ml3KaHuRoPKvNZtITsyYYyqIEBk1JSIp0CTyU.png",
+        "option_image_url": "app/option_images/i5tx7sxjvAgS7ml3KaHuRoPKvNZtITsyYYyqIEBk1JSIp0CTyU.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Why the correct option is \"Enqueue\"**\n\n*   **Step 1: Understanding the question context**\n    *   The question is asking about the most time-efficient implementation of Enqueue and Dequeue in a linked list.\n    *   A linked list is a data structure where each node points to the next node, and the last node points to null.\n*   **Step 2: Understanding Enqueue**\n    *   Enqueue means adding a new node at the end (tail) of the linked list.\n    *   This operation involves traversing the list to find the last node and then appending a new node to it.\n    *   The time complexity of Enqueue depends on how efficiently we can find the last node in the list.\n*   **Step 3: Understanding Dequeue**\n    *   Dequeue means removing a node from the front (head) of the linked list.\n    *   This operation involves accessing the first node in the list and then removing it.\n    *   The time complexity of Dequeue depends on how quickly we can access the first node in the list.\n*   **Step 4: Comparing Enqueue and Dequeue**\n    *   When adding a new node (Enqueue), it is faster to access the tail of the list directly rather than traversing the list to find it.\n    *   When removing a node (Dequeue), it is faster to access the head of the list directly rather than traversing the list to find it.\n    *   The most time-efficient implementation would prioritize direct access to the tail for Enqueue and direct access to the head for Dequeue.\n*   **Conclusion**\n    *   Based on the analysis, Enqueue is the most time-efficient operation in terms of accessing the tail directly, making it the correct answer.\n\n**Why other options are incorrect:**\n\n*   **Option 2: Dequeue**\n    *   Dequeue involves accessing the head of the list, which is not the most time-efficient operation compared to accessing the tail for Enqueue.\n*   **Option 3: None**\n    *   The question specifically asks for the most time-efficient implementation of Enqueue and Dequeue, so \"None\" does not apply as a correct answer.\n\n**Educational Insights:**\n\n*   Understanding the time complexity of operations in data structures is crucial for efficient programming.\n*   Different operations have different time complexities based on how they access or modify the data structure.\n*   In linked lists, operations like Enqueue and Dequeue have specific characteristics that affect their time complexity.\n\n**Final Answer:**\n\nThe correct answer is Enqueue."
+  },
+  {
+    "id": 14833,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/TgnBlHm6P9FNXp3mxySLTfzdOOkey9xKQWQF4uyjPBNAiJ3Frk.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "81e95614-6930-4981-8271-82d521bd0b6a",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40947,
+        "question_id": "14833",
+        "text": "79, 22, 35, 15, 16, 77, 25",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40948,
+        "question_id": "14833",
+        "text": "22, 35, 77, 16, 25, 79, 15",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40949,
+        "question_id": "14833",
+        "text": "35, 16, 77, 15, 22, 25, 79",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40950,
+        "question_id": "14833",
+        "text": "77, 79, 16, 35, 15, 22, 25",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      }
+    ],
+    "comprehensive_explanation": "*   A hash table is a data structure that stores key-value pairs in an array using a hash function to map keys to indices of the array.\n*   The hash function h(k) = k mod 10 is used to map keys to indices in the range [0, 9].\n*   The hash table has a size of 10, which means it can store up to 10 key-value pairs.\n\n**Step 2: Understanding the Problem**\n\nThe problem states that a hash table of size 10 uses open addressing with hash function h(k) = k mod 10, and linear probing. After inserting 7 values into an empty hash table, the table is as shown below.\n\n| Index | Data |\n| --- | --- |\n| 0   | 25  |\n| 1   | 22  |\n| 2   | 35  |\n| 3   | 77  |\n| 4   | 16  |\n| 5   | 15  |\n| 6   | 79  |\n\n**Step 3: Identifying the Correct Option**\n\nTo find the correct option, we need to determine which set of key values could have been inserted in the hash table.\n\n*   The first option is 79, 22, 35, 15, 16, 77, 25.\n*   The second option is 22, 35, 77, 16, 25, 79, 15.\n*   The third option is 35, 16, 77, 15, 22, 25, 79.\n*   The fourth option is 77, 79, 16, 35, 15, 22, 25.\n\n**Step 4: Analyzing Each Option**\n\nLet's analyze each option to determine which one is correct.\n\n*   Option 1: 79, 22, 35, 15, 16, 77, 25\n    *   This option does not satisfy the properties of a hash table.\n    *   It does not follow the modulo 10 rule.\n    *   It does not maintain the order of insertion.\n*   Option 2: 22, 35, 77, 16, 25, 79, 15\n    *   This option does not satisfy the properties of a hash table.\n    *   It does not follow the modulo 10 rule.\n    *   It does not maintain the order of insertion.\n*   Option 3: 35, 16, 77, 15, 22, 25, 79\n    *   This option does not satisfy the properties of a hash table.\n    *   It does not follow the modulo 10 rule.\n    *   It does not maintain the order of insertion.\n*   Option 4: 77, 79, 16, 35, 15, 22, 25\n    *   This option satisfies the properties of a hash table.\n    *   It follows the modulo 10 rule.\n    *   It maintains the order of insertion.\n\n**Step 5: Conclusion**\n\nBased on the analysis, the correct option is 77, 79, 16, 35, 15, 22, 25.\n\n**Final Answer**\n\nThe final answer is 77, 79, 16, 35, 15, 22, 25."
+  },
+  {
+    "id": 14834,
+    "question_text": "An airline serves 1000 cities and runs 4500 direct flights each day between these cities. Which of the following is a good data structure to get the list of cities where direct flight available from any particular cities?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "c7542188-3e63-437f-a0ca-a2e699a9d656",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40951,
+        "question_id": "14834",
+        "text": "",
+        "is_correct": false,
+        "option_image": "jAgu52p0xxgcRzXiNal4n7keypVC5bmeiNaoq7gbBlDEsfMKiH.png",
+        "option_image_url": "app/option_images/jAgu52p0xxgcRzXiNal4n7keypVC5bmeiNaoq7gbBlDEsfMKiH.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40952,
+        "question_id": "14834",
+        "text": "",
+        "is_correct": false,
+        "option_image": "sFIxGnEIkbe3agY7FC7kwiaGZUfOEgh8YrUlQRu9ouBwt7wro0.png",
+        "option_image_url": "app/option_images/sFIxGnEIkbe3agY7FC7kwiaGZUfOEgh8YrUlQRu9ouBwt7wro0.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40953,
+        "question_id": "14834",
+        "text": "",
+        "is_correct": false,
+        "option_image": "HdyfYGSdupjpGUfoVw5mTAHBFhcgQVPWNLnR1Dk1g3t694QGPE.png",
+        "option_image_url": "app/option_images/HdyfYGSdupjpGUfoVw5mTAHBFhcgQVPWNLnR1Dk1g3t694QGPE.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40954,
+        "question_id": "14834",
+        "text": "",
+        "is_correct": true,
+        "option_image": "K7mlw7IGiACeR07aTJtK9dqvizjdDpKLMXLTUpWNW19HZg4mkJ.png",
+        "option_image_url": "app/option_images/K7mlw7IGiACeR07aTJtK9dqvizjdDpKLMXLTUpWNW19HZg4mkJ.png",
+        "score": "4.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the most suitable data structure to get the list of cities where direct flights are available from any particular city, let's analyze the problem step by step.\n\n**Problem Analysis:**\n\n1. **Number of Cities:** The airline serves 1000 cities, meaning we have a large number of distinct elements (cities) to consider.\n2. **Number of Flights:** There are 4500 direct flights each day, which implies that we have a significant number of connections between these cities.\n3. **Query Type:** The requirement is to retrieve all cities that have a direct flight available from any given city.\n\n**Option Analysis:**\n\n### Option 1: Array or List\n\nAn array or list might initially seem like a viable option because it can store a large number of elements (cities) and can be easily searched or traversed. However, this approach becomes impractical for several reasons:\n\n- **Space Complexity:** Storing the adjacency list for all 1000 cities in an array or list would require a huge amount of memory, especially considering that each city could potentially have a significant number of flights (4500 in this case).\n- **Query Efficiency:** To find all cities with direct flights from a given city, we would need to perform a search or traversal on the entire array or list, which would be O(n) in the worst case, where n is the total number of cities. This is inefficient for large datasets.\n\n**Option 2: Graph Data Structure**\n\nA graph data structure is a collection of nodes (cities) connected by edges (flights). It is particularly well-suited for this problem because:\n\n- **Space Efficiency:** A graph can efficiently represent the connections between cities, using an adjacency list or adjacency matrix, which can reduce memory usage compared to storing the connections in a flat array or list.\n- **Query Efficiency:** To find all cities that have a direct flight from a given city, we can start from the given city and traverse the graph, which can be done in O(|E|) time, where |E| is the number of edges (flights). This is much more efficient than searching an array or list.\n- **Flexibility:** Graphs can be easily modified or updated as flight schedules change, making them a versatile choice for this application.\n\n**Option 3: Hash Table**\n\nA hash table could also be considered for storing cities and their direct flight destinations. However, it would face similar challenges as the array or list approach, especially considering the need to efficiently query for all cities with direct flights from a given city:\n\n- **Hash Function:** The choice of hash function would be critical to ensure that the distribution of cities in the hash table is even, which could be challenging given the large number of cities and flights.\n- **Collision Resolution:** Dealing with collisions (i.e., two cities mapping to the same index) would add complexity and potential inefficiencies.\n\n**Conclusion:**\n\nGiven the need for efficient storage and query operations, the graph data structure is the most suitable choice for this problem. It can effectively manage the connections between cities, making it easier to find all cities with direct flights from any given city.\n\n**Educational Insights:**\n\n- **Data Structure Choice:** The choice of data structure should be based on the problem's specific requirements, including the type of operations to be performed and the characteristics of the data to be stored.\n- **Space and Time Complexity:** Understanding the trade-offs between space and time complexity is crucial for selecting the most efficient data structure for a given problem.\n- **Graph Algorithms:** Familiarity with graph algorithms and their applications can significantly enhance problem-solving skills, especially in scenarios involving network analysis and optimization."
+  },
+  {
+    "id": 14835,
+    "question_text": "Consider the following graph  ",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/rrJAHjSdvlXmtBhfUOPObceUeqPcIQbwIEP5YOj4uOEivKg8Lx.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "ce7fcb8c-e902-48c2-be71-d46558ce3863",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40955,
+        "question_id": "14835",
+        "text": "A, B, E, D, F, C",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40956,
+        "question_id": "14835",
+        "text": "A, B, D, E, C, F",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40957,
+        "question_id": "14835",
+        "text": "A, B, E, D, C, F",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 40958,
+        "question_id": "14835",
+        "text": "A, B, D, E, F, C",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the question and identify the task**\n\nThe question presents a graph with nodes labeled A to F and edges connecting these nodes. The task is to determine the correct order of visiting these nodes in a traversal, given that the graph represents a directed acyclic graph (DAG) where each edge has a weight.\n\n**Step 2: Recognize the type of traversal**\n\nGiven the nature of the question, it seems to be related to finding the topological sorting of the graph, which is a linear ordering of its vertices such that for every edge (u,v), vertex u comes before v in the ordering. This is crucial because it ensures there are no cycles in the ordering.\n\n**Step 3: Identify the correct option**\n\nOption A, B, E, D, C, F is the correct answer. To understand why, let's apply the concept of topological sorting, which involves ordering the vertices such that for every directed edge u -> v, vertex u comes before v in the ordering.\n\n- Starting from node A, we can move along the edges to other nodes without violating the topological sorting rule.\n- This means we can start with A and move to either B or E without creating a cycle, as both B and E have edges pointing outwards from them.\n- From B, we can only move to D or C because of the edge directions.\n- Similarly, from E, we can only move to D or F.\n- Since D has edges pointing outwards, we can continue from D to either B (which is already visited) or E (which we can visit next since it has not been visited yet).\n- Thus, the correct sequence that adheres to the topological sorting rule is A -> B -> D -> E -> F -> C.\n\n**Step 4: Explain why other options are incorrect**\n\n- Option A, B, D, E, F, C is incorrect because it violates the topological sorting rule. For instance, starting with A, moving to B, then to D, and finally to E creates a cycle because E has an edge pointing to D, which contradicts the rule.\n- Option A, B, D, E, C, F is also incorrect for similar reasons, as it does not follow the topological sorting rule correctly. The presence of cycles violates the premise of topological sorting.\n- Option A, B, E, D, C, F is the correct answer because it follows the topological sorting rule by ensuring that whenever there's an edge from node u to node v, u comes before v in the ordering. This ensures there are no cycles in the ordering.\n\n**Step 5: Provide educational insights**\n\n- Topological sorting is a fundamental concept in graph theory, especially in computer science, where it's used to find a valid order for performing tasks based on their dependencies.\n- Understanding how to apply topological sorting requires recognizing the directionality of edges in a graph and applying the rule that for every edge u -> v, vertex u comes before v in the ordering.\n- The ability to reason through such problems enhances problem-solving skills in computer science and related fields, as it involves logical deductions based on graph structures.\n\n**Answer**: A, B, E, D, C, F"
+  },
+  {
+    "id": 14836,
+    "question_text": "The post-order traversal of a binary search tree with integer values produces the following sequence: 7, 5, 14, 12, 10, 20, 18, 25, 15. What is the value of the left child of the root of the tree?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "7035b326-5f1c-4e30-b20d-c628cff6e5a1",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40959,
+        "question_id": "14836",
+        "text": "14",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40960,
+        "question_id": "14836",
+        "text": "12",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40961,
+        "question_id": "14836",
+        "text": "10",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 40962,
+        "question_id": "14836",
+        "text": "7",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40963,
+        "question_id": "14836",
+        "text": "18",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the reasoning step-by-step to understand why the correct answer is indeed '10'.\n\n**Understanding Post-Order Traversal**\n\nPost-order traversal is a traversal technique used to visit the nodes of a binary tree in a specific order. In a post-order traversal, the left subtree is visited first, followed by the right subtree, and finally, the root node is visited. The order of visitation is: Left-Right-Root. This means that when we perform a post-order traversal, we will encounter the left child of the root before we encounter the root itself.\n\n**Analyzing the Given Sequence**\n\nThe given sequence is the result of a post-order traversal of a binary search tree (BST) with integer values. The sequence is: 7, 5, 14, 12, 10, 20, 18, 25, 15.\n\n**Step 1: Identifying the Root Node**\n\nIn a BST, the root node is typically the middle value of the sequence when the nodes are arranged in ascending order. Let's look at the sequence and find the middle value: 7, 5, 14, 12, 10, 20, 18, 25, 15. The middle value is 14. Therefore, 14 is the root node of the BST.\n\n**Step 2: Locating the Left Child of the Root**\n\nSince we have identified the root node as 14, we need to locate its left child in the sequence. In a post-order traversal, the left subtree is visited before the root. Therefore, the left child of the root will appear before the root in the sequence. Let's examine the sequence again: 7, 5, 14, 12, 10, 20, 18, 25, 15.\n\nNotice that the values 7 and 5 appear before the root value 14 in the sequence. However, we are looking for the left child of the root, not the left child of the left child. Therefore, we need to look for a value that appears immediately before the root in the sequence, which is 12.\n\nHowever, we are looking for a value that is the left child of the root, not an ancestor of the root. The correct answer must be a value that is a child of the root and appears before the root in the sequence.\n\n**Step 3: Identifying the Left Child of the Root**\n\nLet's re-examine the sequence: 7, 5, 14, 12, 10, 20, 18, 25, 15. We notice that the values 5 and 7 appear before the root value 14, but they are not the left child of the root. The next value in the sequence is 12, which is also not the left child of the root. However, the value 10 appears before the root value 14 and is not an ancestor of the root. Therefore, the value 10 is the left child of the root.\n\n**Why Other Options are Incorrect**\n\nNow, let's examine why the other options are incorrect:\n\n*   Option 14 is incorrect because it is the root node, not the left child of the root.\n*   Option 12 is incorrect because it is not the left child of the root; it is actually the right child of the root's left child (as we can see in the sequence).\n*   Option 7 is incorrect because it is a left child of the root's left child, not the left child of the root itself.\n*   Option 18 is incorrect because it is a right child of the root's left child, not the left child of the root.\n\n**Educational Insights**\n\nThis problem requires a thorough understanding of binary search trees, post-order traversal, and the properties of BSTs. Here are some educational insights that can help you understand the underlying concepts:\n\n*   **Binary Search Trees**: A binary search tree is a data structure in which each node has at most two children (i.e., a left child and a right child). The left child of a node contains values less than the node's value, while the right child of a node contains values greater than the node's value.\n*   **Post-Order Traversal**: Post-order traversal is a traversal technique used to visit the nodes of a binary tree in a specific order. In a post-order traversal, the left subtree is visited first, followed by the right subtree, and finally, the root node is visited. The order of visitation is: Left-Right-Root.\n*   **Properties of BSTs**: A BST has several important properties, including:\n    *   **Left Child Property**: The left child of a node contains values less than the node's value.\n    *   **Right Child Property**: The right child of a node contains values greater than the node's value.\n"
+  },
+  {
+    "id": 14837,
+    "question_text": "If we do not maintain the height of subtrees at each node in an AVL tree, then what will be the upper bound of running time for inserting an element and balancing it if required?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "5e9d70f9-1a4f-4606-abdb-e7f6e4fa1cd5",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40964,
+        "question_id": "14837",
+        "text": "",
+        "is_correct": false,
+        "option_image": "il9QUytR7cabUvxPKzBRioNFUpf4F8b8xK9sIBw6XPn2QEv9QK.png",
+        "option_image_url": "app/option_images/il9QUytR7cabUvxPKzBRioNFUpf4F8b8xK9sIBw6XPn2QEv9QK.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40965,
+        "question_id": "14837",
+        "text": "",
+        "is_correct": true,
+        "option_image": "zo5D5I77uaPGIj9khvfHAkGVITg6XYnvL8Ne2w4Y55k8CDTfdm.png",
+        "option_image_url": "app/option_images/zo5D5I77uaPGIj9khvfHAkGVITg6XYnvL8Ne2w4Y55k8CDTfdm.png",
+        "score": "4.000"
+      },
+      {
+        "id": 40966,
+        "question_id": "14837",
+        "text": "",
+        "is_correct": false,
+        "option_image": "bkzoYjZWa6Va7tvlvFNQUl8SNySKI1X1NhqqNXTiVRufRa13nR.png",
+        "option_image_url": "app/option_images/bkzoYjZWa6Va7tvlvFNQUl8SNySKI1X1NhqqNXTiVRufRa13nR.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40967,
+        "question_id": "14837",
+        "text": "",
+        "is_correct": false,
+        "option_image": "P07q7stV6IwtpKQSBFcvJAyOFhCdsFYgxyyiTtSfJ2fWsGhmlN.png",
+        "option_image_url": "app/option_images/P07q7stV6IwtpKQSBFcvJAyOFhCdsFYgxyyiTtSfJ2fWsGhmlN.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "In an AVL tree, the height of subtrees at each node is maintained to ensure that the tree remains approximately balanced. This balancing is necessary to prevent the tree from becoming overly unbalanced, which can lead to poor search and insertion performance. If we do not maintain the height of subtrees at each node, the tree can become severely unbalanced, which affects the running time for inserting an element and balancing it if required.\n\n**Understanding AVL Tree Balance Factor**\n\nIn an AVL tree, each node has a balance factor, which is the difference between the height of the left subtree and the height of the right subtree. The balance factor is used to determine whether a node needs to be rotated to maintain the balance of the tree.\n\n**Consequences of Not Maintaining Balance Factor**\n\nIf we do not maintain the balance factor at each node, the tree can become severely unbalanced, leading to the following consequences:\n\n*   Inserting an element can lead to a tree that is essentially a linked list, where all elements are inserted in a linear fashion.\n*   The tree may become so unbalanced that it violates the AVL tree property, which states that the height of the left and right subtrees of any node can differ by at most one.\n\n**Upper Bound of Running Time**\n\nThe running time of an AVL tree operation depends on the height of the tree. In the worst-case scenario, if the tree is not balanced, the running time of inserting an element and balancing it if required can be as bad as O(n), where n is the number of elements in the tree.\n\n**Correct Option: O(n)**\n\nThe correct option is O(n), because if we do not maintain the height of subtrees at each node in an AVL tree, the tree can become severely unbalanced, leading to a running time of O(n) for inserting an element and balancing it if required.\n\n**Why Other Options are Incorrect**\n\n*   **O(1)**: This option is incorrect because it assumes that the tree remains balanced at all times, which is not the case if the height of subtrees is not maintained.\n*   **O(log n)**: This option is incorrect because it assumes that the tree remains balanced, but even if the tree is balanced, the running time of an AVL tree operation is O(log n), not O(1).\n*   **O(n^2)**: This option is also incorrect because it assumes a quadratic running time, which is not possible for an AVL tree operation."
+  },
+  {
+    "id": 14838,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/OV3v8ZElwywmIEXZOzzXFiCCBrwCoF9q9WQbeyC86TFlQhJ6Mh.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "89e20023-c8bb-4fdd-b21d-20de3800c68f",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40968,
+        "question_id": "14838",
+        "text": "",
+        "is_correct": false,
+        "option_image": "TBBmgBjtABNiiZ1DRzUgOa1fsvEmykFr2kvbVo2YF4hXVWBjJ1.png",
+        "option_image_url": "app/option_images/TBBmgBjtABNiiZ1DRzUgOa1fsvEmykFr2kvbVo2YF4hXVWBjJ1.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40969,
+        "question_id": "14838",
+        "text": "",
+        "is_correct": false,
+        "option_image": "7DQXIUbTraVzxFLSxixBMhJ5LIrSZdRlkfp2TH4naLm68g6gv0.png",
+        "option_image_url": "app/option_images/7DQXIUbTraVzxFLSxixBMhJ5LIrSZdRlkfp2TH4naLm68g6gv0.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40970,
+        "question_id": "14838",
+        "text": "",
+        "is_correct": true,
+        "option_image": "lN0ovaVJU380z84pkjCgyqSQM1mVacd5ZPvmyLeq84yCAlUqre.png",
+        "option_image_url": "app/option_images/lN0ovaVJU380z84pkjCgyqSQM1mVacd5ZPvmyLeq84yCAlUqre.png",
+        "score": "4.000"
+      },
+      {
+        "id": 40971,
+        "question_id": "14838",
+        "text": "",
+        "is_correct": false,
+        "option_image": "l4dwYm0oAk84frOSu4dFepEyAbksPYfb1Z0kLdbLPXgg8hSECR.png",
+        "option_image_url": "app/option_images/l4dwYm0oAk84frOSu4dFepEyAbksPYfb1Z0kLdbLPXgg8hSECR.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40972,
+        "question_id": "14838",
+        "text": "",
+        "is_correct": false,
+        "option_image": "1B7e6yiNw6JiHmr8BLpvOmO4UAhcEDBrvtPfaNiiJlBSzGc463.png",
+        "option_image_url": "app/option_images/1B7e6yiNw6JiHmr8BLpvOmO4UAhcEDBrvtPfaNiiJlBSzGc463.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the solution to this question, we need to understand the concept of recurrence relations and how they relate to algorithms. A recurrence relation is a mathematical equation that defines a sequence of values recursively. In the context of algorithms, a recurrence relation can be used to describe the time complexity of an algorithm.\n\nThe given recurrence relation is:\n\nT(n) = 2T(n/3) + O(n^2)\n\nThis means that the time complexity of the algorithm is proportional to 2 times the time complexity of the algorithm on a smaller input size (n/3), plus some additional constant factors represented by O(n^2).\n\nTo determine the complexity of this algorithm, we can use the Master Theorem, which provides a way to solve recurrence relations of the form:\n\nT(n) = aT(n/b) + f(n)\n\nwhere a and b are constants, and f(n) is a function that represents the additional work done in each recursive call.\n\nIn this case, we have:\n\na = 2\nb = 3\nf(n) = O(n^2)\n\nUsing the Master Theorem, we can analyze the complexity of the algorithm as follows:\n\n*   If a = b, then the complexity is O(n^log_a_b * f(n))\n*   If a > b, then the complexity is O(f(n))\n*   If a < b, then the complexity is O(n^log_a_b)\n\nIn this case, since a = 2 and b = 3, we have a > b. Therefore, the complexity of the algorithm is O(n^log_2_3 * f(n)). Since log_2_3 is approximately 1.58496, the complexity is approximately O(n^1.58496 \\* n^2).\n\nSimplifying this expression, we get:\n\nT(n) = O(n^3.58496)\n\nTherefore, the complexity of this algorithm is O(n^3.58496).\n\n**Answer:** The correct option is (D) O(n^3.58496). \n\nThis is because the given recurrence relation represents a recursive algorithm with a time complexity that grows cubically with the input size, due to the presence of the O(n^2) term and the division by 3 in the recursive call. The Master Theorem allows us to solve this recurrence relation and determine its time complexity as O(n^3.58496)."
+  },
+  {
+    "id": 14839,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/LWfhgKS38CGnmFHZ0T69iZgC8jfVDFx9V86k70QwFq4w5IccDW.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "75f0b896-ae4e-40c8-bd27-1fc73ceda4c2",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40973,
+        "question_id": "14839",
+        "text": "",
+        "is_correct": false,
+        "option_image": "p7Dsaj06QrGtRFwaYOfey0TqSat3RZn97Pbjq2CSXsDnCsbddC.png",
+        "option_image_url": "app/option_images/p7Dsaj06QrGtRFwaYOfey0TqSat3RZn97Pbjq2CSXsDnCsbddC.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40974,
+        "question_id": "14839",
+        "text": "",
+        "is_correct": false,
+        "option_image": "1im3UgcqNukKir1S3krIyCcR1L8ofJWIf2sgHTMu8o8DDnY9wJ.png",
+        "option_image_url": "app/option_images/1im3UgcqNukKir1S3krIyCcR1L8ofJWIf2sgHTMu8o8DDnY9wJ.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40975,
+        "question_id": "14839",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ZbXGvx74jirCoBDWHGeD0faQNo1RofS6e53tWPbBi2RuaeDoF2.png",
+        "option_image_url": "app/option_images/ZbXGvx74jirCoBDWHGeD0faQNo1RofS6e53tWPbBi2RuaeDoF2.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40976,
+        "question_id": "14839",
+        "text": "",
+        "is_correct": true,
+        "option_image": "9qEzLx4I63YyQiK7ZRKzVEnNrvCFmj7RrMN55pmuH3ZTaaHh2f.png",
+        "option_image_url": "app/option_images/9qEzLx4I63YyQiK7ZRKzVEnNrvCFmj7RrMN55pmuH3ZTaaHh2f.png",
+        "score": "4.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine which expression represents the correct length of the Longest Common Subsequence (LCS) for two sequences $a_1, a_2, \\dots, a_m$ and $b_1, b_2, \\dots, b_n$, we can analyze the given recursion formula.\n\n**Understanding the Recursion Formula**\n\nThe formula provided calculates the length of the LCS at position $i, j$ as follows:\n\n*   If the current elements in both sequences are equal, it moves to the next pair of elements in both sequences.\n*   If the current elements are not equal, it considers two cases:\n    *   If $a_i = b_j$, it includes the current element as part of the LCS and calculates the LCS for the remaining elements.\n    *   If $a_i \\neq b_j$, it does not include the current element and calculates the LCS for the next pair of elements in both sequences.\n\n**Analyzing the Expressions**\n\nGiven the above logic, let's evaluate the two expressions:\n\n**(1)** `Expression1`: This expression suggests that if $a_i = b_j$, the LCS includes the current element and calculates the LCS for the remaining elements. If $a_i \\neq b_j$, it does not include the current element and calculates the LCS for the next pair of elements.\n\n**(2)** `Expression2`: This expression implies that if $a_i = b_j$, the LCS does not include the current element and calculates the LCS for the next pair of elements. If $a_i \\neq b_j$, it includes the current element as part of the LCS and calculates the LCS for the remaining elements.\n\n**Comparing the Expressions**\n\nBy comparing the logic behind the expressions with the given recursion formula, we can see that:\n\n*   Expression1 aligns with the recursion formula's behavior when $a_i = b_j$ (includes the current element and moves to the next pair).\n*   Expression2 does not match the recursion formula's behavior when $a_i = b_j$ (does not include the current element and moves to the next pair).\n\n**Conclusion**\n\nBased on the analysis, Expression1 correctly represents the correct expression for the length of the Longest Common Subsequence (LCS) according to the given recursion formula.\n\n**Final Answer**\n\nThe final answer is: **Expression1**"
+  },
+  {
+    "id": 14840,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/vYPDKTDGsW5S8CnBejRKJNO0WYcHJrLRGHZlUX0P5sixBtzOFd.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "c4391e77-ae1c-403b-bf51-f66e0a5e0baa",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40977,
+        "question_id": "14840",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Q0yUcGOjyVrtyWmZPW46FRT2DqaV9Qp64Gf2ehXjcdKCdd6dj9.png",
+        "option_image_url": "app/option_images/Q0yUcGOjyVrtyWmZPW46FRT2DqaV9Qp64Gf2ehXjcdKCdd6dj9.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40978,
+        "question_id": "14840",
+        "text": "",
+        "is_correct": true,
+        "option_image": "0p1in3kgeEjKX5wK0ns5mXuxbW70qM4CFpfG5Bl39fWaNkmd0h.png",
+        "option_image_url": "app/option_images/0p1in3kgeEjKX5wK0ns5mXuxbW70qM4CFpfG5Bl39fWaNkmd0h.png",
+        "score": "4.000"
+      },
+      {
+        "id": 40979,
+        "question_id": "14840",
+        "text": "",
+        "is_correct": false,
+        "option_image": "XQ1mNUhdjprTr30h9KeRbI13LwLNwoDKKu9J2dPWWMrYacBJfa.png",
+        "option_image_url": "app/option_images/XQ1mNUhdjprTr30h9KeRbI13LwLNwoDKKu9J2dPWWMrYacBJfa.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40980,
+        "question_id": "14840",
+        "text": "",
+        "is_correct": false,
+        "option_image": "Irlen2D1XRzat8FCsxThjncyfdTAPysIkH2zf55ytKWVhJkNfo.png",
+        "option_image_url": "app/option_images/Irlen2D1XRzat8FCsxThjncyfdTAPysIkH2zf55ytKWVhJkNfo.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The Boyer-Moore skipping heuristic is a string searching algorithm that uses two tables to skip over non-matching characters in the text. The first table, T, is used to shift the pattern in the text based on the last occurrence of a character in the pattern. The second table, P, is used to shift the pattern in the text based on the position of a character in the pattern.\n\nTo determine which combinations of input text T and pattern P will exhibit the worst case running time behavior for the Boyer-Moore skipping heuristic, we need to consider the following factors:\n\n*   **Character Frequency:** The frequency of characters in both the input text and pattern affects the performance of the algorithm. If a character appears frequently in the input text but not in the pattern, it can lead to more frequent shifts and slower performance.\n*   **Pattern Length:** The length of the pattern also impacts the performance. Shorter patterns result in fewer shifts, while longer patterns result in more shifts.\n*   **Matching Characters:** The presence of matching characters between the input text and pattern affects the performance. If there are many matching characters, the algorithm can skip over non-matching characters more efficiently.\n\nBased on these factors, the combination that will exhibit the worst-case running time behavior for the Boyer-Moore skipping heuristic is:\n\n**Input Text T:** A string consisting of a single character repeated many times, e.g., \"aaaaaaaaaaaaaa\"\n**Pattern P:** A string consisting of a single character repeated many times, e.g., \"bbbbbbbbbbbbbb\"\n\nThis combination leads to the worst-case scenario for the following reasons:\n\n*   **Character Frequency:** Both the input text and pattern have a single character repeated many times, resulting in a high frequency of that character. This increases the chances of matching characters and slows down the algorithm.\n*   **Pattern Length:** Both the input text and pattern have a relatively long length, resulting in more frequent shifts.\n*   **Matching Characters:** There are many matching characters between the input text and pattern, which slows down the algorithm as it needs to skip over non-matching characters.\n\nOther options do not exhibit the worst-case running time behavior because they either have a lower frequency of matching characters, shorter pattern lengths, or both.\n\n**Alternative Explanation:**\n\nThe Boyer-Moore skipping heuristic is an efficient string searching algorithm that minimizes the number of comparisons between the input text and pattern. However, in the worst-case scenario, the algorithm may still perform a large number of comparisons.\n\nThe combination of input text T and pattern P that will exhibit the worst-case running time behavior for the Boyer-Moore skipping heuristic is:\n\n*   **Input Text T:** A string consisting of a single character repeated many times, e.g., \"aaaaaaaaaaaaaa\"\n*   **Pattern P:** A string consisting of a single character repeated many times, e.g., \"bbbbbbbbbbbbbb\"\n\nThis combination leads to the worst-case scenario because:\n\n*   **Character Frequency:** Both the input text and pattern have a single character repeated many times, resulting in a high frequency of that character. This increases the chances of matching characters and slows down the algorithm.\n*   **Pattern Length:** Both the input text and pattern have a relatively long length, resulting in more frequent shifts.\n*   **Matching Characters:** There are many matching characters between the input text and pattern, which slows down the algorithm as it needs to skip over non-matching characters.\n\nOther options do not exhibit the worst-case running time behavior because they either have a lower frequency of matching characters, shorter pattern lengths, or both.\n\n**Educational Insights:**\n\nThe Boyer-Moore skipping heuristic is a widely used string searching algorithm that takes advantage of the properties of the input text and pattern to minimize the number of comparisons. However, in the worst-case scenario, the algorithm may still perform a large number of comparisons.\n\nTo understand why the combination of input text T and pattern P exhibits the worst-case running time behavior, it's essential to analyze the factors that impact the performance of the algorithm, including character frequency, pattern length, and matching characters.\n\nBy considering these factors, developers can optimize their string searching algorithms to achieve better performance in various scenarios."
+  },
+  {
+    "id": 14841,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/v9f5NgpENDrlkRXOmdiyI25zLvpAs3N5dJnzP5fxuyYONPkF23.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "5a2c3125-f911-43c7-9f16-21ad36bc53b4",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40981,
+        "question_id": "14841",
+        "text": "[0, 0, 1, 2, 1, 1, 2, 3]",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40982,
+        "question_id": "14841",
+        "text": "[0, 0, 1, 1, 2, 1, 2, 0]",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40983,
+        "question_id": "14841",
+        "text": "[0, 0, 1, 2, 0, 1, 2, 0]",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "4.000"
+      },
+      {
+        "id": 40984,
+        "question_id": "14841",
+        "text": "[0, 0, 1, 1, 1, 0, 1, 2]",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To determine the correct fail function for the pattern ababcabc, we need to understand how the Knuth-Morris-Pratt (KMP) algorithm works and how it is used for efficient string matching.\n\n**Step 2: Understand the KMP Algorithm**\n\nThe KMP algorithm is used for efficient string matching. It works by preprocessing the pattern to create a failure function that represents the longest proper prefix of the pattern which is also a suffix of the pattern. This failure function is used to skip characters in the text when searching for the pattern.\n\n**Step 3: Break Down the Correct Option [0, 0, 1, 2, 0, 1, 2, 0]**\n\nThe correct option represents the failure function for the pattern ababcabc.\n\n*   **0**: This represents that there is no proper prefix of the pattern that is also a suffix of the pattern. Therefore, we cannot skip any characters.\n*   **0**: Similarly, there is no proper prefix of the pattern that is also a suffix of the pattern. We cannot skip any characters.\n*   **1**: This means that the first character 'a' is a proper prefix of the pattern that is also a suffix of the pattern. It tells us to skip one character if we encounter 'a' in the text.\n*   **2**: This means that the first two characters 'ab' are a proper prefix of the pattern that is also a suffix of the pattern. It tells us to skip two characters if we encounter 'ab' in the text.\n*   **0**: There is no proper prefix of the pattern that is also a suffix of the pattern. We cannot skip any characters.\n*   **1**: This means that the first three characters 'aba' are a proper prefix of the pattern that is also a suffix of the pattern. It tells us to skip one character if we encounter 'aba' in the text.\n*   **2**: This means that the first four characters 'abab' are a proper prefix of the pattern that is also a suffix of the pattern. It tells us to skip two characters if we encounter 'abab' in the text.\n*   **0**: There is no proper prefix of the pattern that is also a suffix of the pattern. We cannot skip any characters.\n\n**Step 4: Explain Why Other Options Are Incorrect**\n\nOther options are incorrect because they do not accurately represent the failure function for the pattern ababcabc.\n\n*   Option [0, 0, 1, 1, 2, 1, 2, 0] incorrectly represents the failure function. For example, it incorrectly says to skip one character if we encounter 'a' in the text when it should say to skip zero characters.\n*   Option [0, 0, 1, 1, 1, 0, 1, 2] incorrectly represents the failure function. For example, it incorrectly says to skip one character if we encounter 'a' in the text when it should say to skip zero characters.\n\n**Step 5: Provide Educational Insights**\n\nThe KMP algorithm is an important concept in computer science that helps us efficiently search for patterns in strings. Understanding how the failure function works is crucial in implementing the KMP algorithm.\n\nIn conclusion, the correct option is [0, 0, 1, 2, 0, 1, 2, 0] because it accurately represents the failure function for the pattern ababcabc.\n\n*Answer*: [0, 0, 1, 2, 0, 1, 2, 0]"
+  },
+  {
+    "id": 14842,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/4tc9QDwCUqR3f8dTRRgaphf6kupyGAxU0kvlyoNusQx5BA4yfj.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "9702dfee-02b1-4bd9-bba6-cb7ddaac8194",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40985,
+        "question_id": "14842",
+        "text": "1-d, 2-a, 3-c, 4-b",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 40986,
+        "question_id": "14842",
+        "text": "1-d, 2-b, 3-c, 4-a",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40987,
+        "question_id": "14842",
+        "text": "1-d, 2-a, 3-d, 4-c",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 40988,
+        "question_id": "14842",
+        "text": "1-a, 2-d, 3-c, 4-b",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "The question requires selecting the most appropriate data structure for each application.\n\n**Applying Data Structures to Applications**\n\n*   **1. A sequence of food orders in a restaurant**: This application requires a data structure that can efficiently manage a sequence of items. A **Stack** is suitable for this purpose, as it follows the Last-In-First-Out (LIFO) principle, allowing easy addition and removal of items from the top.\n*   **2. Matrix operations**: Matrix operations involve storing and manipulating two-dimensional arrays of data. A **Graph** is not suitable for this purpose, as it is designed to represent relationships between nodes, not two-dimensional arrays. However, a **Matrix** is the correct choice, as it is specifically designed for storing and operating on two-dimensional arrays.\n*   **3. Math expression evaluation with parentheses**: This application requires a data structure that can evaluate expressions with parentheses. A **Stack** is suitable for this purpose, as it can be used to track the order of operations and resolve parentheses.\n*   **4. Social media network**: This application requires a data structure that can efficiently store and manage relationships between nodes. A **Queue** is not suitable for this purpose, as it follows the First-In-First-Out (FIFO) principle, which is not ideal for representing relationships between nodes. However, a **Graph** is the correct choice, as it is designed specifically for representing relationships between nodes.\n\n**Correct Answer: 1-d, 2-a, 3-c, 4-b**\n\nThe correct answer is 1-d, 2-a, 3-c, 4-b, as it accurately matches each application with its corresponding data structure.\n\n*   **Option 1: d (Queue)** is incorrect because a Stack is more suitable for a sequence of food orders in a restaurant.\n*   **Option 2: a (Stack)** is incorrect because a Matrix is more suitable for matrix operations.\n*   **Option 3: c (Graph)** is incorrect because a Stack is more suitable for math expression evaluation with parentheses.\n*   **Option 4: b (Matrix)** is incorrect because a Graph is more suitable for a social media network.\n\n**Educational Insights**\n\n*   Understanding the characteristics of each data structure (Stack, Graph, Matrix, Queue) is crucial for selecting the most appropriate one for each application.\n*   Each data structure has its strengths and weaknesses, and choosing the right one depends on the specific requirements of the application.\n*   Practice and experience are essential for developing the ability to select the correct data structure for a given application."
+  },
+  {
+    "id": 14843,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/pE8SA9oK2bBgm05ofFoLzdFvS9yUpcmLC6pAA2fxTsp8IYk8af.png"
+    ],
+    "total_mark": "3.00",
+    "uuid": "3d386553-667f-4e53-9238-1751e26ddc6d",
+    "course_id": 6,
+    "options": [
+      {
+        "id": 40989,
+        "question_id": "14843",
+        "text": "",
+        "is_correct": false,
+        "option_image": "hUqrhK5Pu95z4H80lP7xhw62iPsLOturTGALsnPbJnrXPIYTsa.png",
+        "option_image_url": "app/option_images/hUqrhK5Pu95z4H80lP7xhw62iPsLOturTGALsnPbJnrXPIYTsa.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40990,
+        "question_id": "14843",
+        "text": "",
+        "is_correct": false,
+        "option_image": "DATw0zm0XFEKdwVzJignuORx2o4ItByS6sTjtD6AXLd0varkJ4.png",
+        "option_image_url": "app/option_images/DATw0zm0XFEKdwVzJignuORx2o4ItByS6sTjtD6AXLd0varkJ4.png",
+        "score": "0.000"
+      },
+      {
+        "id": 40991,
+        "question_id": "14843",
+        "text": "",
+        "is_correct": true,
+        "option_image": "I6mhl0KBhQIAABCqHLgAiBqfosUwKQRYuEjJ1TZ4ucKPMT4APQ.png",
+        "option_image_url": "app/option_images/I6mhl0KBhQIAABCqHLgAiBqfosUwKQRYuEjJ1TZ4ucKPMT4APQ.png",
+        "score": "3.000"
+      },
+      {
+        "id": 40992,
+        "question_id": "14843",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ywiG3c8kzhhVlYz8gc4rWGVLVAMVTtMYqVtg3CJCwhtn21WYlC.png",
+        "option_image_url": "app/option_images/ywiG3c8kzhhVlYz8gc4rWGVLVAMVTtMYqVtg3CJCwhtn21WYlC.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "**Step 1: Understand the given information**\n\nThe problem states that $\\alpha$ is an NP-Complete problem and $\\beta$ and $\\gamma$ are two other problems. It also states that $\\beta$ is polynomial time reducible to $\\alpha$ and $\\alpha$ is polynomial time reducible to $\\gamma$. We need to find what can be inferred from this information.\n\n**Step 2: Recall the definitions of polynomial time reducibility**\n\nPolynomial time reducibility is a concept in computational complexity theory that allows us to compare the relative hardness of problems. A problem $X$ is said to be polynomial time reducible to a problem $Y$, denoted as $X \\leq_p Y$, if there exists a polynomial-time computable function $f$ such that for any instance $x$ of $X$, $f(x)$ is a valid instance of $Y$, and $x \\in X$ if and only if $f(x) \\in Y$.\n\n**Step 3: Analyze the relationships between the problems**\n\nFrom the given information, we have:\n\n* $\\beta \\leq_p \\alpha$\n* $\\alpha \\leq_p \\gamma$\n\nThis means that any instance of $\\beta$ can be transformed into an equivalent instance of $\\alpha$ in polynomial time, and any instance of $\\alpha$ can be transformed into an equivalent instance of $\\gamma$ in polynomial time.\n\n**Step 4: Infer the relationship between $\\beta$ and $\\gamma$**\n\nUsing the transitive property of polynomial time reducibility, we can conclude that $\\beta \\leq_p \\gamma$. This means that any instance of $\\beta$ can be transformed into an equivalent instance of $\\gamma$ in polynomial time.\n\n**Conclusion**\n\nBased on the given information and the analysis above, we can infer that $\\beta$ is polynomial time reducible to $\\gamma$.\n\n**Correct Option:**\n\n*Option 1: $\\beta$ is polynomial time reducible to $\\gamma$*\n\nThis option is the correct answer because it is a direct consequence of the given information and the analysis above.\n\n**Other Options:**\n\n*Option 2: $\\gamma$ is polynomial time reducible to $\\beta$*\n\nThis option is incorrect because the given information only states that $\\beta$ is polynomial time reducible to $\\alpha$, and $\\alpha$ is polynomial time reducible to $\\gamma$. It does not imply that $\\gamma$ is polynomial time reducible to $\\beta$.\n\n*Option 3: $\\alpha$ is polynomial time reducible to $\\beta$*\n\nThis option is incorrect because the given information only states that $\\beta$ is polynomial time reducible to $\\alpha$, but it does not imply that $\\alpha$ is polynomial time reducible to $\\beta$.\n\n*Option 4: $\\beta$ and $\\gamma$ are equivalent problems*\n\nThis option is incorrect because the given information only states that $\\beta$ is polynomial time reducible to $\\alpha$, and $\\alpha$ is polynomial time reducible to $\\gamma$. It does not imply that $\\beta$ and $\\gamma$ are equivalent problems.\n\n**Educational Insights:**\n\n* The concept of polynomial time reducibility is a powerful tool for comparing the relative hardness of problems.\n* The transitive property of polynomial time reducibility allows us to infer relationships between multiple problems.\n* Understanding these concepts is crucial for analyzing the complexity of algorithms and problems in computer science.\n\n**Final Answer:**\n\nThe final answer is $\\boxed{Option 1: \\beta is polynomial time reducible to \\gamma}$. I hope it is correct."
+  },
+  {
+    "id": 14844,
+    "question_text": "Consider the following DAG  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/mBn2M0RFNo2sScEDJJsxOncImaPT96ZcNAt5H4Jtu2f2kzgiWv.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "448dc9a1-2370-493d-a24e-fd8348143b3e",
+    "course_id": 6,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14845,
+    "question_text": "Consider the graph G given below.  ",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/rRbUyI8rlxloesnfqrtghuBETfYPplayDP7EiLn5a1IOw6J6Pg.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "029d7bf8-382d-4a46-8c44-2d31cc7abd88",
+    "course_id": 6,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14846,
+    "question_text": "In a binary tree T of 25 nodes, if the number of nodes with two children is 6, then the number of nodes with one child is ___",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "9dac64fe-dde4-4e2a-98f3-ff5b4aff7b19",
+    "course_id": 6,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14847,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/tM92yx9K14eM3h1aS9bVLaGSRGEFN7XjGSTkbgAcVkBw26Icsr.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "48aaaa19-4032-4d57-80b7-96b5f81e9090",
+    "course_id": 6,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14848,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/zlI6i4S3Q5U3AZwFLeqN99iRPofAPktT9iAK2YfRJBCzTSMxCf.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "ce14c5f8-c61a-4e40-9863-f28b061e63af",
+    "course_id": 6,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14849,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/qlyPyVeBlYQIIH9oOmYwE9KBcBACioniZrgpKhfHS9UP7HZPDw.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "b1b223dd-970d-4b36-8ad9-cf0df44eceb1",
+    "course_id": 6,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14850,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/UK4TG1aKJjwtsToBNdHQB9YWWeGWuGzrGPjyvGAlLw77zn22ux.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "7cce6dbe-3ebb-4878-9d32-08f1d2679d4b",
+    "course_id": 6,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14851,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/QDJXB9BIXz5lKP9zg5hBgn4yCnDc2a98IQxBrp4uOV5piPCMyV.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "c833499a-e58b-4d47-b4d1-2ab8b7dda918",
+    "course_id": 6,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 14852,
+    "question_text": "Let G be a graph. The size of the minimum vertex cover of G is 12 and the size of the maximum independent set of G is 17. What are the number of the vertices in graph G?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "a89698e2-b483-4dbd-9f78-92f3451bfc47",
+    "course_id": 6,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  }
+]

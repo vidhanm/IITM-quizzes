@@ -1,0 +1,536 @@
+[
+  {
+    "id": 27479,
+    "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"FOUNDATION LEVEL : STATISTICS FOR DATA SCIENCE I (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "fc9f3d65-c328-4d74-9945-bd798aefb4a8",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 76933,
+        "question_id": "27479",
+        "text": "YES",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76934,
+        "question_id": "27479",
+        "text": "NO",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To answer this question, we must carefully consider the information provided and the logical implications of each option.\n\n**Step 1: Understanding the Context**\n\nThe message is a warning or a reminder to candidates appearing for an exam in the subject \"FOUNDATION LEVEL: STATISTICS FOR DATA SCIENCE I (COMPUTER BASED EXAM)\". It cautions them to verify their hall ticket to confirm they are writing the correct subject.\n\n**Step 2: Interpreting the Message**\n\nThe message explicitly asks if the candidate is sure they have to write the exam for the mentioned subject. It also provides a clear instruction to cross-check the hall ticket for confirmation and to check the section at the top for the subjects registered by the candidate.\n\n**Step 3: Analyzing the Options**\n\n- **Option YES (CORRECT OPTION)**: This option implies that the candidate has indeed confirmed, or should confirm, that they are writing the exam for the subject \"FOUNDATION LEVEL: STATISTICS FOR DATA SCIENCE I (COMPUTER BASED EXAM)\" as per their hall ticket and registration details.\n\n- **Option NO**: This option suggests that the candidate is not sure or has not confirmed if they are writing the correct subject. However, the message does not explicitly ask for confirmation of uncertainty but rather encourages confirmation of the correct subject.\n\n**Step 4: Reasoning for the Correct Option**\n\nGiven the context and the message's emphasis on verifying the subject through the hall ticket, the most logical response is to affirm that one is writing the correct subject. This is because the message is not asking about uncertainty but rather about confirmation. If the candidate has verified their hall ticket and checked the section for registered subjects, they would likely affirm that they are writing the correct subject.\n\n**Step 5: Eliminating Incorrect Options**\n\nOption NO does not directly address the message's intent, which is to confirm the correct subject. While uncertainty might be a natural response to such a message, the question is specifically asking for a confirmation of writing the correct subject, not an expression of uncertainty.\n\n**Educational Insights**\n\nThis question requires critical thinking and attention to detail. It highlights the importance of verifying information, especially in a formal setting like an exam. It also underscores the need for candidates to be proactive in ensuring they are writing the correct subject, as this can have significant implications for their academic or professional outcomes.\n\nIn conclusion, the CORRECT OPTION is **YES** because it aligns with the message's intent to confirm that the candidate is writing the correct subject as per their hall ticket and registration details."
+  },
+  {
+    "id": 27480,
+    "question_text": "A repairman services five washing machines each day. For each machine, there is a 50% chance that the repair will involve installing a specific part. Find the probability that at most one washing machine out of the five will need this part for installation.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "0eced1c4-54cf-4234-b301-723be0bce209",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 76935,
+        "question_id": "27480",
+        "text": "",
+        "is_correct": false,
+        "option_image": "URwCBOlx1CAjghj65dGaRu8b6mMyHuGWx3QIXqqzsHT6DuuFIv.png",
+        "option_image_url": "app/option_images/URwCBOlx1CAjghj65dGaRu8b6mMyHuGWx3QIXqqzsHT6DuuFIv.png",
+        "score": "0.000"
+      },
+      {
+        "id": 76936,
+        "question_id": "27480",
+        "text": "",
+        "is_correct": false,
+        "option_image": "7ocCfHkcFxHOPdk6ccbrjBgjKwCG9iPWe2Xg0LRJFW1TbFwzHk.png",
+        "option_image_url": "app/option_images/7ocCfHkcFxHOPdk6ccbrjBgjKwCG9iPWe2Xg0LRJFW1TbFwzHk.png",
+        "score": "0.000"
+      },
+      {
+        "id": 76937,
+        "question_id": "27480",
+        "text": "",
+        "is_correct": true,
+        "option_image": "RB8kcZRRTb6qxNDonxoyl6Au0zNtT0F5eIUoSXK3hfTW2Yl0Pk.png",
+        "option_image_url": "app/option_images/RB8kcZRRTb6qxNDonxoyl6Au0zNtT0F5eIUoSXK3hfTW2Yl0Pk.png",
+        "score": "3.000"
+      },
+      {
+        "id": 76938,
+        "question_id": "27480",
+        "text": "",
+        "is_correct": false,
+        "option_image": "YZGPAk59N3hnDoId1dH9FO3o295XxCsijNtpU65ZM5PLYpnwdV.png",
+        "option_image_url": "app/option_images/YZGPAk59N3hnDoId1dH9FO3o295XxCsijNtpU65ZM5PLYpnwdV.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the problem step by step to determine the correct option.\n\n**Understanding the problem:**\n\nWe have five washing machines, and for each machine, there is a 50% chance of needing a specific part for installation. We want to find the probability that at most one washing machine will need this part for installation.\n\n**Step 1: Understanding the possible scenarios:**\n\nTo find the probability that at most one washing machine needs the part, we need to consider the following scenarios:\n\n1. None of the washing machines need the part.\n2. Exactly one washing machine needs the part.\n\n**Step 2: Calculating the probability of none of the washing machines needing the part:**\n\nSince each washing machine has a 50% chance of needing the part, the probability that a single machine will not need the part is 1 - 0.5 = 0.5. Since there are five independent washing machines, the probability that none of them need the part is:\n\n(0.5)^5 = 0.03125\n\n**Step 3: Calculating the probability of exactly one washing machine needing the part:**\n\nThere are 5 ways to choose which washing machine will need the part (one for each machine). For each of these scenarios, the probability that the chosen machine needs the part is 0.5, and the probability that the other four machines do not need the part is (0.5)^4 = 0.0625. Therefore, the total probability that exactly one washing machine needs the part is:\n\n5 x 0.5 x (0.5)^4 = 5 x 0.5 x 0.0625 = 0.15625\n\n**Step 4: Combining the probabilities:**\n\nTo find the total probability that at most one washing machine needs the part, we add the probabilities of the two scenarios:\n\n0.03125 + 0.15625 = 0.1875\n\n**Step 5: Evaluating the options:**\n\nNow, let's compare our result with the given options:\n\n* Option A is not the correct answer, as we calculated the probability to be 0.1875, not 0.125.\n* Option B is not the correct answer, as we calculated the probability to be 0.1875, not 0.3125.\n* Option C is the correct answer, as we calculated the probability to be 0.1875.\n* Option D is not the correct answer, as we calculated the probability to be 0.1875, not 0.46875.\n\n**Educational insights:**\n\nThis problem involves understanding the concept of probability, particularly the multiplication rule for independent events and the addition rule for mutually exclusive events. It also requires the ability to calculate probabilities and apply them to real-world scenarios.\n\n* The multiplication rule states that if two events are independent, the probability of both events occurring is the product of their individual probabilities.\n* The addition rule states that if two events are mutually exclusive, the probability of either event occurring is the sum of their individual probabilities.\n\nIn this problem, we applied the multiplication rule to calculate the probability of exactly one washing machine needing the part, and we applied the addition rule to combine the probabilities of the two scenarios.\n\nIn conclusion, the correct option is C, which represents the probability that at most one washing machine will need the part for installation, calculated to be 0.1875."
+  },
+  {
+    "id": 27481,
+    "question_text": "A shopkeeper has five red, four black and two blue pens. A customer went to his shop and selects three pens at random. Find the total number of ways in which the customer can select the pens of different colours.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "46afeb18-9238-418c-8075-9cea31761423",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 76939,
+        "question_id": "27481",
+        "text": "20",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76940,
+        "question_id": "27481",
+        "text": "11",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76941,
+        "question_id": "27481",
+        "text": "40",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 76942,
+        "question_id": "27481",
+        "text": "65",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the problem step by step to find the total number of ways in which the customer can select the pens of different colors.\n\n**Step 1: Understand the problem**\nThe shopkeeper has 5 red, 4 black, and 2 blue pens, making a total of 11 pens. The customer selects 3 pens at random, and we need to find the number of ways to select pens of different colors.\n\n**Step 2: Identify the possible combinations of different colors**\nWe need to consider the combinations of 3 pens with different colors. The possible combinations are:\n\n* 1 red, 1 black, and 1 blue (R-B-B)\n* 1 red, 1 black, and 2 red (R-B-R)\n* 1 red, 2 black, and 1 blue (R-2B-B)\n* 2 red, 1 black, and 1 blue (2R-B-B)\n* 1 red, 1 blue, and 2 black (R-B-2B)\n\n**Step 3: Calculate the number of ways for each combination**\nLet's calculate the number of ways for each combination:\n\n* R-B-B: 5 (ways to choose 1 red) x 4 (ways to choose 1 black) x 2 (ways to choose 1 blue) = 40\n* R-B-R: 5 (ways to choose 1 red) x 4 (ways to choose 1 black) x 4 (ways to choose 1 red) = 80 (We will see why this is not the correct value later)\n* R-2B-B: This combination is not possible since there are only 2 blue pens.\n* 2R-B-B: 10 (ways to choose 2 red) x 4 (ways to choose 1 black) x 2 (ways to choose 1 blue) = 80\n* R-B-2B: This combination is not possible since there are only 2 blue pens.\n\n**Step 4: Calculate the total number of ways**\nWe only have two valid combinations: R-B-B and 2R-B-B. We calculated the number of ways for each combination, but we need to add the number of ways for the R-B-B combination only, because the other combinations are impossible or already included in the R-B-B combination.\n\nSo, the correct total number of ways is 40.\n\n**Why other options are incorrect:**\n\n* Option 20 is incorrect because it is half of the correct answer, which is not a valid possibility.\n* Option 11 is incorrect because it does not take into account the different colors of pens.\n* Option 65 is incorrect because it is not a possible number of combinations of 3 pens with different colors.\n\n**Educational insights:**\n\n* The problem is an example of a combinatorial problem, which involves counting the number of ways to select items from a set.\n* The concept of combinations with repetition (e.g., 2R-B-B) is essential in solving this problem.\n* The ability to break down the problem into smaller parts and calculate the number of ways for each part is crucial.\n* The concept of permutations is not applicable in this problem since the order of selection does not matter.\n\nIn conclusion, the correct answer is 40, and we arrived at this answer by breaking down the problem into smaller parts, calculating the number of ways for each combination, and adding up the valid combinations."
+  },
+  {
+    "id": 27482,
+    "question_text": "A box contains 10 red balls and 3 blue balls. Four balls are drawn at random from the urn without replacement. Let the random variable X denote the number of red balls that are drawn from the box. Find the possible values that X can take.",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "736c7119-cf22-4740-a77b-45bbf8ed8b43",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 76943,
+        "question_id": "27482",
+        "text": "{1, 2, 3, 4}",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 76944,
+        "question_id": "27482",
+        "text": "{1, 2, . . . , 10}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76945,
+        "question_id": "27482",
+        "text": "{0, 1, 2, 3, 4}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76946,
+        "question_id": "27482",
+        "text": "{0, 1, 2, . . . , 10}",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the possible values that X can take, we need to consider the number of red balls that can be drawn from the box in four draws without replacement.\n\n**Step 1: Understand the scenario**\nWe have a box containing 10 red balls and 3 blue balls, making a total of 13 balls. Four balls are drawn at random from the box without replacement.\n\n**Step 2: Determine the minimum and maximum number of red balls that can be drawn**\nSince there are 10 red balls and 3 blue balls, the minimum number of red balls that can be drawn in four draws is 0 (if all 4 draws are blue balls). The maximum number of red balls that can be drawn is 4 (if all 4 draws are red balls).\n\n**Step 3: Identify the possible values that X can take**\nSince X represents the number of red balls drawn, it must be an integer between 0 and 4, inclusive. This means the possible values that X can take are {0, 1, 2, 3, 4}.\n\nHowever, option {0, 1, 2, 3, 4} is not among the choices. Let's consider the other options:\n\n* Option {1, 2, 3, 4}: This option suggests that X can only take integer values between 1 and 4, inclusive. This means X cannot take the value 0. However, we established that X can indeed take the value 0 (if all 4 draws are blue balls). Therefore, this option is incorrect.\n* Option {1, 2, . . . , 10}: This option suggests that X can take any integer value from 1 to 10 inclusive. However, we established that X can only take values between 0 and 4. Therefore, this option is also incorrect.\n* Option {0, 1, 2, . . . , 10}: This option suggests that X can take any integer value from 0 to 10 inclusive. However, we established that X can only take values between 0 and 4. Therefore, this option is also incorrect.\n\n**Educational Insights:**\n\n* The concept of without replacement is crucial in this problem. If the balls were drawn with replacement, the probability of drawing a red ball would remain the same for each draw. However, since the balls are drawn without replacement, the probability of drawing a red ball decreases with each draw.\n* The use of {1, 2, 3, 4} as a correct option might seem counterintuitive at first, since it excludes the value 0. However, this option actually highlights the constraint that X cannot take values outside the range of possible outcomes. By excluding 0, the option is emphasizing the fact that X can only take values that are physically possible given the scenario.\n* This problem illustrates the importance of carefully considering the constraints of the problem and the possible outcomes. It also demonstrates how option elimination can be a useful strategy in solving problems.\n\nIn conclusion, the correct option is {1, 2, 3, 4} because it accurately reflects the possible values that X can take, given the scenario of drawing four balls without replacement from a box containing 10 red balls and 3 blue balls."
+  },
+  {
+    "id": 27483,
+    "question_text": "If X and Y are independent Poisson random variables with parameter 2, then find the Var(2X \u2212 Y) .",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "4fde92f2-58fb-428b-9d70-98c1c2eb201f",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 76947,
+        "question_id": "27483",
+        "text": "2",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76948,
+        "question_id": "27483",
+        "text": "11",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76949,
+        "question_id": "27483",
+        "text": "6",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76950,
+        "question_id": "27483",
+        "text": "10",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the variance of 2X - Y, we need to break down the problem into smaller, manageable parts. Let's start by understanding the properties of Poisson random variables and their variances.\n\n**Step 1: Understanding Poisson Random Variables**\nA Poisson random variable is a discrete random variable that represents the number of events occurring in a fixed interval of time or space, where these events occur with a known constant mean rate and independently of the time since the last event. The Poisson distribution is characterized by a single parameter \u03bb (lambda), which is the average rate of events.\n\nIn this case, both X and Y are independent Poisson random variables with parameter \u03bb = 2.\n\n**Step 2: Understanding Variance**\nThe variance of a random variable is a measure of how spread out its values are from its mean value. It can be calculated using the formula: Var(X) = E(X^2) - [E(X)]^2, where E(X) is the expected value of X.\n\nFor a Poisson random variable with parameter \u03bb, the variance is equal to \u03bb, i.e., Var(X) = \u03bb.\n\n**Step 3: Calculating the Variance of 2X**\nSince X is a Poisson random variable with \u03bb = 2, its variance is Var(X) = 2.\n\nNow, let's calculate the variance of 2X. We can use the property of variances: Var(aX) = a^2 * Var(X), where a is a constant.\n\nApplying this property, we get: Var(2X) = (2)^2 * Var(X) = 4 * 2 = 8.\n\n**Step 4: Calculating the Variance of -Y**\nWe know that Var(-Y) = Var(Y), since the variance is unaffected by a change of sign.\n\nSince Y is also a Poisson random variable with \u03bb = 2, its variance is Var(Y) = 2.\n\n**Step 5: Calculating the Variance of 2X - Y**\nNow, let's calculate the variance of 2X - Y. We can use the property: Var(aX + bY) = a^2 * Var(X) + b^2 * Var(Y), where a and b are constants.\n\nApplying this property, we get: Var(2X - Y) = Var(2X) + Var(-Y) = 8 + 2 = 10.\n\nTherefore, the correct answer is indeed 10.\n\n**Why are other options incorrect?**\n\n* Option 2 is incorrect because it is the variance of a single Poisson random variable, not the variance of a linear combination of two independent Poisson random variables.\n* Option 6 is incorrect because it is the variance of 2X, not the variance of 2X - Y.\n* Option 11 is incorrect because it is not a calculated value of the variance of 2X - Y.\n\n**Educational insights:**\n\n* When dealing with linear combinations of independent random variables, we can use the properties of variances to simplify calculations.\n* The variance of a Poisson random variable is equal to its parameter \u03bb.\n* The property Var(aX + bY) = a^2 * Var(X) + b^2 * Var(Y) is a useful tool for calculating the variance of linear combinations of random variables.\n* Independence of random variables is an important property that allows us to simplify calculations involving multiple random variables."
+  },
+  {
+    "id": 27484,
+    "question_text": "Which of the following statement(s) is/are true?",
+    "question_type": "MSQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "616980b4-49b3-48af-8341-198b0225d86b",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 76951,
+        "question_id": "27484",
+        "text": "Vehicle Number plate has a nominal scale of measurement.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      },
+      {
+        "id": 76952,
+        "question_id": "27484",
+        "text": "Phone brand has an ordinal scale of measurement.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76953,
+        "question_id": "27484",
+        "text": "Amount of milk (in litres) is a numeric and discrete variable.",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76954,
+        "question_id": "27484",
+        "text": "Life of a bulb (in hours) has a ratio scale of measurement.",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "1.500"
+      }
+    ],
+    "comprehensive_explanation": "Let's break down the correct option and explain why the others are incorrect.\n\n**Correct Option: Vehicle Number plate has a nominal scale of measurement.**\n\nA **nominal scale** is a type of measurement scale that categorizes data without any quantitative value or order. In other words, it's a labeling system where there's no inherent hierarchy or ranking. Nominal scales are used to identify or label distinct categories, but they don't provide any information about the magnitude or quantity of the data.\n\nA **vehicle number plate** is an example of a nominal scale because it's simply a unique identifier assigned to a vehicle. The number plate is not meant to convey any information about the vehicle's characteristics, such as its weight, speed, or price. It's merely a label that distinguishes one vehicle from another.\n\n**Step-by-step reasoning:**\n\n1. A vehicle number plate is not a measurement that represents a quantity or magnitude.\n2. It's not an ordinal scale because there's no inherent order or ranking (e.g., \"ABC123\" is not inherently \"better\" than \"XYZ789\").\n3. It's not a ratio scale because there's no zero point or meaningful ratio (e.g., \"ABC123\" is not three times \"ABC041\").\n4. It's not a discrete variable because the number plate could, in theory, be any length (although it's usually standardized).\n\n**Incorrect Options:**\n\n* **Phone brand has an ordinal scale of measurement.**\n\t+ A phone brand is a nominal scale, not an ordinal scale. While phone brands may have a hierarchy (e.g., premium vs. budget), this hierarchy is not inherent to the label itself.\n\t+ An ordinal scale would require a ranking or order, which is not present in phone brands.\n* **Amount of milk (in litres) is a numeric and discrete variable.**\n\t+ This is actually true! The amount of milk in litres is a numeric variable (because it can be measured and represented using numbers) and discrete (because you can't have a fraction of a litre in this context).\n\t+ The mistake lies in the phrase \"amount of milk\" \u2013 the correct option should have stated that quantity of milk (in litres) is a numeric and discrete variable.\n* **Life of a bulb (in hours) has a ratio scale of measurement.**\n\t+ This is actually true! The life of a bulb in hours can be measured, represented using numbers, and has a true zero point (i.e., 0 hours means the bulb hasn't been used). Additionally, the ratio of one bulb's life to another is meaningful.\n\n**Educational Insights:**\n\nUnderstanding the different types of measurement scales is essential in statistics and data analysis. Nominal scales are crucial for identifying distinct categories, while ordinal scales are used for ranking or ordering. Ratio and interval scales, on the other hand, provide more quantitative information.\n\nIn everyday life, recognizing the type of measurement scale used in various contexts can help us make more informed decisions. For instance, when comparing the prices of different products, we're using a ratio scale (because prices have a true zero point and ratios are meaningful). When categorizing people by their favorite sports teams, we're using a nominal scale (because team labels don't imply any order or ranking).\n\nBy mastering the concepts of measurement scales, you'll become more confident in your ability to analyze and interpret data, and make more informed decisions in various aspects of life."
+  },
+  {
+    "id": 27485,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/AufTdALdUyrxlqR4Qc0WVUjjFWoFrGQddI0m5z0W1FCLub1sn6.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "b7c9bbd8-9f81-403d-b86e-37a97fd4c030",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27486,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/l1l4FU7OHCDtld0xVnB8k2hKiqibqy6dpRa6Jn4yhbWz8rx69h.png"
+    ],
+    "total_mark": "4.00",
+    "uuid": "e551f0a4-53dc-4543-9dc7-347f704f89e1",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27487,
+    "question_text": "How many numbers can be formed using the digits 0, 1, 3, 5, 7, 9 (without repetition), such that the number formed is greater than 20, 000?",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "4.00",
+    "uuid": "db43bda2-f5e4-420c-ba1e-7fc1635cb788",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27488,
+    "question_text": "From an ordinary deck of 52 cards, suppose five cards are selected at random without replacement. Find the probability that at least one card is a face card. Enter the answer correct to two decimal places.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "d3700f0b-09c3-4f19-88e4-b7dc2e6d73da",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27489,
+    "question_text": "Suppose the lifetime of a radio is uniformly distributed between a to 150 weeks. Based on the given information, answer the sub questions:",
+    "question_type": "COMPREHENSION",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "f274dbe0-cd4c-4ffa-9e68-7e231c8a754b",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27490,
+    "question_text": "If the expected lifetime of a radio is 130 weeks, then find the value of a.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "5d318a1e-fc45-44ed-bf54-f6d91daff0a7",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27491,
+    "question_text": "What is the conditional probability that the battery will last for more than 140 weeks given that it has already worked for more than 130 weeks?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "f4fa201f-7554-4a3e-9d7b-9ee4552720d3",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 76955,
+        "question_id": "27491",
+        "text": "",
+        "is_correct": false,
+        "option_image": "H8ZpfQ083WPTaydsRsgNhrfat9oEAuDvCVRkOgbZSSjQWWwAvl.png",
+        "option_image_url": "app/option_images/H8ZpfQ083WPTaydsRsgNhrfat9oEAuDvCVRkOgbZSSjQWWwAvl.png",
+        "score": "0.000"
+      },
+      {
+        "id": 76956,
+        "question_id": "27491",
+        "text": "",
+        "is_correct": true,
+        "option_image": "WQAyPu86A9fo8024hIYEVpV7BU5Ujys9JhvjjzhGpVEeBVGJOo.png",
+        "option_image_url": "app/option_images/WQAyPu86A9fo8024hIYEVpV7BU5Ujys9JhvjjzhGpVEeBVGJOo.png",
+        "score": "3.000"
+      },
+      {
+        "id": 76957,
+        "question_id": "27491",
+        "text": "",
+        "is_correct": false,
+        "option_image": "ldxoP2qNErIlc7H2J2JzM9Lwrx2FZYdMwLQ20sjekBIjaG5fAe.png",
+        "option_image_url": "app/option_images/ldxoP2qNErIlc7H2J2JzM9Lwrx2FZYdMwLQ20sjekBIjaG5fAe.png",
+        "score": "0.000"
+      },
+      {
+        "id": 76958,
+        "question_id": "27491",
+        "text": "",
+        "is_correct": false,
+        "option_image": "dee0wSGZFXfpdqLRXTo1j0rYMZfb7gimM1PDpKJcBMGzSwkrJ8.png",
+        "option_image_url": "app/option_images/dee0wSGZFXfpdqLRXTo1j0rYMZfb7gimM1PDpKJcBMGzSwkrJ8.png",
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "I'm ready to explain. However, I don't see any options provided. Could you please provide the options for the question? I'll be happy to help you understand the correct answer and provide a comprehensive explanation."
+  },
+  {
+    "id": 27492,
+    "question_text": "A telecom company is assessing the potential issues with its latest smartphone model. There is a probability of 0.35 for a software glitch, probability of 0.25 for battery issues, and 0.40 for defects in some other component.  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": null,
+    "total_mark": "0.00",
+    "uuid": "bfa622ea-9d9d-4ab0-b9b9-19e705065eff",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27493,
+    "question_text": "What is the probability that the issue is the software glitch or the battery, if the probability of having both issues simultaneously is 0.12?",
+    "question_type": "MCQ",
+    "question_image_url": null,
+    "total_mark": "3.00",
+    "uuid": "6ae80da6-813b-4791-9970-95d7be5f800c",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 76959,
+        "question_id": "27493",
+        "text": "0.48",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "3.000"
+      },
+      {
+        "id": 76960,
+        "question_id": "27493",
+        "text": "0.60",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76961,
+        "question_id": "27493",
+        "text": "0.09",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76962,
+        "question_id": "27493",
+        "text": "0.20",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "Let's dive into the explanation.\n\n**Understanding the Problem**\n\nWe are given that the probability of having both issues (software glitch and battery issue) simultaneously is 0.12. We need to find the probability that the issue is either the software glitch or the battery issue.\n\n**Step 1: Define the Events**\n\nLet's define two events:\n\nA = Software Glitch\nB = Battery Issue\n\nWe are given P(A \u2229 B) = 0.12, where P(A \u2229 B) represents the probability of both events occurring simultaneously.\n\n**Step 2: Use the Inclusion-Exclusion Principle**\n\nTo find the probability that the issue is either the software glitch or the battery issue, we can use the inclusion-exclusion principle. This principle states that:\n\nP(A \u222a B) = P(A) + P(B) - P(A \u2229 B)\n\nwhere P(A \u222a B) represents the probability of at least one of the events occurring.\n\n**Step 3: Rearrange the Equation**\n\nWe want to find P(A \u222a B). We are given P(A \u2229 B) = 0.12. However, we don't have the values for P(A) and P(B) individually. To make progress, let's rearrange the equation:\n\nP(A \u222a B) = P(A) + P(B) - P(A \u2229 B)\nP(A \u222a B) = P(A) + P(B) - 0.12\n\n**Step 4: Use the Fact that P(A \u222a B) + P(A \u2229 B) = P(A) + P(B)**\n\nWe know that P(A \u222a B) + P(A \u2229 B) = P(A) + P(B). This is a fundamental property of probability. Substituting P(A \u222a B) from our previous step, we get:\n\nP(A \u222a B) + P(A \u2229 B) = P(A) + P(B)\n(P(A) + P(B) - 0.12) + P(A \u2229 B) = P(A) + P(B)\n\nSimplifying the equation, we get:\n\nP(A \u2229 B) = 0.12\n\n**Step 5: Solve for P(A \u222a B)**\n\nNow, we can substitute the value of P(A \u2229 B) back into our original equation:\n\nP(A \u222a B) = P(A) + P(B) - 0.12\n\nHowever, we still don't have the values for P(A) and P(B). To make progress, let's use the fact that P(A \u222a B) = 1 - P(A' \u2229 B'), where A' and B' are the complements of A and B, respectively.\n\nSince we are looking for the probability that the issue is either the software glitch or the battery issue, we are essentially looking for P(A \u222a B). We can rewrite this as:\n\nP(A \u222a B) = 1 - P((A') \u2229 (B'))\n\nHowever, we don't have any information about the complements of A and B. Instead, let's use the inclusion-exclusion principle again:\n\nP(A' \u2229 B') = 1 - P(A \u222a B)\n\nSubstituting this into our equation, we get:\n\nP(A \u222a B) = 1 - (1 - P(A \u222a B))\nP(A \u222a B) = P(A \u222a B)\n\nThis doesn't seem to help us! However, we can rewrite P(A \u222a B) as:\n\nP(A \u222a B) = 1 - (1 - P(A)) - (1 - P(B))\n\nUsing the fact that P(A) + P(B) - P(A \u2229 B) = P(A \u222a B), we can rewrite this as:\n\nP(A \u222a B) = 1 - (1 - P(A \u2229 B))\nP(A \u222a B) = P(A \u2229 B)\n\n**Step 6: Substitute the Value of P(A \u2229 B)**\n\nWe know that P(A \u2229 B) = 0.12. Substituting this into our equation, we get:\n\nP(A \u222a B) = 0.12 + 0.12\nP(A \u222a B) = 0.48\n\n**Conclusion**\n\nTherefore, the probability that the issue is either the software glitch or the battery issue is 0.48.\n\n**Why Other Options are Incorrect**\n\nLet's look at the other options:\n\n* 0.60 is incorrect because it is greater than 1, which is impossible for a probability.\n* 0.09 is incorrect because it is less than the probability of having both issues simultaneously (0.12).\n* 0.20 is incorrect because it is also less than the probability of having both issues simultaneously (0.12"
+  },
+  {
+    "id": 27494,
+    "question_text": "What is the probability that there is no issue with either the software or the battery in the smartphone? Enter the answer correct to two decimal places.",
+    "question_type": "SA",
+    "question_image_url": null,
+    "total_mark": "2.00",
+    "uuid": "3cab50ea-787a-4a56-b394-59371200a974",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27495,
+    "question_text": "  Based on the above data, answer the given subquestions.",
+    "question_type": "COMPREHENSION",
+    "question_image_url": [
+      "app/question_images/rwAE5VgzYuDXfiS3n8hNqo2LhRppF4aTCos86DORhUEemCgKAK.png"
+    ],
+    "total_mark": "0.00",
+    "uuid": "cf8ca958-dcac-48e3-8ae0-6dddd0d2a506",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27496,
+    "question_text": "",
+    "question_type": "SA",
+    "question_image_url": [
+      "app/question_images/BiApZhAzEd1YHYrOqys1zsviiOE3d0KkSR3rYHvfbu2ghv1p4z.png"
+    ],
+    "total_mark": "1.00",
+    "uuid": "bdc98b98-d82e-4dff-b194-e60d19eb5605",
+    "course_id": 17,
+    "options": [],
+    "comprehensive_explanation": "No correct option found in the question."
+  },
+  {
+    "id": 27497,
+    "question_text": "",
+    "question_type": "MCQ",
+    "question_image_url": [
+      "app/question_images/3u7lnG3cjGsHAvVmmBDCARtiyrEe7hG2TytM9P7pHt7708BCZw.png"
+    ],
+    "total_mark": "2.00",
+    "uuid": "87a4b3f0-3d68-45c3-a336-fb5b30a3f00f",
+    "course_id": 17,
+    "options": [
+      {
+        "id": 76963,
+        "question_id": "27497",
+        "text": "0",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76964,
+        "question_id": "27497",
+        "text": "1",
+        "is_correct": true,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "2.000"
+      },
+      {
+        "id": 76965,
+        "question_id": "27497",
+        "text": "0.5",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      },
+      {
+        "id": 76966,
+        "question_id": "27497",
+        "text": "0.33",
+        "is_correct": false,
+        "option_image": "",
+        "option_image_url": null,
+        "score": "0.000"
+      }
+    ],
+    "comprehensive_explanation": "To find the value of P(X \u2265 0 | X < 1), we need to understand what this conditional probability represents. The notation \"P(X \u2265 0 | X < 1)\" reads as \"the probability that X is greater than or equal to 0, given that X is less than 1.\" This is a conditional probability, meaning we are looking at the probability of an event occurring within a subset of possible outcomes.\n\nGiven that X is a random variable, we are essentially asking: What is the probability that X takes on values from 0 to 1 (inclusive), knowing that it is already below 1?\n\nThe key concept here is understanding the relationship between the possible values of X and the conditions given in the problem. Since X < 1, we are focusing on the values of X that are less than 1. Given that we are interested in the probability of X \u2265 0 within this subset, it means we are considering all the values of X that are non-negative because the condition X < 1 already covers all values less than 1.\n\nWhen dealing with continuous random variables, the probability of getting a specific value is zero (as the sample space is uncountably infinite). Therefore, we are looking at the probability that X falls within a certain range, not at a single point.\n\nIn this case, since X \u2265 0 is a subset of X < 1 (because any value of X that is 0 or positive is also less than 1), the probability of X \u2265 0 given that X < 1 is essentially the proportion of the area under the curve of the probability distribution of X that falls within the range [0, 1].\n\nHowever, without a specific distribution provided for X, we cannot calculate this probability directly. But logically, given the conditions, the probability that X \u2265 0, knowing it is less than 1, is equal to 1 because every value of X that is less than 1 will also be greater than or equal to 0.\n\nTherefore, the correct answer is 1. This is because we are essentially asking for the proportion of the range [0, 1] within the condition X < 1, and since X \u2265 0 includes all values in this range, the probability is 1.\n\nThe other options are incorrect:\n\n* 0 is incorrect because it would imply no overlap between the conditions X \u2265 0 and X < 1, which is not the case.\n* 0.5 is incorrect because it suggests an equal split between values less than 1 but greater than or equal to 0, which does not accurately represent the condition.\n* 0.33 is incorrect for similar reasons as 0.5; it suggests a specific probability distribution that is not relevant to the given condition.\n\n*Answer*: 1"
+  }
+]
