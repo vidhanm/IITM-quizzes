@@ -3,26 +3,36 @@ from flask_cors import CORS
 import json
 from database import get_db
 import os
-app = Flask(__name__)
+app = Flask(__name__, 
+    static_folder='dist',
+    static_url_path=''
+)
 
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
-# Remove any existing CORS configuration and use this simpler version
-# CORS(app, 
-#      resources={
-#          r"/*": {
-#              "origins": ["http://localhost:5173", "http://localhost:3000"],
-#              "methods": ["GET", "POST", "OPTIONS"],
-#              "allow_headers": ["Content-Type", "Authorization"],
-#              "supports_credentials": True,
-#              "expose_headers": ["Content-Range", "X-Content-Range"]
-#          }
-#      },
-#      allow_headers=["Content-Type", "Authorization"],
-#      expose_headers=["Content-Range", "X-Content-Range"],
-#      supports_credentials=True
-# )
 
+
+
+@app.route('/assets/<path:path>')
+def serve_assets(path):
+    return send_from_directory(f"{app.static_folder}/assets", path)
+
+@app.route('/', defaults={'path': ''})
+
+@app.route('/<path:path>')
+def serve_react_app(path):
+    try:
+        return send_from_directory(app.static_folder, path)
+    except:
+        return send_from_directory(app.static_folder, 'index.html')
+    
+@app.errorhandler(404)
+def not_found(e):
+    if request.path.startswith('/api/'):
+        return jsonify({"error": "API endpoint not found"}), 404
+    
+    return serve_react_app('')
+    
 @app.after_request
 def after_request(response):
     # Ensure CORS headers are set for all responses
