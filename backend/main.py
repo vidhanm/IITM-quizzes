@@ -73,7 +73,6 @@ def get_course_papers(course_id):
                 parts = file_path.replace('\\', '/').split('/')
                 # Get the last meaningful part
                 for part in reversed(parts):
-                    #print(part)
                     if part.strip():  # Find first non-empty part from the end
                         return part
                 return file_path
@@ -106,7 +105,12 @@ def get_paper_questions(paper_id):
             # Get the last meaningful part
             for part in reversed(parts):
                 if part.strip():  # Find first non-empty part from the end
-                    return part
+                    # Remove underscores and .json from the end
+                    clean_part = part.replace('.json', '')  # Remove .json extension
+                    clean_part = clean_part.rstrip('_')  # Remove trailing underscores
+                    clean_part = clean_part.replace('_', ' ')  # Optionally replace underscores with spaces
+                    print(clean_part)
+                    return clean_part
             return file_path
         
         # Update paper title with clean filename
