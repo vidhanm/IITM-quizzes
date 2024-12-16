@@ -10,14 +10,14 @@ interface Symbol {
 }
 
 const MathBackground: React.FC = () => {
-  const symbols = ['∑', '∫', '∏', '√', '∆', 'π', '±', '∞', '∂', '∇'];
+  const symbols = ['∑', '∫', '∏', '√','∆', 'π', '±', '∞', '∂', '∇', '∈', '∉', '∩', '≠', '≈', '≤', '≥', '∀', '∃'];
   let mathSymbols: Symbol[] = [];
   let mouseX = 0;
   let mouseY = 0;
 
   const setup = (p5: p5Types, canvasParentRef: Element) => {
     p5.createCanvas(p5.windowWidth, p5.windowHeight).parent(canvasParentRef);
-    for (let i = 0; i < 400; i++) {
+    for (let i = 0; i < 500; i++) {
       mathSymbols.push({
         x: p5.random(p5.width),
         y: p5.random(p5.height),
@@ -35,7 +35,7 @@ const MathBackground: React.FC = () => {
 
     mathSymbols.forEach((symbol, index) => {
       const distance = p5.dist(mouseX, mouseY, symbol.x, symbol.y);
-      const maxDistance = 150;
+      const maxDistance = 75;
       
       if (distance < maxDistance) {
         const angle = p5.atan2(mouseY - symbol.y, mouseX - symbol.x);
