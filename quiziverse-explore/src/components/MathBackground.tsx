@@ -17,7 +17,7 @@ const MathBackground: React.FC = () => {
 
   const setup = (p5: p5Types, canvasParentRef: Element) => {
     p5.createCanvas(p5.windowWidth, p5.windowHeight).parent(canvasParentRef);
-    for (let i = 0; i < 50; i++) {
+    for (let i = 0; i < 400; i++) {
       mathSymbols.push({
         x: p5.random(p5.width),
         y: p5.random(p5.height),
@@ -28,7 +28,7 @@ const MathBackground: React.FC = () => {
   };
 
   const draw = (p5: p5Types) => {
-    p5.clear();
+    p5.clear(0, 0, 0, 0);
     p5.textAlign(p5.CENTER, p5.CENTER);
     mouseX = p5.mouseX;
     mouseY = p5.mouseY;
