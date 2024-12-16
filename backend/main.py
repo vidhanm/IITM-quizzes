@@ -109,7 +109,7 @@ def get_paper_questions(paper_id):
                     clean_part = part.replace('.json', '')  # Remove .json extension
                     clean_part = clean_part.rstrip('_')  # Remove trailing underscores
                     clean_part = clean_part.replace('_', ' ')  # Optionally replace underscores with spaces
-                    print(clean_part)
+                    #print(clean_part)
                     return clean_part
             return file_path
         
