@@ -160,6 +160,7 @@ def get_paper_questions(paper_id):
 @app.route("/api/papers/<int:paper_id>/submit", methods=['POST'])
 def submit_paper(paper_id):
     answers = request.json
+    print(answers)
     try:
         with get_db() as db:
             cursor = db.cursor()
@@ -199,15 +200,27 @@ def submit_paper(paper_id):
                     answer_range = cursor.fetchone()
                     
                     try:
-                        numeric_answer = float(user_answer)
-                        is_correct = (
-                            answer_range['value_start'] <= numeric_answer <= answer_range['value_end']
-                        ) if answer_range else False
+                        # Convert everything to float and round to 3 decimal places
+                        numeric_answer = round(float(user_answer), 3)
+                        value_start = round(float(answer_range['value_start']), 3)
+                        value_end = round(float(answer_range['value_end']), 3)
+                        
+                        print(f"Debug: Answer={numeric_answer}, Range={value_start} to {value_end}")  # Debug log
+                        
+                        # Use inclusive range check with small epsilon for floating point comparison
+                        epsilon = 0.0001  # Small tolerance for floating point comparison
+                        is_correct = (value_start - epsilon <= numeric_answer <= value_end + epsilon)
+                        
                         score = question['total_mark'] if is_correct else 0
-                    except (ValueError, TypeError):
+                        explanation = (
+                            f"Your answer ({numeric_answer}) is {'within' if is_correct else 'outside'} "
+                            f"the acceptable range ({value_start} to {value_end})."
+                        )
+                    except (ValueError, TypeError) as e:
+                        print(f"Error processing answer: {e}")  # Debug log
                         is_correct = False
                         score = 0
-                        
+                        explanation = "Please enter a valid numerical value."
                 else:
                     # Handle MCQ questions
                     cursor.execute("""

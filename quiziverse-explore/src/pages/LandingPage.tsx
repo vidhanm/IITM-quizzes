@@ -39,7 +39,7 @@ const LandingPage = () => {
         <motion.h1 
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
-          className="text-4xl font-extrabold text-center mb-12 text-black drop-shadow-lg bg-white bg-opacity-75 p-4 rounded-lg"
+          className="text-4xl font-extrabold text-center mb-12 text-black  bg-white/50 backdrop-blur-md p-4 rounded-lg"
         >
           Select Your Exam
         </motion.h1>
@@ -51,7 +51,13 @@ const LandingPage = () => {
               variants={buttonVariants}
               whileHover="hover"
               onClick={() => navigate(`/subjects/${quiz.toLowerCase().replace(" ", "-")}`)}
-              className="glass-card px-12 py-4 text-lg font-medium hover:shadow-2xl transition-all duration-300"
+              className="bg-white rounded-2xl px-12 py-4 text-lg
+                font-['SF_Pro_Display',-apple-system,BlinkMacSystemFont,'Segoe_UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica_Neue',sans-serif] 
+                font-normal tracking-[-0.01em] text-[20px]
+                shadow-[4px_4px_20px_rgba(0,0,0,0.15)] 
+                relative before:absolute before:inset-0 before:rounded-2xl 
+                before:bg-gradient-to-r before:from-gray-50 before:to-white 
+                before:-z-10 before:transform before:translate-x-2 before:translate-y-2"
             >
               {quiz}
             </motion.button>

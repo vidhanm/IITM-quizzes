@@ -36,7 +36,19 @@ export function Question({ question, onAnswer, selectedAnswer, showResult, resul
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = e.target.value;
     setInputValue(value);
-    onAnswer(question.id, value);
+    
+    if (question.question_type === 'SA') {
+      const options = question.options as SAOption;
+      const numericAnswer = parseFloat(value);
+      
+      // Check if answer is within the acceptable range
+      const isCorrect = numericAnswer >= options.value_start && 
+                       numericAnswer <= options.value_end;
+      
+      onAnswer(question.id, value);
+    } else {
+      onAnswer(question.id, value);
+    }
   };
 
   return (
