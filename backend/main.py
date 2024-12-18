@@ -185,7 +185,7 @@ def submit_paper(paper_id):
                         "question_id": question_id,
                         "correct": False,
                         "score": 0,
-                        "explanation": "No answer provided."
+                        "explanation": "You did not provide an answer for this question."
                     })
                     continue
                 
