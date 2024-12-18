@@ -86,7 +86,7 @@ const SubjectsPage = () => {
       <motion.div
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
-        className="text-center mb-12"
+        className="text-4xl font-extrabold text-center mb-12 text-black drop-shadow-lg bg-white bg-opacity-75 p-4 rounded-lg max-w-3xl mx-auto"
       >
         <h1 className="text-4xl font-bold mb-2">
           {quizType?.split("-").map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(" ")}
