@@ -6,6 +6,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import 'katex/dist/katex.min.css';
+import Chatbot from "../components/Chatbot";
 
 interface Option {
   id: number;
@@ -142,6 +143,7 @@ const QuestionPaperView = () => {
                 <img 
                   src={`/api/images/options/${option.id}`}
                   alt=""
+                  data-option-id={option.id}
                   className="max-w-full h-auto"
                   onError={(e) => {
                     const target = e.target as HTMLImageElement;
@@ -212,6 +214,7 @@ const QuestionPaperView = () => {
       className="min-h-screen p-8"
     >
       <MathBackground />
+      {paper && <Chatbot paper={paper} currentQuestions={questions} />}
 
       <motion.button
         initial={{ opacity: 0 }}
@@ -248,22 +251,17 @@ const QuestionPaperView = () => {
             </div>
 
             <div className="question-content-container">
-              <img 
+              <img
                 src={`/api/images/questions/${question.id}`}
                 alt=""
+                data-question-id={question.id}
                 className="max-w-full h-auto mb-4"
                 onError={(e) => {
                   const target = e.target as HTMLImageElement;
                   target.style.display = 'none';
-                  const container = target.closest('.question-content-container');
-                  if (container && !question.question_text) {
-                    container.innerHTML += '<p class="text-lg mb-4">Question text not available</p>';
-                  }
                 }}
               />
-              {question.question_text && (
-                <p className="text-lg mb-4">{question.question_text}</p>
-              )}
+              <div className="question-text">{question.question_text}</div>
             </div>
 
             {renderAnswerInput(question)}

@@ -3,6 +3,8 @@ from flask_cors import CORS
 import json
 from database import get_db
 import os
+from app.chat import chat_bp
+
 app = Flask(__name__, 
     static_folder='dist',
     static_url_path=''
@@ -11,7 +13,8 @@ app = Flask(__name__,
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 
-
+# Register the chat blueprint
+app.register_blueprint(chat_bp)
 
 @app.route('/assets/<path:path>')
 def serve_assets(path):
