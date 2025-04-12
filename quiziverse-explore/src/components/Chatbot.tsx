@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import ReactMarkdown from 'react-markdown';
+// We'll use a simple CSS solution instead of external packages that might not be installed
 
 interface Message {
   role: 'user' | 'assistant';
@@ -192,8 +192,149 @@ const Chatbot = ({ paper, currentQuestions }: ChatbotProps) => {
     }
   };
 
+  // Custom styles for better formatting
+  const customStyles = `
+    .markdown-content {
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    
+    .markdown-content table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 12px 0;
+      font-size: 0.9em;
+    }
+    
+    .markdown-content th, 
+    .markdown-content td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    
+    .markdown-content th {
+      background-color: #f2f2f2;
+      font-weight: bold;
+    }
+    
+    .markdown-content tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+    
+    .markdown-content strong, 
+    .markdown-content b {
+      font-weight: bold;
+    }
+    
+    .markdown-content em, 
+    .markdown-content i {
+      font-style: italic;
+    }
+    
+    .markdown-content ul, 
+    .markdown-content ol {
+      padding-left: 20px;
+      margin: 10px 0;
+    }
+    
+    .markdown-content p {
+      margin: 10px 0;
+    }
+  `;
+
+  // Function to format markdown content properly
+  const formatMarkdownContent = (content: string): string => {
+    // First, escape any HTML that might be in the content
+    let formatted = content
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+    
+    // Special handling for LLM-style formatting with asterisks
+    // Double asterisks for bold - with special handling for the **Statement X:** pattern
+    formatted = formatted.replace(/\*\*(Statement \d+:?)\*\*/g, '<strong>$1</strong>');
+    formatted = formatted.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    
+    // Special cases for Conclusion, Summary Table, etc.
+    formatted = formatted.replace(/\*\*(Conclusion:?)\*\*/g, '<strong>$1</strong>');
+    formatted = formatted.replace(/\*\*(Summary Table:?)\*\*/g, '<strong>$1</strong>');
+    formatted = formatted.replace(/\*\*(Incorrect:?)\*\*/g, '<strong class="text-red-500">$1</strong>');
+    formatted = formatted.replace(/\*\*(Correct:?)\*\*/g, '<strong class="text-green-500">$1</strong>');
+    
+    // Handle underscores for bold too (common in some LLM outputs)
+    formatted = formatted.replace(/__(.*?)__/g, '<strong>$1</strong>');
+    
+    // Process italic text with single asterisks or underscores
+    formatted = formatted.replace(/(?<!\*)\*(?!\*)(.*?)(?<!\*)\*(?!\*)/g, '<em>$1</em>');
+    formatted = formatted.replace(/(?<!_)_(?!_)(.*?)(?<!_)_(?!_)/g, '<em>$1</em>');
+    
+    // Process lists
+    formatted = formatted.replace(/^\s*-\s+(.*?)$/gm, '<li>$1</li>');
+    formatted = formatted.replace(/((?:<li>.*?<\/li>\n?)+)/gs, '<ul>$1</ul>');
+    
+    // Handle numbered lists
+    formatted = formatted.replace(/^\s*(\d+)\.\s+(.*?)$/gm, '<li>$2</li>');
+    
+    // Clean up any duplicate or nested list tags
+    formatted = formatted.replace(/<\/ul>\s*<ul>/g, '');
+    formatted = formatted.replace(/<ul>(\s*<ul>)/g, '<ul>');
+    formatted = formatted.replace(/(<\/ul>\s*)<\/ul>/g, '$1');
+    
+    // Process tables - more robust approach
+    // 1. Find table sections (lines with | characters)
+    const tablePattern = /(?:^|\n)([^\n]*\|[^\n]*(?:\n[^\n]*\|[^\n]*)+)(?:\n|$)/g;
+    formatted = formatted.replace(tablePattern, (match) => {
+      // Split the table into rows
+      const rows = match.trim().split('\n');
+      
+      // Check if this is a valid table
+      if (rows.length < 2) return match;
+      
+      let tableHTML = '<table>';
+      let isHeader = true;
+      
+      // Process each row
+      for (let i = 0; i < rows.length; i++) {
+        const row = rows[i].trim();
+        
+        // Skip separator rows (---|---) but use them to detect headers
+        if (row.match(/^\|?\s*[-:]+[-|\s:]*$/)) {
+          continue;
+        }
+        
+        // Split into cells and clean up
+        const cells = row.split('|')
+          .map(cell => cell.trim())
+          .filter(cell => cell !== '');
+        
+        if (cells.length === 0) continue;
+        
+        // Determine if this is a header row
+        const cellTag = (i === 0 && rows.length > 1) ? 'th' : 'td';
+        
+        // Add the row
+        tableHTML += '<tr>';
+        cells.forEach(cell => {
+          tableHTML += `<${cellTag}>${cell}</${cellTag}>`;
+        });
+        tableHTML += '</tr>';
+        
+        isHeader = false;
+      }
+      
+      tableHTML += '</table>';
+      return tableHTML;
+    });
+    
+    // Handle line breaks
+    formatted = formatted.replace(/\n/g, '<br />');
+    
+    return formatted;
+  };
+
   return (
     <div className="fixed bottom-4 right-4 z-50">
+      <style>{customStyles}</style>
       {!isOpen && (
         <motion.button
           initial={{ scale: 0 }}
@@ -234,7 +375,7 @@ const Chatbot = ({ paper, currentQuestions }: ChatbotProps) => {
           }}
           transition={{ duration: 0.2 }}
           exit={{ opacity: 0, scale: 0.5 }}
-          className="glass-card flex flex-col"
+          className="glass-card flex flex-col max-w-[95vw] sm:max-w-[450px]"
         >
           <div className="flex justify-between items-center p-4 border-b bg-primary/10">
             <h3 className="text-lg font-semibold">Quiz Assistant</h3>
@@ -302,17 +443,18 @@ const Chatbot = ({ paper, currentQuestions }: ChatbotProps) => {
                     }`}
                   >
                     <div
-                      className={`max-w-[85%] p-3 rounded-lg ${
+                      className={`max-w-[85%] p-3 rounded-lg break-words ${
                         message.role === 'user'
                           ? 'bg-primary text-white'
                           : 'bg-gray-100 shadow-sm'
                       }`}
                     >
-                      <ReactMarkdown 
-                        className={`prose ${message.role === 'user' ? 'prose-invert' : ''} max-w-none`}
-                      >
-                        {message.content}
-                      </ReactMarkdown>
+                      <div
+                        className={`prose ${message.role === 'user' ? 'prose-invert' : ''} max-w-none prose-sm sm:prose-base markdown-content`}
+                        dangerouslySetInnerHTML={{
+                          __html: formatMarkdownContent(message.content)
+                        }}
+                      />
                     </div>
                   </motion.div>
                 ))}
@@ -337,14 +479,14 @@ const Chatbot = ({ paper, currentQuestions }: ChatbotProps) => {
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
                     placeholder="Type your question..."
-                    className="flex-1 p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary bg-white/50"
+                    className="flex-1 p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary bg-white/50 text-sm sm:text-base"
                     disabled={isLoading}
                   />
                   {isLoading ? (
                     <button
                       type="button"
                       onClick={handleStop}
-                      className="px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors"
+                      className="px-3 sm:px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors text-sm sm:text-base"
                     >
                       Stop
                     </button>
@@ -352,7 +494,7 @@ const Chatbot = ({ paper, currentQuestions }: ChatbotProps) => {
                     <button
                       type="submit"
                       disabled={!input.trim() || isLoading}
-                      className="px-4 py-2 bg-primary text-white rounded-lg hover:bg-primary/90 disabled:opacity-50 transition-colors"
+                      className="px-3 sm:px-4 py-2 bg-primary text-white rounded-lg hover:bg-primary/90 disabled:opacity-50 transition-colors text-sm sm:text-base"
                     >
                       Send
                     </button>
