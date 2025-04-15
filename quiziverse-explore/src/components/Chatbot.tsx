@@ -240,6 +240,32 @@ const Chatbot = ({ paper, currentQuestions }: ChatbotProps) => {
     .markdown-content p {
       margin: 10px 0;
     }
+
+    .markdown-content pre {
+      background-color: #1e1e1e;
+      color: #d4d4d4;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      overflow-x: auto;
+      margin: 1rem 0;
+      font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    }
+
+    .markdown-content code {
+      font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+      padding: 0.2rem 0.4rem;
+      border-radius: 0.25rem;
+      font-size: 0.9em;
+      background-color: #1e1e1e;
+      color: #d4d4d4;
+    }
+
+    .markdown-content .keyword { color: #569cd6; }
+    .markdown-content .string { color: #ce9178; }
+    .markdown-content .comment { color: #6a9955; }
+    .markdown-content .number { color: #b5cea8; }
+    .markdown-content .operator { color: #d4d4d4; }
+    .markdown-content .function { color: #dcdcaa; }
   `;
 
   // Function to format markdown content properly
@@ -249,6 +275,24 @@ const Chatbot = ({ paper, currentQuestions }: ChatbotProps) => {
       .replace(/&/g, '&amp;')
       .replace(/</g, '&lt;')
       .replace(/>/g, '&gt;');
+    
+    // Process code blocks with language specification
+    formatted = formatted.replace(/```(\w+)?\n([\s\S]*?)```/g, (match, lang, code) => {
+      // Basic syntax highlighting for Python
+      if (lang === 'python') {
+        code = code
+          .replace(/(def|class|if|else|for|in|return|True|False)\b/g, '<span class="keyword">$1</span>')
+          .replace(/(["'])(.*?)\1/g, '<span class="string">$1$2$1</span>')
+          .replace(/#.*/g, '<span class="comment">$&</span>')
+          .replace(/\b(\d+)\b/g, '<span class="number">$1</span>')
+          .replace(/(\(|\)|\[|\]|=|\+|-|\*|\/)/g, '<span class="operator">$1</span>')
+          .replace(/([a-zA-Z_][a-zA-Z0-9_]*(?=\())/g, '<span class="function">$1</span>');
+      }
+      return `<pre><code class="language-${lang || 'text'}">${code}</code></pre>`;
+    });
+
+    // Process inline code
+    formatted = formatted.replace(/`([^`]+)`/g, '<code>$1</code>');
     
     // Special handling for LLM-style formatting with asterisks
     // Double asterisks for bold - with special handling for the **Statement X:** pattern
@@ -280,39 +324,27 @@ const Chatbot = ({ paper, currentQuestions }: ChatbotProps) => {
     formatted = formatted.replace(/<ul>(\s*<ul>)/g, '<ul>');
     formatted = formatted.replace(/(<\/ul>\s*)<\/ul>/g, '$1');
     
-    // Process tables - more robust approach
-    // 1. Find table sections (lines with | characters)
+    // Process tables
     const tablePattern = /(?:^|\n)([^\n]*\|[^\n]*(?:\n[^\n]*\|[^\n]*)+)(?:\n|$)/g;
     formatted = formatted.replace(tablePattern, (match) => {
-      // Split the table into rows
       const rows = match.trim().split('\n');
-      
-      // Check if this is a valid table
       if (rows.length < 2) return match;
       
       let tableHTML = '<table>';
       let isHeader = true;
       
-      // Process each row
       for (let i = 0; i < rows.length; i++) {
         const row = rows[i].trim();
+        if (row.match(/^\|?\s*[-:]+[-|\s:]*$/)) continue;
         
-        // Skip separator rows (---|---) but use them to detect headers
-        if (row.match(/^\|?\s*[-:]+[-|\s:]*$/)) {
-          continue;
-        }
-        
-        // Split into cells and clean up
         const cells = row.split('|')
           .map(cell => cell.trim())
           .filter(cell => cell !== '');
         
         if (cells.length === 0) continue;
         
-        // Determine if this is a header row
         const cellTag = (i === 0 && rows.length > 1) ? 'th' : 'td';
         
-        // Add the row
         tableHTML += '<tr>';
         cells.forEach(cell => {
           tableHTML += `<${cellTag}>${cell}</${cellTag}>`;
