@@ -221,9 +221,9 @@ def chat():
             'X-Title': 'IITM Quizzes'
         }
         
-        # Use Optimus Alpha model
+        # Use Llama 4 Maverick model
         payload = {
-            'model': 'openrouter/optimus-alpha',
+            'model': 'meta-llama/llama-4-maverick:free',
             'messages': messages,
             'temperature': 0.7,
             # 'max_tokens': 2000
