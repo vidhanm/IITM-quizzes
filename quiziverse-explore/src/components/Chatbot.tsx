@@ -278,14 +278,22 @@ const Chatbot = ({ paper, currentQuestions }: ChatbotProps) => {
     
     // Process code blocks with language specification
     formatted = formatted.replace(/```(\w+)?\n([\s\S]*?)```/g, (match, lang, code) => {
+      // Clean the code by removing line number spans and other HTML-like elements
+      code = code
+        .replace(/<span.*?>(.*?)<\/span>/g, '$1') // Remove span elements but keep their content
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&amp;/g, '&')
+        .trim();
+
       // Basic syntax highlighting for Python
       if (lang === 'python') {
         code = code
-          .replace(/(def|class|if|else|for|in|return|True|False)\b/g, '<span class="keyword">$1</span>')
+          .replace(/(def|class|if|else|for|in|return|True|False|import|from|as)\b/g, '<span class="keyword">$1</span>')
           .replace(/(["'])(.*?)\1/g, '<span class="string">$1$2$1</span>')
           .replace(/#.*/g, '<span class="comment">$&</span>')
           .replace(/\b(\d+)\b/g, '<span class="number">$1</span>')
-          .replace(/(\(|\)|\[|\]|=|\+|-|\*|\/)/g, '<span class="operator">$1</span>')
+          .replace(/(\(|\)|\[|\]|=|\+|-|\*|\/|:)/g, '<span class="operator">$1</span>')
           .replace(/([a-zA-Z_][a-zA-Z0-9_]*(?=\())/g, '<span class="function">$1</span>');
       }
       return `<pre><code class="language-${lang || 'text'}">${code}</code></pre>`;
