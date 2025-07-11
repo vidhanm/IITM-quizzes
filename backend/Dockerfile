@@ -19,7 +19,7 @@ RUN npm install && npm run build
 
 # Move built frontend to backend's dist folder
 WORKDIR /app
-RUN rm -rf dist && cp -r /frontend/dist ./dist
+RUN rm -rf dist && cp -r /backend/dist ./dist
 
 # Install backend dependencies
 WORKDIR /app
