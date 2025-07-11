@@ -15,7 +15,7 @@ jobs:
 
     - name: Build and push Docker image
       run: |
-        docker build -t my-fullstack-app .
+        docker build -f backend/Dockerfile -t my-fullstack-app .
 
     - name: Deploy via SSH
       uses: appleboy/ssh-action@master
