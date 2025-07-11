@@ -24,7 +24,9 @@ jobs:
         username: ${{ secrets.VM_USER }}
         key: ${{ secrets.VM_SSH_KEY }}
         script: |
-          docker pull my-fullstack-app
+          cd /root/sites/iitmquizzes
+          git pull
           docker stop my-fullstack-app || true
           docker rm my-fullstack-app || true
+          docker build -f backend/Dockerfile -t my-fullstack-app .
           docker run -d --name my-fullstack-app -p 3002:5000 my-fullstack-app
