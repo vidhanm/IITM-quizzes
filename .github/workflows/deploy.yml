@@ -27,4 +27,4 @@ jobs:
           docker pull my-fullstack-app
           docker stop my-fullstack-app || true
           docker rm my-fullstack-app || true
-          docker run -d --name my-fullstack-app -p 8080:5000 my-fullstack-app
+          docker run -d --name my-fullstack-app -p 3002:5000 my-fullstack-app
