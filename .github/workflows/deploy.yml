@@ -30,8 +30,8 @@ jobs:
           docker rm my-fullstack-app || true
           docker build -f backend/Dockerfile -t my-fullstack-app .
           # Option 1: Use environment variable (recommended)
-          # docker run -d --name my-fullstack-app -p 3002:5000 -e OPENROUTER_API_KEY="${{ secrets.OPENROUTER_API_KEY }}" my-fullstack-app
+          docker run -d --name my-fullstack-app -p 3002:5000 -e OPENROUTER_API_KEY="${{ secrets.OPENROUTER_API_KEY }}" my-fullstack-app
           
           # Option 2: Create .env file on VM (alternative)
-          echo "OPENROUTER_API_KEY=${{ secrets.OPENROUTER_API_KEY }}" > .env
-          docker run -d --name my-fullstack-app -p 3002:5000 -v $(pwd)/.env:/app/.env my-fullstack-app
+          # echo "OPENROUTER_API_KEY=${{ secrets.OPENROUTER_API_KEY }}" > backend/.env
+          # docker run -d --name my-fullstack-app -p 3002:5000 -v $(pwd)/backend/.env:/app/.env my-fullstack-app
