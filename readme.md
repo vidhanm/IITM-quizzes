@@ -4,7 +4,7 @@ A comprehensive quiz management and examination platform designed for IIT Madras
 
 ## 🚀 Features
 
-- **Interactive Quiz Interface**: Take quizzes with real-time feedback and scoring
+- **Interactive Quiz Interface**: Take quizzes with real-time feedback and scoring 
 - **Multiple Question Types**: Support for both MCQ and Short Answer questions
 - **Subject Organization**: Browse quizzes by subjects and exam types
 - **Image Support**: Display questions and options with embedded images
